@@ -22,10 +22,14 @@ You can query the files in this repository directly in your apps using standard 
 
 ### Global Metadata
 
-*   **F1 Drivers List**:
+*   **F1 Drivers**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f1/drivers.json`
-*   **F1 Circuits / Tracks List**:
+*   **F1 Circuits**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f1/tracks.json`
+*   **MotoGP Riders**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/drivers.json`
+*   **MotoGP Circuits**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/tracks.json`
 
 ### Season & Race Data
 
@@ -33,6 +37,10 @@ You can query the files in this repository directly in your apps using standard 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f1/2025/schedule.json`
 *   **F1 Round Results (e.g., 2025 Round 1)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f1/2025/results_1.json`
+*   **MotoGP Schedule (e.g., 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/2025/schedule.json`
+*   **MotoGP Race Results (e.g., 2025 Thailand GP MotoGP Main Race)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/2025/THA/motogp_RAC.json`
 
 *(Replace `main` with a specific commit hash or release tag in production to prevent unexpected layout changes if the schemas evolve).*
 
@@ -49,13 +57,22 @@ moto-db/
 │   │   ├── drivers.json           # Active and historical F1 drivers
 │   │   ├── tracks.json            # F1 circuits around the world
 │   │   └── {year}/
-│   │       ├── schedule.json      # Full season schedule (dates, times, rounds)
-│   │       ├── results_1.json     # Race results for Round 1
-│   │       └── results_2.json     # Race results for Round 2
+│   │       ├── schedule.json      # Full season schedule
+│   │       └── results_{round}.json
+│   └── motogp/
+│       ├── drivers.json           # Active and historical MotoGP riders
+│       ├── tracks.json            # MotoGP circuits around the world
+│       └── {year}/
+│           ├── schedule.json      # Season schedule
+│           └── {event_short_name}/
+│               ├── motogp_RAC.json # Main Grand Prix Race results
+│               └── motogp_SPR.json # Sprint Race results (if applicable)
 ├── scripts/
-│   └── scrape_f1.py               # Python crawler script
+│   ├── scrape_f1.py               # Python scraper for F1
+│   └── scrape_motogp.py           # Python scraper for MotoGP
 └── .github/workflows/
-    └── scrape_f1.yml              # Automated scraping action
+    ├── scrape_f1.yml              # Automated scraping action for F1
+    └── scrape_motogp.yml          # Automated scraping action for MotoGP
 ```
 
 ---
@@ -70,30 +87,35 @@ git clone https://github.com/vishwapramuditha/moto-db.git
 cd moto-db
 ```
 
-### 2. Run the F1 Scraper
-By default, the scraper pulls data for the current and previous year to minimize API loads:
+### 2. Run the Scrapers
+#### Formula 1
+By default, F1 pulls data for the current and previous year:
 ```bash
 python scripts/scrape_f1.py
 ```
-
-To scrape specific years:
+To scrape specific F1 years:
 ```bash
 python scripts/scrape_f1.py --years 2024,2025
 ```
 
-To scrape all historical data from 1950 to the present:
+#### MotoGP
+By default, MotoGP pulls data for the current year:
 ```bash
-python scripts/scrape_f1.py --all-time
+python scripts/scrape_motogp.py
+```
+To scrape specific MotoGP years:
+```bash
+python scripts/scrape_motogp.py --years 2024,2025
 ```
 
 ---
 
 ## 🛣️ Roadmap: All Motorsports 🏍️🏎️
 
-We started with **Formula 1**, but the road map includes adding other professional motorsport categories:
-- [ ] **Formula 1** (Complete - powered by Jolpica-F1 / Ergast API)
-- [ ] **NASCAR** (Schedules, results, standings)
-- [ ] **MotoGP** (Driver bios, tracks, results)
+We support:
+- [x] **Formula 1** (Complete - powered by Jolpica-F1 / Ergast API successor)
+- [x] **MotoGP** (Complete - powered by Pulse Live MotoGP API)
+- [ ] **NASCAR** (Schedules and results)
 - [ ] **IndyCar** (Schedules and results)
 - [ ] **Formula E & WEC** (Schedules, team sheets, results)
 

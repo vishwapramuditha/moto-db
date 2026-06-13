@@ -1,0 +1,2249 @@
+{
+  "season": "2025",
+  "season_uuid": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+  "total_events": 33,
+  "updated_at": "2026-06-13T12:53:06.043520Z",
+  "events": [
+    {
+      "country": {
+        "iso": "TH",
+        "name": "Thailand",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/THA/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/THA/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/THA/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/THA/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/THA/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+        "name": "Chang International Circuit",
+        "legacy_id": 106,
+        "place": "Buriram",
+        "nation": "THA"
+      },
+      "test": false,
+      "sponsored_name": "PT Grand Prix of Thailand",
+      "date_end": "2025-03-02",
+      "toad_api_uuid": "3361d50e-1ba0-4d71-83a6-99f6b49daafa",
+      "date_start": "2025-02-28",
+      "additional_name": "THAILAND",
+      "name": "GRAND PRIX OF THAILAND",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 1
+        },
+        {
+          "categoryId": 2,
+          "eventId": 1
+        },
+        {
+          "categoryId": 1,
+          "eventId": 1
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "THA",
+      "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "AR",
+        "name": "Argentina",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/ARG/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/ARG/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/ARG/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/ARG/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/ARG/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "536d88a0-b7b9-4312-a5f1-f196e8228991",
+        "name": "Termas de Río Hondo",
+        "legacy_id": 102,
+        "place": "Termas de Río Hondo",
+        "nation": "ARG"
+      },
+      "test": false,
+      "sponsored_name": "Gran Premio YPF Energía de Argentina",
+      "date_end": "2025-03-16",
+      "toad_api_uuid": "fa358f87-a0e1-4bcb-86e5-a4ef603dbee8",
+      "date_start": "2025-03-14",
+      "additional_name": "ARGENTINA",
+      "name": "GRAN PREMIO DE LA REPÚBLICA ARGENTINA",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 2
+        },
+        {
+          "categoryId": 2,
+          "eventId": 2
+        },
+        {
+          "categoryId": 1,
+          "eventId": 2
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "ARG",
+      "id": "0ecbb0a9-a732-4c4f-9a3c-9e5628defa3b",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "US",
+        "name": "United States of America",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/AME/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/AME/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/AME/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/AME/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/AME/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "5b97d826-e527-43e9-b696-09f61cf4559c",
+        "name": "Circuit Of The Americas",
+        "legacy_id": 101,
+        "place": "Austin",
+        "nation": "USA"
+      },
+      "test": false,
+      "sponsored_name": "Red Bull Grand Prix of The Americas",
+      "date_end": "2025-03-30",
+      "toad_api_uuid": "7e8d279d-900f-4a5a-a6f8-d51ae072d708",
+      "date_start": "2025-03-28",
+      "additional_name": "USA",
+      "name": "GRAND PRIX OF THE AMERICAS",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 3
+        },
+        {
+          "categoryId": 2,
+          "eventId": 3
+        },
+        {
+          "categoryId": 1,
+          "eventId": 3
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "AME",
+      "id": "71a99aab-984f-4d71-aaa2-a0cd2899810e",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "QA",
+        "name": "Qatar",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/QAT/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/QAT/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/QAT/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/QAT/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/QAT/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "e9a71399-cea9-400a-b2ef-48bfdcdf6526",
+        "name": "Lusail International Circuit",
+        "legacy_id": 93,
+        "place": "Doha",
+        "nation": "QAT"
+      },
+      "test": false,
+      "sponsored_name": "Qatar Airways Grand Prix of Qatar",
+      "date_end": "2025-04-13",
+      "toad_api_uuid": "7a40caf3-8e8f-4405-b6e7-702453149285",
+      "date_start": "2025-04-11",
+      "additional_name": "QATAR",
+      "name": "GRAND PRIX OF QATAR",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 4
+        },
+        {
+          "categoryId": 2,
+          "eventId": 4
+        },
+        {
+          "categoryId": 1,
+          "eventId": 4
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "QAT",
+      "id": "deb175c1-fe3e-4d2b-a311-3d2752c55f56",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/SPA/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/SPA/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/SPA/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/SPA/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/SPA/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "763812ea-9435-4c1c-b61b-a0c14ccdfbe4",
+        "name": "Circuito de Jerez - Ángel Nieto",
+        "legacy_id": 4,
+        "place": "Jerez de la Frontera",
+        "nation": "SPA"
+      },
+      "test": false,
+      "sponsored_name": "Estrella Galicia 0,0 Grand Prix of Spain",
+      "date_end": "2025-04-27",
+      "toad_api_uuid": "dff8ef36-96f4-487f-ae75-5abaf8da451d",
+      "date_start": "2025-04-25",
+      "additional_name": "SPAIN",
+      "name": "GRAND PRIX OF SPAIN",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 5
+        },
+        {
+          "categoryId": 2,
+          "eventId": 5
+        },
+        {
+          "categoryId": 1,
+          "eventId": 5
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "SPA",
+      "id": "9d0d45b9-45c4-4388-97e2-def2f9f14e2d",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "FR",
+        "name": "France",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/FRA/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/FRA/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/FRA/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/FRA/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/FRA/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+        "name": "Le Mans",
+        "legacy_id": 8,
+        "place": "Le Mans",
+        "nation": "FRA"
+      },
+      "test": false,
+      "sponsored_name": "Michelin® Grand Prix de France",
+      "date_end": "2025-05-11",
+      "toad_api_uuid": "e9b386c5-9d95-405e-880e-7d9105ce1cbe",
+      "date_start": "2025-05-09",
+      "additional_name": "FRANCE",
+      "name": "GRAND PRIX DE FRANCE",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 71
+        },
+        {
+          "categoryId": 19,
+          "eventId": 6
+        },
+        {
+          "categoryId": 3,
+          "eventId": 6
+        },
+        {
+          "categoryId": 2,
+          "eventId": 6
+        },
+        {
+          "categoryId": 1,
+          "eventId": 6
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "FRA",
+      "id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "GB",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/GBR/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/GBR/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/GBR/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/GBR/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/GBR/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+        "name": "Silverstone Circuit",
+        "legacy_id": 42,
+        "place": "Silverstone",
+        "nation": "GBR"
+      },
+      "test": false,
+      "sponsored_name": "Tissot Grand Prix of The United Kingdom",
+      "date_end": "2025-05-25",
+      "toad_api_uuid": "98f03e76-5837-4b99-a5a5-57c367c8ba1b",
+      "date_start": "2025-05-23",
+      "additional_name": "UNITED KINGDOM",
+      "name": "GRAND PRIX OF THE UNITED KINGDOM",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 7
+        },
+        {
+          "categoryId": 2,
+          "eventId": 7
+        },
+        {
+          "categoryId": 1,
+          "eventId": 7
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "GBR",
+      "id": "c1b7084d-dfe3-4110-9d67-1dfa3095242a",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": "AR"
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/ARA/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/ARA/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/ARA/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/ARA/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/ARA/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "50209e25-6cd8-4d8d-912e-c48a06275a8a",
+        "name": "MotorLand Aragón",
+        "legacy_id": 100,
+        "place": "Alcañiz",
+        "nation": "SPA"
+      },
+      "test": false,
+      "sponsored_name": "GOPRO Grand Prix of Aragon",
+      "date_end": "2025-06-08",
+      "toad_api_uuid": "4e4f2356-d5de-43c8-ac94-39af7e7077f9",
+      "date_start": "2025-06-06",
+      "additional_name": "ARAGON",
+      "name": "GRAND PRIX OF ARAGON",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 8
+        },
+        {
+          "categoryId": 2,
+          "eventId": 8
+        },
+        {
+          "categoryId": 1,
+          "eventId": 8
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "ARA",
+      "id": "1509e879-d023-4ee6-a359-62ee23e6a4de",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/ITA/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/ITA/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/ITA/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/ITA/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/ITA/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "1ab286fc-eb24-4980-85a8-b7b940f46e13",
+        "name": "Autodromo Internazionale del Mugello",
+        "legacy_id": 6,
+        "place": "Mugello",
+        "nation": "ITA"
+      },
+      "test": false,
+      "sponsored_name": "Brembo Grand Prix of Italy",
+      "date_end": "2025-06-22",
+      "toad_api_uuid": "ae539677-70a6-4642-aee4-6d6cc5979f67",
+      "date_start": "2025-06-20",
+      "additional_name": "ITALY",
+      "name": "GRAND PRIX OF ITALY",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 9
+        },
+        {
+          "categoryId": 2,
+          "eventId": 9
+        },
+        {
+          "categoryId": 1,
+          "eventId": 9
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "ITA",
+      "id": "720ca08d-7e2a-4c8f-8dbf-2b432914a0bd",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "NL",
+        "name": "Netherlands",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/NED/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/NED/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/NED/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/NED/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/NED/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "f4f9b0e8-1319-4d4f-a5ae-6cf193b01fca",
+        "name": "TT Circuit Assen",
+        "legacy_id": 7,
+        "place": "Assen",
+        "nation": "NED"
+      },
+      "test": false,
+      "sponsored_name": "Motul Grand Prix of the Netherlands",
+      "date_end": "2025-06-29",
+      "toad_api_uuid": "9919f76f-48cc-4dd6-b752-6b94d0ffd5f5",
+      "date_start": "2025-06-27",
+      "additional_name": "NETHERLANDS",
+      "name": "GRAND PRIX OF THE NETHERLANDS",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 72
+        },
+        {
+          "categoryId": 19,
+          "eventId": 10
+        },
+        {
+          "categoryId": 3,
+          "eventId": 10
+        },
+        {
+          "categoryId": 2,
+          "eventId": 10
+        },
+        {
+          "categoryId": 1,
+          "eventId": 10
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "NED",
+      "id": "033bcd72-7c89-46b8-811c-0e66250fdd16",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "DE",
+        "name": "Germany",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/GER/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/GER/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/GER/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/GER/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/GER/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "551f87c7-1940-48b0-bce7-1ad8de7ce548",
+        "name": "Sachsenring",
+        "legacy_id": 51,
+        "place": "Sachsenring",
+        "nation": "GER"
+      },
+      "test": false,
+      "sponsored_name": "Liqui Moly Grand Prix of Germany",
+      "date_end": "2025-07-13",
+      "toad_api_uuid": "965332bd-0229-4c71-8cc4-24dac546bc97",
+      "date_start": "2025-07-11",
+      "additional_name": "GERMANY",
+      "name": "GRAND PRIX OF GERMANY",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 11
+        },
+        {
+          "categoryId": 2,
+          "eventId": 11
+        },
+        {
+          "categoryId": 1,
+          "eventId": 11
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "GER",
+      "id": "3466f3f7-ccc0-4da0-a2fd-f7e9d6941727",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "CZ",
+        "name": "Czechia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/CZE/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/CZE/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/CZE/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/CZE/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/CZE/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+        "name": "Automotodrom Brno",
+        "legacy_id": 11,
+        "place": "Brno",
+        "nation": "CZE"
+      },
+      "test": false,
+      "sponsored_name": "Tissot Grand Prix of Czechia",
+      "date_end": "2025-07-20",
+      "toad_api_uuid": "313e496b-6615-4da4-9534-d627c76c4fe1",
+      "date_start": "2025-07-18",
+      "additional_name": "CZECHIA",
+      "name": "GRAND PRIX OF CZECHIA",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 12
+        },
+        {
+          "categoryId": 2,
+          "eventId": 12
+        },
+        {
+          "categoryId": 1,
+          "eventId": 12
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "CZE",
+      "id": "1fd4d8be-f3bd-4ef7-b9ed-342945ab99a1",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "AT",
+        "name": "Austria",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/AUT/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/AUT/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/AUT/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/AUT/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/AUT/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "8dc64efd-25f8-41cf-aa4f-dfbfa41a762a",
+        "name": "Red Bull Ring - Spielberg",
+        "legacy_id": 24,
+        "place": "Spielberg",
+        "nation": "AUT"
+      },
+      "test": false,
+      "sponsored_name": "BWIN Grand Prix of Austria",
+      "date_end": "2025-08-17",
+      "toad_api_uuid": "2691a49e-a593-4119-8fe4-826017d5f2dd",
+      "date_start": "2025-08-15",
+      "additional_name": "AUSTRIA",
+      "name": "GRAND PRIX OF AUSTRIA",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 73
+        },
+        {
+          "categoryId": 19,
+          "eventId": 13
+        },
+        {
+          "categoryId": 3,
+          "eventId": 13
+        },
+        {
+          "categoryId": 2,
+          "eventId": 13
+        },
+        {
+          "categoryId": 1,
+          "eventId": 13
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "AUT",
+      "id": "1e10b26a-1f79-4d02-8e84-cc9378354141",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "HU",
+        "name": "Hungary",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/HUN/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/HUN/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/HUN/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/HUN/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/HUN/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "c2119f01-e758-41a7-a721-d5baec22deb9",
+        "name": "Balaton Park Circuit",
+        "legacy_id": 115,
+        "place": "\tBalatonfokajár",
+        "nation": "HUN"
+      },
+      "test": false,
+      "sponsored_name": "Michelin® Grand Prix of Hungary",
+      "date_end": "2025-08-24",
+      "toad_api_uuid": "f0e38eef-2681-4d6f-962e-966459a7a03c",
+      "date_start": "2025-08-22",
+      "additional_name": "HUNGARY",
+      "name": "GRAND PRIX OF HUNGARY",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 74
+        },
+        {
+          "categoryId": 19,
+          "eventId": 14
+        },
+        {
+          "categoryId": 3,
+          "eventId": 14
+        },
+        {
+          "categoryId": 2,
+          "eventId": 14
+        },
+        {
+          "categoryId": 1,
+          "eventId": 14
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "HUN",
+      "id": "68503af0-1930-4c5d-88c0-f9c549103ace",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": "CT"
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/CAT/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/CAT/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/CAT/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/CAT/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/CAT/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "2218098d-ab2d-498b-a633-1a4a39119e9e",
+        "name": "Circuit de Barcelona-Catalunya",
+        "legacy_id": 13,
+        "place": "Barcelona",
+        "nation": "SPA"
+      },
+      "test": false,
+      "sponsored_name": "Monster Energy Grand Prix of Catalonia",
+      "date_end": "2025-09-07",
+      "toad_api_uuid": "a4e866f4-8dfd-44fa-b651-05291983be13",
+      "date_start": "2025-09-05",
+      "additional_name": "CATALONIA",
+      "name": "GRAND PRIX OF CATALONIA",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 75
+        },
+        {
+          "categoryId": 19,
+          "eventId": 15
+        },
+        {
+          "categoryId": 3,
+          "eventId": 15
+        },
+        {
+          "categoryId": 2,
+          "eventId": 15
+        },
+        {
+          "categoryId": 1,
+          "eventId": 15
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "CAT",
+      "id": "39a99af2-1e6d-4f98-a34a-4d8a067ea3d7",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "SM",
+        "name": "San Marino",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/RSM/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/RSM/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/RSM/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/RSM/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/RSM/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "e0d07d48-0b62-40fa-9d36-411b15af406f",
+        "name": "Misano World Circuit Marco Simoncelli",
+        "legacy_id": 38,
+        "place": "Misano Adriatico",
+        "nation": "ITA"
+      },
+      "test": false,
+      "sponsored_name": "Red Bull Grand Prix of San Marino and the Rimini Riviera",
+      "date_end": "2025-09-14",
+      "toad_api_uuid": "81a1f1c7-a9d3-48a1-a9e4-3dafd70726a4",
+      "date_start": "2025-09-12",
+      "additional_name": "SAN MARINO",
+      "name": "GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIERA",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 76
+        },
+        {
+          "categoryId": 19,
+          "eventId": 16
+        },
+        {
+          "categoryId": 3,
+          "eventId": 16
+        },
+        {
+          "categoryId": 2,
+          "eventId": 16
+        },
+        {
+          "categoryId": 1,
+          "eventId": 16
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "RSM",
+      "id": "4df78baa-be6b-4ad8-a460-ccb1ae90cef8",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/JPN/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/JPN/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/JPN/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/JPN/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/JPN/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+        "name": "Mobility Resort Motegi",
+        "legacy_id": 76,
+        "place": "Motegi",
+        "nation": "JPN"
+      },
+      "test": false,
+      "sponsored_name": "Motul Grand Prix of Japan",
+      "date_end": "2025-09-28",
+      "toad_api_uuid": "4d4bbb64-6a49-496a-853d-eaaad099ca8b",
+      "date_start": "2025-09-26",
+      "additional_name": "JAPAN",
+      "name": "GRAND PRIX OF JAPAN",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 17
+        },
+        {
+          "categoryId": 2,
+          "eventId": 17
+        },
+        {
+          "categoryId": 1,
+          "eventId": 17
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "JPN",
+      "id": "9e597a40-a1ca-446d-ad0a-88c208fc1f34",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ID",
+        "name": "Indonesia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/INA/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/INA/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/INA/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/INA/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/INA/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "a1ec6331-c571-418c-92d7-768cf0c83872",
+        "name": "Pertamina Mandalika Circuit",
+        "legacy_id": 111,
+        "place": "Lombok",
+        "nation": "INA"
+      },
+      "test": false,
+      "sponsored_name": "Pertamina Grand Prix of Indonesia",
+      "date_end": "2025-10-05",
+      "toad_api_uuid": "c4def1f2-c288-4eab-9461-7acda49e765a",
+      "date_start": "2025-10-03",
+      "additional_name": "INDONESIA",
+      "name": "GRAND PRIX OF INDONESIA",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 18
+        },
+        {
+          "categoryId": 2,
+          "eventId": 18
+        },
+        {
+          "categoryId": 1,
+          "eventId": 18
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "INA",
+      "id": "768fc48b-9f18-488d-9127-d11544ce4813",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "AU",
+        "name": "Australia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/AUS/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/AUS/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/AUS/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/AUS/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/AUS/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+        "name": "Phillip Island",
+        "legacy_id": 32,
+        "place": "Phillip Island",
+        "nation": "AUS"
+      },
+      "test": false,
+      "sponsored_name": "Liqui Moly Australian Motorcycle Grand Prix",
+      "date_end": "2025-10-19",
+      "toad_api_uuid": "af2f67f7-23e7-4001-afd1-15c26cb168b6",
+      "date_start": "2025-10-17",
+      "additional_name": "AUSTRALIA",
+      "name": "AUSTRALIAN GRAND PRIX",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 19
+        },
+        {
+          "categoryId": 2,
+          "eventId": 19
+        },
+        {
+          "categoryId": 1,
+          "eventId": 19
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "AUS",
+      "id": "a68df426-907f-4d58-984f-ba5220d5a1b3",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "MY",
+        "name": "Malaysia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/MAL/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/MAL/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/MAL/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/MAL/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/MAL/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+        "name": "Petronas Sepang International Circuit",
+        "legacy_id": 75,
+        "place": "Sepang",
+        "nation": "MAL"
+      },
+      "test": false,
+      "sponsored_name": "PETRONAS Grand Prix of Malaysia",
+      "date_end": "2025-10-26",
+      "toad_api_uuid": "c2cd8f49-5643-440f-84fc-4c37b3ef3f87",
+      "date_start": "2025-10-24",
+      "additional_name": "MALAYSIA",
+      "name": "GRAND PRIX OF MALAYSIA",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 20
+        },
+        {
+          "categoryId": 2,
+          "eventId": 20
+        },
+        {
+          "categoryId": 1,
+          "eventId": 20
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "MAL",
+      "id": "fe2cb5ce-5b39-4b28-93f5-0de7c22b3d66",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "PT",
+        "name": "Portugal",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/POR/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/POR/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/POR/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/POR/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/POR/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "912a9d7f-2864-4311-bebb-19851e9c2620",
+        "name": "Autódromo Internacional do Algarve",
+        "legacy_id": 109,
+        "place": "Portimao",
+        "nation": "POR"
+      },
+      "test": false,
+      "sponsored_name": "Qatar Airways Grand Prix of Portugal",
+      "date_end": "2025-11-09",
+      "toad_api_uuid": "632adf30-be24-4b42-8276-2bdb174f22d1",
+      "date_start": "2025-11-07",
+      "additional_name": "PORTUGAL",
+      "name": "GRAND PRIX OF PORTUGAL",
+      "legacy_id": [
+        {
+          "categoryId": 19,
+          "eventId": 77
+        },
+        {
+          "categoryId": 19,
+          "eventId": 21
+        },
+        {
+          "categoryId": 3,
+          "eventId": 21
+        },
+        {
+          "categoryId": 2,
+          "eventId": 21
+        },
+        {
+          "categoryId": 1,
+          "eventId": 21
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "POR",
+      "id": "a710091a-0737-405a-9898-b51b4dfa724e",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": "VC"
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "https://resources.motogp.com/files/results/2025/VAL/CircuitInformation.pdf",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "https://resources.motogp.com/files/results/2025/VAL/Podiums.pdf",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "https://resources.motogp.com/files/results/2025/VAL/PolePositions.pdf",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "https://resources.motogp.com/files/results/2025/VAL/table2.pdf",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "https://resources.motogp.com/files/results/2025/VAL/table4.pdf",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "664c40ff-8deb-4613-91cd-62c945f95e1e",
+        "name": "Circuit Ricardo Tormo",
+        "legacy_id": 77,
+        "place": "Cheste",
+        "nation": "SPA"
+      },
+      "test": false,
+      "sponsored_name": "Motul Grand Prix of the Valencian Community",
+      "date_end": "2025-11-16",
+      "toad_api_uuid": "1d04e5f0-be1a-4c1c-9a75-81fe67811866",
+      "date_start": "2025-11-14",
+      "additional_name": "VALENCIA",
+      "name": "GRAND PRIX OF THE VALENCIAN COMMUNITY",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 22
+        },
+        {
+          "categoryId": 2,
+          "eventId": 22
+        },
+        {
+          "categoryId": 1,
+          "eventId": 22
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "VAL",
+      "id": "5c40a3fe-325c-4c6e-affb-831860933cb7",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": "CT"
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "2218098d-ab2d-498b-a633-1a4a39119e9e",
+        "name": "Circuit de Barcelona-Catalunya",
+        "legacy_id": 13,
+        "place": "Barcelona",
+        "nation": "SPA"
+      },
+      "test": true,
+      "sponsored_name": "BARCELONA MOTOGP TEST",
+      "date_end": "2024-11-19",
+      "toad_api_uuid": "3e3dfeb5-1f48-4ab7-8148-345be8d08a63",
+      "date_start": "2024-11-19",
+      "additional_name": "BARCELONA MOTOGP TEST",
+      "name": "BARCELONA MOTOGP TEST",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 600
+        },
+        {
+          "categoryId": 3,
+          "eventId": 600
+        },
+        {
+          "categoryId": 3,
+          "eventId": 600
+        },
+        {
+          "categoryId": 3,
+          "eventId": 600
+        },
+        {
+          "categoryId": 3,
+          "eventId": 600
+        },
+        {
+          "categoryId": 3,
+          "eventId": 600
+        },
+        {
+          "categoryId": 3,
+          "eventId": 600
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "BCN",
+      "id": "3e3dfeb5-1f48-4ab7-8148-345be8d08a63",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "MY",
+        "name": "Malaysia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+        "name": "Petronas Sepang International Circuit",
+        "legacy_id": 75,
+        "place": "Sepang",
+        "nation": "MAL"
+      },
+      "test": true,
+      "sponsored_name": "MALAYSIA MOTOGP TEST",
+      "date_end": "2025-02-07",
+      "toad_api_uuid": "eb175df3-016d-4421-ad9d-f782fb088093",
+      "date_start": "2025-02-05",
+      "additional_name": "MALAYSIA MOTOGP TEST",
+      "name": "MALAYSIA MOTOGP TEST",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        },
+        {
+          "categoryId": 3,
+          "eventId": 601
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "MY2",
+      "id": "eb175df3-016d-4421-ad9d-f782fb088093",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "TH",
+        "name": "Thailand",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+        "name": "Chang International Circuit",
+        "legacy_id": 106,
+        "place": "Buriram",
+        "nation": "THA"
+      },
+      "test": true,
+      "sponsored_name": "THAILAND MOTOGP TEST",
+      "date_end": "2025-02-13",
+      "toad_api_uuid": "dd2419cd-1c15-4ba0-b784-f90f8ca77134",
+      "date_start": "2025-02-12",
+      "additional_name": "THAILAND MOTOGP TEST",
+      "name": "THAILAND MOTOGP TEST",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 603
+        },
+        {
+          "categoryId": 3,
+          "eventId": 603
+        },
+        {
+          "categoryId": 3,
+          "eventId": 603
+        },
+        {
+          "categoryId": 3,
+          "eventId": 603
+        },
+        {
+          "categoryId": 3,
+          "eventId": 603
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "TH1",
+      "id": "dd2419cd-1c15-4ba0-b784-f90f8ca77134",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "763812ea-9435-4c1c-b61b-a0c14ccdfbe4",
+        "name": "Circuito de Jerez - Ángel Nieto",
+        "legacy_id": 4,
+        "place": "Jerez de la Frontera",
+        "nation": "SPA"
+      },
+      "test": true,
+      "sponsored_name": "SPAIN MOTO2 & MOTO3 TEST",
+      "date_end": "2025-02-20",
+      "toad_api_uuid": "0f055ae2-3967-420a-81d0-76143dc97386",
+      "date_start": "2025-02-18",
+      "additional_name": "SPAIN MOTO2 & MOTO3 TEST",
+      "name": "SPAIN MOTO2 & MOTO3 TEST",
+      "legacy_id": [
+        {
+          "categoryId": 2,
+          "eventId": 606
+        },
+        {
+          "categoryId": 1,
+          "eventId": 607
+        },
+        {
+          "categoryId": 2,
+          "eventId": 606
+        },
+        {
+          "categoryId": 2,
+          "eventId": 606
+        },
+        {
+          "categoryId": 2,
+          "eventId": 606
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "ES1",
+      "id": "0f055ae2-3967-420a-81d0-76143dc97386",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "763812ea-9435-4c1c-b61b-a0c14ccdfbe4",
+        "name": "Circuito de Jerez - Ángel Nieto",
+        "legacy_id": 4,
+        "place": "Jerez de la Frontera",
+        "nation": "SPA"
+      },
+      "test": true,
+      "sponsored_name": "SPAIN MOTOGP TEST",
+      "date_end": "2025-04-28",
+      "toad_api_uuid": "bf5cc427-5552-4857-b6e5-066e0b125a74",
+      "date_start": "2025-04-28",
+      "additional_name": "SPAIN MOTOGP TEST",
+      "name": "SPAIN MOTOGP TEST",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 608
+        },
+        {
+          "categoryId": 3,
+          "eventId": 608
+        },
+        {
+          "categoryId": 3,
+          "eventId": 608
+        },
+        {
+          "categoryId": 3,
+          "eventId": 608
+        },
+        {
+          "categoryId": 3,
+          "eventId": 608
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "ES2",
+      "id": "bf5cc427-5552-4857-b6e5-066e0b125a74",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "FR",
+        "name": "France",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+        "name": "Le Mans",
+        "legacy_id": 8,
+        "place": "Le Mans",
+        "nation": "FRA"
+      },
+      "test": true,
+      "sponsored_name": "FRANCE MOTO3 TEST",
+      "date_end": "2025-05-12",
+      "toad_api_uuid": "21355e42-aaa0-49b9-882a-8145a622b1c9",
+      "date_start": "2025-05-12",
+      "additional_name": "FRANCE MOTO3 TEST",
+      "name": "FRANCE MOTO3 TEST",
+      "legacy_id": [
+        {
+          "categoryId": 1,
+          "eventId": 611
+        },
+        {
+          "categoryId": 1,
+          "eventId": 611
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "FR1",
+      "id": "21355e42-aaa0-49b9-882a-8145a622b1c9",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "FR",
+        "name": "France",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+        "name": "Le Mans",
+        "legacy_id": 8,
+        "place": "Le Mans",
+        "nation": "FRA"
+      },
+      "test": true,
+      "sponsored_name": "FRANCE MOTO2 TEST",
+      "date_end": "2025-05-13",
+      "toad_api_uuid": "c370edd4-4c04-4144-98d6-c755baa2362c",
+      "date_start": "2025-05-13",
+      "additional_name": "FRANCE MOTO2 TEST",
+      "name": "FRANCE MOTO2 TEST",
+      "legacy_id": [
+        {
+          "categoryId": 2,
+          "eventId": 612
+        },
+        {
+          "categoryId": 2,
+          "eventId": 612
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "FR2",
+      "id": "c370edd4-4c04-4144-98d6-c755baa2362c",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": "AR"
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "50209e25-6cd8-4d8d-912e-c48a06275a8a",
+        "name": "MotorLand Aragón",
+        "legacy_id": 100,
+        "place": "Alcañiz",
+        "nation": "SPA"
+      },
+      "test": true,
+      "sponsored_name": "ARAGON MOTOGP TEST",
+      "date_end": "2025-06-09",
+      "toad_api_uuid": "939183cd-1f4c-4617-95f3-e29270208a3c",
+      "date_start": "2025-06-09",
+      "additional_name": "ARAGON MOTOGP TEST",
+      "name": "ARAGON MOTOGP TEST",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 609
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "AR1",
+      "id": "939183cd-1f4c-4617-95f3-e29270208a3c",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "CZ",
+        "name": "Czechia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+        "name": "Automotodrom Brno",
+        "legacy_id": 11,
+        "place": "Brno",
+        "nation": "CZE"
+      },
+      "test": true,
+      "sponsored_name": "CZECHIA MOTO2 TEST",
+      "date_end": "2025-07-21",
+      "toad_api_uuid": "fca15562-281f-4584-b49f-cc425e29724e",
+      "date_start": "2025-07-21",
+      "additional_name": "CZECHIA MOTO2 TEST",
+      "name": "CZECHIA MOTO2 TEST",
+      "legacy_id": [
+        {
+          "categoryId": 2,
+          "eventId": 613
+        },
+        {
+          "categoryId": 2,
+          "eventId": 613
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "CZ1",
+      "id": "fca15562-281f-4584-b49f-cc425e29724e",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "CZ",
+        "name": "Czechia",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+        "name": "Automotodrom Brno",
+        "legacy_id": 11,
+        "place": "Brno",
+        "nation": "CZE"
+      },
+      "test": true,
+      "sponsored_name": "CZECHIA MOTO3 TEST",
+      "date_end": "2025-07-22",
+      "toad_api_uuid": "8f84f7cb-5aba-47cb-a6ce-402bbbde4169",
+      "date_start": "2025-07-22",
+      "additional_name": "CZECHIA MOTO3 TEST",
+      "name": "CZECHIA MOTO3 TEST",
+      "legacy_id": [
+        {
+          "categoryId": 1,
+          "eventId": 614
+        },
+        {
+          "categoryId": 1,
+          "eventId": 614
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "CZ2",
+      "id": "8f84f7cb-5aba-47cb-a6ce-402bbbde4169",
+      "status": "FINISHED"
+    },
+    {
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "event_files": {
+        "circuit_information": {
+          "url": "",
+          "menu_position": 1
+        },
+        "podiums": {
+          "url": "",
+          "menu_position": 2
+        },
+        "pole_positions": {
+          "url": "",
+          "menu_position": 2
+        },
+        "nations_statistics": {
+          "url": "",
+          "menu_position": 2
+        },
+        "riders_all_time": {
+          "url": "",
+          "menu_position": 2
+        }
+      },
+      "circuit": {
+        "id": "e0d07d48-0b62-40fa-9d36-411b15af406f",
+        "name": "Misano World Circuit Marco Simoncelli",
+        "legacy_id": 38,
+        "place": "Misano Adriatico",
+        "nation": "ITA"
+      },
+      "test": true,
+      "sponsored_name": "SAN MARINO MOTOGP TEST",
+      "date_end": "2025-09-15",
+      "toad_api_uuid": "75ff9d59-c3e3-4b39-89fa-51a461b254a4",
+      "date_start": "2025-09-15",
+      "additional_name": "SAN MARINO MOTOGP TEST",
+      "name": "SAN MARINO MOTOGP TEST",
+      "legacy_id": [
+        {
+          "categoryId": 3,
+          "eventId": 610
+        },
+        {
+          "categoryId": 3,
+          "eventId": 610
+        }
+      ],
+      "season": {
+        "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+        "year": 2025,
+        "current": false
+      },
+      "short_name": "IT2",
+      "id": "75ff9d59-c3e3-4b39-89fa-51a461b254a4",
+      "status": "FINISHED"
+    }
+  ]
+}
