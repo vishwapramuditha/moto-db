@@ -1,4 +1,4 @@
-# Moto-DB 🏎️🏍️🏁
+# Moto-DB Data - for every motorsport
 
 <p align="center">
   <img src="website/public/hero-car.svg" alt="Moto-DB F1 Dotted Car Banner" width="480">
