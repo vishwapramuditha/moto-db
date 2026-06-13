@@ -1,0 +1,236 @@
+{
+  "season": "2024",
+  "series_id": 3,
+  "series_name": "truck",
+  "race_id": 5473,
+  "race_name": "Toyota 200",
+  "track_name": "World Wide Technology Raceway",
+  "date": "2024-06-01T13:30:00",
+  "updated_at": "2026-06-13T13:35:36.722680Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4387,
+      "driver_name": "Corey Heim",
+      "car_number": "11",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 2,
+      "driver_id": 4268,
+      "driver_name": "Christian Eckes",
+      "car_number": "19",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 3,
+      "driver_id": 4416,
+      "driver_name": "Nick Sanchez",
+      "car_number": "2",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 4,
+      "driver_id": 4235,
+      "driver_name": "Ty Majeski",
+      "car_number": "98",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 5,
+      "driver_id": 4446,
+      "driver_name": "Layne Riggs #",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 6,
+      "driver_id": 4295,
+      "driver_name": "Chase Purdy",
+      "car_number": "77",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 7,
+      "driver_id": 4107,
+      "driver_name": "Ben Rhodes",
+      "car_number": "99",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 8,
+      "driver_id": 4205,
+      "driver_name": "Stewart Friesen",
+      "car_number": "52",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 9,
+      "driver_id": 4490,
+      "driver_name": "Andres Perez de Lara",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 10,
+      "driver_id": 4489,
+      "driver_name": "Luke Fenhaus",
+      "car_number": "66",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 11,
+      "driver_id": 4342,
+      "driver_name": "Tanner Gray",
+      "car_number": "15",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 12,
+      "driver_id": 4451,
+      "driver_name": "Daniel Dye",
+      "car_number": "43",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 13,
+      "driver_id": 4013,
+      "driver_name": "Ty Dillon",
+      "car_number": "25",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 14,
+      "driver_id": 4414,
+      "driver_name": "Dean Thompson",
+      "car_number": "5",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 15,
+      "driver_id": 4296,
+      "driver_name": "Tyler Ankrum",
+      "car_number": "18",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 16,
+      "driver_id": 4422,
+      "driver_name": "Rajah Caruth",
+      "car_number": "71",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 3978,
+      "driver_name": "Grant Enfinger",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 18,
+      "driver_id": 3984,
+      "driver_name": "Timmy Hill",
+      "car_number": "56",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 19,
+      "driver_id": 4371,
+      "driver_name": "Lawless Alan",
+      "car_number": "33",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 20,
+      "driver_id": 694,
+      "driver_name": "Matt Crafton",
+      "car_number": "88",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 21,
+      "driver_id": 4373,
+      "driver_name": "Bret Holmes",
+      "car_number": "32",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 22,
+      "driver_id": 4433,
+      "driver_name": "Connor Mosack",
+      "car_number": "45",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 23,
+      "driver_id": 4209,
+      "driver_name": "Matt Mills",
+      "car_number": "42",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 24,
+      "driver_id": 4423,
+      "driver_name": "Jake Garcia",
+      "car_number": "13",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 25,
+      "driver_id": 4483,
+      "driver_name": "Vicente Salas",
+      "car_number": "91",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 26,
+      "driver_id": 4192,
+      "driver_name": "Spencer Boyd",
+      "car_number": "76",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 27,
+      "driver_id": 4382,
+      "driver_name": "Keith McGee",
+      "car_number": "22",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 28,
+      "driver_id": 4415,
+      "driver_name": "Thad Moffitt #",
+      "car_number": "46",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 29,
+      "driver_id": 4257,
+      "driver_name": "Bayley Currey",
+      "car_number": "41",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 30,
+      "driver_id": 4406,
+      "driver_name": "Taylor Gray",
+      "car_number": "17",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 31,
+      "driver_id": 4315,
+      "driver_name": "Mason Massey",
+      "car_number": "02",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 32,
+      "driver_id": 4344,
+      "driver_name": "Colby Howard",
+      "car_number": "1",
+      "manufacturer": "Tyt"
+    }
+  ]
+}

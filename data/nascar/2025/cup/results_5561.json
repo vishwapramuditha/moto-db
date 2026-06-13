@@ -1,0 +1,138 @@
+{
+  "season": "2025",
+  "series_id": 1,
+  "series_name": "cup",
+  "race_id": 5561,
+  "race_name": "NASCAR All-Star Open",
+  "track_name": "North Wilkesboro Speedway",
+  "date": "2025-05-18T17:30:00",
+  "updated_at": "2026-06-13T13:37:14.282845Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4326,
+      "driver_name": "Carson Hocevar",
+      "car_number": "77",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 2,
+      "driver_id": 4092,
+      "driver_name": "John Hunter Nemechek",
+      "car_number": "42",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 3,
+      "driver_id": 4013,
+      "driver_name": "Ty Dillon",
+      "car_number": "10",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 4,
+      "driver_id": 4059,
+      "driver_name": "Erik Jones",
+      "car_number": "43",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 5,
+      "driver_id": 3832,
+      "driver_name": "Michael McDowell",
+      "car_number": "71",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 6,
+      "driver_id": 4272,
+      "driver_name": "Zane Smith",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 7,
+      "driver_id": 3774,
+      "driver_name": "AJ Allmendinger",
+      "car_number": "16",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 8,
+      "driver_id": 4025,
+      "driver_name": "Bubba Wallace",
+      "car_number": "23",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 9,
+      "driver_id": 4104,
+      "driver_name": "Cole Custer",
+      "car_number": "41",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 10,
+      "driver_id": 4269,
+      "driver_name": "Riley Herbst",
+      "car_number": "35",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 11,
+      "driver_id": 4070,
+      "driver_name": "Ryan Preece",
+      "car_number": "60",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 12,
+      "driver_id": 4231,
+      "driver_name": "Todd Gilliland",
+      "car_number": "34",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 13,
+      "driver_id": 4469,
+      "driver_name": "Shane Van Gisbergen",
+      "car_number": "88",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 14,
+      "driver_id": 4172,
+      "driver_name": "Justin Haley",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 15,
+      "driver_id": 4368,
+      "driver_name": "Ty Gibbs",
+      "car_number": "54",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 16,
+      "driver_id": 4125,
+      "driver_name": "Cody Ware",
+      "car_number": "15",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 17,
+      "driver_id": 4224,
+      "driver_name": "Noah Gragson",
+      "car_number": "4",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 18,
+      "driver_id": 4232,
+      "driver_name": "Chad Finchum",
+      "car_number": "66",
+      "manufacturer": "Frd"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "season": "2024",
+  "series_id": 1,
+  "series_name": "cup",
+  "race_id": 5426,
+  "race_name": "Straight Talk Wireless 400",
+  "track_name": "Homestead-Miami Speedway",
+  "date": "2024-10-27T14:30:00",
+  "updated_at": "2026-06-13T13:32:53.098042Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4065,
+      "driver_name": "Tyler Reddick (P)",
+      "car_number": "45",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 2,
+      "driver_id": 4023,
+      "driver_name": "Ryan Blaney (P)",
+      "car_number": "12",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 3,
+      "driver_id": 1361,
+      "driver_name": "Denny Hamlin (P)",
+      "car_number": "11",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 4,
+      "driver_id": 4153,
+      "driver_name": "Christopher Bell (P)",
+      "car_number": "20",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 5,
+      "driver_id": 4062,
+      "driver_name": "Chase Elliott (P)",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 6,
+      "driver_id": 4184,
+      "driver_name": "William Byron (P)",
+      "car_number": "24",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 7,
+      "driver_id": 4045,
+      "driver_name": "Alex Bowman",
+      "car_number": "48",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 8,
+      "driver_id": 3774,
+      "driver_name": "AJ Allmendinger(i)",
+      "car_number": "16",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 9,
+      "driver_id": 4326,
+      "driver_name": "Carson Hocevar #",
+      "car_number": "77",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 10,
+      "driver_id": 4070,
+      "driver_name": "Ryan Preece",
+      "car_number": "41",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 11,
+      "driver_id": 4123,
+      "driver_name": "Josh Berry #",
+      "car_number": "4",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 12,
+      "driver_id": 4228,
+      "driver_name": "Chase Briscoe",
+      "car_number": "14",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 13,
+      "driver_id": 4030,
+      "driver_name": "Kyle Larson (P)",
+      "car_number": "5",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 14,
+      "driver_id": 3832,
+      "driver_name": "Michael McDowell",
+      "car_number": "34",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 15,
+      "driver_id": 3989,
+      "driver_name": "Chris Buescher",
+      "car_number": "17",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 16,
+      "driver_id": 4113,
+      "driver_name": "Daniel Suarez",
+      "car_number": "99",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 1816,
+      "driver_name": "Brad Keselowski",
+      "car_number": "6",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 18,
+      "driver_id": 4025,
+      "driver_name": "Bubba Wallace",
+      "car_number": "23",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 19,
+      "driver_id": 4224,
+      "driver_name": "Noah Gragson",
+      "car_number": "10",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 20,
+      "driver_id": 4231,
+      "driver_name": "Todd Gilliland",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 21,
+      "driver_id": 3888,
+      "driver_name": "Ricky Stenhouse Jr.",
+      "car_number": "47",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 22,
+      "driver_id": 4059,
+      "driver_name": "Erik Jones",
+      "car_number": "43",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 23,
+      "driver_id": 3368,
+      "driver_name": "Martin Truex Jr.",
+      "car_number": "19",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 24,
+      "driver_id": 4217,
+      "driver_name": "Harrison Burton",
+      "car_number": "21",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 25,
+      "driver_id": 3873,
+      "driver_name": "Austin Dillon",
+      "car_number": "3",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 26,
+      "driver_id": 4092,
+      "driver_name": "John Hunter Nemechek",
+      "car_number": "42",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 27,
+      "driver_id": 4180,
+      "driver_name": "Austin Cindric",
+      "car_number": "2",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 28,
+      "driver_id": 3859,
+      "driver_name": "Joey Logano (P)",
+      "car_number": "22",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 29,
+      "driver_id": 4093,
+      "driver_name": "Daniel Hemric",
+      "car_number": "31",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 30,
+      "driver_id": 4272,
+      "driver_name": "Zane Smith #",
+      "car_number": "71",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 31,
+      "driver_id": 454,
+      "driver_name": "Kyle Busch",
+      "car_number": "8",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 32,
+      "driver_id": 4191,
+      "driver_name": "Kaz Grala #",
+      "car_number": "15",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 33,
+      "driver_id": 4001,
+      "driver_name": "Ross Chastain",
+      "car_number": "1",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 34,
+      "driver_id": 4172,
+      "driver_name": "Justin Haley",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 35,
+      "driver_id": 4096,
+      "driver_name": "Corey LaJoie",
+      "car_number": "51",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 36,
+      "driver_id": 4368,
+      "driver_name": "Ty Gibbs",
+      "car_number": "54",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 37,
+      "driver_id": 4232,
+      "driver_name": "* Chad Finchum(i)",
+      "car_number": "66",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 38,
+      "driver_id": 3669,
+      "driver_name": "* JJ Yeley(i)",
+      "car_number": "44",
+      "manufacturer": "Chv"
+    }
+  ]
+}

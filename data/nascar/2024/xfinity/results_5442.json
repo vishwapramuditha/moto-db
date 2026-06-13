@@ -1,0 +1,278 @@
+{
+  "season": "2024",
+  "series_id": 2,
+  "series_name": "xfinity",
+  "race_id": 5442,
+  "race_name": "Zip Buy Now, Pay Later 250",
+  "track_name": "Sonoma Raceway",
+  "date": "2024-06-08T20:00:00",
+  "updated_at": "2026-06-13T13:33:52.689133Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4469,
+      "driver_name": "Shane Van Gisbergen #",
+      "car_number": "97",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 2,
+      "driver_id": 4204,
+      "driver_name": "Sheldon Creed",
+      "car_number": "18",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 3,
+      "driver_id": 4327,
+      "driver_name": "Sam Mayer",
+      "car_number": "1",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 4,
+      "driver_id": 4479,
+      "driver_name": "Austin Green",
+      "car_number": "32",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 5,
+      "driver_id": 4133,
+      "driver_name": "Austin Hill",
+      "car_number": "21",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 6,
+      "driver_id": 34,
+      "driver_name": "Justin Allgaier",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 7,
+      "driver_id": 4312,
+      "driver_name": "Chandler Smith",
+      "car_number": "81",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 8,
+      "driver_id": 4092,
+      "driver_name": "John Hunter Nemechek(i)",
+      "car_number": "20",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 9,
+      "driver_id": 4104,
+      "driver_name": "Cole Custer",
+      "car_number": "00",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 10,
+      "driver_id": 3914,
+      "driver_name": "Parker Kligerman",
+      "car_number": "48",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 11,
+      "driver_id": 4419,
+      "driver_name": "Parker Retzlaff",
+      "car_number": "31",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 12,
+      "driver_id": 4463,
+      "driver_name": "Jesse Love #",
+      "car_number": "2",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 13,
+      "driver_id": 4269,
+      "driver_name": "Riley Herbst",
+      "car_number": "98",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 14,
+      "driver_id": 4144,
+      "driver_name": "Brennan Poole",
+      "car_number": "44",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 15,
+      "driver_id": 4454,
+      "driver_name": "Ed Jones",
+      "car_number": "26",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 16,
+      "driver_id": 4213,
+      "driver_name": "Josh Bilicki",
+      "car_number": "92",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 3774,
+      "driver_name": "AJ Allmendinger",
+      "car_number": "16",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 18,
+      "driver_id": 4376,
+      "driver_name": "Blaine Perkins",
+      "car_number": "29",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 19,
+      "driver_id": 4225,
+      "driver_name": "Alex Labbe",
+      "car_number": "07",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 20,
+      "driver_id": 3884,
+      "driver_name": "Ryan Sieg",
+      "car_number": "39",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 21,
+      "driver_id": 3916,
+      "driver_name": "Matt DiBenedetto",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 22,
+      "driver_id": 595,
+      "driver_name": "Jeremy Clements",
+      "car_number": "51",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 23,
+      "driver_id": 4388,
+      "driver_name": "Kyle Sieg",
+      "car_number": "28",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 24,
+      "driver_id": 4421,
+      "driver_name": "Brad Perez",
+      "car_number": "14",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 25,
+      "driver_id": 4317,
+      "driver_name": "Preston Pardus",
+      "car_number": "50",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 26,
+      "driver_id": 4029,
+      "driver_name": "Ryan Ellis",
+      "car_number": "43",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 27,
+      "driver_id": 4142,
+      "driver_name": "Garrett Smithley",
+      "car_number": "4",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 28,
+      "driver_id": 2883,
+      "driver_name": "Boris Said",
+      "car_number": "17",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 29,
+      "driver_id": 4449,
+      "driver_name": "Leland Honeyman #",
+      "car_number": "42",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 30,
+      "driver_id": 4187,
+      "driver_name": "Kyle Weatherman",
+      "car_number": "91",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 31,
+      "driver_id": 4301,
+      "driver_name": "Anthony Alfredo",
+      "car_number": "5",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 32,
+      "driver_id": 4366,
+      "driver_name": "Hailie Deegan #",
+      "car_number": "15",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 33,
+      "driver_id": 4441,
+      "driver_name": "Sammy Smith",
+      "car_number": "8",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 34,
+      "driver_id": 4493,
+      "driver_name": "Thomas Annunziata",
+      "car_number": "6",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 35,
+      "driver_id": 4368,
+      "driver_name": "Ty Gibbs(i)",
+      "car_number": "19",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 36,
+      "driver_id": 4018,
+      "driver_name": "Jeb Burton",
+      "car_number": "27",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 37,
+      "driver_id": 4106,
+      "driver_name": "Josh Williams",
+      "car_number": "11",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 38,
+      "driver_id": 4085,
+      "driver_name": "Brandon Jones",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "tracks": [
+    {
+      "id": 38,
+      "name": "Auto Club Speedway",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 75,
+      "name": "Autódromo Hermanos Rodríguez",
+      "type": "Road Course",
+      "length": 2.674,
+      "city": "Mexico City",
+      "state": "Mexico",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2024/09/06/75.svg"
+    },
+    {
+      "id": 159,
+      "name": "Bowman Gray Stadium",
+      "type": "Short Track",
+      "length": 0.25,
+      "city": "Winston Salem",
+      "state": "NC",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2024/09/11/159.svg"
+    },
+    {
+      "id": 14,
+      "name": "Bristol Motor Speedway",
+      "type": "Short Track",
+      "length": 0.533,
+      "city": "Bristol",
+      "state": "TN",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/14.png"
+    },
+    {
+      "id": 209,
+      "name": "Canadian Tire Motorsport Park",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 162,
+      "name": "Charlotte Motor Speedway",
+      "type": "Intermediate",
+      "length": 1.5,
+      "city": "Concord",
+      "state": "NC",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/162.png"
+    },
+    {
+      "id": 210,
+      "name": "Charlotte Motor Speedway Roval",
+      "type": "Road Course",
+      "length": 2.32,
+      "city": "Concord",
+      "state": "NC",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/210.png"
+    },
+    {
+      "id": 218,
+      "name": "Chicago Street Race",
+      "type": "Road Course",
+      "length": 2.2,
+      "city": "Chicago",
+      "state": "IL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2023/04/14/218.svg"
+    },
+    {
+      "id": 39,
+      "name": "Chicagoland Speedway",
+      "type": "Intermediate",
+      "length": 1.5,
+      "city": "Joliet",
+      "state": "IL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2025/08/16/CLS_TrackShape.jpg"
+    },
+    {
+      "id": 214,
+      "name": "Circuit of The Americas",
+      "type": "Road Course",
+      "length": 2.4,
+      "city": "Austin",
+      "state": "TX",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/25/214.svg"
+    },
+    {
+      "id": 212,
+      "name": "DAYTONA Road Course",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 4,
+      "name": "Darlington Raceway",
+      "type": "Intermediate",
+      "length": 1.366,
+      "city": "Darlington",
+      "state": "SC",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/4.png"
+    },
+    {
+      "id": 105,
+      "name": "Daytona International Speedway",
+      "type": "Superspeedway",
+      "length": 2.5,
+      "city": "Daytona Beach",
+      "state": "FL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/07/02/105-1.png"
+    },
+    {
+      "id": 103,
+      "name": "Dover Motor Speedway",
+      "type": "High-banked Concrete Oval",
+      "length": 1,
+      "city": "Dover",
+      "state": "DE",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/103.png"
+    },
+    {
+      "id": 111,
+      "name": "EchoPark Speedway",
+      "type": "Drafting",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 208,
+      "name": "Eldora Speedway",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 222,
+      "name": "Grand Prix of St. Petersburg",
+      "type": "Street Course",
+      "length": 1.8,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/25/222.svg"
+    },
+    {
+      "id": 40,
+      "name": "Homestead-Miami Speedway",
+      "type": "Intermediate",
+      "length": 1.5,
+      "city": "Homestead",
+      "state": "FL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/40.png"
+    },
+    {
+      "id": 123,
+      "name": "Indianapolis Motor Speedway",
+      "type": "Rectangular Oval",
+      "length": 2.5,
+      "city": "Speedway",
+      "state": "IN",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/123.png"
+    },
+    {
+      "id": 211,
+      "name": "Indianapolis Motor Speedway Road Course",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 206,
+      "name": "Iowa Speedway",
+      "type": "Short Track",
+      "length": 0.875,
+      "city": "Newton",
+      "state": "IA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2024/04/12/IAS.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Kansas Speedway",
+      "type": "Intermediate",
+      "length": 1.5,
+      "city": "Kansas City",
+      "state": "KS",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/41.png"
+    },
+    {
+      "id": 61,
+      "name": "Kentucky Speedway",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 215,
+      "name": "Knoxville Raceway",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 42,
+      "name": "Las Vegas Motor Speedway",
+      "type": "Intermediate",
+      "length": 1.5,
+      "city": "Las Vegas",
+      "state": "NV",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/42.png"
+    },
+    {
+      "id": 220,
+      "name": "Lime Rock Park",
+      "type": "Road Course",
+      "length": 1.53,
+      "city": "Lakeville",
+      "state": "CT",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2024/09/06/220.svg"
+    },
+    {
+      "id": 217,
+      "name": "Los Angeles Memorial Coliseum",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 47,
+      "name": "Lucas Oil Indianapolis Raceway Park",
+      "type": "Short Track",
+      "length": 0.686,
+      "city": "Indianapolis",
+      "state": "IN",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/10/07/47.png"
+    },
+    {
+      "id": 22,
+      "name": "Martinsville Speedway",
+      "type": "Short Track",
+      "length": 0.526,
+      "city": "Ridgeway",
+      "state": "VA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/22.png"
+    },
+    {
+      "id": 1002,
+      "name": "Michelin Raceway Road Atlanta",
+      "type": "Road Course",
+      "length": 2.54,
+      "city": "Braselton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/05/RoadAtlanta_1346x916-350x238-1.png"
+    },
+    {
+      "id": 133,
+      "name": "Michigan International Speedway",
+      "type": "Intermediate",
+      "length": 2,
+      "city": "Brooklyn",
+      "state": "MI",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/133.png"
+    },
+    {
+      "id": 72,
+      "name": "Mid-Ohio Sports Car Course",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 52,
+      "name": "Nashville Superspeedway",
+      "type": "Intermediate",
+      "length": 1.333,
+      "city": "Lebanon",
+      "state": "TN",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/52.png"
+    },
+    {
+      "id": 221,
+      "name": "Naval Base Coronado",
+      "type": "Street Course",
+      "length": 3.4,
+      "city": "San Diego",
+      "state": "CA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/25/221.svg"
+    },
+    {
+      "id": 138,
+      "name": "New Hampshire Motor Speedway",
+      "type": "Intermediate",
+      "length": 1.058,
+      "city": "Loudon",
+      "state": "NH",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/25/138.png"
+    },
+    {
+      "id": 177,
+      "name": "North Wilkesboro Speedway",
+      "type": "Short Track",
+      "length": 0.625,
+      "city": "North Wilkesboro",
+      "state": "NC",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/10/07/47.png"
+    },
+    {
+      "id": 84,
+      "name": "Phoenix Raceway",
+      "type": "Intermediate",
+      "length": 1,
+      "city": "Avondale",
+      "state": "AZ",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/84.png"
+    },
+    {
+      "id": 198,
+      "name": "Pocono Raceway",
+      "type": "Superspeedway",
+      "length": 2.5,
+      "city": "Long Pond",
+      "state": "PA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/25/198.png"
+    },
+    {
+      "id": 204,
+      "name": "Portland International Raceway",
+      "type": "Road Course",
+      "length": 1.9,
+      "city": "Portland",
+      "state": "OR",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/10/07/204.png"
+    },
+    {
+      "id": 26,
+      "name": "Richmond Raceway",
+      "type": "Short Track",
+      "length": 0.75,
+      "city": "Richmond",
+      "state": "VA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/25/26.png"
+    },
+    {
+      "id": 34,
+      "name": "Road America",
+      "type": "Intermediate",
+      "length": 1.54,
+      "city": "Hampton",
+      "state": "GA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
+    },
+    {
+      "id": 175,
+      "name": "Rockingham Speedway",
+      "type": "Intermediate",
+      "length": 1.017,
+      "city": "Rockingham",
+      "state": "NC",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2025/12/09/RockinghamShape.jpg"
+    },
+    {
+      "id": 1001,
+      "name": "Sebring International Raceway",
+      "type": "Road Course",
+      "length": 3.74,
+      "city": "Sebring",
+      "state": "FL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/11/05/SEBRING_1346x916-350x238-1.png"
+    },
+    {
+      "id": 99,
+      "name": "Sonoma Raceway",
+      "type": "Road Course",
+      "length": 1.99,
+      "city": "Sonoma",
+      "state": "CA",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2022/01/12/Sonoma.png"
+    },
+    {
+      "id": 82,
+      "name": "Talladega Superspeedway",
+      "type": "Superspeedway",
+      "length": 2.66,
+      "city": "Talladega",
+      "state": "AL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/25/82.png"
+    },
+    {
+      "id": 43,
+      "name": "Texas Motor Speedway",
+      "type": "Intermediate",
+      "length": 1.5,
+      "city": "Fort Worth",
+      "state": "TX",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/25/43.png"
+    },
+    {
+      "id": 51,
+      "name": "The Milwaukee Mile",
+      "type": "Short",
+      "length": 1.015,
+      "city": "West Allis",
+      "state": "WI",
+      "image": ""
+    },
+    {
+      "id": 157,
+      "name": "Watkins Glen International",
+      "type": "Road Course",
+      "length": 2.45,
+      "city": "Watkins Glen",
+      "state": "NY",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/25/157.png"
+    },
+    {
+      "id": 45,
+      "name": "World Wide Technology Raceway",
+      "type": "Intermediate",
+      "length": 1.25,
+      "city": "Madison",
+      "state": "IL",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/29/45.png"
+    }
+  ],
+  "total": 49,
+  "updated_at": "2026-06-13T13:29:39.774490Z"
+}

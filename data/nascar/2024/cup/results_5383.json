@@ -1,0 +1,159 @@
+{
+  "season": "2024",
+  "series_id": 1,
+  "series_name": "cup",
+  "race_id": 5383,
+  "race_name": "Bluegreen Vacations Duel 1 at DAYTONA",
+  "track_name": "Daytona International Speedway",
+  "date": "2024-02-15T19:00:00",
+  "updated_at": "2026-06-13T13:29:47.285271Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4065,
+      "driver_name": "Tyler Reddick",
+      "car_number": "45",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 2,
+      "driver_id": 4062,
+      "driver_name": "Chase Elliott",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 3,
+      "driver_id": 4045,
+      "driver_name": "Alex Bowman",
+      "car_number": "48",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 4,
+      "driver_id": 4326,
+      "driver_name": "Carson Hocevar #",
+      "car_number": "77",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 5,
+      "driver_id": 4059,
+      "driver_name": "Erik Jones",
+      "car_number": "43",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 6,
+      "driver_id": 4113,
+      "driver_name": "Daniel Suarez",
+      "car_number": "99",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 7,
+      "driver_id": 3859,
+      "driver_name": "Joey Logano",
+      "car_number": "22",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 8,
+      "driver_id": 4368,
+      "driver_name": "Ty Gibbs",
+      "car_number": "54",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 9,
+      "driver_id": 4030,
+      "driver_name": "Kyle Larson",
+      "car_number": "5",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 10,
+      "driver_id": 3989,
+      "driver_name": "Chris Buescher",
+      "car_number": "17",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 11,
+      "driver_id": 4001,
+      "driver_name": "Ross Chastain",
+      "car_number": "1",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 12,
+      "driver_id": 1717,
+      "driver_name": "* Jimmie Johnson",
+      "car_number": "84",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 13,
+      "driver_id": 4070,
+      "driver_name": "Ryan Preece",
+      "car_number": "41",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 14,
+      "driver_id": 3368,
+      "driver_name": "Martin Truex Jr.",
+      "car_number": "19",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 15,
+      "driver_id": 4096,
+      "driver_name": "Corey LaJoie",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 16,
+      "driver_id": 3669,
+      "driver_name": "* JJ Yeley(i)",
+      "car_number": "44",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 4231,
+      "driver_name": "Todd Gilliland",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 18,
+      "driver_id": 3873,
+      "driver_name": "Austin Dillon",
+      "car_number": "3",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 19,
+      "driver_id": 4301,
+      "driver_name": "* Anthony Alfredo(i)",
+      "car_number": "62",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 20,
+      "driver_id": 3888,
+      "driver_name": "Ricky Stenhouse Jr.",
+      "car_number": "47",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 21,
+      "driver_id": 4093,
+      "driver_name": "Daniel Hemric",
+      "car_number": "31",
+      "manufacturer": "Chv"
+    }
+  ]
+}

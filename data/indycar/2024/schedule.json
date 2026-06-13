@@ -1,0 +1,187 @@
+{
+  "season": "2024",
+  "total_races": 18,
+  "updated_at": "2026-06-13T15:38:10.943291Z",
+  "races": [
+    {
+      "event_id": "202403100104",
+      "name": "Grand Prix of St. Petersburg",
+      "short_name": "Grand Prix of St. Petersburg",
+      "date": "2024-03-10T16:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202403244254",
+      "name": "$1 Million Challenge",
+      "short_name": "$1 Million Challenge",
+      "date": "2024-03-24T16:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202404210502",
+      "name": "Grand Prix of Long Beach",
+      "short_name": "Grand Prix of Long Beach",
+      "date": "2024-04-21T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "USA Net"
+    },
+    {
+      "event_id": "202404280752",
+      "name": "Grand Prix of Alabama",
+      "short_name": "Grand Prix of Alabama",
+      "date": "2024-04-28T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202405114000",
+      "name": "Grand Prix of Indianapolis (Road Course)",
+      "short_name": "Grand Prix of Indianapolis (Road Course)",
+      "date": "2024-05-11T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202405260106",
+      "name": "Indianapolis 500",
+      "short_name": "Indianapolis 500",
+      "date": "2024-05-26T15:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202406020120",
+      "name": "Grand Prix of Detroit",
+      "short_name": "Grand Prix of Detroit",
+      "date": "2024-06-02T16:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "USA Net"
+    },
+    {
+      "event_id": "202406090111",
+      "name": "Grand Prix of Road America",
+      "short_name": "Grand Prix of Road America",
+      "date": "2024-06-09T19:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202406231784",
+      "name": "Grand Prix of Monterey",
+      "short_name": "Grand Prix of Monterey",
+      "date": "2024-06-23T22:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "USA Net"
+    },
+    {
+      "event_id": "202407070119",
+      "name": "Grand Prix of Mid-Ohio",
+      "short_name": "Grand Prix of Mid-Ohio",
+      "date": "2024-07-07T17:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202407130118",
+      "name": "Grand Prix of Iowa Race 1",
+      "short_name": "Grand Prix of Iowa Race 1",
+      "date": "2024-07-14T00:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202407143888",
+      "name": "Grand Prix of Iowa Race 2",
+      "short_name": "Grand Prix of Iowa Race 2",
+      "date": "2024-07-14T16:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    },
+    {
+      "event_id": "202407210508",
+      "name": "Grand Prix of Toronto",
+      "short_name": "Grand Prix of Toronto",
+      "date": "2024-07-21T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "Peacock"
+    },
+    {
+      "event_id": "202408170785",
+      "name": "Grand Prix of Illinois",
+      "short_name": "Grand Prix of Illinois",
+      "date": "2024-08-17T22:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "USA Net"
+    },
+    {
+      "event_id": "202408250790",
+      "name": "Grand Prix of Portland",
+      "short_name": "Grand Prix of Portland",
+      "date": "2024-08-25T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "USA Net"
+    },
+    {
+      "event_id": "202408314252",
+      "name": "Grand Prix of Milwaukee Race 1",
+      "short_name": "Grand Prix of Milwaukee Race 1",
+      "date": "2024-08-31T22:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "Peacock"
+    },
+    {
+      "event_id": "202409014253",
+      "name": "Grand Prix of Milwaukee Race 2",
+      "short_name": "Grand Prix of Milwaukee Race 2",
+      "date": "2024-09-01T18:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "USA Net"
+    },
+    {
+      "event_id": "202409153999",
+      "name": "Grand Prix of Nashville",
+      "short_name": "Grand Prix of Nashville",
+      "date": "2024-09-15T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "NBC"
+    }
+  ]
+}

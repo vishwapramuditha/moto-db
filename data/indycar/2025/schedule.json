@@ -1,0 +1,177 @@
+{
+  "season": "2025",
+  "total_races": 17,
+  "updated_at": "2026-06-13T15:38:22.168106Z",
+  "races": [
+    {
+      "event_id": "202503020104",
+      "name": "Grand Prix of St. Petersburg",
+      "short_name": "Grand Prix of St. Petersburg",
+      "date": "2025-03-02T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202503234262",
+      "name": "Grand Prix of Thermal",
+      "short_name": "Grand Prix of Thermal",
+      "date": "2025-03-23T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202504130502",
+      "name": "Grand Prix of Long Beach",
+      "short_name": "Grand Prix of Long Beach",
+      "date": "2025-04-13T20:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202505040752",
+      "name": "Grand Prix of Alabama",
+      "short_name": "Grand Prix of Alabama",
+      "date": "2025-05-04T17:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202505104000",
+      "name": "Grand Prix of Indianapolis (Road Course)",
+      "short_name": "Grand Prix of Indianapolis (Road Course)",
+      "date": "2025-05-10T20:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202505250106",
+      "name": "Indianapolis 500",
+      "short_name": "Indianapolis 500",
+      "date": "2025-05-25T16:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202506010120",
+      "name": "Grand Prix of Detroit",
+      "short_name": "Grand Prix of Detroit",
+      "date": "2025-06-01T16:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202506150785",
+      "name": "Grand Prix of Illinois",
+      "short_name": "Grand Prix of Illinois",
+      "date": "2025-06-16T00:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202506220111",
+      "name": "Grand Prix of Road America",
+      "short_name": "Grand Prix of Road America",
+      "date": "2025-06-22T17:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202507060119",
+      "name": "Grand Prix of Mid-Ohio",
+      "short_name": "Grand Prix of Mid-Ohio",
+      "date": "2025-07-06T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202507120118",
+      "name": "Grand Prix of Iowa Race 1",
+      "short_name": "Grand Prix of Iowa Race 1",
+      "date": "2025-07-12T21:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202507133888",
+      "name": "Grand Prix of Iowa Race 2",
+      "short_name": "Grand Prix of Iowa Race 2",
+      "date": "2025-07-13T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202507200508",
+      "name": "Grand Prix of Toronto",
+      "short_name": "Grand Prix of Toronto",
+      "date": "2025-07-20T16:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202507271784",
+      "name": "Grand Prix of Monterey",
+      "short_name": "Grand Prix of Monterey",
+      "date": "2025-07-27T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202508100790",
+      "name": "Grand Prix of Portland",
+      "short_name": "Grand Prix of Portland",
+      "date": "2025-08-10T19:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202508244252",
+      "name": "Grand Prix of Milwaukee",
+      "short_name": "Grand Prix of Milwaukee",
+      "date": "2025-08-24T18:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202508313999",
+      "name": "Grand Prix of Nashville",
+      "short_name": "Grand Prix of Nashville",
+      "date": "2025-08-31T18:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    }
+  ]
+}

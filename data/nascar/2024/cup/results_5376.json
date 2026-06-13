@@ -1,0 +1,173 @@
+{
+  "season": "2024",
+  "series_id": 1,
+  "series_name": "cup",
+  "race_id": 5376,
+  "race_name": "Busch Light Clash at The Coliseum",
+  "track_name": "Los Angeles Memorial Coliseum",
+  "date": "2024-02-04T17:00:00",
+  "updated_at": "2026-06-13T13:29:45.080773Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 1361,
+      "driver_name": "Denny Hamlin",
+      "car_number": "11",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 2,
+      "driver_id": 454,
+      "driver_name": "Kyle Busch",
+      "car_number": "8",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 3,
+      "driver_id": 4023,
+      "driver_name": "Ryan Blaney",
+      "car_number": "12",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 4,
+      "driver_id": 3859,
+      "driver_name": "Joey Logano",
+      "car_number": "22",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 5,
+      "driver_id": 4030,
+      "driver_name": "Kyle Larson",
+      "car_number": "5",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 6,
+      "driver_id": 4045,
+      "driver_name": "Alex Bowman",
+      "car_number": "48",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 7,
+      "driver_id": 4228,
+      "driver_name": "Chase Briscoe",
+      "car_number": "14",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 8,
+      "driver_id": 1816,
+      "driver_name": "Brad Keselowski",
+      "car_number": "6",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 9,
+      "driver_id": 3368,
+      "driver_name": "Martin Truex Jr.",
+      "car_number": "19",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 10,
+      "driver_id": 4184,
+      "driver_name": "William Byron",
+      "car_number": "24",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 11,
+      "driver_id": 4070,
+      "driver_name": "Ryan Preece",
+      "car_number": "41",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 12,
+      "driver_id": 4025,
+      "driver_name": "Bubba Wallace",
+      "car_number": "23",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 13,
+      "driver_id": 4092,
+      "driver_name": "John Hunter Nemechek",
+      "car_number": "42",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 14,
+      "driver_id": 4065,
+      "driver_name": "Tyler Reddick",
+      "car_number": "45",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 15,
+      "driver_id": 4001,
+      "driver_name": "Ross Chastain",
+      "car_number": "1",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 16,
+      "driver_id": 3888,
+      "driver_name": "Ricky Stenhouse Jr.",
+      "car_number": "47",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 4096,
+      "driver_name": "Corey LaJoie",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 18,
+      "driver_id": 4368,
+      "driver_name": "Ty Gibbs",
+      "car_number": "54",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 19,
+      "driver_id": 3832,
+      "driver_name": "Michael McDowell",
+      "car_number": "34",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 20,
+      "driver_id": 4224,
+      "driver_name": "Noah Gragson",
+      "car_number": "10",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 21,
+      "driver_id": 4172,
+      "driver_name": "Justin Haley",
+      "car_number": "51",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 22,
+      "driver_id": 4062,
+      "driver_name": "Chase Elliott",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 23,
+      "driver_id": 4231,
+      "driver_name": "Todd Gilliland",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    }
+  ]
+}

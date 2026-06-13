@@ -1,9 +1,9 @@
-name: Scrape F1 Data
+name: Scrape IndyCar Data
 
 on:
   schedule:
-    # Run every Monday at 02:00 UTC (after race weekends)
-    - cron: '0 2 * * 1'
+    # Run every Monday at 06:00 UTC (after F1, MotoGP, and NASCAR)
+    - cron: '0 6 * * 1'
   workflow_dispatch:
     # Allow manual execution via the Actions tab
 
@@ -22,8 +22,8 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run F1 Scraper
-        run: python scripts/scrape_f1.py
+      - name: Run IndyCar Scraper
+        run: python scripts/scrape_indycar.py
 
       - name: Commit and push changes
         run: |
@@ -36,6 +36,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new data changes to commit."
           else
-            git commit -m "auto(data): update F1 data [skip ci]"
+            git commit -m "auto(data): update IndyCar data [skip ci]"
             git push
           fi

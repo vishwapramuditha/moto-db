@@ -1,0 +1,235 @@
+{
+  "season": "2024",
+  "event_id": "202408250790",
+  "name": "Grand Prix of Portland",
+  "date": "2024-08-25T19:00Z",
+  "status": "STATUS_FINAL",
+  "status_detail": "Final",
+  "updated_at": "2026-06-13T15:38:10.955975Z",
+  "results": [
+    {
+      "position": 1,
+      "winner": true,
+      "driver_id": "810",
+      "driver_name": "Will Power",
+      "driver_short_name": "W. Power",
+      "nationality": "Australia"
+    },
+    {
+      "position": 2,
+      "winner": false,
+      "driver_id": "5632",
+      "driver_name": "Álex Palou",
+      "driver_short_name": "Á. Palou",
+      "nationality": "Spain"
+    },
+    {
+      "position": 3,
+      "winner": false,
+      "driver_id": "4526",
+      "driver_name": "Josef Newgarden",
+      "driver_short_name": "J. Newgarden",
+      "nationality": "USA"
+    },
+    {
+      "position": 4,
+      "winner": false,
+      "driver_id": "5582",
+      "driver_name": "Colton Herta",
+      "driver_short_name": "C. Herta",
+      "nationality": "USA"
+    },
+    {
+      "position": 5,
+      "winner": false,
+      "driver_id": "5753",
+      "driver_name": "Marcus Armstrong",
+      "driver_short_name": "M. Armstrong",
+      "nationality": "New Zealand"
+    },
+    {
+      "position": 6,
+      "winner": false,
+      "driver_id": "4622",
+      "driver_name": "Marcus Ericsson",
+      "driver_short_name": "M. Ericsson",
+      "nationality": "Sweden"
+    },
+    {
+      "position": 7,
+      "winner": false,
+      "driver_id": "5648",
+      "driver_name": "Scott McLaughlin",
+      "driver_short_name": "S. McLaughlin",
+      "nationality": "New Zealand"
+    },
+    {
+      "position": 8,
+      "winner": false,
+      "driver_id": "5553",
+      "driver_name": "Santino Ferrucci",
+      "driver_short_name": "S. Ferrucci",
+      "nationality": "USA"
+    },
+    {
+      "position": 9,
+      "winner": false,
+      "driver_id": "872",
+      "driver_name": "Graham Rahal",
+      "driver_short_name": "G. Rahal",
+      "nationality": "USA"
+    },
+    {
+      "position": 10,
+      "winner": false,
+      "driver_id": "5704",
+      "driver_name": "Kyle Kirkwood",
+      "driver_short_name": "K. Kirkwood",
+      "nationality": "USA"
+    },
+    {
+      "position": 11,
+      "winner": false,
+      "driver_id": "5634",
+      "driver_name": "Rinus VeeKay",
+      "driver_short_name": "R. VeeKay",
+      "nationality": "Netherlands"
+    },
+    {
+      "position": 12,
+      "winner": false,
+      "driver_id": "4667",
+      "driver_name": "Alexander Rossi",
+      "driver_short_name": "A. Rossi",
+      "nationality": "USA"
+    },
+    {
+      "position": 13,
+      "winner": false,
+      "driver_id": "5691",
+      "driver_name": "Christian Lundgaard",
+      "driver_short_name": "C. Lundgaard",
+      "nationality": "Denmark"
+    },
+    {
+      "position": 14,
+      "winner": false,
+      "driver_id": "5590",
+      "driver_name": "Felix Rosenqvist",
+      "driver_short_name": "F. Rosenqvist",
+      "nationality": "Sweden"
+    },
+    {
+      "position": 15,
+      "winner": false,
+      "driver_id": "5581",
+      "driver_name": "Pato O'Ward",
+      "driver_short_name": "P. O'Ward",
+      "nationality": "Mexico"
+    },
+    {
+      "position": 16,
+      "winner": false,
+      "driver_id": "5798",
+      "driver_name": "Kyffin Simpson",
+      "driver_short_name": "K. Simpson",
+      "nationality": "Cayman Islands"
+    },
+    {
+      "position": 17,
+      "winner": false,
+      "driver_id": "5822",
+      "driver_name": "Toby Sowery",
+      "driver_short_name": "T. Sowery",
+      "nationality": "England"
+    },
+    {
+      "position": 18,
+      "winner": false,
+      "driver_id": "5750",
+      "driver_name": "Sting Ray Robb",
+      "driver_short_name": "S. Robb",
+      "nationality": "USA"
+    },
+    {
+      "position": 19,
+      "winner": false,
+      "driver_id": "5786",
+      "driver_name": "Jüri Vips",
+      "driver_short_name": "J. Vips",
+      "nationality": "Estonia"
+    },
+    {
+      "position": 20,
+      "winner": false,
+      "driver_id": "5706",
+      "driver_name": "David Malukas",
+      "driver_short_name": "D. Malukas",
+      "nationality": "USA"
+    },
+    {
+      "position": 21,
+      "winner": false,
+      "driver_id": "5810",
+      "driver_name": "Nolan Siegel",
+      "driver_short_name": "N. Siegel",
+      "nationality": "USA"
+    },
+    {
+      "position": 22,
+      "winner": false,
+      "driver_id": "4580",
+      "driver_name": "Conor Daly",
+      "driver_short_name": "C. Daly",
+      "nationality": "USA"
+    },
+    {
+      "position": 23,
+      "winner": false,
+      "driver_id": "5781",
+      "driver_name": "Linus Lundqvist",
+      "driver_short_name": "L. Lundqvist",
+      "nationality": ""
+    },
+    {
+      "position": 24,
+      "winner": false,
+      "driver_id": "4781",
+      "driver_name": "Jack Harvey",
+      "driver_short_name": "J. Harvey",
+      "nationality": "England"
+    },
+    {
+      "position": 25,
+      "winner": false,
+      "driver_id": "5549",
+      "driver_name": "Pietro Fittipaldi",
+      "driver_short_name": "P. Fittipaldi",
+      "nationality": "Brazil"
+    },
+    {
+      "position": 26,
+      "winner": false,
+      "driver_id": "5797",
+      "driver_name": "Christian Rasmussen",
+      "driver_short_name": "C. Rasmussen",
+      "nationality": "Denmark"
+    },
+    {
+      "position": 27,
+      "winner": false,
+      "driver_id": "4374",
+      "driver_name": "Romain Grosjean",
+      "driver_short_name": "R. Grosjean",
+      "nationality": "France"
+    },
+    {
+      "position": 28,
+      "winner": false,
+      "driver_id": "518",
+      "driver_name": "Scott Dixon",
+      "driver_short_name": "S. Dixon",
+      "nationality": "New Zealand"
+    }
+  ]
+}

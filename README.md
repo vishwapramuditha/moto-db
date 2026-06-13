@@ -30,6 +30,12 @@ You can query the files in this repository directly in your apps using standard 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/drivers.json`
 *   **MotoGP Circuits**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/tracks.json`
+*   **NASCAR Drivers**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/drivers.json`
+*   **NASCAR Tracks**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/tracks.json`
+*   **IndyCar Schedule (e.g., 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2025/schedule.json`
 
 ### Season & Race Data
 
@@ -41,6 +47,14 @@ You can query the files in this repository directly in your apps using standard 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/2025/schedule.json`
 *   **MotoGP Race Results (e.g., 2025 Thailand GP MotoGP Main Race)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/2025/THA/motogp_RAC.json`
+*   **NASCAR Schedule (e.g., 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/2025/schedule.json`
+*   **NASCAR Race Results (e.g., 2024 Daytona 500 NCS Main Race)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/2024/cup/results_5385.json`
+*   **IndyCar Schedule (e.g., 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2025/schedule.json`
+*   **IndyCar Race Results (e.g., 2024 Grand Prix of St. Petersburg)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2024/results_202403100104.json`
 
 *(Replace `main` with a specific commit hash or release tag in production to prevent unexpected layout changes if the schemas evolve).*
 
@@ -59,20 +73,35 @@ moto-db/
 │   │   └── {year}/
 │   │       ├── schedule.json      # Full season schedule
 │   │       └── results_{round}.json
-│   └── motogp/
-│       ├── drivers.json           # Active and historical MotoGP riders
-│       ├── tracks.json            # MotoGP circuits around the world
+│   ├── motogp/
+│   │   ├── drivers.json           # Active and historical MotoGP riders
+│   │   ├── tracks.json            # MotoGP circuits around the world
+│   │   └── {year}/
+│   │       ├── schedule.json      # Season schedule
+│   │       └── {event_short_name}/
+│   │               ├── motogp_RAC.json # Main Grand Prix Race results
+│   │               └── motogp_SPR.json # Sprint Race results (if applicable)
+│   ├── nascar/
+│   │   ├── drivers.json           # Active and historical NASCAR drivers
+│   │   ├── tracks.json            # NASCAR tracks around the world
+│   │   └── {year}/
+│   │       ├── schedule.json      # Season schedule (Cup, Xfinity, Truck)
+│   │       └── {series_name}/
+│   │           └── results_{race_id}.json # Race results (e.g. cup, xfinity, truck)
+│   └── indycar/
 │       └── {year}/
 │           ├── schedule.json      # Season schedule
-│           └── {event_short_name}/
-│               ├── motogp_RAC.json # Main Grand Prix Race results
-│               └── motogp_SPR.json # Sprint Race results (if applicable)
+│           └── results_{event_id}.json # Race results
 ├── scripts/
 │   ├── scrape_f1.py               # Python scraper for F1
-│   └── scrape_motogp.py           # Python scraper for MotoGP
+│   ├── scrape_motogp.py           # Python scraper for MotoGP
+│   ├── scrape_nascar.py           # Python scraper for NASCAR
+│   └── scrape_indycar.py          # Python scraper for IndyCar
 └── .github/workflows/
     ├── scrape_f1.yml              # Automated scraping action for F1
-    └── scrape_motogp.yml          # Automated scraping action for MotoGP
+    ├── scrape_motogp.yml          # Automated scraping action for MotoGP
+    ├── scrape_nascar.yml          # Automated scraping action for NASCAR
+    └── scrape_indycar.yml         # Automated scraping action for IndyCar
 ```
 
 ---
@@ -108,6 +137,26 @@ To scrape specific MotoGP years:
 python scripts/scrape_motogp.py --years 2024,2025
 ```
 
+#### NASCAR
+By default, NASCAR pulls data for the current year:
+```bash
+python scripts/scrape_nascar.py
+```
+To scrape specific NASCAR years:
+```bash
+python scripts/scrape_nascar.py --years 2024,2025
+```
+
+#### IndyCar
+By default, IndyCar pulls data for the current year:
+```bash
+python scripts/scrape_indycar.py
+```
+To scrape specific IndyCar years:
+```bash
+python scripts/scrape_indycar.py --years 2024,2025
+```
+
 ---
 
 ## 🛣️ Roadmap: All Motorsports 🏍️🏎️
@@ -115,8 +164,8 @@ python scripts/scrape_motogp.py --years 2024,2025
 We support:
 - [x] **Formula 1** (Complete - powered by Jolpica-F1 / Ergast API successor)
 - [x] **MotoGP** (Complete - powered by Pulse Live MotoGP API)
-- [ ] **NASCAR** (Schedules and results)
-- [ ] **IndyCar** (Schedules and results)
+- [x] **NASCAR** (Complete - powered by NASCAR cacher API)
+- [x] **IndyCar** (Complete - powered by ESPN IRL scoreboard API)
 - [ ] **Formula E & WEC** (Schedules, team sheets, results)
 
 Contributions are welcome! If you want to write a scraper or fix a typo, feel free to open a Pull Request.
