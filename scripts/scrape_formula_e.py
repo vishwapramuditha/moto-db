@@ -55,8 +55,12 @@ def fetch_wiki_data(year):
     prev_year = int(year) - 1
     # %E2%80%93 is the en dash URL encoded
     season_str = f"{prev_year}%E2%80%93{str(year)[-2:]}"
-    url = f"https://en.wikipedia.org/wiki/{season_str}_Formula_E_World_Championship"
     
+    if int(year) <= 2020:
+        url = f"https://en.wikipedia.org/wiki/{season_str}_Formula_E_Championship"
+    else:
+        url = f"https://en.wikipedia.org/wiki/{season_str}_Formula_E_World_Championship"
+        
     print(f"Fetching Formula E data from: {url}")
     req = urllib.request.Request(url, headers={'User-Agent': 'MotoDBScraper/1.0'})
     
@@ -189,19 +193,34 @@ def write_json(path, data):
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape Formula E Schedule and Results from Wikipedia")
-    parser.add_argument('--year', type=int, required=True, help="Season end year (e.g., 2025 for 2024-25 season)")
+    parser.add_argument('--year', type=int, help="Season end year (e.g., 2025 for 2024-25 season)")
+    parser.add_argument('--years', type=str, help="Comma-separated list of years to scrape (e.g. 2024,2025)")
+    parser.add_argument('--all-time', action='store_true', help="Scrape all historical years (2015 to current)")
     args = parser.parse_args()
     
-    schedule, results = fetch_wiki_data(args.year)
+    from datetime import datetime
+    current_year = datetime.now().year
     
-    if schedule or results:
-        out_dir = os.path.join(os.path.dirname(__file__), '..', 'data', 'formula_e', str(args.year))
-        ensure_dir(out_dir)
+    if args.all_time:
+        years = list(range(2015, current_year + 1))
+    elif args.years:
+        years = [int(y.strip()) for y in args.years.split(',')]
+    elif args.year:
+        years = [args.year]
+    else:
+        years = [current_year]
         
-        if schedule:
-            write_json(os.path.join(out_dir, 'schedule.json'), schedule)
-        if results:
-            write_json(os.path.join(out_dir, 'results.json'), results)
+    for year in years:
+        schedule, results = fetch_wiki_data(year)
+        
+        if schedule or results:
+            out_dir = os.path.join(os.path.dirname(__file__), '..', 'data', 'formula_e', str(year))
+            ensure_dir(out_dir)
+            
+            if schedule:
+                write_json(os.path.join(out_dir, 'schedule.json'), schedule)
+            if results:
+                write_json(os.path.join(out_dir, 'results.json'), results)
             
 if __name__ == "__main__":
     main()

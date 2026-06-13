@@ -1,0 +1,114 @@
+[
+  {
+    "round": "1",
+    "eprix": "Mexico City",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah",
+    "pole_position": "Jean-Éric Vergne",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "Andretti Formula E"
+  },
+  {
+    "round": "3",
+    "eprix": "Oliver Rowland",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Jaguar TCS Racing",
+    "winning_team": "Jaguar"
+  },
+  {
+    "round": "4",
+    "eprix": "São Paulo",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Sam Bird",
+    "winning_team": "NEOM McLaren Formula E Team"
+  },
+  {
+    "round": "5",
+    "eprix": "Tokyo",
+    "pole_position": "Oliver Rowland",
+    "winning_driver": "Maximilian Günther",
+    "winning_team": "Maserati MSG Racing"
+  },
+  {
+    "round": "6",
+    "eprix": "Misano",
+    "pole_position": "Mitch Evans",
+    "winning_driver": "Oliver Rowland",
+    "winning_team": "Nissan Formula E Team"
+  },
+  {
+    "round": "7",
+    "eprix": "Jake Hughes",
+    "pole_position": "António Félix da Costa",
+    "winning_driver": "TAG Heuer Porsche Formula E Team",
+    "winning_team": "Porsche"
+  },
+  {
+    "round": "8",
+    "eprix": "Monaco",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "9",
+    "eprix": "Berlin",
+    "pole_position": "Edoardo Mortara",
+    "winning_driver": "Nick Cassidy",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "10",
+    "eprix": "Jake Dennis",
+    "pole_position": "Norman Nato",
+    "winning_driver": "TAG Heuer Porsche Formula E Team",
+    "winning_team": "Porsche"
+  },
+  {
+    "round": "11",
+    "eprix": "Shanghai",
+    "pole_position": "Jean-Éric Vergne",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "12",
+    "eprix": "Jake Hughes",
+    "pole_position": "Norman Nato",
+    "winning_driver": "TAG Heuer Porsche Formula E Team",
+    "winning_team": "Porsche"
+  },
+  {
+    "round": "13",
+    "eprix": "Portland",
+    "pole_position": "Mitch Evans",
+    "winning_driver": "António Félix da Costa",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "14",
+    "eprix": "Jean-Éric Vergne",
+    "pole_position": "Robin Frijns",
+    "winning_driver": "TAG Heuer Porsche Formula E Team",
+    "winning_team": "Porsche"
+  },
+  {
+    "round": "15",
+    "eprix": "London",
+    "pole_position": "Mitch Evans",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "16",
+    "eprix": "Nick Cassidy",
+    "pole_position": "Jake Hughes",
+    "winning_driver": "Nissan Formula E Team",
+    "winning_team": "Nissan"
+  }
+]

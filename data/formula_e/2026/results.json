@@ -1,0 +1,72 @@
+[
+  {
+    "round": "1",
+    "eprix": "São Paulo",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "Andretti Formula E"
+  },
+  {
+    "round": "2",
+    "eprix": "Mexico City",
+    "pole_position": "Sébastien Buemi",
+    "winning_driver": "Nick Cassidy",
+    "winning_team": "Citroën Racing"
+  },
+  {
+    "round": "3",
+    "eprix": "Miami",
+    "pole_position": "Nico Müller",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "4",
+    "eprix": "Jeddah",
+    "pole_position": "Edoardo Mortara",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "Porsche Formula E Team"
+  },
+  {
+    "round": "5",
+    "eprix": "Edoardo Mortara",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Jaguar TCS Racing",
+    "winning_team": "Jaguar"
+  },
+  {
+    "round": "6",
+    "eprix": "Madrid",
+    "pole_position": "Nick Cassidy",
+    "winning_driver": "António Félix da Costa",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "7",
+    "eprix": "Berlin",
+    "pole_position": "Edoardo Mortara",
+    "winning_driver": "Nico Müller",
+    "winning_team": "Porsche Formula E Team"
+  },
+  {
+    "round": "8",
+    "eprix": "Pascal Wehrlein",
+    "pole_position": "Oliver Rowland",
+    "winning_driver": "Jaguar TCS Racing",
+    "winning_team": "Jaguar"
+  },
+  {
+    "round": "9",
+    "eprix": "Monaco",
+    "pole_position": "Dan Ticktum",
+    "winning_driver": "Nyck de Vries",
+    "winning_team": "Mahindra Racing"
+  },
+  {
+    "round": "10",
+    "eprix": "Dan Ticktum",
+    "pole_position": "Jean-Éric Vergne",
+    "winning_driver": "Nissan Formula E Team",
+    "winning_team": "Nissan"
+  }
+]

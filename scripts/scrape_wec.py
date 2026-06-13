@@ -257,6 +257,11 @@ def main():
         type=str,
         help="Comma-separated list of years to scrape (e.g. 2025,2026)",
     )
+    parser.add_argument(
+        "--all-time",
+        action="store_true",
+        help="Scrape all historical years available on the WEC website",
+    )
     args = parser.parse_args()
 
     dest_dir = os.path.join(
@@ -282,7 +287,9 @@ def main():
     current_year = datetime.now().year
 
     # Determine years to scrape
-    if args.years:
+    if args.all_time:
+        years = [int(y) for y in homepage_parser.season_mapping.keys() if str(y).isdigit()]
+    elif args.years:
         years = [int(y.strip()) for y in args.years.split(",")]
     else:
         # Default to current year and previous year to align with standard practices

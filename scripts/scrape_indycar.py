@@ -178,6 +178,11 @@ def main():
         type=str,
         help="Comma-separated list of years to scrape (e.g. 2024,2025)",
     )
+    parser.add_argument(
+        "--all-time",
+        action="store_true",
+        help="Scrape all historical years (2008 to current)",
+    )
     args = parser.parse_args()
 
     dest_dir = os.path.join(
@@ -187,7 +192,9 @@ def main():
     current_year = datetime.now().year
 
     # Determine years to scrape
-    if args.years:
+    if args.all_time:
+        years = list(range(2008, current_year + 1))
+    elif args.years:
         years = [int(y.strip()) for y in args.years.split(",")]
     else:
         # Default to current year

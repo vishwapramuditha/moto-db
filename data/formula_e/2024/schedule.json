@@ -1,0 +1,114 @@
+[
+  {
+    "round": "1",
+    "eprix": "Mexico City ePrix",
+    "country": "Autódromo Hermanos Rodríguez",
+    "circuit": "13 January 2024",
+    "date": "13 January 2024"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "26 January 2024",
+    "date": "26 January 2024"
+  },
+  {
+    "round": "3",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "26 January 2024",
+    "date": "27 January 2024"
+  },
+  {
+    "round": "4",
+    "eprix": "São Paulo ePrix",
+    "country": "São Paulo Street Circuit",
+    "circuit": "16 March 2024",
+    "date": "16 March 2024"
+  },
+  {
+    "round": "5",
+    "eprix": "Tokyo ePrix",
+    "country": "Tokyo Street Circuit",
+    "circuit": "30 March 2024",
+    "date": "30 March 2024"
+  },
+  {
+    "round": "6",
+    "eprix": "Misano ePrix",
+    "country": "Misano World Circuit Marco Simoncelli",
+    "circuit": "13 April 2024",
+    "date": "13 April 2024"
+  },
+  {
+    "round": "7",
+    "eprix": "Misano ePrix",
+    "country": "Misano World Circuit Marco Simoncelli",
+    "circuit": "13 April 2024",
+    "date": "14 April 2024"
+  },
+  {
+    "round": "8",
+    "eprix": "Monaco ePrix",
+    "country": "Circuit de Monaco",
+    "circuit": "27 April 2024",
+    "date": "27 April 2024"
+  },
+  {
+    "round": "9",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "11 May 2024",
+    "date": "11 May 2024"
+  },
+  {
+    "round": "10",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "11 May 2024",
+    "date": "12 May 2024"
+  },
+  {
+    "round": "11",
+    "eprix": "Shanghai ePrix",
+    "country": "Shanghai International Circuit",
+    "circuit": "25 May 2024",
+    "date": "25 May 2024"
+  },
+  {
+    "round": "12",
+    "eprix": "Shanghai ePrix",
+    "country": "Shanghai International Circuit",
+    "circuit": "25 May 2024",
+    "date": "26 May 2024"
+  },
+  {
+    "round": "13",
+    "eprix": "Portland ePrix",
+    "country": "Portland International Raceway",
+    "circuit": "29 June 2024",
+    "date": "29 June 2024"
+  },
+  {
+    "round": "14",
+    "eprix": "Portland ePrix",
+    "country": "Portland International Raceway",
+    "circuit": "29 June 2024",
+    "date": "30 June 2024"
+  },
+  {
+    "round": "15",
+    "eprix": "London ePrix",
+    "country": "ExCeL London",
+    "circuit": "20 July 2024",
+    "date": "20 July 2024"
+  },
+  {
+    "round": "16",
+    "eprix": "London ePrix",
+    "country": "ExCeL London",
+    "circuit": "20 July 2024",
+    "date": "21 July 2024"
+  }
+]

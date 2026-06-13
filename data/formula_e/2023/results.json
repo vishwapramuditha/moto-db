@@ -1,0 +1,114 @@
+[
+  {
+    "round": "1",
+    "eprix": "Mexico City",
+    "pole_position": "Lucas di Grassi",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "Avalanche Andretti Formula E"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah",
+    "pole_position": "Sébastien Buemi",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "3",
+    "eprix": "Diriyah",
+    "pole_position": "Jake Hughes",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "4",
+    "eprix": "Hyderabad",
+    "pole_position": "Mitch Evans",
+    "winning_driver": "Jean-Éric Vergne",
+    "winning_team": "DS Penske"
+  },
+  {
+    "round": "5",
+    "eprix": "Cape Town",
+    "pole_position": "Sacha Fenestraz",
+    "winning_driver": "António Félix da Costa",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "6",
+    "eprix": "São Paulo",
+    "pole_position": "Stoffel Vandoorne",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "7",
+    "eprix": "Berlin",
+    "pole_position": "Sébastien Buemi",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "8",
+    "eprix": "Berlin",
+    "pole_position": "Robin Frijns",
+    "winning_driver": "Nick Cassidy",
+    "winning_team": "Envision Racing"
+  },
+  {
+    "round": "9",
+    "eprix": "Monaco",
+    "pole_position": "Jake Hughes",
+    "winning_driver": "Nick Cassidy",
+    "winning_team": "Envision Racing"
+  },
+  {
+    "round": "10",
+    "eprix": "Jakarta",
+    "pole_position": "Maximilian Günther",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "TAG Heuer Porsche Formula E Team"
+  },
+  {
+    "round": "11",
+    "eprix": "Jakarta",
+    "pole_position": "Maximilian Günther",
+    "winning_driver": "Maximilian Günther",
+    "winning_team": "Maserati MSG Racing"
+  },
+  {
+    "round": "12",
+    "eprix": "Portland",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Nick Cassidy",
+    "winning_team": "Envision Racing"
+  },
+  {
+    "round": "13",
+    "eprix": "Rome",
+    "pole_position": "Mitch Evans",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "14",
+    "eprix": "Rome",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "Avalanche Andretti Formula E"
+  },
+  {
+    "round": "15",
+    "eprix": "London",
+    "pole_position": "Mitch Evans",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
+  },
+  {
+    "round": "16",
+    "eprix": "London",
+    "pole_position": "Nick Cassidy",
+    "winning_driver": "Nick Cassidy",
+    "winning_team": "Envision Racing"
+  }
+]

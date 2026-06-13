@@ -69,33 +69,47 @@ def validate_json_file(file_path):
                 
     # 3. Schedule files validation
     elif filename == 'schedule.json':
-        if not isinstance(data, dict):
-            print(f"[ERROR] STRUCTURE ERROR: {file_path} schedule must be an object (dict).")
-            return False
-            
-        has_season = 'season' in data or 'year' in data
-        if not has_season:
-            print(f"[ERROR] DATA ERROR: {file_path} is missing a 'season' or 'year' field.")
-            return False
-            
-        races_list = None
-        for k in ['races', 'schedule', 'events', 'rounds']:
-            if k in data and isinstance(data[k], list):
-                races_list = data[k]
-                break
+        races_lists = []
+        
+        if isinstance(data, list):
+            races_lists.append(data)
+        elif isinstance(data, dict):
+            has_season = any(k in data for k in ['season', 'year', 'season_year', 'series'])
+            if not has_season:
+                print(f"[ERROR] DATA ERROR: {file_path} is missing a 'season' or 'year' field.")
+                return False
                 
-        if races_list is None:
-            print(f"[ERROR] STRUCTURE ERROR: {file_path} schedule must contain an events/races list.")
+            if 'series' in data and isinstance(data['series'], dict):
+                for series_name, series_list in data['series'].items():
+                    if isinstance(series_list, list):
+                        races_lists.append(series_list)
+            else:
+                found_list = False
+                for k in ['races', 'schedule', 'events', 'rounds']:
+                    if k in data and isinstance(data[k], list):
+                        races_lists.append(data[k])
+                        found_list = True
+                        break
+                if not found_list:
+                    print(f"[ERROR] STRUCTURE ERROR: {file_path} schedule must contain an events/races list.")
+                    return False
+        else:
+            print(f"[ERROR] STRUCTURE ERROR: {file_path} schedule must be a list or a dictionary.")
+            return False
+
+        if not races_lists:
+            print(f"[ERROR] STRUCTURE ERROR: {file_path} schedule does not contain any races to validate.")
             return False
             
-        for idx, race in enumerate(races_list):
-            if not isinstance(race, dict):
-                print(f"[ERROR] DATA ERROR: {file_path} race event at index {idx} is not an object.")
-                return False
-            has_name = any(k in race for k in ['raceName', 'name', 'event_name', 'title'])
-            if not has_name:
-                print(f"[ERROR] DATA ERROR: {file_path} race event at index {idx} is missing a name/title.")
-                return False
+        for races_list in races_lists:
+            for idx, race in enumerate(races_list):
+                if not isinstance(race, dict):
+                    print(f"[ERROR] DATA ERROR: {file_path} race event at index {idx} is not an object.")
+                    return False
+                has_name = any(k in race for k in ['raceName', 'name', 'event_name', 'title', 'race_name', 'eprix'])
+                if not has_name:
+                    print(f"[ERROR] DATA ERROR: {file_path} race event at index {idx} is missing a name/title/eprix/race_name.")
+                    return False
                 
     # 4. Results files validation
     elif filename.startswith('results_') or filename.endswith('_RAC.json') or filename.endswith('_SPR.json'):

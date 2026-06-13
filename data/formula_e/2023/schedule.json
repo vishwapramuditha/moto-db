@@ -1,0 +1,114 @@
+[
+  {
+    "round": "1",
+    "eprix": "Hankook Mexico City ePrix",
+    "country": "Autódromo Hermanos Rodríguez",
+    "circuit": "14 January 2023",
+    "date": "14 January 2023"
+  },
+  {
+    "round": "2",
+    "eprix": "CORE Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "27 January 2023",
+    "date": "27 January 2023"
+  },
+  {
+    "round": "3",
+    "eprix": "CORE Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "27 January 2023",
+    "date": "28 January 2023"
+  },
+  {
+    "round": "4",
+    "eprix": "Greenko Hyderabad ePrix",
+    "country": "Hyderabad Street Circuit",
+    "circuit": "11 February 2023",
+    "date": "11 February 2023"
+  },
+  {
+    "round": "5",
+    "eprix": "Cape Town ePrix",
+    "country": "Cape Town Street Circuit",
+    "circuit": "25 February 2023",
+    "date": "25 February 2023"
+  },
+  {
+    "round": "6",
+    "eprix": "Julius Baer São Paulo ePrix",
+    "country": "São Paulo Street Circuit",
+    "circuit": "25 March 2023",
+    "date": "25 March 2023"
+  },
+  {
+    "round": "7",
+    "eprix": "SABIC Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "22 April 2023",
+    "date": "22 April 2023"
+  },
+  {
+    "round": "8",
+    "eprix": "SABIC Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "22 April 2023",
+    "date": "23 April 2023"
+  },
+  {
+    "round": "9",
+    "eprix": "Monaco ePrix",
+    "country": "Circuit de Monaco",
+    "circuit": "6 May 2023",
+    "date": "6 May 2023"
+  },
+  {
+    "round": "10",
+    "eprix": "Gulavit Jakarta ePrix",
+    "country": "Jakarta International e-Prix Circuit",
+    "circuit": "3 June 2023",
+    "date": "3 June 2023"
+  },
+  {
+    "round": "11",
+    "eprix": "Gulavit Jakarta ePrix",
+    "country": "Jakarta International e-Prix Circuit",
+    "circuit": "3 June 2023",
+    "date": "4 June 2023"
+  },
+  {
+    "round": "12",
+    "eprix": "Southwire Portland ePrix",
+    "country": "Portland International Raceway",
+    "circuit": "24 June 2023",
+    "date": "24 June 2023"
+  },
+  {
+    "round": "13",
+    "eprix": "Hankook Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "15 July 2023",
+    "date": "15 July 2023"
+  },
+  {
+    "round": "14",
+    "eprix": "Hankook Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "15 July 2023",
+    "date": "16 July 2023"
+  },
+  {
+    "round": "15",
+    "eprix": "Hankook London ePrix",
+    "country": "ExCeL London",
+    "circuit": "29 July 2023",
+    "date": "29 July 2023"
+  },
+  {
+    "round": "16",
+    "eprix": "Hankook London ePrix",
+    "country": "ExCeL London",
+    "circuit": "29 July 2023",
+    "date": "30 July 2023"
+  }
+]

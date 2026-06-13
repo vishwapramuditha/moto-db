@@ -1,0 +1,93 @@
+[
+  {
+    "round": "1",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "15 December 2018",
+    "date": "15 December 2018"
+  },
+  {
+    "round": "2",
+    "eprix": "Marrakesh ePrix",
+    "country": "Circuit International Automobile Moulay El Hassan",
+    "circuit": "12 January 2019",
+    "date": "12 January 2019"
+  },
+  {
+    "round": "3",
+    "eprix": "Santiago ePrix",
+    "country": "Parque O'Higgins Circuit",
+    "circuit": "26 January 2019",
+    "date": "26 January 2019"
+  },
+  {
+    "round": "4",
+    "eprix": "Mexico City ePrix",
+    "country": "Autódromo Hermanos Rodríguez",
+    "circuit": "16 February 2019",
+    "date": "16 February 2019"
+  },
+  {
+    "round": "5",
+    "eprix": "Hong Kong ePrix",
+    "country": "Hong Kong Central Harbourfront Circuit",
+    "circuit": "10 March 2019",
+    "date": "10 March 2019"
+  },
+  {
+    "round": "6",
+    "eprix": "Sanya ePrix",
+    "country": "Haitang Bay Circuit",
+    "circuit": "23 March 2019",
+    "date": "23 March 2019"
+  },
+  {
+    "round": "7",
+    "eprix": "Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "13 April 2019",
+    "date": "13 April 2019"
+  },
+  {
+    "round": "8",
+    "eprix": "Paris ePrix",
+    "country": "Paris Street Circuit",
+    "circuit": "27 April 2019",
+    "date": "27 April 2019"
+  },
+  {
+    "round": "9",
+    "eprix": "Monaco ePrix",
+    "country": "Circuit de Monaco",
+    "circuit": "11 May 2019",
+    "date": "11 May 2019"
+  },
+  {
+    "round": "10",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "25 May 2019",
+    "date": "25 May 2019"
+  },
+  {
+    "round": "11",
+    "eprix": "Swiss ePrix",
+    "country": "Bern Street Circuit",
+    "circuit": "22 June 2019",
+    "date": "22 June 2019"
+  },
+  {
+    "round": "12",
+    "eprix": "New York City ePrix Race 1",
+    "country": "Brooklyn Street Circuit",
+    "circuit": "13 July 2019",
+    "date": "13 July 2019"
+  },
+  {
+    "round": "13",
+    "eprix": "New York City ePrix Race 1",
+    "country": "Brooklyn Street Circuit",
+    "circuit": "13 July 2019",
+    "date": "14 July 2019"
+  }
+]

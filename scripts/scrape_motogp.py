@@ -92,6 +92,7 @@ def update_global_db(file_path, items_key, new_items, id_key="id"):
 def main():
     parser = argparse.ArgumentParser(description="Scrape MotoGP database from Pulse Live API")
     parser.add_argument("--years", type=str, help="Comma-separated list of years to scrape (e.g. 2024,2025)")
+    parser.add_argument("--all-time", action="store_true", help="Scrape all historical years available in the API")
     args = parser.parse_args()
     
     dest_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "motogp")
@@ -107,9 +108,13 @@ def main():
         return
         
     current_year = datetime.now().year
-    target_years = [current_year]
-    if args.years:
+    
+    if args.all_time:
+        target_years = [season.get("year") for season in seasons_data if season.get("year")]
+    elif args.years:
         target_years = [int(y.strip()) for y in args.years.split(",")]
+    else:
+        target_years = [current_year]
         
     # Map target years to season UUIDs
     year_to_uuid = {}

@@ -1,0 +1,114 @@
+[
+  {
+    "round": "1",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "28 January 2022",
+    "date": "28 January 2022"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "28 January 2022",
+    "date": "29 January 2022"
+  },
+  {
+    "round": "3",
+    "eprix": "Mexico City ePrix",
+    "country": "Autódromo Hermanos Rodríguez",
+    "circuit": "12 February 2022",
+    "date": "12 February 2022"
+  },
+  {
+    "round": "4",
+    "eprix": "Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "9 April 2022",
+    "date": "9 April 2022"
+  },
+  {
+    "round": "5",
+    "eprix": "Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "9 April 2022",
+    "date": "10 April 2022"
+  },
+  {
+    "round": "6",
+    "eprix": "Monaco ePrix",
+    "country": "Circuit de Monaco",
+    "circuit": "30 April 2022",
+    "date": "30 April 2022"
+  },
+  {
+    "round": "7",
+    "eprix": "Berlin ePrix I",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "14 May 2022",
+    "date": "14 May 2022"
+  },
+  {
+    "round": "8",
+    "eprix": "Berlin ePrix I",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "14 May 2022",
+    "date": "15 May 2022"
+  },
+  {
+    "round": "9",
+    "eprix": "Jakarta ePrix",
+    "country": "Jakarta International e-Prix Circuit",
+    "circuit": "4 June 2022",
+    "date": "4 June 2022"
+  },
+  {
+    "round": "10",
+    "eprix": "Marrakesh ePrix",
+    "country": "Circuit International Automobile Moulay El Hassan",
+    "circuit": "2 July 2022",
+    "date": "2 July 2022"
+  },
+  {
+    "round": "11",
+    "eprix": "New York City ePrix",
+    "country": "Brooklyn Street Circuit",
+    "circuit": "16 July 2022",
+    "date": "16 July 2022"
+  },
+  {
+    "round": "12",
+    "eprix": "New York City ePrix",
+    "country": "Brooklyn Street Circuit",
+    "circuit": "16 July 2022",
+    "date": "17 July 2022"
+  },
+  {
+    "round": "13",
+    "eprix": "London ePrix",
+    "country": "ExCeL London",
+    "circuit": "30 July 2022",
+    "date": "30 July 2022"
+  },
+  {
+    "round": "14",
+    "eprix": "London ePrix",
+    "country": "ExCeL London",
+    "circuit": "30 July 2022",
+    "date": "31 July 2022"
+  },
+  {
+    "round": "15",
+    "eprix": "Seoul ePrix",
+    "country": "Seoul Street Circuit",
+    "circuit": "13 August 2022",
+    "date": "13 August 2022"
+  },
+  {
+    "round": "16",
+    "eprix": "Seoul ePrix",
+    "country": "Seoul Street Circuit",
+    "circuit": "13 August 2022",
+    "date": "14 August 2022"
+  }
+]

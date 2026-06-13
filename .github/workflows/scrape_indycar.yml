@@ -5,7 +5,12 @@ on:
     # Run every Monday at 06:00 UTC (after F1, MotoGP, and NASCAR)
     - cron: '0 6 * * 1'
   workflow_dispatch:
-    # Allow manual execution via the Actions tab
+    inputs:
+      all_time:
+        description: 'Fetch all historical data'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   scrape:
@@ -23,7 +28,12 @@ jobs:
           python-version: '3.10'
 
       - name: Run IndyCar Scraper
-        run: python scripts/scrape_indycar.py
+        run: |
+          if [ "${{ github.event.inputs.all_time }}" == "true" ]; then
+            python scripts/scrape_indycar.py --all-time
+          else
+            python scripts/scrape_indycar.py
+          fi
 
       - name: Commit and push changes
         run: |

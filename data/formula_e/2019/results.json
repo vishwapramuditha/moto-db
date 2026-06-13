@@ -1,0 +1,93 @@
+[
+  {
+    "round": "1",
+    "eprix": "Ad Diriyah",
+    "pole_position": "António Félix da Costa",
+    "winning_driver": "António Félix da Costa",
+    "winning_team": "BMW i Andretti Motorsport"
+  },
+  {
+    "round": "2",
+    "eprix": "Marrakesh",
+    "pole_position": "Sam Bird",
+    "winning_driver": "Jérôme d'Ambrosio",
+    "winning_team": "Mahindra Racing"
+  },
+  {
+    "round": "3",
+    "eprix": "Santiago",
+    "pole_position": "Sébastien Buemi",
+    "winning_driver": "Sam Bird",
+    "winning_team": "Envision Virgin Racing"
+  },
+  {
+    "round": "4",
+    "eprix": "Mexico City",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Lucas di Grassi",
+    "winning_team": "Audi Sport Abt Schaeffler"
+  },
+  {
+    "round": "5",
+    "eprix": "Hong Kong",
+    "pole_position": "Stoffel Vandoorne",
+    "winning_driver": "Edoardo Mortara",
+    "winning_team": "Venturi Formula E Team"
+  },
+  {
+    "round": "6",
+    "eprix": "Sanya",
+    "pole_position": "Oliver Rowland",
+    "winning_driver": "Jean-Éric Vergne",
+    "winning_team": "DS Techeetah"
+  },
+  {
+    "round": "7",
+    "eprix": "Rome",
+    "pole_position": "André Lotterer",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Panasonic Jaguar Racing"
+  },
+  {
+    "round": "8",
+    "eprix": "Paris",
+    "pole_position": "Oliver Rowland",
+    "winning_driver": "Robin Frijns",
+    "winning_team": "Envision Virgin Racing"
+  },
+  {
+    "round": "9",
+    "eprix": "Monaco",
+    "pole_position": "Oliver Rowland",
+    "winning_driver": "Jean-Éric Vergne",
+    "winning_team": "DS Techeetah"
+  },
+  {
+    "round": "10",
+    "eprix": "Berlin",
+    "pole_position": "Sébastien Buemi",
+    "winning_driver": "Lucas di Grassi",
+    "winning_team": "Audi Sport Abt Schaeffler"
+  },
+  {
+    "round": "11",
+    "eprix": "Bern",
+    "pole_position": "Jean-Éric Vergne",
+    "winning_driver": "Jean-Éric Vergne",
+    "winning_team": "DS Techeetah"
+  },
+  {
+    "round": "12",
+    "eprix": "New York City",
+    "pole_position": "Sébastien Buemi",
+    "winning_driver": "Sébastien Buemi",
+    "winning_team": "Nissan e.dams"
+  },
+  {
+    "round": "13",
+    "eprix": "New York City",
+    "pole_position": "Alexander Sims",
+    "winning_driver": "Robin Frijns",
+    "winning_team": "Envision Virgin Racing"
+  }
+]

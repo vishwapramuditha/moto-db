@@ -5,6 +5,12 @@ on:
     # Run every Tuesday at 08:00 UTC (after weekend races are typically updated on Wiki)
     - cron: '0 8 * * 2'
   workflow_dispatch:
+    inputs:
+      all_time:
+        description: 'Fetch all historical data'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   scrape:
@@ -17,8 +23,13 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Scrape Formula E Season 2025
-        run: python scripts/scrape_formula_e.py --year 2025
+      - name: Scrape Formula E Season
+        run: |
+          if [ "${{ github.event.inputs.all_time }}" == "true" ]; then
+            python scripts/scrape_formula_e.py --all-time
+          else
+            python scripts/scrape_formula_e.py
+          fi
           
       - name: Commit and push changes
         run: |
