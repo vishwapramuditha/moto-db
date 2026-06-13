@@ -1,0 +1,41 @@
+name: Scrape F1 Data
+
+on:
+  schedule:
+    # Run every Monday at 02:00 UTC (after race weekends)
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+    # Allow manual execution via the Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push committed changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-python: '3.10'
+
+      - name: Run F1 Scraper
+        run: python scripts/scrape_f1.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add data/
+          
+          # Check if there are changes to commit
+          if git diff --cached --quiet; then
+            echo "No new data changes to commit."
+          else
+            git commit -m "auto(data): update F1 data [skip ci]"
+            git push
+          fi
