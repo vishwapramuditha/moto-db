@@ -1,0 +1,29 @@
+name: Scrape Formula E Data
+
+on:
+  schedule:
+    # Run every Tuesday at 08:00 UTC (after weekend races are typically updated on Wiki)
+    - cron: '0 8 * * 2'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Scrape Formula E Season 2025
+        run: python scripts/scrape_formula_e.py --year 2025
+          
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/formula_e/
+          git commit -m "Automated update of Formula E data" || echo "No changes to commit"
+          git push

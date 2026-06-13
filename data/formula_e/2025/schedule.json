@@ -1,0 +1,114 @@
+[
+  {
+    "round": "1",
+    "eprix": "São Paulo ePrix",
+    "country": "Brazil",
+    "circuit": "São Paulo Street Circuit",
+    "date": "7 December 2024"
+  },
+  {
+    "round": "2",
+    "eprix": "Mexico City ePrix",
+    "country": "Mexico",
+    "circuit": "Autódromo Hermanos Rodríguez",
+    "date": "11 January 2025"
+  },
+  {
+    "round": "3",
+    "eprix": "Jeddah ePrix",
+    "country": "Saudi Arabia",
+    "circuit": "Jeddah Corniche Circuit",
+    "date": "14 February 2025"
+  },
+  {
+    "round": "4",
+    "eprix": "Jeddah ePrix",
+    "country": "Saudi Arabia",
+    "circuit": "Jeddah Corniche Circuit",
+    "date": "15 February 2025"
+  },
+  {
+    "round": "5",
+    "eprix": "Miami ePrix",
+    "country": "United States",
+    "circuit": "Homestead–Miami Speedway",
+    "date": "12 April 2025"
+  },
+  {
+    "round": "6",
+    "eprix": "Monaco ePrix",
+    "country": "Monaco",
+    "circuit": "Circuit de Monaco",
+    "date": "3 May 2025"
+  },
+  {
+    "round": "7",
+    "eprix": "Monaco ePrix",
+    "country": "Monaco",
+    "circuit": "Circuit de Monaco",
+    "date": "4 May 2025"
+  },
+  {
+    "round": "8",
+    "eprix": "Tokyo ePrix",
+    "country": "Japan",
+    "circuit": "Tokyo Street Circuit",
+    "date": "17 May 2025"
+  },
+  {
+    "round": "9",
+    "eprix": "Tokyo ePrix",
+    "country": "Japan",
+    "circuit": "Tokyo Street Circuit",
+    "date": "18 May 2025"
+  },
+  {
+    "round": "10",
+    "eprix": "Shanghai ePrix",
+    "country": "China",
+    "circuit": "Shanghai International Circuit",
+    "date": "31 May 2025"
+  },
+  {
+    "round": "11",
+    "eprix": "Shanghai ePrix",
+    "country": "China",
+    "circuit": "Shanghai International Circuit",
+    "date": "1 June 2025"
+  },
+  {
+    "round": "12",
+    "eprix": "Jakarta ePrix",
+    "country": "Indonesia",
+    "circuit": "Jakarta International e-Prix Circuit",
+    "date": "21 June 2025"
+  },
+  {
+    "round": "13",
+    "eprix": "Berlin ePrix",
+    "country": "Germany",
+    "circuit": "Tempelhof Airport Street Circuit",
+    "date": "12 July 2025"
+  },
+  {
+    "round": "14",
+    "eprix": "Berlin ePrix",
+    "country": "Germany",
+    "circuit": "Tempelhof Airport Street Circuit",
+    "date": "13 July 2025"
+  },
+  {
+    "round": "15",
+    "eprix": "London ePrix",
+    "country": "United Kingdom",
+    "circuit": "ExCeL London Circuit",
+    "date": "26 July 2025"
+  },
+  {
+    "round": "16",
+    "eprix": "London ePrix",
+    "country": "United Kingdom",
+    "circuit": "ExCeL London Circuit",
+    "date": "27 July 2025"
+  }
+]

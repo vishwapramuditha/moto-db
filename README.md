@@ -1,24 +1,27 @@
 # Moto-DB 🏎️🏍️🏁
 
-An open-source, developer-friendly database of schedules, race results, driver profiles, and track metadata for major motorsports—hosted entirely on GitHub and accessible for **$0** in hosting costs.
+<p align="center">
+  <img src="website/public/hero-car.svg" alt="Moto-DB F1 Dotted Car Banner" width="480">
+</p>
 
-The goal of this project is to provide a clean, structured JSON API that developers can use to build dashboards, mobile apps, statistics sites, or calendar integrations without managing database servers.
+An open-source, developer-friendly database of schedules, race results, driver profiles, and track metadata for major motorsports—hosted entirely on GitHub and accessible for **$0** in hosting costs with infinite scale.
 
 ---
 
 ## 🛠️ Architecture: Git-as-a-Database
 
-Instead of hosting a database server (which has cost limits and maintenance overhead), this project uses GitHub as the primary data store. 
+Instead of maintaining a complex, expensive database server (which has API rate limits, server maintenance overhead, and latency spikes), Moto-DB runs entirely on a **Git-as-a-Database** model:
 
-1. **Automation**: GitHub Actions runs Python scrapers periodically (e.g. after race weekends).
-2. **Data Model**: Clean, formatted JSON files are committed directly into the repository.
-3. **CDN Access**: Developers query the JSON files directly via a free CDN like `jsDelivr`, which offers fast response times, global caching, and unlimited scaling.
+1. **Automated Collection**: GitHub Actions trigger Python scraping scripts (located in `/scripts`) on cron schedules (hourly/daily).
+2. **Schema Validation**: Crawled datasets are parsed and validated against our strict JSON schema specifications to prevent schema drift.
+3. **Decentralized Storage**: Validated JSON files are committed directly back to the public repository under the `/data` directory.
+4. **Edge CDN Delivery**: Developers fetch the data directly via the `jsDelivr` CDN. Files are cached globally across edge networks (Cloudflare, Fastly, BunnyCDN), resulting in response times under 50ms worldwide and zero hosting fees.
 
 ---
 
-## 🚀 How to use the API (jsDelivr CDN)
+## 🚀 How to use the API (jsDelivr CDN Endpoints)
 
-You can query the files in this repository directly in your apps using standard HTTP requests:
+You can query Moto-DB directly in your client-side (React, Vue, Swift, Android) or server-side (Node, Python, Go) applications using standard HTTP GET requests.
 
 ### Global Metadata
 
@@ -34,35 +37,48 @@ You can query the files in this repository directly in your apps using standard 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/drivers.json`
 *   **NASCAR Tracks**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/tracks.json`
-*   **IndyCar Schedule (e.g., 2025)**:
-    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2025/schedule.json`
 
 ### Season & Race Data
 
-*   **F1 Schedule (e.g., 2025)**:
+*   **F1 Schedule (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f1/2025/schedule.json`
-*   **F1 Round Results (e.g., 2025 Round 1)**:
+*   **F1 Results (e.g. 2025 Round 1)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f1/2025/results_1.json`
-*   **MotoGP Schedule (e.g., 2025)**:
+*   **MotoGP Schedule (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/2025/schedule.json`
-*   **MotoGP Race Results (e.g., 2025 Thailand GP MotoGP Main Race)**:
+*   **MotoGP Results (e.g. 2025 Thailand GP MotoGP Main Race)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/motogp/2025/THA/motogp_RAC.json`
-*   **NASCAR Schedule (e.g., 2025)**:
+*   **NASCAR Schedule (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/2025/schedule.json`
-*   **NASCAR Race Results (e.g., 2024 Daytona 500 NCS Main Race)**:
+*   **NASCAR Results (e.g. 2024 Cup Series Event 5385)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/nascar/2024/cup/results_5385.json`
-*   **IndyCar Schedule (e.g., 2025)**:
+*   **IndyCar Schedule (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2025/schedule.json`
-*   **IndyCar Race Results (e.g., 2024 Grand Prix of St. Petersburg)**:
+*   **IndyCar Results (e.g. 2024 GP of St. Petersburg)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2024/results_202403100104.json`
+*   **WEC Schedule (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wec/2025/schedule.json`
+*   **Formula E Schedule (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/formula_e/2025/schedule.json`
+*   **Formula E Results (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/formula_e/2025/results.json`
 
-*(Replace `main` with a specific commit hash or release tag in production to prevent unexpected layout changes if the schemas evolve).*
+---
+
+## 📖 Best Practices for Developers
+
+### 1. Commit Version Pinning
+Using `@main` in URLs serves the latest database commits instantly. However, for production workloads, it is recommended to replace `@main` with a specific commit hash (e.g. `@32d4a1b`) or release tag. This secures version locking, protecting your applications from breaking changes if schemas evolve.
+```text
+https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@<commit-hash>/data/f1/2025/schedule.json
+```
+
+### 2. CORS & Client-Side Loading
+All jsDelivr responses are fully CORS-enabled. You can request endpoints directly from single-page web applications without having to configure proxy routing or API CORS headers on your own backend.
 
 ---
 
 ## 📁 Repository Structure
-
-All data is structured in folders categorized by motorsport and year:
 
 ```text
 moto-db/
@@ -88,27 +104,38 @@ moto-db/
 │   │       ├── schedule.json      # Season schedule (Cup, Xfinity, Truck)
 │   │       └── {series_name}/
 │   │           └── results_{race_id}.json # Race results (e.g. cup, xfinity, truck)
-│   └── indycar/
+│   ├── indycar/
+│   │   └── {year}/
+│   │       ├── schedule.json      # Season schedule
+│   │       └── results_{event_id}.json # Race results
+│   └── wec/
 │       └── {year}/
-│           ├── schedule.json      # Season schedule
-│           └── results_{event_id}.json # Race results
+│           └── schedule.json      # WEC season schedule
+│   └── formula_e/
+│       └── {year}/
+│           ├── schedule.json      # Formula E season schedule
+│           └── results.json       # Wikipedia scraped FE results
 ├── scripts/
-│   ├── scrape_f1.py               # Python scraper for F1
-│   ├── scrape_motogp.py           # Python scraper for MotoGP
-│   ├── scrape_nascar.py           # Python scraper for NASCAR
-│   └── scrape_indycar.py          # Python scraper for IndyCar
+│   ├── scrape_f1.py               # Python scraper for F1 (Jolpica)
+│   ├── scrape_motogp.py           # Python scraper for MotoGP (Pulse Live API)
+│   ├── scrape_nascar.py           # Python scraper for NASCAR (Cup/Xfinity/Truck)
+│   ├── scrape_indycar.py          # Python scraper for IndyCar (ESPN Scoreboard)
+│   ├── scrape_wec.py              # Python scraper for WEC (fiawec.com LD-JSON)
+│   └── scrape_formula_e.py        # Python scraper for Formula E (Wiki HTML Tables)
 └── .github/workflows/
-    ├── scrape_f1.yml              # Automated scraping action for F1
-    ├── scrape_motogp.yml          # Automated scraping action for MotoGP
-    ├── scrape_nascar.yml          # Automated scraping action for NASCAR
-    └── scrape_indycar.yml         # Automated scraping action for IndyCar
+    ├── scrape_f1.yml              # Daily scraping workflow for F1
+    ├── scrape_motogp.yml          # Daily scraping workflow for MotoGP
+    ├── scrape_nascar.yml          # Daily scraping workflow for NASCAR
+    ├── scrape_indycar.yml         # Daily scraping workflow for IndyCar
+    ├── scrape_wec.yml             # Daily scraping workflow for WEC
+    └── scrape_formula_e.yml       # Daily scraping workflow for Formula E
 ```
 
 ---
 
 ## 💻 Local Setup & Development
 
-To run the scrapers locally, you only need Python 3 installed. No external packages (like `requests`) are needed as the scripts use Python's built-in `urllib` module.
+The scrapers are lightweight Python 3 scripts that run without external dependencies (no `requests` or `BeautifulSoup` required) by utilizing Python's native modules like `urllib`.
 
 ### 1. Clone the repository
 ```bash
@@ -157,18 +184,35 @@ To scrape specific IndyCar years:
 python scripts/scrape_indycar.py --years 2024,2025
 ```
 
+#### WEC
+By default, WEC pulls data for the current and previous year:
+```bash
+python scripts/scrape_wec.py
+```
+To scrape specific WEC years:
+```bash
+python scripts/scrape_wec.py --years 2025,2026
+```
+
+#### Formula E
+To scrape a specific Formula E year (e.g., 2024-2025 season):
+```bash
+python scripts/scrape_formula_e.py --year 2025
+```
+
 ---
 
 ## 🛣️ Roadmap: All Motorsports 🏍️🏎️
 
-We support:
-- [x] **Formula 1** (Complete - powered by Jolpica-F1 / Ergast API successor)
-- [x] **MotoGP** (Complete - powered by Pulse Live MotoGP API)
-- [x] **NASCAR** (Complete - powered by NASCAR cacher API)
-- [x] **IndyCar** (Complete - powered by ESPN IRL scoreboard API)
-- [ ] **Formula E & WEC** (Schedules, team sheets, results)
+*   [x] **Formula 1** (Complete - powered by Jolpica-F1 / Ergast API successor)
+*   [x] **MotoGP** (Complete - powered by Pulse Live MotoGP API)
+*   [x] **NASCAR** (Complete - powered by NASCAR cacher API)
+*   [x] **IndyCar** (Complete - powered by ESPN IRL scoreboard API)
+*   [x] **WEC** (Partial - Schedule only, powered by fiawec.com JSON-LD)
+*   [x] **Formula E** (Complete - Wiki HTML table parsing)
+*   [ ] **World Rally Championship (WRC)** (Upcoming integration)
 
-Contributions are welcome! If you want to write a scraper or fix a typo, feel free to open a Pull Request.
+Contributions are highly encouraged! If you want to build a scraper for WRC, integrate a new series, or correct data typos, feel free to open a Pull Request.
 
 ---
 
