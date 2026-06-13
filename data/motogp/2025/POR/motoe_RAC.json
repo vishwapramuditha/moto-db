@@ -1,0 +1,775 @@
+{
+  "season": "2025",
+  "event": {
+    "id": "a710091a-0737-405a-9898-b51b4dfa724e",
+    "name": "GRAND PRIX OF PORTUGAL",
+    "short_name": "POR",
+    "circuit": {
+      "id": "912a9d7f-2864-4311-bebb-19851e9c2620",
+      "name": "Autódromo Internacional do Algarve",
+      "legacy_id": 109,
+      "place": "Portimao",
+      "nation": "POR"
+    },
+    "date_start": "2025-11-07",
+    "date_end": "2025-11-09"
+  },
+  "category": {
+    "id": "3bda82ba-0445-440c-9375-cd48d777bd95",
+    "name": "MotoE™",
+    "legacy_id": 19
+  },
+  "session": {
+    "id": "57440bf5-e084-49db-af1b-17cc6e1aae23",
+    "type": "RAC",
+    "date": "2025-11-08T16:10:00+00:00",
+    "condition": {
+      "track": "Dry",
+      "air": "º",
+      "humidity": "%",
+      "ground": "º",
+      "weather": "Clear"
+    }
+  },
+  "updated_at": "2026-06-13T12:59:02.265125Z",
+  "results": [
+    {
+      "id": "898ce566-c7f7-4371-93c1-01009669f5b6",
+      "position": 1,
+      "rider": {
+        "id": "868e1167-2533-48b9-bf5d-ee331c3aa80d",
+        "full_name": "Oscar Gutierrez",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8448,
+        "riders_id": "89fd5a94-89ab-403d-8f02-2626d7a0b435",
+        "number": 99,
+        "riders_api_uuid": "89fd5a94-89ab-403d-8f02-2626d7a0b435"
+      },
+      "team": {
+        "id": "0568d05d-fe8d-46e2-a2eb-d1b38efea2bc",
+        "name": "MSI Racing Team",
+        "legacy_id": 444,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153.6,
+      "gap": {
+        "first": "0.000",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:45.516",
+      "points": 25,
+      "status": "INSTND"
+    },
+    {
+      "id": "094eabe0-6bdc-4466-bb92-961a60f6c00b",
+      "position": 2,
+      "rider": {
+        "id": "7ab481fb-ed54-48c6-92b3-0b5433648822",
+        "full_name": "Mattia Casadei",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8716,
+        "riders_id": "69405c95-a8be-49d7-a4fc-9937c6d2f1f5",
+        "number": 40,
+        "riders_api_uuid": "69405c95-a8be-49d7-a4fc-9937c6d2f1f5"
+      },
+      "team": {
+        "id": "e0cc1055-51b3-4437-b77b-638ec03b6077",
+        "name": "LCR E-Team",
+        "legacy_id": 437,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153.6,
+      "gap": {
+        "first": "0.098",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:45.614",
+      "points": 20,
+      "status": "INSTND"
+    },
+    {
+      "id": "59489eee-6d01-4af3-8671-4ce525a19209",
+      "position": 3,
+      "rider": {
+        "id": "1d977ebf-8f02-4f60-8485-552aeee34fb8",
+        "full_name": "Nicholas Spinelli",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10438,
+        "riders_id": "0fb14668-014e-4368-b49b-787a90fa69b4",
+        "number": 29,
+        "riders_api_uuid": "0fb14668-014e-4368-b49b-787a90fa69b4"
+      },
+      "team": {
+        "id": "94a0bb05-7dfe-45a0-87d6-04c450ae44be",
+        "name": "Rivacold Snipers Team MotoE",
+        "legacy_id": 436,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153.3,
+      "gap": {
+        "first": "1.281",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:46.797",
+      "points": 16,
+      "status": "INSTND"
+    },
+    {
+      "id": "c47d4689-0781-44d4-bcd7-98f0bcc2073e",
+      "position": 4,
+      "rider": {
+        "id": "a4d94f6b-f181-485f-bb12-13763a67d941",
+        "full_name": "Alessandro Zaccone",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10214,
+        "riders_id": "785664f9-ac17-4c2d-b66b-d635780637b0",
+        "number": 61,
+        "riders_api_uuid": "785664f9-ac17-4c2d-b66b-d635780637b0"
+      },
+      "team": {
+        "id": "f8cc9466-56ba-459c-8867-94b71b0df7b3",
+        "name": "Aruba Cloud MotoE Team",
+        "legacy_id": 440,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153.1,
+      "gap": {
+        "first": "2.105",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:47.621",
+      "points": 13,
+      "status": "INSTND"
+    },
+    {
+      "id": "bb448850-f3d6-4db1-88f7-360005f15e74",
+      "position": 5,
+      "rider": {
+        "id": "0f67b677-997e-4c0e-99cc-15af8c2d26ce",
+        "full_name": "Hector Garzo",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8456,
+        "riders_id": "a9573361-93d6-4e1b-80cc-1023df2e4338",
+        "number": 1,
+        "riders_api_uuid": "a9573361-93d6-4e1b-80cc-1023df2e4338"
+      },
+      "team": {
+        "id": "fc32a8af-e0f2-4807-9978-d062785d3d42",
+        "name": "Dynavolt Intact GP",
+        "legacy_id": 427,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 152.5,
+      "gap": {
+        "first": "4.521",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:50.037",
+      "points": 11,
+      "status": "INSTND"
+    },
+    {
+      "id": "5d04d96e-da2b-4bcb-8bd5-dd0d2a6df68d",
+      "position": 6,
+      "rider": {
+        "id": "1ddf1165-e6da-4859-9a97-eac600efb431",
+        "full_name": "Matteo Ferrari",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8272,
+        "riders_id": "68c041fe-d813-48ae-9876-b451d89924ec",
+        "number": 11,
+        "riders_api_uuid": "68c041fe-d813-48ae-9876-b451d89924ec"
+      },
+      "team": {
+        "id": "6549caa4-8608-4385-8aa6-cc9825bd23be",
+        "name": "Felo Gresini MotoE",
+        "legacy_id": 431,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153.2,
+      "gap": {
+        "first": "4.669",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:50.185",
+      "points": 10,
+      "status": "INSTND"
+    },
+    {
+      "id": "179f2b53-d4e9-49d0-ad4d-897d12261f2f",
+      "position": 7,
+      "rider": {
+        "id": "0e80d4eb-9732-4324-af8c-04f0955cd782",
+        "full_name": "Jordi Torres",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 7835,
+        "riders_id": "a16709d0-4769-4505-93f2-a9c3b117b93e",
+        "number": 81,
+        "riders_api_uuid": "a16709d0-4769-4505-93f2-a9c3b117b93e"
+      },
+      "team": {
+        "id": "ab3af927-047e-4619-b0b2-2fa8d5ff6df9",
+        "name": "Power Electronics Aspar Team",
+        "legacy_id": 443,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 152.5,
+      "gap": {
+        "first": "4.735",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:50.251",
+      "points": 9,
+      "status": "INSTND"
+    },
+    {
+      "id": "5368e379-8a68-4ed9-be2c-77bc8cebaa6e",
+      "position": 8,
+      "rider": {
+        "id": "660ec3f9-4ac1-4f6a-ad67-9402abc60d64",
+        "full_name": "Luca Bernardi",
+        "country": {
+          "iso": "SM",
+          "name": "San Marino",
+          "region_iso": ""
+        },
+        "legacy_id": 10619,
+        "riders_id": "cbc125e4-5c7e-4fa1-a9b4-811c19fa28fa",
+        "number": 19,
+        "riders_api_uuid": "cbc125e4-5c7e-4fa1-a9b4-811c19fa28fa"
+      },
+      "team": {
+        "id": "af26090a-4b33-4c73-a5ad-79162eeea65c",
+        "name": "Aruba Cloud MotoE Team",
+        "legacy_id": 434,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 152.4,
+      "gap": {
+        "first": "4.983",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:50.499",
+      "points": 8,
+      "status": "INSTND"
+    },
+    {
+      "id": "7f618c95-e463-43ea-a23e-cdde2cdd01bc",
+      "position": 9,
+      "rider": {
+        "id": "1c5c196e-cfd9-4f82-bb68-4763315d9d66",
+        "full_name": "Kevin Zannoni",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8861,
+        "riders_id": "562b1364-6251-4e41-8842-b43ba200b488",
+        "number": 21,
+        "riders_api_uuid": "562b1364-6251-4e41-8842-b43ba200b488"
+      },
+      "team": {
+        "id": "b7a6a62b-3a01-4d6c-bbcc-db6a48607f36",
+        "name": "Power Electronics Aspar Team",
+        "legacy_id": 433,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 152.4,
+      "gap": {
+        "first": "5.001",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:50.517",
+      "points": 7,
+      "status": "INSTND"
+    },
+    {
+      "id": "387daf71-eb7e-4cba-9105-591483bff849",
+      "position": 10,
+      "rider": {
+        "id": "d1383a3c-ced2-497e-82aa-29548aff195d",
+        "full_name": "Andrea Mantovani",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10232,
+        "riders_id": "ff2ad2b9-cd36-4267-98af-6b80851c1683",
+        "number": 9,
+        "riders_api_uuid": "ff2ad2b9-cd36-4267-98af-6b80851c1683"
+      },
+      "team": {
+        "id": "93b055ad-6c60-48d1-8656-b33ecbdef8af",
+        "name": "KLINT Forward Factory Team",
+        "legacy_id": 430,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 152.2,
+      "gap": {
+        "first": "6.111",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:51.627",
+      "points": 6,
+      "status": "INSTND"
+    },
+    {
+      "id": "ab5654bf-a2fa-4508-96ed-8fd469af7a80",
+      "position": 11,
+      "rider": {
+        "id": "76976d3a-74e9-4dae-88f2-79b465d664b6",
+        "full_name": "Raffaele Fusco",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10344,
+        "riders_id": "d16db2ab-5a2e-49ab-a93d-8c0ae43a2c85",
+        "number": 77,
+        "riders_api_uuid": "d16db2ab-5a2e-49ab-a93d-8c0ae43a2c85"
+      },
+      "team": {
+        "id": "c4f1e8c3-b9b5-4144-9c24-bf0ee1133e8e",
+        "name": "Ongetta SIC58 Squadra Corse",
+        "legacy_id": 442,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 151.5,
+      "gap": {
+        "first": "9.062",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:54.578",
+      "points": 5,
+      "status": "INSTND"
+    },
+    {
+      "id": "c248f282-41fb-44e1-a1e1-a8c1818c8b70",
+      "position": 12,
+      "rider": {
+        "id": "2cf7eb55-786c-4d13-800c-38fb9c4eb429",
+        "full_name": "Alessio Finello",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10349,
+        "riders_id": "b8064fc9-e3e2-4f96-9d12-453e3512f7ec",
+        "number": 72,
+        "riders_api_uuid": "b8064fc9-e3e2-4f96-9d12-453e3512f7ec"
+      },
+      "team": {
+        "id": "e8511337-4147-4062-9857-830bf2342e93",
+        "name": "Felo Gresini MotoE",
+        "legacy_id": 441,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 151,
+      "gap": {
+        "first": "11.119",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:56.635",
+      "points": 4,
+      "status": "INSTND"
+    },
+    {
+      "id": "a695097b-5d0a-4e09-8324-ba204f7be68a",
+      "position": 13,
+      "rider": {
+        "id": "eb1f6cd7-479e-4a27-8852-298a4e2bac65",
+        "full_name": "Maria Herrera",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 7218,
+        "riders_id": "149825eb-732a-4190-8ba7-b146f81105cd",
+        "number": 6,
+        "riders_api_uuid": "149825eb-732a-4190-8ba7-b146f81105cd"
+      },
+      "team": {
+        "id": "464a4e16-c49e-4c17-8b4e-0811b6b5fbc0",
+        "name": "KLINT Forward Factory Team",
+        "legacy_id": 428,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 151,
+      "gap": {
+        "first": "11.186",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:56.702",
+      "points": 3,
+      "status": "INSTND"
+    },
+    {
+      "id": "a243c73c-1316-489f-96d4-d9faa8743d55",
+      "position": 14,
+      "rider": {
+        "id": "63061135-b4f8-46b1-a324-bc516edb713f",
+        "full_name": "Tibor Erik Varga",
+        "country": {
+          "iso": "HU",
+          "name": "Hungary",
+          "region_iso": ""
+        },
+        "legacy_id": 10268,
+        "riders_id": "9065eb27-2be2-4259-ae1c-672f3e65fdfa",
+        "number": 47,
+        "riders_api_uuid": "9065eb27-2be2-4259-ae1c-672f3e65fdfa"
+      },
+      "team": {
+        "id": "7ba93291-1c21-449c-b1a9-436d918e753f",
+        "name": "Rivacold Snipers Team MotoE",
+        "legacy_id": 438,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 150.8,
+      "gap": {
+        "first": "11.937",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "10:57.453",
+      "points": 2,
+      "status": "INSTND"
+    },
+    {
+      "id": "6c220673-fff1-4af3-a1c9-9385dd63afa7",
+      "position": 15,
+      "rider": {
+        "id": "73d91137-2e25-4070-acf1-44114c8cc78e",
+        "full_name": "Tommaso Occhi",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10620,
+        "riders_id": "8cb5d508-8d8c-4a15-9d88-fb59925242e2",
+        "number": 28,
+        "riders_api_uuid": "8cb5d508-8d8c-4a15-9d88-fb59925242e2"
+      },
+      "team": {
+        "id": "7a0f1dfc-8dc5-4b86-8ccc-d282c74d8813",
+        "name": "Ongetta SIC58 Squadra Corse",
+        "legacy_id": 435,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 146.4,
+      "gap": {
+        "first": "31.953",
+        "lap": "0"
+      },
+      "total_laps": 6,
+      "time": "11:17.469",
+      "points": 1,
+      "status": "INSTND"
+    },
+    {
+      "id": "1be93e21-6e89-4fca-8741-ba3ef627cd16",
+      "position": null,
+      "rider": {
+        "id": "308b7a9d-479c-4b5b-b9d5-92176d47f90d",
+        "full_name": "Jacopo Hosciuc",
+        "country": {
+          "iso": "RO",
+          "name": "Romania",
+          "region_iso": ""
+        },
+        "legacy_id": 10260,
+        "riders_id": "7a8a7ac3-a45b-4380-91f5-3b362c074fd2",
+        "number": 12,
+        "riders_api_uuid": "7a8a7ac3-a45b-4380-91f5-3b362c074fd2"
+      },
+      "team": {
+        "id": "9f16189a-a92b-400b-a273-14d4496bfa6e",
+        "name": "MSI Racing Team",
+        "legacy_id": 432,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153,
+      "gap": {
+        "first": "0.000",
+        "lap": "2"
+      },
+      "total_laps": 4,
+      "time": "07:12.096",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "8699c9e3-0c90-41e5-8317-80fc39b5b277",
+      "position": null,
+      "rider": {
+        "id": "c5ec2faf-1617-4fe1-b0f5-0a43380d918f",
+        "full_name": "Eric Granado",
+        "country": {
+          "iso": "BR",
+          "name": "Brazil",
+          "region_iso": ""
+        },
+        "legacy_id": 7215,
+        "riders_id": "0bc0347b-7067-4f18-9af6-86a980078954",
+        "number": 51,
+        "riders_api_uuid": "0bc0347b-7067-4f18-9af6-86a980078954"
+      },
+      "team": {
+        "id": "e354017d-0874-4a3c-ab10-f03d6791446c",
+        "name": "LCR E-Team",
+        "legacy_id": 439,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 153.4,
+      "gap": {
+        "first": "0.000",
+        "lap": "2"
+      },
+      "total_laps": 4,
+      "time": "07:10.821",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "3a63f8ed-f919-4ade-bb84-39b69bbd7f38",
+      "position": null,
+      "rider": {
+        "id": "dd721fb5-4fee-409d-b976-5b49aa76363a",
+        "full_name": "Lorenzo Baldassarri",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8030,
+        "riders_id": "99b96762-97c2-4066-922d-d1194c410cdc",
+        "number": 7,
+        "riders_api_uuid": "99b96762-97c2-4066-922d-d1194c410cdc"
+      },
+      "team": {
+        "id": "7482f280-b6c3-492a-9d1d-30226e0c3db0",
+        "name": "Dynavolt Intact GP",
+        "legacy_id": 429,
+        "season": {
+          "id": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
+          "year": 2025,
+          "current": false
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 152.9,
+      "gap": {
+        "first": "0.000",
+        "lap": "3"
+      },
+      "total_laps": 3,
+      "time": "05:24.226",
+      "points": 0,
+      "status": "OUTSTND"
+    }
+  ]
+}

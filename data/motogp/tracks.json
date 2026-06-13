@@ -1,0 +1,160 @@
+{
+  "tracks": [
+    {
+      "id": "1ab286fc-eb24-4980-85a8-b7b940f46e13",
+      "name": "Autodromo Internazionale del Mugello",
+      "legacy_id": 6,
+      "place": "Mugello",
+      "nation": "ITA"
+    },
+    {
+      "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+      "name": "Automotodrom Brno",
+      "legacy_id": 11,
+      "place": "Brno",
+      "nation": "CZE"
+    },
+    {
+      "id": "912a9d7f-2864-4311-bebb-19851e9c2620",
+      "name": "Autódromo Internacional do Algarve",
+      "legacy_id": 109,
+      "place": "Portimao",
+      "nation": "POR"
+    },
+    {
+      "id": "c2119f01-e758-41a7-a721-d5baec22deb9",
+      "name": "Balaton Park Circuit",
+      "legacy_id": 115,
+      "place": "\tBalatonfokajár",
+      "nation": "HUN"
+    },
+    {
+      "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
+      "name": "Chang International Circuit",
+      "legacy_id": 106,
+      "place": "Buriram",
+      "nation": "THA"
+    },
+    {
+      "id": "5b97d826-e527-43e9-b696-09f61cf4559c",
+      "name": "Circuit Of The Americas",
+      "legacy_id": 101,
+      "place": "Austin",
+      "nation": "USA"
+    },
+    {
+      "id": "664c40ff-8deb-4613-91cd-62c945f95e1e",
+      "name": "Circuit Ricardo Tormo",
+      "legacy_id": 77,
+      "place": "Cheste",
+      "nation": "SPA"
+    },
+    {
+      "id": "2218098d-ab2d-498b-a633-1a4a39119e9e",
+      "name": "Circuit de Barcelona-Catalunya",
+      "legacy_id": 13,
+      "place": "Barcelona",
+      "nation": "SPA"
+    },
+    {
+      "id": "763812ea-9435-4c1c-b61b-a0c14ccdfbe4",
+      "name": "Circuito de Jerez - Ángel Nieto",
+      "legacy_id": 4,
+      "place": "Jerez de la Frontera",
+      "nation": "SPA"
+    },
+    {
+      "id": "ebb41e75-8664-4dfd-b0eb-07f24bd5fb92",
+      "name": "Le Mans",
+      "legacy_id": 8,
+      "place": "Le Mans",
+      "nation": "FRA"
+    },
+    {
+      "id": "e9a71399-cea9-400a-b2ef-48bfdcdf6526",
+      "name": "Lusail International Circuit",
+      "legacy_id": 93,
+      "place": "Doha",
+      "nation": "QAT"
+    },
+    {
+      "id": "e0d07d48-0b62-40fa-9d36-411b15af406f",
+      "name": "Misano World Circuit Marco Simoncelli",
+      "legacy_id": 38,
+      "place": "Misano Adriatico",
+      "nation": "ITA"
+    },
+    {
+      "id": "213eb1ff-9ae5-4aec-862f-44a10637f36d",
+      "name": "Mobility Resort Motegi",
+      "legacy_id": 76,
+      "place": "Motegi",
+      "nation": "JPN"
+    },
+    {
+      "id": "50209e25-6cd8-4d8d-912e-c48a06275a8a",
+      "name": "MotorLand Aragón",
+      "legacy_id": 100,
+      "place": "Alcañiz",
+      "nation": "SPA"
+    },
+    {
+      "id": "a1ec6331-c571-418c-92d7-768cf0c83872",
+      "name": "Pertamina Mandalika Circuit",
+      "legacy_id": 111,
+      "place": "Lombok",
+      "nation": "INA"
+    },
+    {
+      "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+      "name": "Petronas Sepang International Circuit",
+      "legacy_id": 75,
+      "place": "Sepang",
+      "nation": "MAL"
+    },
+    {
+      "id": "d4629be0-3742-4950-af2e-2807562d6cb8",
+      "name": "Phillip Island",
+      "legacy_id": 32,
+      "place": "Phillip Island",
+      "nation": "AUS"
+    },
+    {
+      "id": "8dc64efd-25f8-41cf-aa4f-dfbfa41a762a",
+      "name": "Red Bull Ring - Spielberg",
+      "legacy_id": 24,
+      "place": "Spielberg",
+      "nation": "AUT"
+    },
+    {
+      "id": "551f87c7-1940-48b0-bce7-1ad8de7ce548",
+      "name": "Sachsenring",
+      "legacy_id": 51,
+      "place": "Sachsenring",
+      "nation": "GER"
+    },
+    {
+      "id": "473ee5fa-b4e5-4c00-a0fe-28051700e20d",
+      "name": "Silverstone Circuit",
+      "legacy_id": 42,
+      "place": "Silverstone",
+      "nation": "GBR"
+    },
+    {
+      "id": "f4f9b0e8-1319-4d4f-a5ae-6cf193b01fca",
+      "name": "TT Circuit Assen",
+      "legacy_id": 7,
+      "place": "Assen",
+      "nation": "NED"
+    },
+    {
+      "id": "536d88a0-b7b9-4312-a5f1-f196e8228991",
+      "name": "Termas de Río Hondo",
+      "legacy_id": 102,
+      "place": "Termas de Río Hondo",
+      "nation": "ARG"
+    }
+  ],
+  "total": 22,
+  "updated_at": "2026-06-13T12:59:18.368125Z"
+}

@@ -1,0 +1,1722 @@
+{
+  "drivers": [
+    {
+      "id": "aa5b1925-1b45-4cf1-8b0d-7d2726e99415",
+      "full_name": "Adrian Cruces",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10337,
+      "riders_id": "769510fc-e823-4bf1-8cda-08c1873935e6",
+      "number": 11,
+      "riders_api_uuid": "769510fc-e823-4bf1-8cda-08c1873935e6"
+    },
+    {
+      "id": "16332a3a-5c77-4f28-b58f-1381711cd452",
+      "full_name": "Adrian Fernandez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8649,
+      "riders_id": "587e8e1a-43c4-4372-bde7-34da0b19e0e6",
+      "number": 31,
+      "riders_api_uuid": "587e8e1a-43c4-4372-bde7-34da0b19e0e6"
+    },
+    {
+      "id": "fb24c9f6-c2d0-40a5-b92b-1c362367cfcf",
+      "full_name": "Adrian Huertas",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8660,
+      "riders_id": "8293f58c-2182-4c77-958f-6de9e9dca168",
+      "number": 99,
+      "riders_api_uuid": "8293f58c-2182-4c77-958f-6de9e9dca168"
+    },
+    {
+      "id": "eb47c439-e136-40ff-9534-5c612853f529",
+      "full_name": "Ai Ogura",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 8680,
+      "riders_id": "244b6f51-ac33-40ee-876d-9401dc9d1346",
+      "number": 79,
+      "riders_api_uuid": "244b6f51-ac33-40ee-876d-9401dc9d1346"
+    },
+    {
+      "id": "a34b793d-0b00-4a67-90a4-0d87923f5123",
+      "full_name": "Albert Arenas",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8516,
+      "riders_id": "e2ffb0d7-5cec-4a50-b31c-0cf5834e2a3f",
+      "number": 75,
+      "riders_api_uuid": "e2ffb0d7-5cec-4a50-b31c-0cf5834e2a3f"
+    },
+    {
+      "id": "1664981e-31f7-4e93-8c58-7604352b41b7",
+      "full_name": "Alberto Ferrandez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 9872,
+      "riders_id": "c534aae8-f63b-4f14-8a7e-4c6780c80685",
+      "number": 93,
+      "riders_api_uuid": "c534aae8-f63b-4f14-8a7e-4c6780c80685"
+    },
+    {
+      "id": "b12dfb22-2723-48ce-abc8-c7e92efa5c2c",
+      "full_name": "Alberto Surra",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10279,
+      "riders_id": "7724db44-a641-4588-ac76-ec751b13c23e",
+      "number": 67,
+      "riders_api_uuid": "7724db44-a641-4588-ac76-ec751b13c23e"
+    },
+    {
+      "id": "4cff2dfb-2feb-4264-9a17-8a67189c204c",
+      "full_name": "Aleix Espargaro",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 6854,
+      "riders_id": "a2f51450-cb43-4d32-8eef-bda9ebb435ed",
+      "number": 41,
+      "riders_api_uuid": "a2f51450-cb43-4d32-8eef-bda9ebb435ed"
+    },
+    {
+      "id": "dabab495-f25f-4b27-97b1-c30a8914bbf9",
+      "full_name": "Alessandro Morosi",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10340,
+      "riders_id": "dd7a7260-5b90-494b-ba2a-890bd8467705",
+      "number": 91,
+      "riders_api_uuid": "dd7a7260-5b90-494b-ba2a-890bd8467705"
+    },
+    {
+      "id": "a4d94f6b-f181-485f-bb12-13763a67d941",
+      "full_name": "Alessandro Zaccone",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10214,
+      "riders_id": "785664f9-ac17-4c2d-b66b-d635780637b0",
+      "number": 61,
+      "riders_api_uuid": "785664f9-ac17-4c2d-b66b-d635780637b0"
+    },
+    {
+      "id": "2cf7eb55-786c-4d13-800c-38fb9c4eb429",
+      "full_name": "Alessio Finello",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10349,
+      "riders_id": "b8064fc9-e3e2-4f96-9d12-453e3512f7ec",
+      "number": 72,
+      "riders_api_uuid": "b8064fc9-e3e2-4f96-9d12-453e3512f7ec"
+    },
+    {
+      "id": "3f1dfb38-8fee-460b-83e0-01fe8b1f175e",
+      "full_name": "Alex Escrig",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8645,
+      "riders_id": "57787b04-f675-4877-a72a-b5340a45109a",
+      "number": 11,
+      "riders_api_uuid": "57787b04-f675-4877-a72a-b5340a45109a"
+    },
+    {
+      "id": "e7e4c72e-952e-4f64-8e8a-a47ff590fade",
+      "full_name": "Alex Marquez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8173,
+      "riders_id": "41195f0f-9817-4a4d-913e-c1fbbb351d9b",
+      "number": 73,
+      "riders_api_uuid": "41195f0f-9817-4a4d-913e-c1fbbb351d9b"
+    },
+    {
+      "id": "56475aa3-f3d1-485a-b6db-ca1149e1b6fa",
+      "full_name": "Alex Rins",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8150,
+      "riders_id": "04bf0ce4-5062-44fc-9745-ec85a8d8f8d3",
+      "number": 42,
+      "riders_api_uuid": "04bf0ce4-5062-44fc-9745-ec85a8d8f8d3"
+    },
+    {
+      "id": "021761c5-a8a4-4749-8603-479ce2984722",
+      "full_name": "Alonso Lopez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8866,
+      "riders_id": "88ec0ae1-53e4-48d4-8c60-6b74210d7552",
+      "number": 21,
+      "riders_api_uuid": "88ec0ae1-53e4-48d4-8c60-6b74210d7552"
+    },
+    {
+      "id": "8c6da2df-4891-41f1-a703-8d51dc51c284",
+      "full_name": "Alvaro Carpe",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10445,
+      "riders_id": "992cadcb-08e5-47cf-8b29-cf28d3e941ca",
+      "number": 83,
+      "riders_api_uuid": "992cadcb-08e5-47cf-8b29-cf28d3e941ca"
+    },
+    {
+      "id": "d1383a3c-ced2-497e-82aa-29548aff195d",
+      "full_name": "Andrea Mantovani",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10232,
+      "riders_id": "ff2ad2b9-cd36-4267-98af-6b80851c1683",
+      "number": 9,
+      "riders_api_uuid": "ff2ad2b9-cd36-4267-98af-6b80851c1683"
+    },
+    {
+      "id": "41a3e43f-7865-48d7-801c-5999eb317433",
+      "full_name": "Angel Piqueras",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 9864,
+      "riders_id": "97116ba3-5971-4304-be84-451bdc9a563c",
+      "number": 36,
+      "riders_api_uuid": "97116ba3-5971-4304-be84-451bdc9a563c"
+    },
+    {
+      "id": "0b4a29d3-ecb0-45fa-a47b-be9bafa6e9a1",
+      "full_name": "Arbi Aditama",
+      "country": {
+        "iso": "ID",
+        "name": "Indonesia",
+        "region_iso": ""
+      },
+      "legacy_id": 10235,
+      "riders_id": "457f23aa-9044-49dd-8cd7-a161a26d25bc",
+      "number": 93,
+      "riders_api_uuid": "457f23aa-9044-49dd-8cd7-a161a26d25bc"
+    },
+    {
+      "id": "3a5b3421-fb15-4254-8ab3-b90cdd59a293",
+      "full_name": "Aron Canet",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8525,
+      "riders_id": "12e072c6-c19b-4c35-a9c4-2c7deba15cb0",
+      "number": 44,
+      "riders_api_uuid": "12e072c6-c19b-4c35-a9c4-2c7deba15cb0"
+    },
+    {
+      "id": "1113c9b8-c231-4ba7-a352-4c11c92ab9df",
+      "full_name": "Augusto Fernandez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 9973,
+      "riders_id": "eb7f90b1-9373-4089-b2f5-adbc234a3526",
+      "number": 7,
+      "riders_api_uuid": "eb7f90b1-9373-4089-b2f5-adbc234a3526"
+    },
+    {
+      "id": "64025abc-f78f-4223-9ede-219164f128e6",
+      "full_name": "Ayumu Sasaki",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 8490,
+      "riders_id": "ae003ef7-aff4-4903-ab7a-0c40997baa0a",
+      "number": 71,
+      "riders_api_uuid": "ae003ef7-aff4-4903-ab7a-0c40997baa0a"
+    },
+    {
+      "id": "dfeef6d8-83aa-4753-991b-4bf1c6ba3c0a",
+      "full_name": "Azroy Anuar",
+      "country": {
+        "iso": "MY",
+        "name": "Malaysia",
+        "region_iso": ""
+      },
+      "legacy_id": 8685,
+      "riders_id": "24d8b75a-1721-475e-b799-92a11d40100b",
+      "number": 20,
+      "riders_api_uuid": "24d8b75a-1721-475e-b799-92a11d40100b"
+    },
+    {
+      "id": "5315c17f-fe2f-4478-8ad6-fac49d337c84",
+      "full_name": "Barry Baltus",
+      "country": {
+        "iso": "BE",
+        "name": "Belgium",
+        "region_iso": ""
+      },
+      "legacy_id": 10060,
+      "riders_id": "31d9d715-4dbc-4d12-8a21-f2daffb62d7f",
+      "number": 7,
+      "riders_api_uuid": "31d9d715-4dbc-4d12-8a21-f2daffb62d7f"
+    },
+    {
+      "id": "ba579548-f026-402b-a607-38db5317d33f",
+      "full_name": "Brad Binder",
+      "country": {
+        "iso": "ZA",
+        "name": "South Africa",
+        "region_iso": ""
+      },
+      "legacy_id": 7646,
+      "riders_id": "ade5ef32-01ea-487c-95ca-491544a668ed",
+      "number": 33,
+      "riders_api_uuid": "ade5ef32-01ea-487c-95ca-491544a668ed"
+    },
+    {
+      "id": "ebbcbb0f-0692-4963-9a8b-7efb7bd91d9e",
+      "full_name": "Brian Uriarte",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10506,
+      "riders_id": "6052c038-a2a3-4eab-9ee0-79bd5f5be209",
+      "number": 51,
+      "riders_api_uuid": "6052c038-a2a3-4eab-9ee0-79bd5f5be209"
+    },
+    {
+      "id": "b2ad206f-7eb7-4ecf-b53f-8be998663b23",
+      "full_name": "Casey O'gorman",
+      "country": {
+        "iso": "IE",
+        "name": "Ireland",
+        "region_iso": ""
+      },
+      "legacy_id": 10335,
+      "riders_id": "b909706a-1f29-4f38-8a76-40b1fe651d9c",
+      "number": 67,
+      "riders_api_uuid": "b909706a-1f29-4f38-8a76-40b1fe651d9c"
+    },
+    {
+      "id": "67e88ff7-6a0c-404c-ae79-7d9fdfdef986",
+      "full_name": "Celestino Vietti",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10132,
+      "riders_id": "dd56704e-b40e-4202-8af2-a81b7fd6a82d",
+      "number": 13,
+      "riders_api_uuid": "dd56704e-b40e-4202-8af2-a81b7fd6a82d"
+    },
+    {
+      "id": "642ca2e1-3962-45ba-8745-fd7c8b140462",
+      "full_name": "Collin Veijer",
+      "country": {
+        "iso": "NL",
+        "name": "Netherlands",
+        "region_iso": ""
+      },
+      "legacy_id": 10228,
+      "riders_id": "08783adb-15e8-49e4-a6ea-c3ede3d94e7c",
+      "number": 95,
+      "riders_api_uuid": "08783adb-15e8-49e4-a6ea-c3ede3d94e7c"
+    },
+    {
+      "id": "cb4628b6-3af2-4b76-bd84-aa9d195876f4",
+      "full_name": "Cormac Buchanan",
+      "country": {
+        "iso": "NZ",
+        "name": "New Zealand",
+        "region_iso": ""
+      },
+      "legacy_id": 10251,
+      "riders_id": "a7d44fd6-d27c-4fea-ac27-85953cd45f86",
+      "number": 14,
+      "riders_api_uuid": "a7d44fd6-d27c-4fea-ac27-85953cd45f86"
+    },
+    {
+      "id": "e27904a7-0e30-4d91-84f8-016d421aa89e",
+      "full_name": "Daniel Holgado",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8671,
+      "riders_id": "845c70b2-fe9b-40b6-a558-692cf5f9e6da",
+      "number": 27,
+      "riders_api_uuid": "845c70b2-fe9b-40b6-a558-692cf5f9e6da"
+    },
+    {
+      "id": "3fc01a22-75e3-4cb3-a19d-401386cf80cc",
+      "full_name": "Daniel Muñoz",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10230,
+      "riders_id": "be57d739-ceff-4bd4-b612-08100cae9990",
+      "number": 17,
+      "riders_api_uuid": "be57d739-ceff-4bd4-b612-08100cae9990"
+    },
+    {
+      "id": "e38443a0-a5f5-4616-825c-9db2adc24a55",
+      "full_name": "Darryn Binder",
+      "country": {
+        "iso": "ZA",
+        "name": "South Africa",
+        "region_iso": ""
+      },
+      "legacy_id": 8296,
+      "riders_id": "3c4a2a9d-7d61-4931-a0d5-5b4b0d4d7888",
+      "number": 15,
+      "riders_api_uuid": "3c4a2a9d-7d61-4931-a0d5-5b4b0d4d7888"
+    },
+    {
+      "id": "0bfba4d0-4af8-4174-a566-8236e75a3b08",
+      "full_name": "David Almansa",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10424,
+      "riders_id": "ed2d5631-8fe0-4a21-8449-463657eb7901",
+      "number": 22,
+      "riders_api_uuid": "ed2d5631-8fe0-4a21-8449-463657eb7901"
+    },
+    {
+      "id": "f9d74cc7-4747-4956-881b-b79ce1edb6f5",
+      "full_name": "David Alonso",
+      "country": {
+        "iso": "CO",
+        "name": "Colombia",
+        "region_iso": ""
+      },
+      "legacy_id": 10227,
+      "riders_id": "96d9b2b4-a26b-427f-b76a-6e1294c341c0",
+      "number": 80,
+      "riders_api_uuid": "96d9b2b4-a26b-427f-b76a-6e1294c341c0"
+    },
+    {
+      "id": "ed6ebad8-3f85-48db-8539-5cf755de6c30",
+      "full_name": "David Muñoz",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 9869,
+      "riders_id": "3061875e-1a3f-4b9d-a974-603becd903a7",
+      "number": 64,
+      "riders_api_uuid": "3061875e-1a3f-4b9d-a974-603becd903a7"
+    },
+    {
+      "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
+      "full_name": "Deniz öncü",
+      "country": {
+        "iso": "TR",
+        "name": "Türkiye",
+        "region_iso": ""
+      },
+      "legacy_id": 8829,
+      "riders_id": "7f2593e1-d17e-4a83-9890-d9c383b29898",
+      "number": 53,
+      "riders_api_uuid": "7f2593e1-d17e-4a83-9890-d9c383b29898"
+    },
+    {
+      "id": "c6466a01-d6d1-4d9f-b8d0-385fef5f6b53",
+      "full_name": "Dennis Foggia",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8873,
+      "riders_id": "a90f6d5b-cba7-45cd-932e-308514518b80",
+      "number": 71,
+      "riders_api_uuid": "a90f6d5b-cba7-45cd-932e-308514518b80"
+    },
+    {
+      "id": "2d008a22-98e6-4589-92fa-d7ae0897aebf",
+      "full_name": "Diego Perez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8139,
+      "riders_id": "04698614-60d1-4419-bde5-4350cb156130",
+      "number": 35,
+      "riders_api_uuid": "04698614-60d1-4419-bde5-4350cb156130"
+    },
+    {
+      "id": "3c7598e5-12ec-4e19-9311-1c0e9a017cbe",
+      "full_name": "Diogo Moreira",
+      "country": {
+        "iso": "BR",
+        "name": "Brazil",
+        "region_iso": ""
+      },
+      "legacy_id": 10257,
+      "riders_id": "e2479f8e-dad8-4191-9a6c-9d4aafa8c3a3",
+      "number": 10,
+      "riders_api_uuid": "e2479f8e-dad8-4191-9a6c-9d4aafa8c3a3"
+    },
+    {
+      "id": "39bd22aa-4179-411f-bebb-c8bb3c0c8620",
+      "full_name": "Eddie O'shea",
+      "country": {
+        "iso": "GB",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "region_iso": ""
+      },
+      "legacy_id": 10193,
+      "riders_id": "99fb2930-285a-4300-a251-ccabc60e9af3",
+      "number": 8,
+      "riders_api_uuid": "99fb2930-285a-4300-a251-ccabc60e9af3"
+    },
+    {
+      "id": "ff225c9d-64a2-43ac-a70e-62cf385a85a1",
+      "full_name": "Enea Bastianini",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8295,
+      "riders_id": "00db2312-15f2-4333-be5c-4bbff9d17aec",
+      "number": 23,
+      "riders_api_uuid": "00db2312-15f2-4333-be5c-4bbff9d17aec"
+    },
+    {
+      "id": "2affe6b0-e8b9-49e3-965f-6ac6248b1d4d",
+      "full_name": "Eric Fernandez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10635,
+      "riders_id": "a189456f-47d5-4f2f-bc64-196db1c36300",
+      "number": 61,
+      "riders_api_uuid": "a189456f-47d5-4f2f-bc64-196db1c36300"
+    },
+    {
+      "id": "c5ec2faf-1617-4fe1-b0f5-0a43380d918f",
+      "full_name": "Eric Granado",
+      "country": {
+        "iso": "BR",
+        "name": "Brazil",
+        "region_iso": ""
+      },
+      "legacy_id": 7215,
+      "riders_id": "0bc0347b-7067-4f18-9af6-86a980078954",
+      "number": 51,
+      "riders_api_uuid": "0bc0347b-7067-4f18-9af6-86a980078954"
+    },
+    {
+      "id": "127956f2-7a17-4763-ab63-79ebdd4a0b66",
+      "full_name": "Evan Belford",
+      "country": {
+        "iso": "GB",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "region_iso": ""
+      },
+      "legacy_id": 10323,
+      "riders_id": "62adeb3d-22f8-418c-b9c9-2a34af94a729",
+      "number": 52,
+      "riders_api_uuid": "62adeb3d-22f8-418c-b9c9-2a34af94a729"
+    },
+    {
+      "id": "6c33de41-f014-4f17-8dc9-e6f36e61026a",
+      "full_name": "Fabio Di Giannantonio",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8539,
+      "riders_id": "525b1551-f10b-4cfd-9b43-59af6fca654b",
+      "number": 49,
+      "riders_api_uuid": "525b1551-f10b-4cfd-9b43-59af6fca654b"
+    },
+    {
+      "id": "fcdd5500-a769-4ff4-8b9e-080d1849ff42",
+      "full_name": "Fabio Quartararo",
+      "country": {
+        "iso": "FR",
+        "name": "France",
+        "region_iso": ""
+      },
+      "legacy_id": 8520,
+      "riders_id": "bf95d959-6a60-44f1-84b5-ded861e62578",
+      "number": 20,
+      "riders_api_uuid": "bf95d959-6a60-44f1-84b5-ded861e62578"
+    },
+    {
+      "id": "2614e0f6-7e02-4076-a746-50f43fe3143c",
+      "full_name": "Fermin Aldeguer",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 9867,
+      "riders_id": "71052114-5bce-4307-908c-4cc2bd387aac",
+      "number": 54,
+      "riders_api_uuid": "71052114-5bce-4307-908c-4cc2bd387aac"
+    },
+    {
+      "id": "d4c7af32-3b73-4f8f-b3bf-f732e0aadb52",
+      "full_name": "Filip Salac",
+      "country": {
+        "iso": "CZ",
+        "name": "Czechia",
+        "region_iso": ""
+      },
+      "legacy_id": 8856,
+      "riders_id": "48af1e5c-5376-43ad-9b26-9a860bef4e1d",
+      "number": 12,
+      "riders_api_uuid": "48af1e5c-5376-43ad-9b26-9a860bef4e1d"
+    },
+    {
+      "id": "9cb55304-0ac1-401c-beb6-1a4f445018a4",
+      "full_name": "Francesco Bagnaia",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8273,
+      "riders_id": "66b78301-5826-4986-b11e-fa68a7bd77a7",
+      "number": 63,
+      "riders_api_uuid": "66b78301-5826-4986-b11e-fa68a7bd77a7"
+    },
+    {
+      "id": "a73f8ef2-784f-4f52-8511-1d315fd3a459",
+      "full_name": "Franco Morbidelli",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 7741,
+      "riders_id": "4113c5f7-33c5-4246-b05b-3f81f4ddbd8f",
+      "number": 21,
+      "riders_api_uuid": "4113c5f7-33c5-4246-b05b-3f81f4ddbd8f"
+    },
+    {
+      "id": "bc85adec-2833-4acb-8f42-0d1b7b3839e8",
+      "full_name": "Guido Pini",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10441,
+      "riders_id": "808ef2f0-0eb5-4940-be83-41834720c890",
+      "number": 94,
+      "riders_api_uuid": "808ef2f0-0eb5-4940-be83-41834720c890"
+    },
+    {
+      "id": "b187512c-fb56-46b1-b00d-62b46a7c65aa",
+      "full_name": "Hakim Danish",
+      "country": {
+        "iso": "MY",
+        "name": "Malaysia",
+        "region_iso": ""
+      },
+      "legacy_id": 10239,
+      "riders_id": "5d81cf1f-1708-47a9-984e-9430afd4a814",
+      "number": 13,
+      "riders_api_uuid": "5d81cf1f-1708-47a9-984e-9430afd4a814"
+    },
+    {
+      "id": "611e2904-b5dc-4fba-a5dc-e07f72fbebe8",
+      "full_name": "Harrison Voight",
+      "country": {
+        "iso": "AU",
+        "name": "Australia",
+        "region_iso": ""
+      },
+      "legacy_id": 10148,
+      "riders_id": "bdd4e26c-ea65-4a42-93f9-ce9d4705c116",
+      "number": 29,
+      "riders_api_uuid": "bdd4e26c-ea65-4a42-93f9-ce9d4705c116"
+    },
+    {
+      "id": "0f67b677-997e-4c0e-99cc-15af8c2d26ce",
+      "full_name": "Hector Garzo",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8456,
+      "riders_id": "a9573361-93d6-4e1b-80cc-1023df2e4338",
+      "number": 22,
+      "riders_api_uuid": "a9573361-93d6-4e1b-80cc-1023df2e4338"
+    },
+    {
+      "id": "94ceb607-dcb3-4d22-94f8-dafca80423bc",
+      "full_name": "Helmi Azman",
+      "country": {
+        "iso": "MY",
+        "name": "Malaysia",
+        "region_iso": ""
+      },
+      "legacy_id": 8474,
+      "riders_id": "2a86c3fe-f69e-4418-b8c1-0a9b6fc28cdf",
+      "number": 55,
+      "riders_api_uuid": "2a86c3fe-f69e-4418-b8c1-0a9b6fc28cdf"
+    },
+    {
+      "id": "f0125053-baf8-4a61-8575-9dfb8fe37227",
+      "full_name": "Ivan Ortola",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10224,
+      "riders_id": "6b517083-20d8-40da-9d92-aeb63cdee89d",
+      "number": 4,
+      "riders_api_uuid": "6b517083-20d8-40da-9d92-aeb63cdee89d"
+    },
+    {
+      "id": "be31d4c4-f4c9-4e23-ae14-7ec35ed19f72",
+      "full_name": "Izan Guevara",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10033,
+      "riders_id": "28d22e58-56c2-4c94-97fc-09453bfa089f",
+      "number": 28,
+      "riders_api_uuid": "28d22e58-56c2-4c94-97fc-09453bfa089f"
+    },
+    {
+      "id": "6e940243-5167-4cc3-a343-a74337369b94",
+      "full_name": "Jack Miller",
+      "country": {
+        "iso": "AU",
+        "name": "Australia",
+        "region_iso": ""
+      },
+      "legacy_id": 8049,
+      "riders_id": "b0c1fea6-2dd5-4e26-8a18-0ac9fe6870e4",
+      "number": 43,
+      "riders_api_uuid": "b0c1fea6-2dd5-4e26-8a18-0ac9fe6870e4"
+    },
+    {
+      "id": "05d25dbd-de45-4ae8-9aa1-cbcb40b4058c",
+      "full_name": "Jacob Roulstone",
+      "country": {
+        "iso": "AU",
+        "name": "Australia",
+        "region_iso": ""
+      },
+      "legacy_id": 10143,
+      "riders_id": "2d9bd73c-a0ef-4ade-8ab4-f91b0a085c4f",
+      "number": 12,
+      "riders_api_uuid": "2d9bd73c-a0ef-4ade-8ab4-f91b0a085c4f"
+    },
+    {
+      "id": "308b7a9d-479c-4b5b-b9d5-92176d47f90d",
+      "full_name": "Jacopo Hosciuc",
+      "country": {
+        "iso": "RO",
+        "name": "Romania",
+        "region_iso": ""
+      },
+      "legacy_id": 10260,
+      "riders_id": "7a8a7ac3-a45b-4380-91f5-3b362c074fd2",
+      "number": 12,
+      "riders_api_uuid": "7a8a7ac3-a45b-4380-91f5-3b362c074fd2"
+    },
+    {
+      "id": "6cbb2071-121c-4407-9966-1a16cacbf970",
+      "full_name": "Jake Dixon",
+      "country": {
+        "iso": "GB",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "region_iso": ""
+      },
+      "legacy_id": 10012,
+      "riders_id": "35214310-1714-4584-b82a-c56a15bab2ca",
+      "number": 96,
+      "riders_api_uuid": "35214310-1714-4584-b82a-c56a15bab2ca"
+    },
+    {
+      "id": "c1784f78-6d60-40a7-9caa-422908461148",
+      "full_name": "Jakob Rosenthaler",
+      "country": {
+        "iso": "AT",
+        "name": "Austria",
+        "region_iso": ""
+      },
+      "legacy_id": 10256,
+      "riders_id": "5c45943b-bce5-4309-95b8-95f27631f8d1",
+      "number": 34,
+      "riders_api_uuid": "5c45943b-bce5-4309-95b8-95f27631f8d1"
+    },
+    {
+      "id": "f7138283-ea5f-475a-bd40-cb1fcb02c6aa",
+      "full_name": "Jesus Rios",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10537,
+      "riders_id": "db613c78-69b0-46b4-98aa-20924c32cfba",
+      "number": 45,
+      "riders_api_uuid": "db613c78-69b0-46b4-98aa-20924c32cfba"
+    },
+    {
+      "id": "9a441928-d1af-452d-afce-fa028c044932",
+      "full_name": "Joan Mir",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8141,
+      "riders_id": "f55f9c34-8621-437b-ae04-ae2418720204",
+      "number": 36,
+      "riders_api_uuid": "f55f9c34-8621-437b-ae04-ae2418720204"
+    },
+    {
+      "id": "d6920eaa-0923-4590-b7b9-61740535a33b",
+      "full_name": "Joe Roberts",
+      "country": {
+        "iso": "US",
+        "name": "United States of America",
+        "region_iso": ""
+      },
+      "legacy_id": 7946,
+      "riders_id": "3157c88e-bd94-4851-9fe2-1d7458f65a1e",
+      "number": 16,
+      "riders_api_uuid": "3157c88e-bd94-4851-9fe2-1d7458f65a1e"
+    },
+    {
+      "id": "dd9a6ca6-8bb0-4d66-ad73-86092335975f",
+      "full_name": "Joel Esteban",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10041,
+      "riders_id": "15049794-9e9a-45da-a2d5-a52d684914a7",
+      "number": 78,
+      "riders_api_uuid": "15049794-9e9a-45da-a2d5-a52d684914a7"
+    },
+    {
+      "id": "8d4c8c88-f989-4d86-8cfd-702237b8083b",
+      "full_name": "Joel Kelso",
+      "country": {
+        "iso": "AU",
+        "name": "Australia",
+        "region_iso": ""
+      },
+      "legacy_id": 10284,
+      "riders_id": "5b5fb07a-f0b6-4f7f-9533-18cad7f0c8f2",
+      "number": 66,
+      "riders_api_uuid": "5b5fb07a-f0b6-4f7f-9533-18cad7f0c8f2"
+    },
+    {
+      "id": "487440af-cfa9-478a-903b-4e893ee18d3a",
+      "full_name": "Johann Zarco",
+      "country": {
+        "iso": "FR",
+        "name": "France",
+        "region_iso": ""
+      },
+      "legacy_id": 7236,
+      "riders_id": "4a439bde-305a-4995-b3e7-783fa99f784a",
+      "number": 5,
+      "riders_api_uuid": "4a439bde-305a-4995-b3e7-783fa99f784a"
+    },
+    {
+      "id": "0e80d4eb-9732-4324-af8c-04f0955cd782",
+      "full_name": "Jordi Torres",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7835,
+      "riders_id": "a16709d0-4769-4505-93f2-a9c3b117b93e",
+      "number": 81,
+      "riders_api_uuid": "a16709d0-4769-4505-93f2-a9c3b117b93e"
+    },
+    {
+      "id": "5cbd7eb6-ccfc-4b9f-aad1-ede25d394f7b",
+      "full_name": "Jorge Martin",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8146,
+      "riders_id": "5b9af34e-da94-4ca2-9c4c-6be0fc8b1bbc",
+      "number": 1,
+      "riders_api_uuid": "5b9af34e-da94-4ca2-9c4c-6be0fc8b1bbc"
+    },
+    {
+      "id": "82543329-bbe8-4e9b-b2ce-d88f32bb4882",
+      "full_name": "Jorge Navarro",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7742,
+      "riders_id": "57f4c236-d465-4161-8e22-7426f4da36eb",
+      "number": 9,
+      "riders_api_uuid": "57f4c236-d465-4161-8e22-7426f4da36eb"
+    },
+    {
+      "id": "f2afe40e-140a-4e76-a071-95e2b79c3273",
+      "full_name": "Jose Antonio Rueda",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10347,
+      "riders_id": "553b174a-1c06-4bed-82b4-efcc035f1a4e",
+      "number": 99,
+      "riders_api_uuid": "553b174a-1c06-4bed-82b4-efcc035f1a4e"
+    },
+    {
+      "id": "1c5c196e-cfd9-4f82-bb68-4763315d9d66",
+      "full_name": "Kevin Zannoni",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8861,
+      "riders_id": "562b1364-6251-4e41-8842-b43ba200b488",
+      "number": 21,
+      "riders_api_uuid": "562b1364-6251-4e41-8842-b43ba200b488"
+    },
+    {
+      "id": "c0102774-07ed-4cea-9fba-68417dd25c35",
+      "full_name": "Lenoxx Phommara",
+      "country": {
+        "iso": "CH",
+        "name": "Switzerland",
+        "region_iso": ""
+      },
+      "legacy_id": 10269,
+      "riders_id": "15f30b06-a58d-48f0-b830-c3d4200fc550",
+      "number": 48,
+      "riders_api_uuid": "15f30b06-a58d-48f0-b830-c3d4200fc550"
+    },
+    {
+      "id": "513193e6-6725-48f0-b62f-c5eb6bc0f740",
+      "full_name": "Leonardo Abruzzo",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10534,
+      "riders_id": "d661a08c-9a5d-413f-9bf3-7e52cb6a5eb2",
+      "number": 25,
+      "riders_api_uuid": "d661a08c-9a5d-413f-9bf3-7e52cb6a5eb2"
+    },
+    {
+      "id": "dd721fb5-4fee-409d-b976-5b49aa76363a",
+      "full_name": "Lorenzo Baldassarri",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8030,
+      "riders_id": "99b96762-97c2-4066-922d-d1194c410cdc",
+      "number": 7,
+      "riders_api_uuid": "99b96762-97c2-4066-922d-d1194c410cdc"
+    },
+    {
+      "id": "0c9405ff-e879-498c-964d-b39409361a6c",
+      "full_name": "Lorenzo Savadori",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 7246,
+      "riders_id": "a1311c17-1099-4893-bba0-347bf43226a4",
+      "number": 32,
+      "riders_api_uuid": "a1311c17-1099-4893-bba0-347bf43226a4"
+    },
+    {
+      "id": "660ec3f9-4ac1-4f6a-ad67-9402abc60d64",
+      "full_name": "Luca Bernardi",
+      "country": {
+        "iso": "SM",
+        "name": "San Marino",
+        "region_iso": ""
+      },
+      "legacy_id": 10619,
+      "riders_id": "cbc125e4-5c7e-4fa1-a9b4-811c19fa28fa",
+      "number": 19,
+      "riders_api_uuid": "cbc125e4-5c7e-4fa1-a9b4-811c19fa28fa"
+    },
+    {
+      "id": "53cc6347-ccd4-4143-80cd-3c05595afe01",
+      "full_name": "Luca Lunetta",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10226,
+      "riders_id": "4023fb10-6a03-420b-a9e1-9926066ab154",
+      "number": 58,
+      "riders_api_uuid": "4023fb10-6a03-420b-a9e1-9926066ab154"
+    },
+    {
+      "id": "7b0687b0-90bd-4ad6-b157-8c66fb8a93cf",
+      "full_name": "Luca Marini",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8431,
+      "riders_id": "5dfc20db-c3c4-4ecd-9c7c-f6cfd042031a",
+      "number": 10,
+      "riders_api_uuid": "5dfc20db-c3c4-4ecd-9c7c-f6cfd042031a"
+    },
+    {
+      "id": "9a6bd0ef-1531-4efa-9806-4b6435e75ba4",
+      "full_name": "Manuel Gonzalez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8250,
+      "riders_id": "96edcb06-aa78-4976-9559-62186821e48e",
+      "number": 18,
+      "riders_api_uuid": "96edcb06-aa78-4976-9559-62186821e48e"
+    },
+    {
+      "id": "f55b433d-38b8-4d1d-bb3a-a709c82a0260",
+      "full_name": "Marc Marquez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7444,
+      "riders_id": "23e50438-a657-4fb0-a190-3262b5472f29",
+      "number": 93,
+      "riders_api_uuid": "23e50438-a657-4fb0-a190-3262b5472f29"
+    },
+    {
+      "id": "ab06dbae-7d6e-47c3-b63f-b7ac6b7d3bcd",
+      "full_name": "Marco Bezzecchi",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8688,
+      "riders_id": "e622ec5b-5ccf-457c-a67f-ec028f0ddf6e",
+      "number": 72,
+      "riders_api_uuid": "e622ec5b-5ccf-457c-a67f-ec028f0ddf6e"
+    },
+    {
+      "id": "eff84411-d39e-49c1-8447-a42160daf173",
+      "full_name": "Marco Morelli",
+      "country": {
+        "iso": "AR",
+        "name": "Argentina",
+        "region_iso": ""
+      },
+      "legacy_id": 10442,
+      "riders_id": "101ad37a-28d8-4bcc-bf16-dffdd51f1375",
+      "number": 95,
+      "riders_api_uuid": "101ad37a-28d8-4bcc-bf16-dffdd51f1375"
+    },
+    {
+      "id": "be8956f3-85e2-4814-9930-a4e7ebecc520",
+      "full_name": "Marcos Ramirez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7744,
+      "riders_id": "711cd7a3-7e13-413b-8de2-08d5bf4070f4",
+      "number": 24,
+      "riders_api_uuid": "711cd7a3-7e13-413b-8de2-08d5bf4070f4"
+    },
+    {
+      "id": "557a537c-4af0-4599-84b3-68f8a2eab8e5",
+      "full_name": "Marcos Ruda",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8663,
+      "riders_id": "f25906a4-a2d1-4bfd-ab6b-7151851e9614",
+      "number": 69,
+      "riders_api_uuid": "f25906a4-a2d1-4bfd-ab6b-7151851e9614"
+    },
+    {
+      "id": "6adb635c-52cd-4473-8479-67869e89b97d",
+      "full_name": "Marcos Uriarte",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8669,
+      "riders_id": "c4708bf4-0ca8-4296-8ee3-f153a0fe89b8",
+      "number": 89,
+      "riders_api_uuid": "c4708bf4-0ca8-4296-8ee3-f153a0fe89b8"
+    },
+    {
+      "id": "eb1f6cd7-479e-4a27-8852-298a4e2bac65",
+      "full_name": "Maria Herrera",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7218,
+      "riders_id": "149825eb-732a-4190-8ba7-b146f81105cd",
+      "number": 6,
+      "riders_api_uuid": "149825eb-732a-4190-8ba7-b146f81105cd"
+    },
+    {
+      "id": "0d25c1f3-ba66-42dd-a161-2f434d6a676d",
+      "full_name": "Mario Aji",
+      "country": {
+        "iso": "ID",
+        "name": "Indonesia",
+        "region_iso": ""
+      },
+      "legacy_id": 10046,
+      "riders_id": "59d0a2fb-df55-46d8-a57f-bf81ca690a5b",
+      "number": 64,
+      "riders_api_uuid": "59d0a2fb-df55-46d8-a57f-bf81ca690a5b"
+    },
+    {
+      "id": "760c8192-f5d5-4f96-a032-36dde524ea62",
+      "full_name": "Matteo Bertelle",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10154,
+      "riders_id": "fb584b95-a9ed-4d23-8db3-4a946db60fe8",
+      "number": 18,
+      "riders_api_uuid": "fb584b95-a9ed-4d23-8db3-4a946db60fe8"
+    },
+    {
+      "id": "1ddf1165-e6da-4859-9a97-eac600efb431",
+      "full_name": "Matteo Ferrari",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8272,
+      "riders_id": "68c041fe-d813-48ae-9876-b451d89924ec",
+      "number": 11,
+      "riders_api_uuid": "68c041fe-d813-48ae-9876-b451d89924ec"
+    },
+    {
+      "id": "7ab481fb-ed54-48c6-92b3-0b5433648822",
+      "full_name": "Mattia Casadei",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8716,
+      "riders_id": "69405c95-a8be-49d7-a4fc-9937c6d2f1f5",
+      "number": 40,
+      "riders_api_uuid": "69405c95-a8be-49d7-a4fc-9937c6d2f1f5"
+    },
+    {
+      "id": "4da98c70-f8f3-4b35-9bcf-60f6bac94ddb",
+      "full_name": "Mattia Pasini",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 6786,
+      "riders_id": "038b4557-1de1-4dac-84cd-76b2911f0761",
+      "number": 54,
+      "riders_api_uuid": "038b4557-1de1-4dac-84cd-76b2911f0761"
+    },
+    {
+      "id": "66ee98b2-239c-487f-8913-aab8493ce280",
+      "full_name": "Maverick Viñales",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7409,
+      "riders_id": "71df6f0d-51c3-4cdb-9f5c-51939e6f33f2",
+      "number": 12,
+      "riders_api_uuid": "71df6f0d-51c3-4cdb-9f5c-51939e6f33f2"
+    },
+    {
+      "id": "09914d52-1031-4d42-b123-1f62986bbbe0",
+      "full_name": "Max Cook",
+      "country": {
+        "iso": "GB",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "region_iso": ""
+      },
+      "legacy_id": 10062,
+      "riders_id": "bb3efa4f-6d6d-407a-bfef-a9bced9f93ee",
+      "number": 30,
+      "riders_api_uuid": "bb3efa4f-6d6d-407a-bfef-a9bced9f93ee"
+    },
+    {
+      "id": "e6532a75-fac6-4d72-a03d-26904d3298af",
+      "full_name": "Maximo Quiles",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10392,
+      "riders_id": "01f85422-d97e-4901-9492-1be9694a4cc2",
+      "number": 28,
+      "riders_api_uuid": "01f85422-d97e-4901-9492-1be9694a4cc2"
+    },
+    {
+      "id": "eed93130-03ac-4f5d-9d2e-b207ab47154e",
+      "full_name": "Michele Pirro",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 6231,
+      "riders_id": "7c653b2a-b493-436b-a77e-06a43b37b799",
+      "number": 51,
+      "riders_api_uuid": "7c653b2a-b493-436b-a77e-06a43b37b799"
+    },
+    {
+      "id": "1abd2de7-9046-4d0a-88e3-ad801dcc235b",
+      "full_name": "Miguel Oliveira",
+      "country": {
+        "iso": "PT",
+        "name": "Portugal",
+        "region_iso": ""
+      },
+      "legacy_id": 7199,
+      "riders_id": "50b4fb1f-1785-4a9a-a65c-97d0de9daa22",
+      "number": 88,
+      "riders_api_uuid": "50b4fb1f-1785-4a9a-a65c-97d0de9daa22"
+    },
+    {
+      "id": "7f6957d2-b394-46d7-a5e6-9400a5844d61",
+      "full_name": "Milan Pawelec",
+      "country": {
+        "iso": "PL",
+        "name": "Poland",
+        "region_iso": ""
+      },
+      "legacy_id": 10504,
+      "riders_id": "949e1296-9cf4-4569-8923-dc62beb5521f",
+      "number": 40,
+      "riders_api_uuid": "949e1296-9cf4-4569-8923-dc62beb5521f"
+    },
+    {
+      "id": "9765a185-391a-4f8d-8b5e-e26db3c2a946",
+      "full_name": "Nakarin Atiratphuvapat",
+      "country": {
+        "iso": "TH",
+        "name": "Thailand",
+        "region_iso": ""
+      },
+      "legacy_id": 8473,
+      "riders_id": "aebc5e13-a65e-4ddd-9f6a-bf44c3c0288c",
+      "number": 41,
+      "riders_api_uuid": "aebc5e13-a65e-4ddd-9f6a-bf44c3c0288c"
+    },
+    {
+      "id": "1d977ebf-8f02-4f60-8485-552aeee34fb8",
+      "full_name": "Nicholas Spinelli",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10438,
+      "riders_id": "0fb14668-014e-4368-b49b-787a90fa69b4",
+      "number": 29,
+      "riders_api_uuid": "0fb14668-014e-4368-b49b-787a90fa69b4"
+    },
+    {
+      "id": "a14ea48a-578d-45a6-9e95-1007032024e9",
+      "full_name": "Nicola Carraro",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10161,
+      "riders_id": "368ea111-05a4-4102-8564-e59905ae2858",
+      "number": 10,
+      "riders_api_uuid": "368ea111-05a4-4102-8564-e59905ae2858"
+    },
+    {
+      "id": "457621f7-297b-45ce-abf2-c171278acde2",
+      "full_name": "Nicolo Bulega",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8756,
+      "riders_id": "eec1a409-dafe-41b8-957a-200f75f57ed5",
+      "number": 11,
+      "riders_api_uuid": "eec1a409-dafe-41b8-957a-200f75f57ed5"
+    },
+    {
+      "id": "4e616b40-f029-44d7-9679-9e9126cb98d1",
+      "full_name": "Noah Dettwiler",
+      "country": {
+        "iso": "CH",
+        "name": "Switzerland",
+        "region_iso": ""
+      },
+      "legacy_id": 10157,
+      "riders_id": "e25470bb-d9cb-488b-92b6-a5bf57e0f7e8",
+      "number": 55,
+      "riders_api_uuid": "e25470bb-d9cb-488b-92b6-a5bf57e0f7e8"
+    },
+    {
+      "id": "868e1167-2533-48b9-bf5d-ee331c3aa80d",
+      "full_name": "Oscar Gutierrez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8448,
+      "riders_id": "89fd5a94-89ab-403d-8f02-2626d7a0b435",
+      "number": 99,
+      "riders_api_uuid": "89fd5a94-89ab-403d-8f02-2626d7a0b435"
+    },
+    {
+      "id": "a6108385-dd4c-490d-b02e-542ed0275f79",
+      "full_name": "Pedro Acosta",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8658,
+      "riders_id": "ea39a0af-95d3-4a37-81a7-f332efdb9216",
+      "number": 37,
+      "riders_api_uuid": "ea39a0af-95d3-4a37-81a7-f332efdb9216"
+    },
+    {
+      "id": "40c19361-abe5-46e8-bed9-b3fa648dd7ac",
+      "full_name": "Pol Espargaro",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 7086,
+      "riders_id": "b8b255af-e344-4ca7-818b-480c18a11088",
+      "number": 44,
+      "riders_api_uuid": "b8b255af-e344-4ca7-818b-480c18a11088"
+    },
+    {
+      "id": "76976d3a-74e9-4dae-88f2-79b465d664b6",
+      "full_name": "Raffaele Fusco",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10344,
+      "riders_id": "d16db2ab-5a2e-49ab-a93d-8c0ae43a2c85",
+      "number": 77,
+      "riders_api_uuid": "d16db2ab-5a2e-49ab-a93d-8c0ae43a2c85"
+    },
+    {
+      "id": "58448742-f520-466a-a1a1-bf3286cce9c3",
+      "full_name": "Raul Fernandez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8269,
+      "riders_id": "eec1f7dc-b115-44f6-82aa-73130e5c92cf",
+      "number": 25,
+      "riders_api_uuid": "eec1f7dc-b115-44f6-82aa-73130e5c92cf"
+    },
+    {
+      "id": "ac9e1287-5020-487f-a0a7-28e6d5d35ac7",
+      "full_name": "Riccardo Rossi",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 9960,
+      "riders_id": "a32e2f69-5b68-4cea-a85f-7cf12adf31f7",
+      "number": 54,
+      "riders_api_uuid": "a32e2f69-5b68-4cea-a85f-7cf12adf31f7"
+    },
+    {
+      "id": "39a2c75d-08af-4d3f-89ae-0a38ae2affb9",
+      "full_name": "Ruche Moodley",
+      "country": {
+        "iso": "ZA",
+        "name": "South Africa",
+        "region_iso": ""
+      },
+      "legacy_id": 10390,
+      "riders_id": "821c7e78-24dd-4715-a7b6-966b6da2c4d8",
+      "number": 21,
+      "riders_api_uuid": "821c7e78-24dd-4715-a7b6-966b6da2c4d8"
+    },
+    {
+      "id": "9de28705-315e-4370-a304-308147bf8203",
+      "full_name": "Ryusei Yamanaka",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 8681,
+      "riders_id": "b2570616-5431-4eb3-be49-d79fd4ff86e2",
+      "number": 6,
+      "riders_api_uuid": "b2570616-5431-4eb3-be49-d79fd4ff86e2"
+    },
+    {
+      "id": "4331b1bc-b5f4-4649-b787-485f762639cb",
+      "full_name": "Scott Ogden",
+      "country": {
+        "iso": "GB",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "region_iso": ""
+      },
+      "legacy_id": 10114,
+      "riders_id": "f261e368-80bd-4830-9a2e-1cee3e6b0be4",
+      "number": 19,
+      "riders_api_uuid": "f261e368-80bd-4830-9a2e-1cee3e6b0be4"
+    },
+    {
+      "id": "2e991b48-6cce-4488-9839-705fa2d198da",
+      "full_name": "Senna Agius",
+      "country": {
+        "iso": "AU",
+        "name": "Australia",
+        "region_iso": ""
+      },
+      "legacy_id": 10048,
+      "riders_id": "b6abeabd-e023-4537-b808-92844d2b6bd4",
+      "number": 81,
+      "riders_api_uuid": "b6abeabd-e023-4537-b808-92844d2b6bd4"
+    },
+    {
+      "id": "bba55487-31c8-4129-a512-7e11bcb373a9",
+      "full_name": "Sergio Garcia",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 9958,
+      "riders_id": "6251aee5-6e36-455c-8b43-e6fd1753fd8d",
+      "number": 3,
+      "riders_api_uuid": "6251aee5-6e36-455c-8b43-e6fd1753fd8d"
+    },
+    {
+      "id": "a463fc7c-ee5b-4fa8-9229-b041a8637051",
+      "full_name": "Somkiat Chantra",
+      "country": {
+        "iso": "TH",
+        "name": "Thailand",
+        "region_iso": ""
+      },
+      "legacy_id": 8476,
+      "riders_id": "fa8ac04c-8fa2-4c43-9aa5-cc79b1f35fb9",
+      "number": 35,
+      "riders_api_uuid": "fa8ac04c-8fa2-4c43-9aa5-cc79b1f35fb9"
+    },
+    {
+      "id": "bb85d066-8d44-465c-928e-d73a5c775293",
+      "full_name": "Stefano Nepa",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8875,
+      "riders_id": "9aa5d44b-39c7-47dd-96ef-a3e0e73499f2",
+      "number": 82,
+      "riders_api_uuid": "9aa5d44b-39c7-47dd-96ef-a3e0e73499f2"
+    },
+    {
+      "id": "1e9daff6-0ab9-4756-bc82-64d5ca4e5e54",
+      "full_name": "Taiga Hada",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 10258,
+      "riders_id": "64d9d78e-4191-4af9-816f-5243d17953cb",
+      "number": 23,
+      "riders_api_uuid": "64d9d78e-4191-4af9-816f-5243d17953cb"
+    },
+    {
+      "id": "d6db2a4e-676a-4971-8049-0c91a506a22d",
+      "full_name": "Taiyo Furusato",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 10220,
+      "riders_id": "e983f2ed-5bac-4ae7-9b54-3ab5fc357500",
+      "number": 72,
+      "riders_api_uuid": "e983f2ed-5bac-4ae7-9b54-3ab5fc357500"
+    },
+    {
+      "id": "201ae7a4-0dc7-4191-be71-d91ac0330090",
+      "full_name": "Takaaki Nakagami",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 6976,
+      "riders_id": "a7b4d63f-45b3-402e-b66c-001ed8a62934",
+      "number": 30,
+      "riders_api_uuid": "a7b4d63f-45b3-402e-b66c-001ed8a62934"
+    },
+    {
+      "id": "b5330921-0263-450a-b855-3cb0c568a48f",
+      "full_name": "Tatchakorn Buasri",
+      "country": {
+        "iso": "TH",
+        "name": "Thailand",
+        "region_iso": ""
+      },
+      "legacy_id": 10045,
+      "riders_id": "ebe82b39-3409-485b-9e5c-038667a4a53f",
+      "number": 5,
+      "riders_api_uuid": "ebe82b39-3409-485b-9e5c-038667a4a53f"
+    },
+    {
+      "id": "63061135-b4f8-46b1-a324-bc516edb713f",
+      "full_name": "Tibor Erik Varga",
+      "country": {
+        "iso": "HU",
+        "name": "Hungary",
+        "region_iso": ""
+      },
+      "legacy_id": 10268,
+      "riders_id": "9065eb27-2be2-4259-ae1c-672f3e65fdfa",
+      "number": 47,
+      "riders_api_uuid": "9065eb27-2be2-4259-ae1c-672f3e65fdfa"
+    },
+    {
+      "id": "73d91137-2e25-4070-acf1-44114c8cc78e",
+      "full_name": "Tommaso Occhi",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 10620,
+      "riders_id": "8cb5d508-8d8c-4a15-9d88-fb59925242e2",
+      "number": 28,
+      "riders_api_uuid": "8cb5d508-8d8c-4a15-9d88-fb59925242e2"
+    },
+    {
+      "id": "64c448a5-6f5e-4bef-bac5-d0f5e8a9b89a",
+      "full_name": "Tony Arbolino",
+      "country": {
+        "iso": "IT",
+        "name": "Italy",
+        "region_iso": ""
+      },
+      "legacy_id": 8752,
+      "riders_id": "5c8bbc11-a1aa-4f55-b9dc-f2e8b7c33ceb",
+      "number": 14,
+      "riders_api_uuid": "5c8bbc11-a1aa-4f55-b9dc-f2e8b7c33ceb"
+    },
+    {
+      "id": "c897059e-2972-4b56-8891-cca6dd92b6e2",
+      "full_name": "Unai Orradre",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10408,
+      "riders_id": "a357a14a-bdd0-4b0a-8c75-948b5233cbad",
+      "number": 19,
+      "riders_api_uuid": "a357a14a-bdd0-4b0a-8c75-948b5233cbad"
+    },
+    {
+      "id": "f69ef365-138a-4727-a992-b8857bc5bb52",
+      "full_name": "Valentin Perrone",
+      "country": {
+        "iso": "AR",
+        "name": "Argentina",
+        "region_iso": ""
+      },
+      "legacy_id": 10509,
+      "riders_id": "c1dbeba7-8a56-40fd-ab57-cd6eb37e63f3",
+      "number": 73,
+      "riders_api_uuid": "c1dbeba7-8a56-40fd-ab57-cd6eb37e63f3"
+    },
+    {
+      "id": "a864715f-82f3-440b-9138-653c52317ff3",
+      "full_name": "Vicente Perez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 8754,
+      "riders_id": "66f96bc2-5b52-4f0e-9eb1-bfc3f0a3152c",
+      "number": 32,
+      "riders_api_uuid": "66f96bc2-5b52-4f0e-9eb1-bfc3f0a3152c"
+    },
+    {
+      "id": "ec3cc0b6-0353-4dc1-92f5-78af41d3d3bb",
+      "full_name": "Xabi Zurutuza",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10428,
+      "riders_id": "8861fef1-5380-4d96-b45d-b5c469c04df2",
+      "number": 85,
+      "riders_api_uuid": "8861fef1-5380-4d96-b45d-b5c469c04df2"
+    },
+    {
+      "id": "96dc389d-901f-4281-b62d-bd565767f04b",
+      "full_name": "Yuki Kunii",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 8827,
+      "riders_id": "8e629524-bf3f-4042-8aab-49863d25206a",
+      "number": 92,
+      "riders_api_uuid": "8e629524-bf3f-4042-8aab-49863d25206a"
+    },
+    {
+      "id": "9aad8146-4002-4852-9857-e1edb47543ea",
+      "full_name": "Zen Mitani",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 10473,
+      "riders_id": "11af471d-9074-4d43-8b5e-f33957486f08",
+      "number": 2,
+      "riders_api_uuid": "11af471d-9074-4d43-8b5e-f33957486f08"
+    },
+    {
+      "id": "5002549c-2e5c-4aee-b106-b7c9830e328a",
+      "full_name": "Zonta Vd Goorbergh",
+      "country": {
+        "iso": "NL",
+        "name": "Netherlands",
+        "region_iso": ""
+      },
+      "legacy_id": 10160,
+      "riders_id": "206c1c78-6d79-4e13-9568-5a90138ece2b",
+      "number": 84,
+      "riders_api_uuid": "206c1c78-6d79-4e13-9568-5a90138ece2b"
+    }
+  ],
+  "total": 132,
+  "updated_at": "2026-06-13T12:59:18.369501Z"
+}
