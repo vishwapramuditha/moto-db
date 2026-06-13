@@ -1,7 +1,7 @@
 # MotoDB - Data for every motorsport
 
 <p align="center">
-  <img src="website/public/hero-car.svg" alt="Moto-DB F1 Dotted Car Banner" width="480">
+  <img src="public/hero-car.svg" alt="Moto-DB F1 Dotted Car Banner" width="480">
 </p>
 
 An open-source, developer-friendly database of schedules, race results, driver profiles, and track metadata for major motorsports—hosted entirely on GitHub and accessible for **$0** in hosting costs with infinite scale.
