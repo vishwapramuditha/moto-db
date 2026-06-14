@@ -16,7 +16,7 @@ def make_request(url):
     for attempt in range(retries):
         try:
             print(f"Fetching: {url}")
-            with urllib.request.urlopen(req) as response:
+            with urllib.request.urlopen(req, timeout=10) as response:
                 return json.loads(response.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             if e.code == 429:  # Rate limited
