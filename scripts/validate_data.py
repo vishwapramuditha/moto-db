@@ -112,6 +112,18 @@ def validate_json_file(file_path):
                     return False
                 
     # 4. Results files validation
+    elif filename == 'results.json':
+        if not isinstance(data, list):
+            print(f"[ERROR] STRUCTURE ERROR: {file_path} results.json must be a list.")
+            return False
+        for idx, item in enumerate(data):
+            if not isinstance(item, dict):
+                print(f"[ERROR] DATA ERROR: {file_path} item at index {idx} is not an object.")
+                return False
+            if 'round' not in item:
+                print(f"[ERROR] DATA ERROR: {file_path} item at index {idx} is missing a 'round' field.")
+                return False
+
     elif filename.startswith('results_') or filename.endswith('_RAC.json') or filename.endswith('_SPR.json'):
         if not isinstance(data, dict):
             print(f"[ERROR] STRUCTURE ERROR: {file_path} results file must be an object (dict).")
@@ -153,13 +165,14 @@ def validate_json_file(file_path):
             return False
             
         standings_list = None
-        for k in ['driverStandings', 'riderStandings', 'teamStandings', 'constructorStandings', 'entrantStandings']:
+        for k in ['driverStandings', 'riderStandings', 'teamStandings', 'constructorStandings', 'entrantStandings', 
+                  'hypercarDriverStandings', 'hypercarTeamStandings', 'lmgt3DriverStandings', 'lmgt3TeamStandings']:
             if k in data and isinstance(data[k], list):
                 standings_list = data[k]
                 break
                 
         if standings_list is None:
-            print(f"[ERROR] STRUCTURE ERROR: {file_path} standings must contain a standings list (e.g. driverStandings, riderStandings).")
+            print(f"[ERROR] STRUCTURE ERROR: {file_path} standings must contain a standings list (e.g. driverStandings, riderStandings, hypercarDriverStandings).")
             return False
             
         for idx, standing in enumerate(standings_list):

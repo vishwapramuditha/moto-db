@@ -1,0 +1,78 @@
+{
+  "season": "2026",
+  "hypercarDriverStandings": [
+    {
+      "position": 1,
+      "wins": 1,
+      "driver_name": "Sébastien Buemi Brendon Hartley Ryō Hirakawa",
+      "team_name": "No. 8 Toyota Racing"
+    },
+    {
+      "position": 2,
+      "wins": 1,
+      "driver_name": "René Rast Robin Frijns Sheldon van der Linde",
+      "team_name": "No. 20 BMW M Team WRT"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "driver_name": "Mike Conway Kamui Kobayashi Nyck de Vries",
+      "team_name": "No. 7 Toyota Racing"
+    }
+  ],
+  "hypercarTeamStandings": [
+    {
+      "position": 1,
+      "wins": 1,
+      "team_name": "No. 8 Toyota Racing"
+    },
+    {
+      "position": 2,
+      "wins": 1,
+      "team_name": "No. 20 BMW M Team WRT"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "team_name": "No. 7 Toyota Racing"
+    }
+  ],
+  "lmgt3DriverStandings": [
+    {
+      "position": 1,
+      "wins": 1,
+      "driver_name": "Dan Harper Anthony McIntosh Parker Thompson",
+      "team_name": "No. 69 Team WRT"
+    },
+    {
+      "position": 2,
+      "wins": 1,
+      "driver_name": "Antares Au Tom Fleming Marvin Kirchhöfer",
+      "team_name": "No. 10 Garage 59"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "driver_name": "Nicky Catsburg Jonny Edgar Ben Keating",
+      "team_name": "TF Sport"
+    }
+  ],
+  "lmgt3TeamStandings": [
+    {
+      "position": 1,
+      "wins": 1,
+      "team_name": "No. 69 Team WRT"
+    },
+    {
+      "position": 2,
+      "wins": 1,
+      "team_name": "No. 10 Garage 59"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "team_name": "TF Sport"
+    }
+  ],
+  "updated_at": "2026-06-14T16:16:54.120684+00:00"
+}

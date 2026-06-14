@@ -1,0 +1,26 @@
+[
+  {
+    "round": "1",
+    "circuit": "Imola",
+    "winning_hypercar_team": "No. 8 Toyota Racing",
+    "winning_hypercar_drivers": "Sébastien Buemi Brendon Hartley Ryō Hirakawa",
+    "winning_lmgt3_team": "No. 69 Team WRT",
+    "winning_lmgt3_drivers": "Dan Harper Anthony McIntosh Parker Thompson"
+  },
+  {
+    "round": "2",
+    "circuit": "Spa",
+    "winning_hypercar_team": "No. 20 BMW M Team WRT",
+    "winning_hypercar_drivers": "René Rast Robin Frijns Sheldon van der Linde",
+    "winning_lmgt3_team": "No. 10 Garage 59",
+    "winning_lmgt3_drivers": "Antares Au Tom Fleming Marvin Kirchhöfer"
+  },
+  {
+    "round": "3",
+    "circuit": "Le Mans",
+    "winning_hypercar_team": "No. 7 Toyota Racing",
+    "winning_hypercar_drivers": "Mike Conway Kamui Kobayashi Nyck de Vries",
+    "winning_lmgt3_team": "TF Sport",
+    "winning_lmgt3_drivers": "Nicky Catsburg Jonny Edgar Ben Keating"
+  }
+]

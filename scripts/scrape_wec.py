@@ -248,9 +248,119 @@ def scrape_season(dest_dir, year, homepage_parser):
     write_json(os.path.join(dest_dir, str(year), "schedule.json"), schedule_output)
 
 
+class WecWikiResultsParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.in_table = False
+        self.in_row = False
+        self.in_cell = False
+        self.current_cell = []
+        self.current_row = []
+        self.tables = []
+        
+    def handle_starttag(self, tag, attrs):
+        attrs_dict = dict(attrs)
+        if tag == 'table' and 'wikitable' in attrs_dict.get('class', ''):
+            self.in_table = True
+            self.current_table = []
+        elif tag == 'tr' and self.in_table:
+            self.in_row = True
+            self.current_row = []
+        elif tag in ('td', 'th') and self.in_row:
+            self.in_cell = True
+            self.current_cell = []
+            
+    def handle_endtag(self, tag):
+        if tag == 'table' and self.in_table:
+            self.in_table = False
+            self.tables.append(self.current_table)
+        elif tag == 'tr' and self.in_row:
+            self.in_row = False
+            self.current_table.append(self.current_row)
+        elif tag in ('td', 'th') and self.in_cell:
+            self.in_cell = False
+            text = ''.join(self.current_cell).strip()
+            import re
+            text = re.sub(r'\[.*?\]', '', text).strip()
+            self.current_row.append(text)
+            
+    def handle_data(self, data):
+        if self.in_cell:
+            self.current_cell.append(data.replace('\n', ' '))
+
+
+def scrape_wec_results(dest_dir, year):
+    """Scrape WEC race results from Wikipedia."""
+    url = f"https://en.wikipedia.org/wiki/{year}_FIA_World_Endurance_Championship"
+    print(f"Fetching WEC results from: {url}")
+    
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=10) as response:
+            html = response.read().decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"Error fetching WEC results from Wikipedia for {year}: {e}")
+        return
+
+    parser = WecWikiResultsParser()
+    parser.feed(html)
+    
+    results_table = None
+    for table in parser.tables:
+        if not table or not table[0]:
+            continue
+        header = [h.lower() for h in table[0]]
+        if 'rnd.' in header and 'circuit' in header and any('hypercar' in h for h in header):
+            results_table = table
+            break
+            
+    if not results_table:
+        print(f"Could not find WEC results table on Wikipedia for {year}")
+        return
+        
+    results = []
+    import re
+    i = 1
+    while i < len(results_table):
+        row_team = results_table[i]
+        if i + 1 < len(results_table):
+            row_drivers = results_table[i+1]
+        else:
+            row_drivers = []
+            
+        if len(row_team) >= 4 and row_team[0].isdigit():
+            rnd = row_team[0]
+            circuit = row_team[1]
+            hypercar_team = row_team[2]
+            lmgt3_team = row_team[3]
+            
+            hypercar_drivers = ""
+            lmgt3_drivers = ""
+            if len(row_drivers) >= 2:
+                hypercar_drivers = row_drivers[0]
+                lmgt3_drivers = row_drivers[1]
+                
+            hypercar_drivers = re.sub(r'\s+', ' ', hypercar_drivers).strip()
+            lmgt3_drivers = re.sub(r'\s+', ' ', lmgt3_drivers).strip()
+            
+            if (hypercar_team and hypercar_team.lower() != 'tbd' and 'cancelled' not in hypercar_team.lower()) or (hypercar_drivers):
+                results.append({
+                    "round": rnd,
+                    "circuit": circuit,
+                    "winning_hypercar_team": hypercar_team,
+                    "winning_hypercar_drivers": hypercar_drivers,
+                    "winning_lmgt3_team": lmgt3_team,
+                    "winning_lmgt3_drivers": lmgt3_drivers
+                })
+        i += 2
+        
+    if results:
+        write_json(os.path.join(dest_dir, str(year), "results.json"), results)
+
+
 def main():
     parser = argparse.ArgumentParser(
-        description="Scrape WEC (World Endurance Championship) schedule from fiawec.com"
+        description="Scrape WEC (World Endurance Championship) schedule and results from fiawec.com & Wikipedia"
     )
     parser.add_argument(
         "--years",
@@ -298,6 +408,8 @@ def main():
     print(f"Target years: {years}")
     for year in years:
         scrape_season(dest_dir, year, homepage_parser)
+        time.sleep(1.0)
+        scrape_wec_results(dest_dir, year)
 
     print("\nWEC scraping completed!")
 

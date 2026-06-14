@@ -1,0 +1,155 @@
+{
+  "season": "2025",
+  "hypercarDriverStandings": [
+    {
+      "position": 1,
+      "wins": 2,
+      "driver_name": "James Calado Antonio Giovinazzi Alessandro Pier Guidi",
+      "team_name": "No. 51 Ferrari AF Corse"
+    },
+    {
+      "position": 2,
+      "wins": 1,
+      "driver_name": "Antonio Fuoco Miguel Molina Nicklas Nielsen",
+      "team_name": "No. 50 Ferrari AF Corse"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "driver_name": "Phil Hanson Robert Kubica Yifei Ye",
+      "team_name": "No. 83 AF Corse"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "driver_name": "Alex Lynn Norman Nato Will Stevens",
+      "team_name": "No. 12 Cadillac Hertz Team Jota"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Kevin Estre Laurens Vanthoor Matt Campbell",
+      "team_name": "No. 6 Porsche Penske Motorsport"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Paul-Loup Chatin Ferdinand Habsburg Charles Milesi",
+      "team_name": "No. 35 Alpine Endurance Team"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "driver_name": "Mike Conway Kamui Kobayashi Nyck de Vries",
+      "team_name": "No. 7 Toyota Gazoo Racing"
+    }
+  ],
+  "hypercarTeamStandings": [
+    {
+      "position": 1,
+      "wins": 2,
+      "team_name": "No. 51 Ferrari AF Corse"
+    },
+    {
+      "position": 2,
+      "wins": 1,
+      "team_name": "No. 50 Ferrari AF Corse"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "team_name": "No. 83 AF Corse"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "team_name": "No. 12 Cadillac Hertz Team Jota"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "team_name": "No. 6 Porsche Penske Motorsport"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "No. 35 Alpine Endurance Team"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "team_name": "No. 7 Toyota Gazoo Racing"
+    }
+  ],
+  "lmgt3DriverStandings": [
+    {
+      "position": 1,
+      "wins": 2,
+      "driver_name": "Ryan Hardwick Richard Lietz Riccardo Pera",
+      "team_name": "No. 92 Manthey 1st Phorm"
+    },
+    {
+      "position": 2,
+      "wins": 2,
+      "driver_name": "José María López Clemens Schmid Răzvan Umbrărescu",
+      "team_name": "No. 87 Akkodis ASP Team"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "driver_name": "Jonny Edgar Daniel Juncadella Ben Keating",
+      "team_name": "No. 33 TF Sport"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "driver_name": "François Hériau Simon Mann Alessio Rovera",
+      "team_name": "No. 21 Vista AF Corse"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Sean Gelael Darren Leung Marino Sato",
+      "team_name": "No. 95 United Autosports"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Rui Andrade Charlie Eastwood Tom Van Rompuy",
+      "team_name": "No. 81 TF Sport"
+    }
+  ],
+  "lmgt3TeamStandings": [
+    {
+      "position": 1,
+      "wins": 2,
+      "team_name": "No. 92 Manthey 1st Phorm"
+    },
+    {
+      "position": 2,
+      "wins": 2,
+      "team_name": "No. 87 Akkodis ASP Team"
+    },
+    {
+      "position": 3,
+      "wins": 1,
+      "team_name": "No. 33 TF Sport"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "team_name": "No. 21 Vista AF Corse"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "team_name": "No. 95 United Autosports"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "No. 81 TF Sport"
+    }
+  ],
+  "updated_at": "2026-06-14T16:16:51.543451+00:00"
+}

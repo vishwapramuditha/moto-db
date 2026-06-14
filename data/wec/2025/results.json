@@ -1,0 +1,66 @@
+[
+  {
+    "round": "1",
+    "circuit": "Losail",
+    "winning_hypercar_team": "No. 50 Ferrari AF Corse",
+    "winning_hypercar_drivers": "Antonio Fuoco Miguel Molina Nicklas Nielsen",
+    "winning_lmgt3_team": "No. 33 TF Sport",
+    "winning_lmgt3_drivers": "Jonny Edgar Daniel Juncadella Ben Keating"
+  },
+  {
+    "round": "2",
+    "circuit": "Imola",
+    "winning_hypercar_team": "No. 51 Ferrari AF Corse",
+    "winning_hypercar_drivers": "James Calado Antonio Giovinazzi Alessandro Pier Guidi",
+    "winning_lmgt3_team": "No. 92 Manthey 1st Phorm",
+    "winning_lmgt3_drivers": "Ryan Hardwick Richard Lietz Riccardo Pera"
+  },
+  {
+    "round": "3",
+    "circuit": "Spa",
+    "winning_hypercar_team": "No. 51 Ferrari AF Corse",
+    "winning_hypercar_drivers": "James Calado Antonio Giovinazzi Alessandro Pier Guidi",
+    "winning_lmgt3_team": "No. 21 Vista AF Corse",
+    "winning_lmgt3_drivers": "François Hériau Simon Mann Alessio Rovera"
+  },
+  {
+    "round": "4",
+    "circuit": "Le Mans",
+    "winning_hypercar_team": "No. 83 AF Corse",
+    "winning_hypercar_drivers": "Phil Hanson Robert Kubica Yifei Ye",
+    "winning_lmgt3_team": "No. 92 Manthey 1st Phorm",
+    "winning_lmgt3_drivers": "Ryan Hardwick Richard Lietz Riccardo Pera"
+  },
+  {
+    "round": "5",
+    "circuit": "São Paulo",
+    "winning_hypercar_team": "No. 12 Cadillac Hertz Team Jota",
+    "winning_hypercar_drivers": "Alex Lynn Norman Nato Will Stevens",
+    "winning_lmgt3_team": "No. 87 Akkodis ASP Team",
+    "winning_lmgt3_drivers": "José María López Clemens Schmid Răzvan Umbrărescu"
+  },
+  {
+    "round": "6",
+    "circuit": "Austin",
+    "winning_hypercar_team": "No. 6 Porsche Penske Motorsport",
+    "winning_hypercar_drivers": "Kevin Estre Laurens Vanthoor Matt Campbell",
+    "winning_lmgt3_team": "No. 95 United Autosports",
+    "winning_lmgt3_drivers": "Sean Gelael Darren Leung Marino Sato"
+  },
+  {
+    "round": "7",
+    "circuit": "Fuji",
+    "winning_hypercar_team": "No. 35 Alpine Endurance Team",
+    "winning_hypercar_drivers": "Paul-Loup Chatin Ferdinand Habsburg Charles Milesi",
+    "winning_lmgt3_team": "No. 81 TF Sport",
+    "winning_lmgt3_drivers": "Rui Andrade Charlie Eastwood Tom Van Rompuy"
+  },
+  {
+    "round": "8",
+    "circuit": "Bahrain",
+    "winning_hypercar_team": "No. 7 Toyota Gazoo Racing",
+    "winning_hypercar_drivers": "Mike Conway Kamui Kobayashi Nyck de Vries",
+    "winning_lmgt3_team": "No. 87 Akkodis ASP Team",
+    "winning_lmgt3_drivers": "José María López Clemens Schmid Răzvan Umbrărescu"
+  }
+]

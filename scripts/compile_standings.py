@@ -548,6 +548,104 @@ def compile_wrc_standings(year, data_dir):
         'updated_at': datetime_now_iso()
     })
 
+def compile_wec_standings(year, data_dir):
+    series_dir = os.path.join(data_dir, 'wec', year)
+    if not os.path.exists(series_dir):
+        return
+        
+    results_path = os.path.join(series_dir, 'results.json')
+    if not os.path.exists(results_path):
+        return
+        
+    hypercar_drivers = {}
+    hypercar_teams = {}
+    lmgt3_drivers = {}
+    lmgt3_teams = {}
+    
+    try:
+        with open(results_path, 'r', encoding='utf-8') as f:
+            results = json.load(f)
+            
+        for item in results:
+            h_team = item.get('winning_hypercar_team')
+            h_drivers = item.get('winning_hypercar_drivers')
+            g3_team = item.get('winning_lmgt3_team')
+            g3_drivers = item.get('winning_lmgt3_drivers')
+            
+            if h_drivers:
+                if h_drivers not in hypercar_drivers:
+                    hypercar_drivers[h_drivers] = { 'wins': 0, 'driver_name': h_drivers, 'team_name': h_team }
+                hypercar_drivers[h_drivers]['wins'] += 1
+                
+            if h_team:
+                if h_team not in hypercar_teams:
+                    hypercar_teams[h_team] = { 'wins': 0, 'team_name': h_team }
+                hypercar_teams[h_team]['wins'] += 1
+                
+            if g3_drivers:
+                if g3_drivers not in lmgt3_drivers:
+                    lmgt3_drivers[g3_drivers] = { 'wins': 0, 'driver_name': g3_drivers, 'team_name': g3_team }
+                lmgt3_drivers[g3_drivers]['wins'] += 1
+                
+            if g3_team:
+                if g3_team not in lmgt3_teams:
+                    lmgt3_teams[g3_team] = { 'wins': 0, 'team_name': g3_team }
+                lmgt3_teams[g3_team]['wins'] += 1
+                
+    except Exception as e:
+        print(f"[WARNING] WEC: Error compiling standings: {e}")
+        return
+
+    sorted_h_drivers = sorted(hypercar_drivers.values(), key=lambda x: x['wins'], reverse=True)
+    sorted_h_teams = sorted(hypercar_teams.values(), key=lambda x: x['wins'], reverse=True)
+    sorted_g3_drivers = sorted(lmgt3_drivers.values(), key=lambda x: x['wins'], reverse=True)
+    sorted_g3_teams = sorted(lmgt3_teams.values(), key=lambda x: x['wins'], reverse=True)
+    
+    h_driver_standings = []
+    for idx, val in enumerate(sorted_h_drivers):
+        h_driver_standings.append({
+            'position': idx + 1,
+            'wins': val['wins'],
+            'driver_name': val['driver_name'],
+            'team_name': val['team_name']
+        })
+        
+    h_team_standings = []
+    for idx, val in enumerate(sorted_h_teams):
+        h_team_standings.append({
+            'position': idx + 1,
+            'wins': val['wins'],
+            'team_name': val['team_name']
+        })
+        
+    g3_driver_standings = []
+    for idx, val in enumerate(sorted_g3_drivers):
+        g3_driver_standings.append({
+            'position': idx + 1,
+            'wins': val['wins'],
+            'driver_name': val['driver_name'],
+            'team_name': val['team_name']
+        })
+        
+    g3_team_standings = []
+    for idx, val in enumerate(sorted_g3_teams):
+        g3_team_standings.append({
+            'position': idx + 1,
+            'wins': val['wins'],
+            'team_name': val['team_name']
+        })
+        
+    output_path = os.path.join(series_dir, 'standings.json')
+    write_json(output_path, {
+        'season': year,
+        'hypercarDriverStandings': h_driver_standings,
+        'hypercarTeamStandings': h_team_standings,
+        'lmgt3DriverStandings': g3_driver_standings,
+        'lmgt3TeamStandings': g3_team_standings,
+        'updated_at': datetime_now_iso()
+    })
+
+
 def datetime_now_iso():
     from datetime import datetime, timezone
     return datetime.now(timezone.utc).isoformat()
@@ -555,13 +653,13 @@ def datetime_now_iso():
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Compile standings.json files by aggregating results.")
-    parser.add_argument('--series', choices=['f1', 'motogp', 'nascar', 'indycar', 'formula_e', 'wrc', 'all'], default='all', help='Series to compile')
+    parser.add_argument('--series', choices=['f1', 'motogp', 'nascar', 'indycar', 'formula_e', 'wrc', 'wec', 'all'], default='all', help='Series to compile')
     parser.add_argument('--year', default='2026', help='Year to compile standings for')
     args = parser.parse_args()
     
     data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
     
-    series_list = [args.series] if args.series != 'all' else ['f1', 'motogp', 'nascar', 'indycar', 'formula_e', 'wrc']
+    series_list = [args.series] if args.series != 'all' else ['f1', 'motogp', 'nascar', 'indycar', 'formula_e', 'wrc', 'wec']
     
     print(f"[INFO] Compiling standings for year: {args.year}, series: {args.series}")
     
@@ -584,6 +682,8 @@ def main():
             compile_formula_e_standings(target_year, data_dir)
         elif s == 'wrc':
             compile_wrc_standings(target_year, data_dir)
+        elif s == 'wec':
+            compile_wec_standings(target_year, data_dir)
             
     print("[SUCCESS] Standings compilation complete!")
 

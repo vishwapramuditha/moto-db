@@ -27,13 +27,14 @@
         68.0,
         93.0,
         118.0,
+        143.0,
         143.0
       ]
     },
     {
       "position": 2,
-      "points": 79.0,
-      "wins": 0,
+      "points": 105.0,
+      "wins": 1,
       "Driver": {
         "driverId": "hamilton",
         "permanentNumber": "44",
@@ -56,12 +57,13 @@
         35.0,
         43.0,
         61.0,
-        79.0
+        79.0,
+        105.0
       ]
     },
     {
       "position": 3,
-      "points": 67.0,
+      "points": 85.0,
       "wins": 1,
       "Driver": {
         "driverId": "russell",
@@ -85,7 +87,8 @@
         55.0,
         67.0,
         67.0,
-        67.0
+        67.0,
+        85.0
       ]
     },
     {
@@ -114,12 +117,13 @@
         42.0,
         46.0,
         58.0,
+        58.0,
         58.0
       ]
     },
     {
       "position": 5,
-      "points": 43.0,
+      "points": 53.0,
       "wins": 0,
       "Driver": {
         "driverId": "piastri",
@@ -143,12 +147,13 @@
         18.0,
         33.0,
         33.0,
-        43.0
+        43.0,
+        53.0
       ]
     },
     {
       "position": 6,
-      "points": 38.0,
+      "points": 53.0,
       "wins": 0,
       "Driver": {
         "driverId": "norris",
@@ -172,12 +177,13 @@
         20.0,
         38.0,
         38.0,
-        38.0
+        38.0,
+        53.0
       ]
     },
     {
       "position": 7,
-      "points": 37.0,
+      "points": 49.0,
       "wins": 0,
       "Driver": {
         "driverId": "max_verstappen",
@@ -201,12 +207,13 @@
         12.0,
         22.0,
         37.0,
-        37.0
+        37.0,
+        49.0
       ]
     },
     {
       "position": 8,
-      "points": 34.0,
+      "points": 40.0,
       "wins": 0,
       "Driver": {
         "driverId": "gasly",
@@ -230,12 +237,13 @@
         15.0,
         15.0,
         19.0,
-        34.0
+        34.0,
+        40.0
       ]
     },
     {
       "position": 9,
-      "points": 26.0,
+      "points": 34.0,
       "wins": 0,
       "Driver": {
         "driverId": "hadjar",
@@ -259,12 +267,13 @@
         4.0,
         4.0,
         14.0,
-        26.0
+        26.0,
+        34.0
       ]
     },
     {
       "position": 10,
-      "points": 22.0,
+      "points": 24.0,
       "wins": 0,
       "Driver": {
         "driverId": "lawson",
@@ -288,11 +297,42 @@
         8.0,
         8.0,
         14.0,
-        22.0
+        22.0,
+        24.0
       ]
     },
     {
       "position": 11,
+      "points": 19.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "colapinto",
+        "permanentNumber": "43",
+        "code": "COL",
+        "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
+        "givenName": "Franco",
+        "familyName": "Colapinto",
+        "dateOfBirth": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      },
+      "pointsProgression": [
+        0.0,
+        1.0,
+        1.0,
+        7.0,
+        15.0,
+        15.0,
+        19.0
+      ]
+    },
+    {
+      "position": 12,
       "points": 17.0,
       "wins": 0,
       "Driver": {
@@ -317,41 +357,13 @@
         16.0,
         16.0,
         17.0,
+        17.0,
         17.0
       ]
     },
     {
-      "position": 12,
-      "points": 15.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "colapinto",
-        "permanentNumber": "43",
-        "code": "COL",
-        "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
-        "givenName": "Franco",
-        "familyName": "Colapinto",
-        "dateOfBirth": "2003-05-27",
-        "nationality": "Argentine"
-      },
-      "Constructor": {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      },
-      "pointsProgression": [
-        0.0,
-        1.0,
-        1.0,
-        7.0,
-        15.0,
-        15.0
-      ]
-    },
-    {
       "position": 13,
-      "points": 10.0,
+      "points": 11.0,
       "wins": 0,
       "Driver": {
         "driverId": "arvid_lindblad",
@@ -375,7 +387,8 @@
         4.0,
         4.0,
         4.0,
-        10.0
+        10.0,
+        11.0
       ]
     },
     {
@@ -403,6 +416,7 @@
         2.0,
         2.0,
         4.0,
+        6.0,
         6.0,
         6.0
       ]
@@ -433,6 +447,7 @@
         0.0,
         1.0,
         1.0,
+        5.0,
         5.0
       ]
     },
@@ -462,6 +477,7 @@
         1.0,
         1.0,
         1.0,
+        3.0,
         3.0
       ]
     },
@@ -486,6 +502,7 @@
         "nationality": "German"
       },
       "pointsProgression": [
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -520,6 +537,7 @@
         0.0,
         0.0,
         0.0,
+        1.0,
         1.0
       ]
     },
@@ -549,11 +567,42 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
     {
       "position": 20,
+      "points": 0.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "perez",
+        "permanentNumber": "11",
+        "code": "PER",
+        "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
+        "givenName": "Sergio",
+        "familyName": "Pérez",
+        "dateOfBirth": "1990-01-26",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "cadillac",
+        "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
+        "name": "Cadillac F1 Team",
+        "nationality": "American"
+      },
+      "pointsProgression": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "position": 21,
       "points": 0.0,
       "wins": 0,
       "Driver": {
@@ -574,34 +623,6 @@
       },
       "pointsProgression": [
         0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ]
-    },
-    {
-      "position": 21,
-      "points": 0.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "perez",
-        "permanentNumber": "11",
-        "code": "PER",
-        "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
-        "givenName": "Sergio",
-        "familyName": "Pérez",
-        "dateOfBirth": "1990-01-26",
-        "nationality": "Mexican"
-      },
-      "Constructor": {
-        "constructorId": "cadillac",
-        "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-        "name": "Cadillac F1 Team",
-        "nationality": "American"
-      },
-      "pointsProgression": [
         0.0,
         0.0,
         0.0,
@@ -636,6 +657,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
@@ -643,7 +665,7 @@
   "constructorStandings": [
     {
       "position": 1,
-      "points": 210.0,
+      "points": 228.0,
       "wins": 6,
       "Constructor": {
         "constructorId": "mercedes",
@@ -657,13 +679,14 @@
         123.0,
         160.0,
         185.0,
-        210.0
+        210.0,
+        228.0
       ]
     },
     {
       "position": 2,
-      "points": 137.0,
-      "wins": 0,
+      "points": 163.0,
+      "wins": 1,
       "Constructor": {
         "constructorId": "ferrari",
         "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
@@ -676,12 +699,13 @@
         77.0,
         89.0,
         119.0,
-        137.0
+        137.0,
+        163.0
       ]
     },
     {
       "position": 3,
-      "points": 81.0,
+      "points": 106.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "mclaren",
@@ -695,12 +719,13 @@
         38.0,
         71.0,
         71.0,
-        81.0
+        81.0,
+        106.0
       ]
     },
     {
       "position": 4,
-      "points": 63.0,
+      "points": 83.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "red_bull",
@@ -714,12 +739,13 @@
         16.0,
         26.0,
         51.0,
-        63.0
+        63.0,
+        83.0
       ]
     },
     {
       "position": 5,
-      "points": 49.0,
+      "points": 59.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "alpine",
@@ -733,12 +759,13 @@
         16.0,
         22.0,
         34.0,
-        49.0
+        49.0,
+        59.0
       ]
     },
     {
       "position": 6,
-      "points": 32.0,
+      "points": 35.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "rb",
@@ -752,7 +779,8 @@
         12.0,
         12.0,
         18.0,
-        32.0
+        32.0,
+        35.0
       ]
     },
     {
@@ -771,6 +799,7 @@
         17.0,
         17.0,
         18.0,
+        20.0,
         20.0
       ]
     },
@@ -790,6 +819,7 @@
         2.0,
         5.0,
         7.0,
+        11.0,
         11.0
       ]
     },
@@ -804,6 +834,7 @@
         "nationality": "German"
       },
       "pointsProgression": [
+        2.0,
         2.0,
         2.0,
         2.0,
@@ -828,6 +859,7 @@
         0.0,
         0.0,
         0.0,
+        1.0,
         1.0
       ]
     },
@@ -847,9 +879,10 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
   ],
-  "updated_at": "2026-06-14T15:59:58.474480+00:00"
+  "updated_at": "2026-06-14T16:06:52.671676+00:00"
 }
