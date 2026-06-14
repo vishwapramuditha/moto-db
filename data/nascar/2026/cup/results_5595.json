@@ -1,0 +1,166 @@
+{
+  "season": "2026",
+  "series_id": 1,
+  "series_name": "cup",
+  "race_id": 5595,
+  "race_name": "America 250 Florida Duel at DAYTONA",
+  "track_name": "Daytona International Speedway",
+  "date": "2026-02-12T20:45:00",
+  "updated_at": "2026-06-14T08:27:14.647572Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4062,
+      "driver_name": "Chase Elliott",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 2,
+      "driver_id": 4326,
+      "driver_name": "Carson Hocevar",
+      "car_number": "77",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 3,
+      "driver_id": 4030,
+      "driver_name": "Kyle Larson",
+      "car_number": "5",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 4,
+      "driver_id": 3832,
+      "driver_name": "Michael McDowell",
+      "car_number": "71",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 5,
+      "driver_id": 4153,
+      "driver_name": "Christopher Bell",
+      "car_number": "20",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 6,
+      "driver_id": 4123,
+      "driver_name": "Josh Berry",
+      "car_number": "21",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 7,
+      "driver_id": 3888,
+      "driver_name": "Ricky Stenhouse Jr.",
+      "car_number": "47",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 8,
+      "driver_id": 4231,
+      "driver_name": "Todd Gilliland",
+      "car_number": "34",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 9,
+      "driver_id": 4368,
+      "driver_name": "Ty Gibbs",
+      "car_number": "54",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 10,
+      "driver_id": 1361,
+      "driver_name": "Denny Hamlin",
+      "car_number": "11",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 11,
+      "driver_id": 4059,
+      "driver_name": "Erik Jones",
+      "car_number": "43",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 12,
+      "driver_id": 4065,
+      "driver_name": "Tyler Reddick",
+      "car_number": "45",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 13,
+      "driver_id": 4269,
+      "driver_name": "Riley Herbst",
+      "car_number": "35",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 14,
+      "driver_id": 4272,
+      "driver_name": "Zane Smith",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 15,
+      "driver_id": 4481,
+      "driver_name": "Connor Zilisch #",
+      "car_number": "88",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 16,
+      "driver_id": 4013,
+      "driver_name": "Ty Dillon",
+      "car_number": "10",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 4180,
+      "driver_name": "Austin Cindric",
+      "car_number": "2",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 18,
+      "driver_id": 4301,
+      "driver_name": "* Anthony Alfredo(i)",
+      "car_number": "62",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 19,
+      "driver_id": 3973,
+      "driver_name": "* BJ McLeod",
+      "car_number": "78",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 20,
+      "driver_id": 4228,
+      "driver_name": "Chase Briscoe",
+      "car_number": "19",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 21,
+      "driver_id": 34,
+      "driver_name": "* Justin Allgaier(i)",
+      "car_number": "40",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 22,
+      "driver_id": 3669,
+      "driver_name": "* JJ Yeley(i)",
+      "car_number": "44",
+      "manufacturer": "Chv"
+    }
+  ]
+}

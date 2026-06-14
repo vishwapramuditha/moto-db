@@ -1,0 +1,939 @@
+{
+  "season": "2026",
+  "event": {
+    "id": "a0251657-afe5-4d90-a66f-d4779babd571",
+    "name": "GRAND PRIX OF CATALONIA",
+    "short_name": "CAT",
+    "circuit": {
+      "id": "2218098d-ab2d-498b-a633-1a4a39119e9e",
+      "name": "Circuit de Barcelona-Catalunya",
+      "legacy_id": 13,
+      "place": "Barcelona",
+      "nation": "SPA"
+    },
+    "date_start": "2026-05-15",
+    "date_end": "2026-05-17"
+  },
+  "category": {
+    "id": "e8c110ad-64aa-4e8e-8a86-f2f152f6a942",
+    "name": "MotoGP™",
+    "legacy_id": 3
+  },
+  "session": {
+    "id": "96d63c76-6917-40e9-9fb7-2261d9d96d57",
+    "type": "RAC",
+    "date": "2026-05-17T15:17:00+00:00",
+    "condition": {
+      "track": "Dry",
+      "air": "19º",
+      "humidity": "58%",
+      "ground": "37º",
+      "weather": "Partly-Cloudy"
+    }
+  },
+  "updated_at": "2026-06-14T08:26:21.823157Z",
+  "results": [
+    {
+      "id": "cd2398be-ff1d-4697-a8d3-be2bd4bba3b6",
+      "position": 1,
+      "rider": {
+        "id": "6c33de41-f014-4f17-8dc9-e6f36e61026a",
+        "full_name": "Fabio Di Giannantonio",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8539,
+        "riders_id": "525b1551-f10b-4cfd-9b43-59af6fca654b",
+        "number": 49,
+        "riders_api_uuid": "525b1551-f10b-4cfd-9b43-59af6fca654b"
+      },
+      "team": {
+        "id": "ee92fb0f-6420-4838-9b80-6d8b14815cd0",
+        "name": "Pertamina Enduro VR46 Racing Team",
+        "legacy_id": 17,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 166.7,
+      "gap": {
+        "first": "0.000",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:06.243",
+      "points": 25,
+      "status": "INSTND"
+    },
+    {
+      "id": "83231d61-5671-4772-b3bb-dea5ed4a8dd5",
+      "position": 2,
+      "rider": {
+        "id": "2614e0f6-7e02-4076-a746-50f43fe3143c",
+        "full_name": "Fermin Aldeguer",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 9867,
+        "riders_id": "71052114-5bce-4307-908c-4cc2bd387aac",
+        "number": 54,
+        "riders_api_uuid": "71052114-5bce-4307-908c-4cc2bd387aac"
+      },
+      "team": {
+        "id": "0247bf73-6f9f-409c-bdb5-6a047f0bdbd0",
+        "name": "BK8 Gresini Racing MotoGP",
+        "legacy_id": 18,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 166.5,
+      "gap": {
+        "first": "1.466",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:07.709",
+      "points": 20,
+      "status": "INSTND"
+    },
+    {
+      "id": "582f2b0b-9f0c-4518-b768-19450d6cd468",
+      "position": 3,
+      "rider": {
+        "id": "9cb55304-0ac1-401c-beb6-1a4f445018a4",
+        "full_name": "Francesco Bagnaia",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8273,
+        "riders_id": "66b78301-5826-4986-b11e-fa68a7bd77a7",
+        "number": 63,
+        "riders_api_uuid": "66b78301-5826-4986-b11e-fa68a7bd77a7"
+      },
+      "team": {
+        "id": "411c7fe3-c805-4165-8b9d-9280cb65130c",
+        "name": "Ducati Lenovo Team",
+        "legacy_id": 19,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 166.1,
+      "gap": {
+        "first": "4.320",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:10.563",
+      "points": 16,
+      "status": "INSTND"
+    },
+    {
+      "id": "2bcc957d-efb2-45e3-9aa3-6a7b9e03664f",
+      "position": 4,
+      "rider": {
+        "id": "ab06dbae-7d6e-47c3-b63f-b7ac6b7d3bcd",
+        "full_name": "Marco Bezzecchi",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8688,
+        "riders_id": "e622ec5b-5ccf-457c-a67f-ec028f0ddf6e",
+        "number": 72,
+        "riders_api_uuid": "e622ec5b-5ccf-457c-a67f-ec028f0ddf6e"
+      },
+      "team": {
+        "id": "6967d790-8342-4649-a687-7cf5b0d038dd",
+        "name": "Aprilia Racing",
+        "legacy_id": 20,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "10d5e2bc-4b0b-4875-b936-3962fbb1b877",
+        "name": "Aprilia",
+        "legacy_id": 7
+      },
+      "average_speed": 166.1,
+      "gap": {
+        "first": "4.679",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:10.922",
+      "points": 13,
+      "status": "INSTND"
+    },
+    {
+      "id": "1f5928de-058c-4486-a458-099879056ef8",
+      "position": 5,
+      "rider": {
+        "id": "fcdd5500-a769-4ff4-8b9e-080d1849ff42",
+        "full_name": "Fabio Quartararo",
+        "country": {
+          "iso": "FR",
+          "name": "France",
+          "region_iso": ""
+        },
+        "legacy_id": 8520,
+        "riders_id": "bf95d959-6a60-44f1-84b5-ded861e62578",
+        "number": 20,
+        "riders_api_uuid": "bf95d959-6a60-44f1-84b5-ded861e62578"
+      },
+      "team": {
+        "id": "7892448f-80af-4dd3-b020-65e5c8b0a8c6",
+        "name": "Monster Energy Yamaha MotoGP Team",
+        "legacy_id": 5,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "babb4c4c-3608-4811-93ad-3b88cc407547",
+        "name": "Yamaha",
+        "legacy_id": 3
+      },
+      "average_speed": 166.1,
+      "gap": {
+        "first": "4.876",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:11.119",
+      "points": 11,
+      "status": "INSTND"
+    },
+    {
+      "id": "b913dc04-4fae-40eb-a664-4c8220b22968",
+      "position": 6,
+      "rider": {
+        "id": "7b0687b0-90bd-4ad6-b157-8c66fb8a93cf",
+        "full_name": "Luca Marini",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8431,
+        "riders_id": "5dfc20db-c3c4-4ecd-9c7c-f6cfd042031a",
+        "number": 10,
+        "riders_api_uuid": "5dfc20db-c3c4-4ecd-9c7c-f6cfd042031a"
+      },
+      "team": {
+        "id": "faa6e363-c407-4638-9c7a-168c8e3fbe8f",
+        "name": "Honda HRC Castrol",
+        "legacy_id": 3,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 166,
+      "gap": {
+        "first": "4.971",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:11.214",
+      "points": 10,
+      "status": "INSTND"
+    },
+    {
+      "id": "c62e4ad2-04dc-42ad-837f-2cc5dc0a2389",
+      "position": 7,
+      "rider": {
+        "id": "ba579548-f026-402b-a607-38db5317d33f",
+        "full_name": "Brad Binder",
+        "country": {
+          "iso": "ZA",
+          "name": "South Africa",
+          "region_iso": ""
+        },
+        "legacy_id": 7646,
+        "riders_id": "ade5ef32-01ea-487c-95ca-491544a668ed",
+        "number": 33,
+        "riders_api_uuid": "ade5ef32-01ea-487c-95ca-491544a668ed"
+      },
+      "team": {
+        "id": "8d4d4643-2948-4016-bbd9-2fe6f69823ff",
+        "name": "Red Bull KTM Factory Racing",
+        "legacy_id": 10,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 166,
+      "gap": {
+        "first": "5.137",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:11.380",
+      "points": 9,
+      "status": "INSTND"
+    },
+    {
+      "id": "2027e496-d8ce-432b-8b89-f089ac58a302",
+      "position": 8,
+      "rider": {
+        "id": "eb47c439-e136-40ff-9534-5c612853f529",
+        "full_name": "Ai Ogura",
+        "country": {
+          "iso": "JP",
+          "name": "Japan",
+          "region_iso": ""
+        },
+        "legacy_id": 8680,
+        "riders_id": "244b6f51-ac33-40ee-876d-9401dc9d1346",
+        "number": 79,
+        "riders_api_uuid": "244b6f51-ac33-40ee-876d-9401dc9d1346"
+      },
+      "team": {
+        "id": "f5bba6a8-eec7-4cea-8c7a-8206a33dcb37",
+        "name": "Trackhouse MotoGP Team",
+        "legacy_id": 22,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "10d5e2bc-4b0b-4875-b936-3962fbb1b877",
+        "name": "Aprilia",
+        "legacy_id": 7
+      },
+      "average_speed": 166.4,
+      "gap": {
+        "first": "5.377",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:11.620",
+      "points": 8,
+      "status": "INSTND"
+    },
+    {
+      "id": "7d041929-0d7b-4eaf-9cd5-9d0f78023744",
+      "position": 9,
+      "rider": {
+        "id": "3c7598e5-12ec-4e19-9311-1c0e9a017cbe",
+        "full_name": "Diogo Moreira",
+        "country": {
+          "iso": "BR",
+          "name": "Brazil",
+          "region_iso": ""
+        },
+        "legacy_id": 10257,
+        "riders_id": "e2479f8e-dad8-4191-9a6c-9d4aafa8c3a3",
+        "number": 11,
+        "riders_api_uuid": "e2479f8e-dad8-4191-9a6c-9d4aafa8c3a3"
+      },
+      "team": {
+        "id": "a200bec7-1cc6-4197-943b-2278279d1561",
+        "name": "Pro Honda LCR",
+        "legacy_id": 11,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 165.8,
+      "gap": {
+        "first": "6.839",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:13.082",
+      "points": 7,
+      "status": "INSTND"
+    },
+    {
+      "id": "23afbb41-6e3b-4270-ae70-23519976e2b7",
+      "position": 10,
+      "rider": {
+        "id": "a73f8ef2-784f-4f52-8511-1d315fd3a459",
+        "full_name": "Franco Morbidelli",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 7741,
+        "riders_id": "4113c5f7-33c5-4246-b05b-3f81f4ddbd8f",
+        "number": 21,
+        "riders_api_uuid": "4113c5f7-33c5-4246-b05b-3f81f4ddbd8f"
+      },
+      "team": {
+        "id": "cad533ad-839f-4885-bc72-1b15f7fc4d53",
+        "name": "Pertamina Enduro VR46 Racing Team",
+        "legacy_id": 6,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 165.8,
+      "gap": {
+        "first": "7.160",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:13.403",
+      "points": 6,
+      "status": "INSTND"
+    },
+    {
+      "id": "57f72602-e629-437a-86d7-654e900fe37d",
+      "position": 11,
+      "rider": {
+        "id": "66ee98b2-239c-487f-8913-aab8493ce280",
+        "full_name": "Maverick Viñales",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 7409,
+        "riders_id": "71df6f0d-51c3-4cdb-9f5c-51939e6f33f2",
+        "number": 12,
+        "riders_api_uuid": "71df6f0d-51c3-4cdb-9f5c-51939e6f33f2"
+      },
+      "team": {
+        "id": "c0a8afd2-563f-41bb-8f34-f6e1e7f7a111",
+        "name": "Red Bull KTM Tech3",
+        "legacy_id": 4,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 165.3,
+      "gap": {
+        "first": "10.147",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:16.390",
+      "points": 5,
+      "status": "INSTND"
+    },
+    {
+      "id": "bdd44da8-500c-4a5c-a0cd-48cf12427e46",
+      "position": 12,
+      "rider": {
+        "id": "1113c9b8-c231-4ba7-a352-4c11c92ab9df",
+        "full_name": "Augusto Fernandez",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 9973,
+        "riders_id": "eb7f90b1-9373-4089-b2f5-adbc234a3526",
+        "number": 47,
+        "riders_api_uuid": "eb7f90b1-9373-4089-b2f5-adbc234a3526"
+      },
+      "team": {
+        "id": "ff11e2b6-694b-47de-8f44-302746b3cdc9",
+        "name": "Yamaha Factory Racing",
+        "legacy_id": 401,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "babb4c4c-3608-4811-93ad-3b88cc407547",
+        "name": "Yamaha",
+        "legacy_id": 3
+      },
+      "average_speed": 164.5,
+      "gap": {
+        "first": "16.245",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:22.488",
+      "points": 4,
+      "status": "INSTND"
+    },
+    {
+      "id": "bb6767ca-722f-491e-94de-7ae651bab2b8",
+      "position": 13,
+      "rider": {
+        "id": "9a441928-d1af-452d-afce-fa028c044932",
+        "full_name": "Joan Mir",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8141,
+        "riders_id": "f55f9c34-8621-437b-ae04-ae2418720204",
+        "number": 36,
+        "riders_api_uuid": "f55f9c34-8621-437b-ae04-ae2418720204"
+      },
+      "team": {
+        "id": "0cf175c4-3850-44c2-8163-43b92a9031d6",
+        "name": "Honda HRC Castrol",
+        "legacy_id": 12,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 166.6,
+      "gap": {
+        "first": "17.250",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:23.493",
+      "points": 3,
+      "status": "INSTND"
+    },
+    {
+      "id": "ac1791a8-9357-4ac4-bdc7-78778b8b7a06",
+      "position": 14,
+      "rider": {
+        "id": "56475aa3-f3d1-485a-b6db-ca1149e1b6fa",
+        "full_name": "Alex Rins",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8150,
+        "riders_id": "04bf0ce4-5062-44fc-9745-ec85a8d8f8d3",
+        "number": 42,
+        "riders_api_uuid": "04bf0ce4-5062-44fc-9745-ec85a8d8f8d3"
+      },
+      "team": {
+        "id": "d2893a84-1cf4-48d0-bf4c-8dae43bb1fa1",
+        "name": "Monster Energy Yamaha MotoGP Team",
+        "legacy_id": 15,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "babb4c4c-3608-4811-93ad-3b88cc407547",
+        "name": "Yamaha",
+        "legacy_id": 3
+      },
+      "average_speed": 165.8,
+      "gap": {
+        "first": "22.916",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:29.159",
+      "points": 2,
+      "status": "INSTND"
+    },
+    {
+      "id": "eb250894-e266-40e0-a661-b294aaeb4f02",
+      "position": 15,
+      "rider": {
+        "id": "6e940243-5167-4cc3-a343-a74337369b94",
+        "full_name": "Jack Miller",
+        "country": {
+          "iso": "AU",
+          "name": "Australia",
+          "region_iso": ""
+        },
+        "legacy_id": 8049,
+        "riders_id": "b0c1fea6-2dd5-4e26-8a18-0ac9fe6870e4",
+        "number": 43,
+        "riders_api_uuid": "b0c1fea6-2dd5-4e26-8a18-0ac9fe6870e4"
+      },
+      "team": {
+        "id": "9a107ef4-95b4-4058-8e00-060efa6bb48e",
+        "name": "Prima Pramac Yamaha MotoGP",
+        "legacy_id": 16,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "babb4c4c-3608-4811-93ad-3b88cc407547",
+        "name": "Yamaha",
+        "legacy_id": 3
+      },
+      "average_speed": 165.3,
+      "gap": {
+        "first": "26.452",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:32.695",
+      "points": 1,
+      "status": "INSTND"
+    },
+    {
+      "id": "226f3185-4e38-4027-9003-1c726bbfe099",
+      "position": 16,
+      "rider": {
+        "id": "24c03c0c-b2d9-4959-99e0-017214043604",
+        "full_name": "Toprak Razgatlioglu",
+        "country": {
+          "iso": "TR",
+          "name": "Türkiye",
+          "region_iso": ""
+        },
+        "legacy_id": 8298,
+        "riders_id": "c883a3b8-17ce-419d-b71b-32c252f6fc7e",
+        "number": 7,
+        "riders_api_uuid": "c883a3b8-17ce-419d-b71b-32c252f6fc7e"
+      },
+      "team": {
+        "id": "3626775f-67dc-4efc-b060-dac64336d332",
+        "name": "Prima Pramac Yamaha MotoGP",
+        "legacy_id": 23,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "babb4c4c-3608-4811-93ad-3b88cc407547",
+        "name": "Yamaha",
+        "legacy_id": 3
+      },
+      "average_speed": 165.1,
+      "gap": {
+        "first": "27.808",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:34.051",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "152055b8-f4f6-4f8d-b55a-27bfe3d6b9fc",
+      "position": 17,
+      "rider": {
+        "id": "58448742-f520-466a-a1a1-bf3286cce9c3",
+        "full_name": "Raul Fernandez",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8269,
+        "riders_id": "eec1f7dc-b115-44f6-82aa-73130e5c92cf",
+        "number": 25,
+        "riders_api_uuid": "eec1f7dc-b115-44f6-82aa-73130e5c92cf"
+      },
+      "team": {
+        "id": "3e91443a-c102-4b9e-ac41-f9f008832abc",
+        "name": "Trackhouse MotoGP Team",
+        "legacy_id": 8,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "10d5e2bc-4b0b-4875-b936-3962fbb1b877",
+        "name": "Aprilia",
+        "legacy_id": 7
+      },
+      "average_speed": 164.7,
+      "gap": {
+        "first": "31.066",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "20:37.309",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "9414bd16-5c40-4d04-b883-04e33cb4d162",
+      "position": null,
+      "rider": {
+        "id": "5cbd7eb6-ccfc-4b9f-aad1-ede25d394f7b",
+        "full_name": "Jorge Martin",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8146,
+        "riders_id": "5b9af34e-da94-4ca2-9c4c-6be0fc8b1bbc",
+        "number": 89,
+        "riders_api_uuid": "5b9af34e-da94-4ca2-9c4c-6be0fc8b1bbc"
+      },
+      "team": {
+        "id": "b378e3e0-a700-478a-a6d5-3588c3f01244",
+        "name": "Aprilia Racing",
+        "legacy_id": 1,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "10d5e2bc-4b0b-4875-b936-3962fbb1b877",
+        "name": "Aprilia",
+        "legacy_id": 7
+      },
+      "average_speed": 159,
+      "gap": {
+        "first": "58.592",
+        "lap": "0"
+      },
+      "total_laps": 12,
+      "time": "21:04.835",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "fb9de09c-cfbf-434e-b77c-b05c0bdadcc0",
+      "position": null,
+      "rider": {
+        "id": "a6108385-dd4c-490d-b02e-542ed0275f79",
+        "full_name": "Pedro Acosta",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8658,
+        "riders_id": "ea39a0af-95d3-4a37-81a7-f332efdb9216",
+        "number": 37,
+        "riders_api_uuid": "ea39a0af-95d3-4a37-81a7-f332efdb9216"
+      },
+      "team": {
+        "id": "7f1c6f0a-82e4-40dc-85d7-c7380bf04dce",
+        "name": "Red Bull KTM Factory Racing",
+        "legacy_id": 13,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 166.6,
+      "gap": {
+        "first": "0.000",
+        "lap": "1"
+      },
+      "total_laps": 11,
+      "time": "18:26.874",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "94a2fd10-b832-4849-8313-b79b5ef7cdab",
+      "position": null,
+      "rider": {
+        "id": "e7e4c72e-952e-4f64-8e8a-a47ff590fade",
+        "full_name": "Alex Marquez",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8173,
+        "riders_id": "41195f0f-9817-4a4d-913e-c1fbbb351d9b",
+        "number": 73,
+        "riders_api_uuid": "41195f0f-9817-4a4d-913e-c1fbbb351d9b"
+      },
+      "team": {
+        "id": "cda5405c-c0e2-4b33-9569-3edfa0bf9f3e",
+        "name": "BK8 Gresini Racing MotoGP",
+        "legacy_id": 21,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "b9d93efb-3cd0-4681-9de4-c412a866d568",
+        "name": "Ducati",
+        "legacy_id": 110
+      },
+      "average_speed": 0,
+      "gap": {
+        "first": "0.000",
+        "lap": "0"
+      },
+      "total_laps": 0,
+      "time": "",
+      "points": 0,
+      "status": "NOTONRESTARTGRID"
+    },
+    {
+      "id": "ce7c4ad3-6394-4b13-b24e-a9447e004d2e",
+      "position": null,
+      "rider": {
+        "id": "487440af-cfa9-478a-903b-4e893ee18d3a",
+        "full_name": "Johann Zarco",
+        "country": {
+          "iso": "FR",
+          "name": "France",
+          "region_iso": ""
+        },
+        "legacy_id": 7236,
+        "riders_id": "4a439bde-305a-4995-b3e7-783fa99f784a",
+        "number": 5,
+        "riders_api_uuid": "4a439bde-305a-4995-b3e7-783fa99f784a"
+      },
+      "team": {
+        "id": "c5ac8541-509f-4cf4-bd2c-ecd99c94a3cd",
+        "name": "Castrol Honda LCR",
+        "legacy_id": 2,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 0,
+      "gap": {
+        "first": "0.000",
+        "lap": "0"
+      },
+      "total_laps": 0,
+      "time": "",
+      "points": 0,
+      "status": "NOTONRESTARTGRID"
+    },
+    {
+      "id": "7183a21c-5f8e-40f3-93c0-237d0191d231",
+      "position": null,
+      "rider": {
+        "id": "ff225c9d-64a2-43ac-a70e-62cf385a85a1",
+        "full_name": "Enea Bastianini",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 8295,
+        "riders_id": "00db2312-15f2-4333-be5c-4bbff9d17aec",
+        "number": 23,
+        "riders_api_uuid": "00db2312-15f2-4333-be5c-4bbff9d17aec"
+      },
+      "team": {
+        "id": "c2bb908c-023b-4d6c-8f15-8d990a3d722c",
+        "name": "Red Bull KTM Tech3",
+        "legacy_id": 7,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 0,
+      "gap": {
+        "first": "0.000",
+        "lap": "0"
+      },
+      "total_laps": 0,
+      "time": "",
+      "points": 0,
+      "status": "NOTONRESTARTGRID"
+    }
+  ]
+}

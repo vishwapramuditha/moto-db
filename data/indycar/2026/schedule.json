@@ -1,0 +1,187 @@
+{
+  "season": "2026",
+  "total_races": 18,
+  "updated_at": "2026-06-14T08:25:05.380218Z",
+  "races": [
+    {
+      "event_id": "202603010104",
+      "name": "Grand Prix of St. Petersburg",
+      "short_name": "Grand Prix of St. Petersburg",
+      "date": "2026-03-01T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202603070103",
+      "name": "Grand Prix of Phoenix",
+      "short_name": "Grand Prix of Phoenix",
+      "date": "2026-03-07T20:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202603154263",
+      "name": "Grand Prix of Arlington",
+      "short_name": "Grand Prix of Arlington",
+      "date": "2026-03-15T16:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202603290752",
+      "name": "Grand Prix of Alabama",
+      "short_name": "Grand Prix of Alabama",
+      "date": "2026-03-29T17:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202604190502",
+      "name": "Grand Prix of Long Beach",
+      "short_name": "Grand Prix of Long Beach",
+      "date": "2026-04-19T21:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202605094000",
+      "name": "Grand Prix of Indianapolis (Road Course)",
+      "short_name": "Grand Prix of Indianapolis (Road Course)",
+      "date": "2026-05-09T20:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202605240106",
+      "name": "Indianapolis 500",
+      "short_name": "Indianapolis 500",
+      "date": "2026-05-24T16:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202605310120",
+      "name": "Grand Prix of Detroit",
+      "short_name": "Grand Prix of Detroit",
+      "date": "2026-05-31T16:30Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202606070785",
+      "name": "Grand Prix of Illinois",
+      "short_name": "Grand Prix of Illinois",
+      "date": "2026-06-08T01:00Z",
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202606210111",
+      "name": "Grand Prix of Road America",
+      "short_name": "Grand Prix of Road America",
+      "date": "2026-06-21T18:00Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, June 21st at 2:00 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202607050119",
+      "name": "Grand Prix of Mid-Ohio",
+      "short_name": "Grand Prix of Mid-Ohio",
+      "date": "2026-07-05T16:30Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, July 5th at 12:30 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202607193999",
+      "name": "Grand Prix of Nashville",
+      "short_name": "Grand Prix of Nashville",
+      "date": "2026-07-19T04:00Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, July 18th at 12:00 AM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202608090790",
+      "name": "Grand Prix of Portland",
+      "short_name": "Grand Prix of Portland",
+      "date": "2026-08-09T20:00Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, August 9th at 4:00 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202608164264",
+      "name": "Grand Prix of Ontario",
+      "short_name": "Grand Prix of Ontario",
+      "date": "2026-08-16T16:00Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, August 16th at 12:00 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202608235829",
+      "name": "Grand Prix of Washington, D.C.",
+      "short_name": "Grand Prix of Washington, D.C.",
+      "date": "2026-08-23T04:00Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, August 22nd at 12:00 AM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202608294252",
+      "name": "Grand Prix of Milwaukee Race 1",
+      "short_name": "Grand Prix of Milwaukee Race 1",
+      "date": "2026-08-29T18:30Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sat, August 29th at 2:30 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202608304253",
+      "name": "Grand Prix of Milwaukee Race 2",
+      "short_name": "Grand Prix of Milwaukee Race 2",
+      "date": "2026-08-30T17:00Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, August 30th at 1:00 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    },
+    {
+      "event_id": "202609061784",
+      "name": "Grand Prix of Monterey",
+      "short_name": "Grand Prix of Monterey",
+      "date": "2026-09-06T18:30Z",
+      "status": "STATUS_SCHEDULED",
+      "status_detail": "Sun, September 6th at 2:30 PM EDT",
+      "completed": false,
+      "broadcast": "FOX"
+    }
+  ]
+}

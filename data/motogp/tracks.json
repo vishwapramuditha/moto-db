@@ -15,6 +15,13 @@
       "nation": "CZE"
     },
     {
+      "id": "dc7c629b-f6e2-410e-860a-1ca0f28beb8f",
+      "name": "Autódromo Internacional de Goiânia - Ayrton Senna",
+      "legacy_id": 39,
+      "place": "Goiania",
+      "nation": "BRA"
+    },
+    {
       "id": "912a9d7f-2864-4311-bebb-19851e9c2620",
       "name": "Autódromo Internacional do Algarve",
       "legacy_id": 109,
@@ -155,6 +162,6 @@
       "nation": "ARG"
     }
   ],
-  "total": 22,
-  "updated_at": "2026-06-13T12:59:18.368125Z"
+  "total": 23,
+  "updated_at": "2026-06-14T08:26:52.472917Z"
 }

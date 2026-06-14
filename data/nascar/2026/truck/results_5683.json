@@ -1,0 +1,264 @@
+{
+  "season": "2026",
+  "series_id": 3,
+  "series_name": "truck",
+  "race_id": 5683,
+  "race_name": "Bully Hill Vineyards 176 at The Glen",
+  "track_name": "Watkins Glen International",
+  "date": "2026-05-08T16:30:00",
+  "updated_at": "2026-06-14T08:29:25.723354Z",
+  "results": [
+    {
+      "position": 1,
+      "driver_id": 4427,
+      "driver_name": "Kaden Honeycutt",
+      "car_number": "11",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 2,
+      "driver_id": 4481,
+      "driver_name": "Connor Zilisch(i)",
+      "car_number": "71",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 3,
+      "driver_id": 4469,
+      "driver_name": "Shane Van Gisbergen(i)",
+      "car_number": "4",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 4,
+      "driver_id": 4093,
+      "driver_name": "Daniel Hemric",
+      "car_number": "19",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 5,
+      "driver_id": 4312,
+      "driver_name": "Chandler Smith",
+      "car_number": "38",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 6,
+      "driver_id": 3774,
+      "driver_name": "AJ Allmendinger(i)",
+      "car_number": "25",
+      "manufacturer": "RAM"
+    },
+    {
+      "position": 7,
+      "driver_id": 4504,
+      "driver_name": "Brent Crews(i)",
+      "car_number": "1",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 8,
+      "driver_id": 4529,
+      "driver_name": "Mini Tyrrell",
+      "car_number": "14",
+      "manufacturer": "RAM"
+    },
+    {
+      "position": 9,
+      "driver_id": 4487,
+      "driver_name": "Brenden Queen #",
+      "car_number": "12",
+      "manufacturer": "RAM"
+    },
+    {
+      "position": 10,
+      "driver_id": 4433,
+      "driver_name": "Connor Mosack",
+      "car_number": "7",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 11,
+      "driver_id": 4423,
+      "driver_name": "Jake Garcia",
+      "car_number": "98",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 12,
+      "driver_id": 4096,
+      "driver_name": "Corey LaJoie",
+      "car_number": "10",
+      "manufacturer": "RAM"
+    },
+    {
+      "position": 13,
+      "driver_id": 4490,
+      "driver_name": "Andres Perez De Lara",
+      "car_number": "44",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 14,
+      "driver_id": 4528,
+      "driver_name": "Tyler Reif",
+      "car_number": "42",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 15,
+      "driver_id": 4503,
+      "driver_name": "Giovanni Ruggiero",
+      "car_number": "17",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 16,
+      "driver_id": 4268,
+      "driver_name": "Christian Eckes",
+      "car_number": "91",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 17,
+      "driver_id": 4296,
+      "driver_name": "Tyler Ankrum",
+      "car_number": "18",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 18,
+      "driver_id": 4205,
+      "driver_name": "Stewart Friesen",
+      "car_number": "52",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 19,
+      "driver_id": 4488,
+      "driver_name": "Dawson Sutton",
+      "car_number": "26",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 20,
+      "driver_id": 4534,
+      "driver_name": "Nathan Nicholson",
+      "car_number": "76",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 21,
+      "driver_id": 4446,
+      "driver_name": "Layne Riggs",
+      "car_number": "34",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 22,
+      "driver_id": 4443,
+      "driver_name": "Stephen Mallozzi",
+      "car_number": "33",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 23,
+      "driver_id": 4172,
+      "driver_name": "Justin Haley",
+      "car_number": "16",
+      "manufacturer": "RAM"
+    },
+    {
+      "position": 24,
+      "driver_id": 4235,
+      "driver_name": "Ty Majeski",
+      "car_number": "88",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 25,
+      "driver_id": 4531,
+      "driver_name": "Adam Andretti",
+      "car_number": "5",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 26,
+      "driver_id": 4533,
+      "driver_name": "Jackson Lee",
+      "car_number": "2",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 27,
+      "driver_id": 3984,
+      "driver_name": "Timmy Hill",
+      "car_number": "56",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 28,
+      "driver_id": 4001,
+      "driver_name": "Ross Chastain(i)",
+      "car_number": "45",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 29,
+      "driver_id": 4364,
+      "driver_name": "Kris Wright",
+      "car_number": "81",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 30,
+      "driver_id": 4342,
+      "driver_name": "Tanner Gray",
+      "car_number": "15",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 31,
+      "driver_id": 4326,
+      "driver_name": "Carson Hocevar(i)",
+      "car_number": "77",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 32,
+      "driver_id": 4107,
+      "driver_name": "Ben Rhodes",
+      "car_number": "99",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 33,
+      "driver_id": 3978,
+      "driver_name": "Grant Enfinger",
+      "car_number": "9",
+      "manufacturer": "Chv"
+    },
+    {
+      "position": 34,
+      "driver_id": 4513,
+      "driver_name": "Wesley Slimp",
+      "car_number": "62",
+      "manufacturer": "Tyt"
+    },
+    {
+      "position": 35,
+      "driver_id": 4523,
+      "driver_name": "Cole Butcher #",
+      "car_number": "13",
+      "manufacturer": "Frd"
+    },
+    {
+      "position": 36,
+      "driver_id": 4196,
+      "driver_name": "Natalie Decker",
+      "car_number": "22",
+      "manufacturer": "Frd"
+    }
+  ]
+}
