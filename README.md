@@ -62,6 +62,10 @@ You can query Moto-DB directly in your client-side (React, Vue, Swift, Android) 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/formula_e/2025/schedule.json`
 *   **Formula E Results (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/formula_e/2025/results.json`
+*   **WRC Schedule (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wrc/2025/schedule.json`
+*   **WRC Results (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wrc/2025/results.json`
 
 ---
 
@@ -111,24 +115,30 @@ moto-db/
 │   └── wec/
 │       └── {year}/
 │           └── schedule.json      # WEC season schedule
-│   └── formula_e/
+│   ├── formula_e/
+│   │   └── {year}/
+│   │       ├── schedule.json      # Formula E season schedule
+│   │       └── results.json       # Wikipedia scraped FE results
+│   └── wrc/
 │       └── {year}/
-│           ├── schedule.json      # Formula E season schedule
-│           └── results.json       # Wikipedia scraped FE results
+│           ├── schedule.json      # WRC season schedule
+│           └── results.json       # Wikipedia scraped WRC results
 ├── scripts/
 │   ├── scrape_f1.py               # Python scraper for F1 (Jolpica)
 │   ├── scrape_motogp.py           # Python scraper for MotoGP (Pulse Live API)
 │   ├── scrape_nascar.py           # Python scraper for NASCAR (Cup/Xfinity/Truck)
 │   ├── scrape_indycar.py          # Python scraper for IndyCar (ESPN Scoreboard)
 │   ├── scrape_wec.py              # Python scraper for WEC (fiawec.com LD-JSON)
-│   └── scrape_formula_e.py        # Python scraper for Formula E (Wiki HTML Tables)
+│   ├── scrape_formula_e.py        # Python scraper for Formula E (Wiki HTML Tables)
+│   └── scrape_wrc.py              # Python scraper for WRC (Wiki HTML Tables)
 └── .github/workflows/
     ├── scrape_f1.yml              # Daily scraping workflow for F1
     ├── scrape_motogp.yml          # Daily scraping workflow for MotoGP
     ├── scrape_nascar.yml          # Daily scraping workflow for NASCAR
     ├── scrape_indycar.yml         # Daily scraping workflow for IndyCar
     ├── scrape_wec.yml             # Daily scraping workflow for WEC
-    └── scrape_formula_e.yml       # Daily scraping workflow for Formula E
+    ├── scrape_formula_e.yml       # Daily scraping workflow for Formula E
+    └── scrape_wrc.yml             # Weekly scraping workflow for WRC
 ```
 
 ---
@@ -200,6 +210,16 @@ To scrape a specific Formula E year (e.g., 2024-2025 season):
 python scripts/scrape_formula_e.py --year 2025
 ```
 
+#### WRC
+By default, WRC pulls data for the current and previous year:
+```bash
+python scripts/scrape_wrc.py
+```
+To scrape specific WRC years:
+```bash
+python scripts/scrape_wrc.py --years 2024,2025
+```
+
 ---
 
 ## 🛣️ Roadmap: All Motorsports 🏍️🏎️
@@ -210,7 +230,7 @@ python scripts/scrape_formula_e.py --year 2025
 *   [x] **IndyCar** (Complete - powered by ESPN IRL scoreboard API)
 *   [x] **WEC** (Partial - Schedule only, powered by fiawec.com JSON-LD)
 *   [x] **Formula E** (Complete - Wiki HTML table parsing)
-*   [ ] **World Rally Championship (WRC)** (Upcoming integration)
+*   [x] **World Rally Championship (WRC)** (Complete - Wiki HTML table parsing)
 
 Contributions are highly encouraged! If you want to build a scraper for WRC, integrate a new series, or correct data typos, feel free to open a Pull Request.
 

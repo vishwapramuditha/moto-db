@@ -1,0 +1,98 @@
+{
+  "season": "2024",
+  "total_races": 13,
+  "updated_at": "2026-06-14T14:06:55.847771+05:30",
+  "races": [
+    {
+      "round": "1",
+      "name": "Rallye Automobile Monte Carlo",
+      "start_date": "25 January",
+      "finish_date": "28 January",
+      "surface": "Mixed"
+    },
+    {
+      "round": "2",
+      "name": "Rally Sweden",
+      "start_date": "15 February",
+      "finish_date": "18 February",
+      "surface": "Snow"
+    },
+    {
+      "round": "3",
+      "name": "Safari Rally Kenya",
+      "start_date": "28 March",
+      "finish_date": "31 March",
+      "surface": "Gravel"
+    },
+    {
+      "round": "4",
+      "name": "Croatia Rally",
+      "start_date": "18 April",
+      "finish_date": "21 April",
+      "surface": "Tarmac"
+    },
+    {
+      "round": "5",
+      "name": "Rally de Portugal",
+      "start_date": "9 May",
+      "finish_date": "12 May",
+      "surface": "Gravel"
+    },
+    {
+      "round": "6",
+      "name": "Rally Italia Sardegna",
+      "start_date": "30 May",
+      "finish_date": "2 June",
+      "surface": "Gravel"
+    },
+    {
+      "round": "7",
+      "name": "Rally Poland",
+      "start_date": "27 June",
+      "finish_date": "30 June",
+      "surface": "Gravel"
+    },
+    {
+      "round": "8",
+      "name": "Rally Latvia",
+      "start_date": "18 July",
+      "finish_date": "21 July",
+      "surface": "Gravel"
+    },
+    {
+      "round": "9",
+      "name": "Rally Finland",
+      "start_date": "1 August",
+      "finish_date": "4 August",
+      "surface": "Gravel"
+    },
+    {
+      "round": "10",
+      "name": "Acropolis Rally Greece",
+      "start_date": "5 September",
+      "finish_date": "8 September",
+      "surface": "Gravel"
+    },
+    {
+      "round": "11",
+      "name": "Rally Chile",
+      "start_date": "26 September",
+      "finish_date": "29 September",
+      "surface": "Gravel"
+    },
+    {
+      "round": "12",
+      "name": "Central European Rally",
+      "start_date": "17 October",
+      "finish_date": "20 October",
+      "surface": "Tarmac"
+    },
+    {
+      "round": "13",
+      "name": "Rally Japan",
+      "start_date": "21 November",
+      "finish_date": "24 November",
+      "surface": "Tarmac"
+    }
+  ]
+}

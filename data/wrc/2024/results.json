@@ -1,0 +1,106 @@
+[
+  {
+    "round": "1",
+    "event": "Rallye Automobile Monte Carlo",
+    "winning_driver": "Thierry Neuville",
+    "winning_co_driver": "Martijn Wydaeghe",
+    "winning_entrant": "Hyundai Shell Mobis WRT",
+    "winning_time": "3:09:30.9"
+  },
+  {
+    "round": "2",
+    "event": "Rally Sweden",
+    "winning_driver": "Esapekka Lappi",
+    "winning_co_driver": "Janne Ferm",
+    "winning_entrant": "Hyundai Shell Mobis WRT",
+    "winning_time": "2:33:04.9"
+  },
+  {
+    "round": "3",
+    "event": "Safari Rally Kenya",
+    "winning_driver": "Kalle Rovanperä",
+    "winning_co_driver": "Jonne Halttunen",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "3:36:04.0"
+  },
+  {
+    "round": "4",
+    "event": "Croatia Rally",
+    "winning_driver": "Sébastien Ogier",
+    "winning_co_driver": "Vincent Landais",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "2:40:23.6"
+  },
+  {
+    "round": "5",
+    "event": "Rally de Portugal",
+    "winning_driver": "Sébastien Ogier",
+    "winning_co_driver": "Vincent Landais",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "3:41:32.3"
+  },
+  {
+    "round": "6",
+    "event": "Rally Italia Sardegna",
+    "winning_driver": "Ott Tänak",
+    "winning_co_driver": "Martin Järveoja",
+    "winning_entrant": "Hyundai Shell Mobis WRT",
+    "winning_time": "3:06:05.6"
+  },
+  {
+    "round": "7",
+    "event": "Rally Poland",
+    "winning_driver": "Kalle Rovanperä",
+    "winning_co_driver": "Jonne Halttunen",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "2:33:07.6"
+  },
+  {
+    "round": "8",
+    "event": "Rally Latvia",
+    "winning_driver": "Kalle Rovanperä",
+    "winning_co_driver": "Jonne Halttunen",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "2:31:47.6"
+  },
+  {
+    "round": "9",
+    "event": "Rally Finland",
+    "winning_driver": "Sébastien Ogier",
+    "winning_co_driver": "Vincent Landais",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "2:25:41.9"
+  },
+  {
+    "round": "10",
+    "event": "Acropolis Rally Greece",
+    "winning_driver": "Thierry Neuville",
+    "winning_co_driver": "Martijn Wydaeghe",
+    "winning_entrant": "Hyundai Shell Mobis WRT",
+    "winning_time": "3:38:04.2"
+  },
+  {
+    "round": "11",
+    "event": "Rally Chile",
+    "winning_driver": "Kalle Rovanperä",
+    "winning_co_driver": "Jonne Halttunen",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "2:58:59.8"
+  },
+  {
+    "round": "12",
+    "event": "Central European Rally",
+    "winning_driver": "Ott Tänak",
+    "winning_co_driver": "Martin Järveoja",
+    "winning_entrant": "Hyundai Shell Mobis WRT",
+    "winning_time": "2:37:34.6"
+  },
+  {
+    "round": "13",
+    "event": "Rally Japan",
+    "winning_driver": "Elfyn Evans",
+    "winning_co_driver": "Scott Martin",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "3:23:41.0"
+  }
+]
