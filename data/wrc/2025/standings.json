@@ -1,0 +1,60 @@
+{
+  "season": "2025",
+  "driverStandings": [
+    {
+      "position": 1,
+      "wins": 6,
+      "driver_name": "Sébastien Ogier",
+      "co_driver_name": "Vincent Landais",
+      "entrant_name": "Toyota Gazoo Racing WRT"
+    },
+    {
+      "position": 2,
+      "wins": 3,
+      "driver_name": "Kalle Rovanperä",
+      "co_driver_name": "Jonne Halttunen",
+      "entrant_name": "Toyota Gazoo Racing WRT"
+    },
+    {
+      "position": 3,
+      "wins": 2,
+      "driver_name": "Elfyn Evans",
+      "co_driver_name": "Scott Martin",
+      "entrant_name": "Toyota Gazoo Racing WRT"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "driver_name": "Ott Tänak",
+      "co_driver_name": "Martin Järveoja",
+      "entrant_name": "Hyundai Shell Mobis WRT"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Oliver Solberg",
+      "co_driver_name": "Elliott Edmondson",
+      "entrant_name": "Toyota Gazoo Racing WRT"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Thierry Neuville",
+      "co_driver_name": "Martijn Wydaeghe",
+      "entrant_name": "Hyundai Shell Mobis WRT"
+    }
+  ],
+  "entrantStandings": [
+    {
+      "position": 1,
+      "wins": 12,
+      "entrant_name": "Toyota Gazoo Racing WRT"
+    },
+    {
+      "position": 2,
+      "wins": 2,
+      "entrant_name": "Hyundai Shell Mobis WRT"
+    }
+  ],
+  "updated_at": "2026-06-14T10:23:08.792521+00:00"
+}

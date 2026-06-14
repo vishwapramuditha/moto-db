@@ -141,6 +141,36 @@ def validate_json_file(file_path):
                 print(f"[ERROR] DATA ERROR: {file_path} result item at index {idx} is missing a position field.")
                 return False
                 
+    # 5. Standings files validation
+    elif filename == 'standings.json':
+        if not isinstance(data, dict):
+            print(f"[ERROR] STRUCTURE ERROR: {file_path} standings file must be an object (dict).")
+            return False
+            
+        has_season = any(k in data for k in ['season', 'year', 'season_year'])
+        if not has_season:
+            print(f"[ERROR] DATA ERROR: {file_path} is missing a season/year field.")
+            return False
+            
+        standings_list = None
+        for k in ['driverStandings', 'riderStandings', 'teamStandings', 'constructorStandings', 'entrantStandings']:
+            if k in data and isinstance(data[k], list):
+                standings_list = data[k]
+                break
+                
+        if standings_list is None:
+            print(f"[ERROR] STRUCTURE ERROR: {file_path} standings must contain a standings list (e.g. driverStandings, riderStandings).")
+            return False
+            
+        for idx, standing in enumerate(standings_list):
+            if not isinstance(standing, dict):
+                print(f"[ERROR] DATA ERROR: {file_path} standing item at index {idx} is not an object.")
+                return False
+            has_pos = any(k in standing for k in ['position', 'pos'])
+            if not has_pos:
+                print(f"[ERROR] DATA ERROR: {file_path} standing item at index {idx} is missing a position field.")
+                return False
+                
     return True
 
 def main():

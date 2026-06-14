@@ -1,0 +1,633 @@
+{
+  "season": "2026",
+  "driverStandings": [
+    {
+      "position": 1,
+      "points": 315,
+      "wins": 4,
+      "driver_id": "5632",
+      "driver_name": "Álex Palou",
+      "nationality": "Spain",
+      "pointsProgression": [
+        50,
+        56,
+        96,
+        146,
+        196,
+        226,
+        252,
+        302,
+        315
+      ]
+    },
+    {
+      "position": 2,
+      "points": 288,
+      "wins": 1,
+      "driver_id": "5704",
+      "driver_name": "Kyle Kirkwood",
+      "nationality": "USA",
+      "pointsProgression": [
+        32,
+        72,
+        122,
+        152,
+        184,
+        206,
+        220,
+        260,
+        288
+      ]
+    },
+    {
+      "position": 3,
+      "points": 256,
+      "wins": 0,
+      "driver_id": "5706",
+      "driver_name": "David Malukas",
+      "nationality": "USA",
+      "pointsProgression": [
+        17,
+        52,
+        80,
+        112,
+        138,
+        178,
+        218,
+        230,
+        256
+      ]
+    },
+    {
+      "position": 4,
+      "points": 241,
+      "wins": 1,
+      "driver_id": "5691",
+      "driver_name": "Christian Lundgaard",
+      "nationality": "Denmark",
+      "pointsProgression": [
+        35,
+        52,
+        78,
+        118,
+        128,
+        178,
+        191,
+        221,
+        241
+      ]
+    },
+    {
+      "position": 5,
+      "points": 234,
+      "wins": 2,
+      "driver_id": "4526",
+      "driver_name": "Josef Newgarden",
+      "nationality": "USA",
+      "pointsProgression": [
+        26,
+        76,
+        91,
+        111,
+        127,
+        159,
+        164,
+        184,
+        234
+      ]
+    },
+    {
+      "position": 6,
+      "points": 230,
+      "wins": 0,
+      "driver_id": "5581",
+      "driver_name": "Pato O'Ward",
+      "nationality": "Mexico",
+      "pointsProgression": [
+        30,
+        62,
+        92,
+        105,
+        135,
+        147,
+        179,
+        211,
+        230
+      ]
+    },
+    {
+      "position": 7,
+      "points": 215,
+      "wins": 0,
+      "driver_id": "5648",
+      "driver_name": "Scott McLaughlin",
+      "nationality": "New Zealand",
+      "pointsProgression": [
+        40,
+        64,
+        83,
+        97,
+        125,
+        139,
+        174,
+        185,
+        215
+      ]
+    },
+    {
+      "position": 8,
+      "points": 205,
+      "wins": 1,
+      "driver_id": "5590",
+      "driver_name": "Felix Rosenqvist",
+      "nationality": "Sweden",
+      "pointsProgression": [
+        18,
+        36,
+        47,
+        64,
+        104,
+        111,
+        161,
+        189,
+        205
+      ]
+    },
+    {
+      "position": 9,
+      "points": 193,
+      "wins": 0,
+      "driver_id": "5753",
+      "driver_name": "Marcus Armstrong",
+      "nationality": "New Zealand",
+      "pointsProgression": [
+        19,
+        49,
+        69,
+        97,
+        103,
+        122,
+        152,
+        171,
+        193
+      ]
+    },
+    {
+      "position": 10,
+      "points": 192,
+      "wins": 0,
+      "driver_id": "872",
+      "driver_name": "Graham Rahal",
+      "nationality": "USA",
+      "pointsProgression": [
+        12,
+        34,
+        46,
+        81,
+        105,
+        140,
+        150,
+        185,
+        192
+      ]
+    },
+    {
+      "position": 11,
+      "points": 189,
+      "wins": 0,
+      "driver_id": "4622",
+      "driver_name": "Marcus Ericsson",
+      "nationality": "Sweden",
+      "pointsProgression": [
+        28,
+        41,
+        73,
+        95,
+        100,
+        108,
+        125,
+        149,
+        189
+      ]
+    },
+    {
+      "position": 12,
+      "points": 185,
+      "wins": 0,
+      "driver_id": "518",
+      "driver_name": "Scott Dixon",
+      "nationality": "New Zealand",
+      "pointsProgression": [
+        7,
+        33,
+        57,
+        83,
+        118,
+        146,
+        161,
+        167,
+        185
+      ]
+    },
+    {
+      "position": 13,
+      "points": 172,
+      "wins": 0,
+      "driver_id": "5634",
+      "driver_name": "Rinus VeeKay",
+      "nationality": "Netherlands",
+      "pointsProgression": [
+        22,
+        30,
+        46,
+        62,
+        79,
+        94,
+        122,
+        140,
+        172
+      ]
+    },
+    {
+      "position": 14,
+      "points": 140,
+      "wins": 0,
+      "driver_id": "810",
+      "driver_name": "Will Power",
+      "nationality": "Australia",
+      "pointsProgression": [
+        8,
+        22,
+        57,
+        75,
+        86,
+        103,
+        108,
+        116,
+        140
+      ]
+    },
+    {
+      "position": 15,
+      "points": 140,
+      "wins": 0,
+      "driver_id": "4667",
+      "driver_name": "Alexander Rossi",
+      "nationality": "USA",
+      "pointsProgression": [
+        14,
+        42,
+        64,
+        83,
+        105,
+        110,
+        115,
+        128,
+        140
+      ]
+    },
+    {
+      "position": 16,
+      "points": 140,
+      "wins": 0,
+      "driver_id": "5798",
+      "driver_name": "Kyffin Simpson",
+      "nationality": "Cayman Islands",
+      "pointsProgression": [
+        15,
+        35,
+        45,
+        55,
+        75,
+        93,
+        109,
+        131,
+        140
+      ]
+    },
+    {
+      "position": 17,
+      "points": 138,
+      "wins": 0,
+      "driver_id": "5553",
+      "driver_name": "Santino Ferrucci",
+      "nationality": "USA",
+      "pointsProgression": [
+        6,
+        25,
+        38,
+        62,
+        74,
+        90,
+        114,
+        121,
+        138
+      ]
+    },
+    {
+      "position": 18,
+      "points": 132,
+      "wins": 0,
+      "driver_id": "5766",
+      "driver_name": "Dennis Hauger",
+      "nationality": "Norway",
+      "pointsProgression": [
+        20,
+        35,
+        49,
+        56,
+        75,
+        99,
+        110,
+        127,
+        132
+      ]
+    },
+    {
+      "position": 19,
+      "points": 130,
+      "wins": 0,
+      "driver_id": "5842",
+      "driver_name": "Louis Foster",
+      "nationality": "England",
+      "pointsProgression": [
+        16,
+        23,
+        40,
+        45,
+        59,
+        85,
+        94,
+        120,
+        130
+      ]
+    },
+    {
+      "position": 20,
+      "points": 116,
+      "wins": 0,
+      "driver_id": "4374",
+      "driver_name": "Romain Grosjean",
+      "nationality": "France",
+      "pointsProgression": [
+        24,
+        29,
+        36,
+        51,
+        60,
+        69,
+        91,
+        101,
+        116
+      ]
+    },
+    {
+      "position": 21,
+      "points": 116,
+      "wins": 0,
+      "driver_id": "5810",
+      "driver_name": "Nolan Siegel",
+      "nationality": "USA",
+      "pointsProgression": [
+        10,
+        20,
+        26,
+        38,
+        56,
+        76,
+        95,
+        110,
+        116
+      ]
+    },
+    {
+      "position": 22,
+      "points": 109,
+      "wins": 0,
+      "driver_id": "5797",
+      "driver_name": "Christian Rasmussen",
+      "nationality": "Denmark",
+      "pointsProgression": [
+        11,
+        27,
+        32,
+        43,
+        58,
+        64,
+        69,
+        74,
+        109
+      ]
+    },
+    {
+      "position": 23,
+      "points": 97,
+      "wins": 0,
+      "driver_id": "5880",
+      "driver_name": "Caio Collet",
+      "nationality": "Brazil",
+      "pointsProgression": [
+        13,
+        24,
+        42,
+        51,
+        59,
+        70,
+        75,
+        89,
+        97
+      ]
+    },
+    {
+      "position": 24,
+      "points": 89,
+      "wins": 0,
+      "driver_id": "5750",
+      "driver_name": "Sting Ray Robb",
+      "nationality": "USA",
+      "pointsProgression": [
+        9,
+        18,
+        27,
+        35,
+        42,
+        55,
+        62,
+        78,
+        89
+      ]
+    },
+    {
+      "position": 25,
+      "points": 89,
+      "wins": 0,
+      "driver_id": "5654",
+      "driver_name": "Mick Schumacher",
+      "nationality": "Germany",
+      "pointsProgression": [
+        5,
+        17,
+        25,
+        31,
+        44,
+        54,
+        66,
+        75,
+        89
+      ]
+    },
+    {
+      "position": 26,
+      "points": 20,
+      "wins": 0,
+      "driver_id": "432",
+      "driver_name": "Takuma Sato",
+      "nationality": "Japan",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "position": 27,
+      "points": 18,
+      "wins": 0,
+      "driver_id": "4580",
+      "driver_name": "Conor Daly",
+      "nationality": "USA",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        18,
+        18
+      ]
+    },
+    {
+      "position": 28,
+      "points": 8,
+      "wins": 0,
+      "driver_id": "4781",
+      "driver_name": "Jack Harvey",
+      "nationality": "England",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "position": 29,
+      "points": 6,
+      "wins": 0,
+      "driver_id": "5836",
+      "driver_name": "Jacob Abel",
+      "nationality": "USA",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "position": 30,
+      "points": 5,
+      "wins": 0,
+      "driver_id": "33",
+      "driver_name": "Helio Castroneves",
+      "nationality": "Brazil",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "position": 31,
+      "points": 5,
+      "wins": 0,
+      "driver_id": "578",
+      "driver_name": "Ed Carpenter",
+      "nationality": "",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "position": 32,
+      "points": 5,
+      "wins": 0,
+      "driver_id": "533",
+      "driver_name": "Ryan Hunter-Reay",
+      "nationality": "",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "position": 33,
+      "points": 5,
+      "wins": 0,
+      "driver_id": "808",
+      "driver_name": "Katherine Legge",
+      "nationality": "England",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        5
+      ]
+    }
+  ],
+  "updated_at": "2026-06-14T10:23:08.790027+00:00"
+}

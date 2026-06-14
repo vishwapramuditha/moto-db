@@ -30,7 +30,13 @@ jobs:
           else
             python scripts/scrape_formula_e.py
           fi
-          
+
+      - name: Compile Standings
+        run: python scripts/compile_standings.py --series formula_e
+
+      - name: Validate Data
+        run: python scripts/validate_data.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"

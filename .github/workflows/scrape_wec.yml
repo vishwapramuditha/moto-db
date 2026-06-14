@@ -35,6 +35,9 @@ jobs:
             python scripts/scrape_wec.py
           fi
 
+      - name: Validate Data
+        run: python scripts/validate_data.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
