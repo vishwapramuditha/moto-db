@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-06-14T15:52:34.610237Z",
+  "updated_at": "2026-06-15T10:24:48.742390Z",
   "events": [
     {
       "country": {
@@ -1145,7 +1145,7 @@
         "nation": "AUS"
       },
       "test": false,
-      "sponsored_name": "Grand Prix of Australia",
+      "sponsored_name": "GRAND PRIX OF AUSTRALIA ",
       "date_end": "2026-10-25",
       "toad_api_uuid": "66961f05-2454-4455-9d65-f99c49d25b17",
       "date_start": "2026-10-23",
