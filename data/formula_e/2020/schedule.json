@@ -1,0 +1,135 @@
+[
+  {
+    "round": "1",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "22 November 2019",
+    "date": "22 November 2019"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "22 November 2019",
+    "date": "23 November 2019"
+  },
+  {
+    "round": "3",
+    "eprix": "Santiago ePrix",
+    "country": "Parque O'Higgins Circuit",
+    "circuit": "18 January 2020",
+    "date": "18 January 2020"
+  },
+  {
+    "round": "4",
+    "eprix": "Mexico City ePrix",
+    "country": "Autódromo Hermanos Rodríguez",
+    "circuit": "15 February 2020",
+    "date": "15 February 2020"
+  },
+  {
+    "round": "5",
+    "eprix": "Marrakesh ePrix",
+    "country": "Circuit International Automobile Moulay El Hassan",
+    "circuit": "29 February 2020",
+    "date": "29 February 2020"
+  },
+  {
+    "round": "6",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "5 August 2020",
+    "date": "5 August 2020"
+  },
+  {
+    "round": "7",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "5 August 2020",
+    "date": "6 August 2020"
+  },
+  {
+    "round": "8",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "5 August 2020",
+    "date": "8 August 2020"
+  },
+  {
+    "round": "9",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "5 August 2020",
+    "date": "9 August 2020"
+  },
+  {
+    "round": "10",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "5 August 2020",
+    "date": "12 August 2020"
+  },
+  {
+    "round": "11",
+    "eprix": "Berlin ePrix",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "5 August 2020",
+    "date": "13 August 2020"
+  },
+  {
+    "round": "CAN",
+    "eprix": "Sanya ePrix",
+    "country": "Sanya Street Circuit",
+    "circuit": "21 March 2020",
+    "date": "21 March 2020"
+  },
+  {
+    "round": "Rome ePrix",
+    "eprix": "Italy",
+    "country": "4 April 2020",
+    "circuit": "",
+    "date": "4 April 2020"
+  },
+  {
+    "round": "Paris ePrix",
+    "eprix": "France",
+    "country": "18 April 2020",
+    "circuit": "",
+    "date": "18 April 2020"
+  },
+  {
+    "round": "Seoul ePrix",
+    "eprix": "South Korea",
+    "country": "3 May 2020",
+    "circuit": "",
+    "date": "3 May 2020"
+  },
+  {
+    "round": "Jakarta ePrix",
+    "eprix": "Indonesia",
+    "country": "6 June 2020",
+    "circuit": "",
+    "date": "6 June 2020"
+  },
+  {
+    "round": "New York City ePrix",
+    "eprix": "United States",
+    "country": "11 July 2020",
+    "circuit": "",
+    "date": "11 July 2020"
+  },
+  {
+    "round": "London ePrix",
+    "eprix": "United Kingdom",
+    "country": "25 July 2020",
+    "circuit": "",
+    "date": "25 July 2020"
+  },
+  {
+    "round": "26 July 2020",
+    "eprix": "United Kingdom",
+    "country": "25 July 2020",
+    "circuit": "",
+    "date": "26 July 2020"
+  }
+]

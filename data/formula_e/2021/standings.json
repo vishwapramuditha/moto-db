@@ -1,0 +1,109 @@
+{
+  "season": "2021",
+  "driverStandings": [
+    {
+      "position": 1,
+      "wins": 2,
+      "driver_name": "Nyck de Vries",
+      "team_name": "Mercedes-EQ Formula E Team"
+    },
+    {
+      "position": 2,
+      "wins": 2,
+      "driver_name": "Sam Bird",
+      "team_name": "Jaguar Racing"
+    },
+    {
+      "position": 3,
+      "wins": 2,
+      "driver_name": "Jake Dennis",
+      "team_name": "BMW i Andretti Motorsport"
+    },
+    {
+      "position": 4,
+      "wins": 2,
+      "driver_name": "Lucas di Grassi",
+      "team_name": "Audi Sport ABT Schaeffler Formula E Team"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Jean-Éric Vergne",
+      "team_name": "DS Techeetah"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Stoffel Vandoorne",
+      "team_name": "Mercedes-EQ Formula E Team"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "driver_name": "António Félix da Costa",
+      "team_name": "DS Techeetah"
+    },
+    {
+      "position": 8,
+      "wins": 1,
+      "driver_name": "Edoardo Mortara",
+      "team_name": "ROKiT Venturi Racing"
+    },
+    {
+      "position": 9,
+      "wins": 1,
+      "driver_name": "Maximilian Günther",
+      "team_name": "BMW i Andretti Motorsport"
+    },
+    {
+      "position": 10,
+      "wins": 1,
+      "driver_name": "Alex Lynn",
+      "team_name": "Mahindra Racing"
+    },
+    {
+      "position": 11,
+      "wins": 1,
+      "driver_name": "Norman Nato",
+      "team_name": "ROKiT Venturi Racing"
+    }
+  ],
+  "teamStandings": [
+    {
+      "position": 1,
+      "wins": 3,
+      "team_name": "Mercedes-EQ Formula E Team"
+    },
+    {
+      "position": 2,
+      "wins": 3,
+      "team_name": "BMW i Andretti Motorsport"
+    },
+    {
+      "position": 3,
+      "wins": 2,
+      "team_name": "Jaguar Racing"
+    },
+    {
+      "position": 4,
+      "wins": 2,
+      "team_name": "DS Techeetah"
+    },
+    {
+      "position": 5,
+      "wins": 2,
+      "team_name": "Audi Sport ABT Schaeffler Formula E Team"
+    },
+    {
+      "position": 6,
+      "wins": 2,
+      "team_name": "ROKiT Venturi Racing"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "team_name": "Mahindra Racing"
+    }
+  ],
+  "updated_at": "2026-06-17T15:57:07.410819+00:00"
+}

@@ -1,0 +1,91 @@
+{
+  "season": "2025",
+  "driverStandings": [
+    {
+      "position": 1,
+      "wins": 4,
+      "driver_name": "Oliver Rowland",
+      "team_name": "Nissan Formula E Team"
+    },
+    {
+      "position": 2,
+      "wins": 4,
+      "driver_name": "Nick Cassidy",
+      "team_name": "Jaguar TCS Racing"
+    },
+    {
+      "position": 3,
+      "wins": 2,
+      "driver_name": "Mitch Evans",
+      "team_name": "Jaguar TCS Racing"
+    },
+    {
+      "position": 4,
+      "wins": 2,
+      "driver_name": "Maximilian Günther",
+      "team_name": "DS Penske"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Pascal Wehrlein",
+      "team_name": "TAG Heuer Porsche Formula E Team"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Sébastien Buemi",
+      "team_name": "Envision Racing"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "driver_name": "Stoffel Vandoorne",
+      "team_name": "Maserati MSG Racing"
+    },
+    {
+      "position": 8,
+      "wins": 1,
+      "driver_name": "Dan Ticktum",
+      "team_name": "Cupra Kiro"
+    }
+  ],
+  "teamStandings": [
+    {
+      "position": 1,
+      "wins": 6,
+      "team_name": "Jaguar TCS Racing"
+    },
+    {
+      "position": 2,
+      "wins": 4,
+      "team_name": "Nissan Formula E Team"
+    },
+    {
+      "position": 3,
+      "wins": 2,
+      "team_name": "DS Penske"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "team_name": "TAG Heuer Porsche Formula E Team"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "team_name": "Envision Racing"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "Maserati MSG Racing"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "team_name": "Cupra Kiro"
+    }
+  ],
+  "updated_at": "2026-06-17T15:57:07.601801+00:00"
+}

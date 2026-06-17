@@ -73,13 +73,15 @@ def fetch_wiki_data(year):
     
     for table in parser.tables:
         if not table or not table[0]: continue
-        header = [h.lower() for h in table[0]]
+        combined_header = [h.lower() for h in table[0]]
+        if len(table) > 1:
+            combined_header.extend([h.lower() for h in table[1]])
         
         # Identify schedule table
-        if 'round' in header and 'circuit' in header and 'date' in header:
+        if 'round' in combined_header and 'circuit' in combined_header and 'date' in combined_header:
             schedule_table = table
         # Identify results table
-        elif 'round' in header and 'pole position' in header and 'winning driver' in header:
+        elif 'round' in combined_header and ('pole position' in combined_header or 'qualifying' in combined_header) and ('winning driver' in combined_header or 'winner' in combined_header):
             results_table = table
             
     if not schedule_table:
@@ -91,7 +93,7 @@ def fetch_wiki_data(year):
         return [], []
 
     schedule = parse_schedule(schedule_table)
-    results = parse_results(results_table)
+    results = parse_results(results_table, schedule, year)
     
     return schedule, results
 
@@ -144,33 +146,64 @@ def parse_schedule(table):
         
     return schedule
 
-def parse_results(table):
+def parse_results(table, schedule, year):
     results = []
-    last_eprix = ""
     
-    headers = [h.lower() for h in table[0]]
-    
-    for row in table[1:]:
-        if not row: continue
+    # Build schedule keywords to detect double headers (E-Prix omitted)
+    import re
+    eprix_keywords = set()
+    for s in schedule:
+        name = s.get('eprix', '').lower()
+        words = re.findall(r'[a-z0-9]{3,}', name)
+        eprix_keywords.update(words)
         
-        # Short row for double header
-        if len(row) <= 5:
-            # Usually [Round, Pole, Fastest Lap, Winning Driver, Winning Team]
-            # or [Round, Pole, Winning Driver, Winning Team]
-            round_num = row[0]
-            eprix = last_eprix
-            pole = row[1] if len(row) > 1 else ''
-            winner = row[3] if len(row) > 3 else (row[2] if len(row) > 2 else '')
-            team = row[4] if len(row) > 4 else (row[3] if len(row) > 3 else '')
+    # Fallback keywords for safety
+    if not eprix_keywords:
+        eprix_keywords = {'diriyah', 'rome', 'monaco', 'berlin', 'jakarta', 'marrakesh', 'london', 'seoul', 'sao', 'paulo', 'mexico', 'hyderabad', 'cape', 'town', 'portland', 'tokyo', 'shanghai', 'misano', 'madrid', 'sanya', 'beijing', 'putrajaya', 'punta', 'este', 'buenos', 'aires', 'miami', 'long', 'beach', 'moscow', 'paris', 'montreal', 'hong', 'kong', 'bern', 'ad/diriyah'}
+        
+    last_eprix = ""
+    # In 2020 and 2021, the table has two header rows, so data starts at index 2
+    start_idx = 2 if int(year) in (2020, 2021) else 1
+    
+    for row in table[start_idx:]:
+        if not row or not row[0] or not row[0].strip().isdigit():
+            continue
+        
+        round_num = row[0].strip()
+        
+        # Detect if E-Prix column is omitted
+        is_double_header = False
+        if len(row) > 1:
+            second_cell = row[1].lower()
+            has_keyword = any(kw in second_cell for kw in eprix_keywords)
+            if not has_keyword:
+                is_double_header = True
+                
+        if int(year) in (2020, 2021):
+            if not is_double_header:
+                eprix = row[1]
+                pole = row[3] if len(row) > 3 else ''
+                winner = row[5] if len(row) > 5 else ''
+                team = row[6] if len(row) > 6 else ''
+                last_eprix = eprix
+            else:
+                eprix = last_eprix
+                pole = row[2] if len(row) > 2 else ''
+                winner = row[4] if len(row) > 4 else ''
+                team = row[5] if len(row) > 5 else ''
         else:
-            round_num = row[0]
-            eprix = row[1]
-            pole = row[2] if len(row) > 2 else ''
-            # fastest lap is 3
-            winner = row[4] if len(row) > 4 else ''
-            team = row[5] if len(row) > 5 else ''
-            last_eprix = eprix
-            
+            if not is_double_header:
+                eprix = row[1]
+                pole = row[2] if len(row) > 2 else ''
+                winner = row[4] if len(row) > 4 else ''
+                team = row[5] if len(row) > 5 else ''
+                last_eprix = eprix
+            else:
+                eprix = last_eprix
+                pole = row[1] if len(row) > 1 else ''
+                winner = row[3] if len(row) > 3 else ''
+                team = row[4] if len(row) > 4 else ''
+                
         # Only append if race has actually happened (we have a winner)
         if winner and winner.strip() and winner.lower() != 'tbd':
             results.append({

@@ -58,6 +58,10 @@ You can query Moto-DB directly in your client-side (React, Vue, Swift, Android) 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/indycar/2024/results_202403100104.json`
 *   **WEC Schedule (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wec/2025/schedule.json`
+*   **WEC Results (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wec/2025/results.json`
+*   **WEC Standings (e.g. 2025)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wec/2025/standings.json`
 *   **Formula E Schedule (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/formula_e/2025/schedule.json`
 *   **Formula E Results (e.g. 2025)**:
@@ -114,7 +118,9 @@ moto-db/
 │   │       └── results_{event_id}.json # Race results
 │   └── wec/
 │       └── {year}/
-│           └── schedule.json      # WEC season schedule
+│           ├── schedule.json      # WEC season schedule
+│           ├── results.json       # WEC Wikipedia scraped results
+│           └── standings.json     # Compiled WEC standings
 │   ├── formula_e/
 │   │   └── {year}/
 │   │       ├── schedule.json      # Formula E season schedule
@@ -228,7 +234,7 @@ python scripts/scrape_wrc.py --years 2024,2025
 *   [x] **MotoGP** (Complete - powered by Pulse Live MotoGP API)
 *   [x] **NASCAR** (Complete - powered by NASCAR cacher API)
 *   [x] **IndyCar** (Complete - powered by ESPN IRL scoreboard API)
-*   [x] **WEC** (Partial - Schedule only, powered by fiawec.com JSON-LD)
+*   [x] **WEC** (Complete - Schedule via fiawec.com, Results/Standings via Wiki table parsing)
 *   [x] **Formula E** (Complete - Wiki HTML table parsing)
 *   [x] **World Rally Championship (WRC)** (Complete - Wiki HTML table parsing)
 

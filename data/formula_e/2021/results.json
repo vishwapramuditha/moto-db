@@ -1,0 +1,107 @@
+[
+  {
+    "round": "1",
+    "eprix": "Diriyah",
+    "pole_position": "Nyck de Vries",
+    "winning_driver": "Nyck de Vries",
+    "winning_team": "Mercedes-EQ Formula E Team"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah",
+    "pole_position": "Robin Frijns",
+    "winning_driver": "Sam Bird",
+    "winning_team": "Jaguar Racing"
+  },
+  {
+    "round": "3",
+    "eprix": "Rome",
+    "pole_position": "Stoffel Vandoorne",
+    "winning_driver": "Jean-Éric Vergne",
+    "winning_team": "DS Techeetah"
+  },
+  {
+    "round": "4",
+    "eprix": "Rome",
+    "pole_position": "Nick Cassidy",
+    "winning_driver": "Stoffel Vandoorne",
+    "winning_team": "Mercedes-EQ Formula E Team"
+  },
+  {
+    "round": "5",
+    "eprix": "Valencia",
+    "pole_position": "António Félix da Costa",
+    "winning_driver": "Nyck de Vries",
+    "winning_team": "Mercedes-EQ Formula E Team"
+  },
+  {
+    "round": "6",
+    "eprix": "Valencia",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "BMW i Andretti Motorsport"
+  },
+  {
+    "round": "7",
+    "eprix": "Monaco",
+    "pole_position": "António Félix da Costa",
+    "winning_driver": "António Félix da Costa",
+    "winning_team": "DS Techeetah"
+  },
+  {
+    "round": "8",
+    "eprix": "Puebla",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Lucas di Grassi",
+    "winning_team": "Audi Sport ABT Schaeffler Formula E Team"
+  },
+  {
+    "round": "9",
+    "eprix": "Puebla",
+    "pole_position": "Oliver Rowland",
+    "winning_driver": "Edoardo Mortara",
+    "winning_team": "ROKiT Venturi Racing"
+  },
+  {
+    "round": "10",
+    "eprix": "New York City",
+    "pole_position": "Nick Cassidy",
+    "winning_driver": "Maximilian Günther",
+    "winning_team": "BMW i Andretti Motorsport"
+  },
+  {
+    "round": "11",
+    "eprix": "New York City",
+    "pole_position": "Sam Bird",
+    "winning_driver": "Sam Bird",
+    "winning_team": "Jaguar Racing"
+  },
+  {
+    "round": "12",
+    "eprix": "London",
+    "pole_position": "Alex Lynn",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "BMW i Andretti Motorsport"
+  },
+  {
+    "round": "13",
+    "eprix": "London",
+    "pole_position": "Stoffel Vandoorne",
+    "winning_driver": "Alex Lynn",
+    "winning_team": "Mahindra Racing"
+  },
+  {
+    "round": "14",
+    "eprix": "Berlin I",
+    "pole_position": "Jean-Éric Vergne",
+    "winning_driver": "Lucas di Grassi",
+    "winning_team": "Audi Sport ABT Schaeffler Formula E Team"
+  },
+  {
+    "round": "15",
+    "eprix": "Berlin II",
+    "pole_position": "Stoffel Vandoorne",
+    "winning_driver": "Norman Nato",
+    "winning_team": "ROKiT Venturi Racing"
+  }
+]

@@ -35,6 +35,9 @@ jobs:
             python scripts/scrape_wec.py
           fi
 
+      - name: Compile Standings
+        run: python scripts/compile_standings.py --series wec
+
       - name: Validate Data
         run: python scripts/validate_data.py
 

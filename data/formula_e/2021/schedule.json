@@ -1,0 +1,107 @@
+[
+  {
+    "round": "1",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "26 February 2021",
+    "date": "26 February 2021"
+  },
+  {
+    "round": "2",
+    "eprix": "Diriyah ePrix",
+    "country": "Riyadh Street Circuit",
+    "circuit": "26 February 2021",
+    "date": "27 February 2021"
+  },
+  {
+    "round": "3",
+    "eprix": "Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "10 April 2021",
+    "date": "10 April 2021"
+  },
+  {
+    "round": "4",
+    "eprix": "Rome ePrix",
+    "country": "Circuito Cittadino dell'EUR",
+    "circuit": "10 April 2021",
+    "date": "11 April 2021"
+  },
+  {
+    "round": "5",
+    "eprix": "Valencia ePrix",
+    "country": "Circuit Ricardo Tormo",
+    "circuit": "24 April 2021",
+    "date": "24 April 2021"
+  },
+  {
+    "round": "6",
+    "eprix": "Valencia ePrix",
+    "country": "Circuit Ricardo Tormo",
+    "circuit": "24 April 2021",
+    "date": "25 April 2021"
+  },
+  {
+    "round": "7",
+    "eprix": "Monaco ePrix",
+    "country": "Circuit de Monaco",
+    "circuit": "8 May 2021",
+    "date": "8 May 2021"
+  },
+  {
+    "round": "8",
+    "eprix": "Puebla ePrix",
+    "country": "Autódromo Miguel E. Abed",
+    "circuit": "19 June 2021",
+    "date": "19 June 2021"
+  },
+  {
+    "round": "9",
+    "eprix": "Puebla ePrix",
+    "country": "Autódromo Miguel E. Abed",
+    "circuit": "19 June 2021",
+    "date": "20 June 2021"
+  },
+  {
+    "round": "10",
+    "eprix": "New York City ePrix",
+    "country": "Brooklyn Street Circuit",
+    "circuit": "10 July 2021",
+    "date": "10 July 2021"
+  },
+  {
+    "round": "11",
+    "eprix": "New York City ePrix",
+    "country": "Brooklyn Street Circuit",
+    "circuit": "10 July 2021",
+    "date": "11 July 2021"
+  },
+  {
+    "round": "12",
+    "eprix": "London ePrix",
+    "country": "ExCeL London",
+    "circuit": "24 July 2021",
+    "date": "24 July 2021"
+  },
+  {
+    "round": "13",
+    "eprix": "London ePrix",
+    "country": "ExCeL London",
+    "circuit": "24 July 2021",
+    "date": "25 July 2021"
+  },
+  {
+    "round": "14",
+    "eprix": "Berlin ePrix I",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "14 August 2021",
+    "date": "14 August 2021"
+  },
+  {
+    "round": "15",
+    "eprix": "Berlin ePrix I",
+    "country": "Tempelhof Airport Street Circuit",
+    "circuit": "14 August 2021",
+    "date": "15 August 2021"
+  }
+]
