@@ -15,6 +15,9 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push committed changes
+
     steps:
       - uses: actions/checkout@v4
       
