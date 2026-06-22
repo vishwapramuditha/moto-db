@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-06-15T12:16:21.057945Z",
+  "updated_at": "2026-06-22T11:56:15.513116Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -98,9 +98,9 @@
       "name": "Grand Prix of Road America",
       "short_name": "Grand Prix of Road America",
       "date": "2026-06-21T18:00Z",
-      "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, June 21st at 2:00 PM EDT",
-      "completed": false,
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
       "broadcast": "FOX"
     },
     {
