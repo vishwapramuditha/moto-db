@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-06-15T10:24:48.742390Z",
+  "updated_at": "2026-06-22T09:48:53.666752Z",
   "events": [
     {
       "country": {
@@ -532,29 +532,29 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/table4.pdf",
           "menu_position": 2
         }
       },
       "circuit": {
         "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
-        "name": "Automotodrom Brno",
+        "name": "CREDITAS Autodrom Brno",
         "legacy_id": 11,
         "place": "Brno",
         "nation": "CZE"
@@ -587,7 +587,7 @@
       },
       "short_name": "CZE",
       "id": "f9d2e80c-431b-485f-afcf-671950648ad7",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
