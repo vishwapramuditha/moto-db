@@ -29,10 +29,10 @@
   },
   {
     "round": "5",
-    "eprix": "Edoardo Mortara",
-    "pole_position": "Jake Dennis",
-    "winning_driver": "Jaguar TCS Racing",
-    "winning_team": "Jaguar"
+    "eprix": "Jeddah",
+    "pole_position": "Edoardo Mortara",
+    "winning_driver": "António Félix da Costa",
+    "winning_team": "Jaguar TCS Racing"
   },
   {
     "round": "6",
@@ -50,10 +50,10 @@
   },
   {
     "round": "8",
-    "eprix": "Pascal Wehrlein",
-    "pole_position": "Oliver Rowland",
-    "winning_driver": "Jaguar TCS Racing",
-    "winning_team": "Jaguar"
+    "eprix": "Berlin",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Mitch Evans",
+    "winning_team": "Jaguar TCS Racing"
   },
   {
     "round": "9",
@@ -64,9 +64,16 @@
   },
   {
     "round": "10",
-    "eprix": "Dan Ticktum",
-    "pole_position": "Jean-Éric Vergne",
-    "winning_driver": "Nissan Formula E Team",
-    "winning_team": "Nissan"
+    "eprix": "Monaco",
+    "pole_position": "Dan Ticktum",
+    "winning_driver": "Oliver Rowland",
+    "winning_team": "Nissan Formula E Team"
+  },
+  {
+    "round": "11",
+    "eprix": "Sanya",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Jake Dennis",
+    "winning_team": "Andretti Formula E"
   }
 ]
