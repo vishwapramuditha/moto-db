@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-06-22T11:56:15.513116Z",
+  "updated_at": "2026-06-29T11:01:03.315373Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -117,9 +117,9 @@
       "event_id": "202607193999",
       "name": "Grand Prix of Nashville",
       "short_name": "Grand Prix of Nashville",
-      "date": "2026-07-19T04:00Z",
+      "date": "2026-07-19T18:00Z",
       "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, July 18th at 12:00 AM EDT",
+      "status_detail": "Sun, July 19th at 2:00 PM EDT",
       "completed": false,
       "broadcast": "FOX"
     },
