@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-06-22T09:48:53.666752Z",
+  "updated_at": "2026-06-29T08:59:57.381717Z",
   "events": [
     {
       "country": {
@@ -597,23 +597,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/table4.pdf",
           "menu_position": 2
         }
       },
@@ -652,7 +652,7 @@
       },
       "short_name": "NED",
       "id": "83804cb1-a417-4213-b727-37f84b26d36e",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
@@ -690,7 +690,7 @@
         "nation": "GER"
       },
       "test": false,
-      "sponsored_name": "Liqui Moly Grand Prix of Germany",
+      "sponsored_name": "LIQUI MOLY GRAND PRIX OF GERMANY ",
       "date_end": "2026-07-12",
       "toad_api_uuid": "259be6f4-c23c-4dc2-bc42-7664842f6409",
       "date_start": "2026-07-10",
