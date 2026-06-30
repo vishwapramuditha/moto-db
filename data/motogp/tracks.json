@@ -8,13 +8,6 @@
       "nation": "ITA"
     },
     {
-      "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
-      "name": "Automotodrom Brno",
-      "legacy_id": 11,
-      "place": "Brno",
-      "nation": "CZE"
-    },
-    {
       "id": "dc7c629b-f6e2-410e-860a-1ca0f28beb8f",
       "name": "Autódromo Internacional de Goiânia - Ayrton Senna",
       "legacy_id": 39,
@@ -34,6 +27,13 @@
       "legacy_id": 115,
       "place": "\tBalatonfokajár",
       "nation": "HUN"
+    },
+    {
+      "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
+      "name": "CREDITAS Autodrom Brno",
+      "legacy_id": 11,
+      "place": "Brno",
+      "nation": "CZE"
     },
     {
       "id": "a8bd93f8-8e7e-4669-ae1c-1f3f5156b4e7",
@@ -163,5 +163,5 @@
     }
   ],
   "total": 23,
-  "updated_at": "2026-06-15T10:26:00.750806Z"
+  "updated_at": "2026-06-29T09:01:30.815822Z"
 }

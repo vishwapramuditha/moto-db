@@ -2,7 +2,11 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
+<<<<<<< HEAD
   "updated_at": "2026-06-30T20:36:35.737107Z",
+=======
+  "updated_at": "2026-06-29T08:59:57.381717Z",
+>>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
   "events": [
     {
       "country": {
@@ -1689,29 +1693,29 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/CZE/table4.pdf",
           "menu_position": 2
         }
       },
       "circuit": {
         "id": "b8664e71-95a8-4c71-b093-96a23fa839df",
-        "name": "Automotodrom Brno",
+        "name": "CREDITAS Autodrom Brno",
         "legacy_id": 11,
         "place": "Brno",
         "nation": "CZE"
@@ -1744,6 +1748,7 @@
       },
       "short_name": "CZE",
       "id": "f9d2e80c-431b-485f-afcf-671950648ad7",
+<<<<<<< HEAD
       "status": "NOT-STARTED",
       "sessions": [
         {
@@ -1845,6 +1850,9 @@
           "status": "NOT-STARTED"
         }
       ]
+=======
+      "status": "FINISHED"
+>>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
     },
     {
       "country": {
@@ -1854,23 +1862,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/NED/table4.pdf",
           "menu_position": 2
         }
       },
@@ -1909,6 +1917,7 @@
       },
       "short_name": "NED",
       "id": "83804cb1-a417-4213-b727-37f84b26d36e",
+<<<<<<< HEAD
       "status": "NOT-STARTED",
       "sessions": [
         {
@@ -2010,6 +2019,9 @@
           "status": "NOT-STARTED"
         }
       ]
+=======
+      "status": "FINISHED"
+>>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
     },
     {
       "country": {
@@ -2047,7 +2059,7 @@
         "nation": "GER"
       },
       "test": false,
-      "sponsored_name": "Liqui Moly Grand Prix of Germany",
+      "sponsored_name": "LIQUI MOLY GRAND PRIX OF GERMANY ",
       "date_end": "2026-07-12",
       "toad_api_uuid": "259be6f4-c23c-4dc2-bc42-7664842f6409",
       "date_start": "2026-07-10",

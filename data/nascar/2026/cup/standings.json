@@ -4,33 +4,7 @@
   "driverStandings": [
     {
       "position": 1,
-      "points": 497,
-      "wins": 5,
-      "driver_id": 4065,
-      "driver_name": "Tyler Reddick",
-      "manufacturer": "Tyt",
-      "pointsProgression": [
-        40,
-        80,
-        120,
-        149,
-        173,
-        213,
-        235,
-        268,
-        308,
-        331,
-        364,
-        396,
-        429,
-        460,
-        462,
-        497
-      ]
-    },
-    {
-      "position": 2,
-      "points": 483,
+      "points": 517,
       "wins": 4,
       "driver_id": 1361,
       "driver_name": "Denny Hamlin",
@@ -51,12 +25,42 @@
         363,
         403,
         443,
-        483
+        483,
+        506,
+        517
+      ]
+    },
+    {
+      "position": 2,
+      "points": 510,
+      "wins": 5,
+      "driver_id": 4065,
+      "driver_name": "Tyler Reddick",
+      "manufacturer": "Tyt",
+      "pointsProgression": [
+        40,
+        80,
+        120,
+        149,
+        173,
+        213,
+        235,
+        268,
+        308,
+        331,
+        364,
+        396,
+        429,
+        460,
+        462,
+        497,
+        509,
+        510
       ]
     },
     {
       "position": 3,
-      "points": 409,
+      "points": 468,
       "wins": 1,
       "driver_id": 4023,
       "driver_name": "Ryan Blaney",
@@ -77,12 +81,14 @@
         324,
         353,
         382,
-        409
+        409,
+        437,
+        468
       ]
     },
     {
       "position": 4,
-      "points": 392,
+      "points": 437,
       "wins": 2,
       "driver_id": 4062,
       "driver_name": "Chase Elliott",
@@ -103,38 +109,14 @@
         331,
         361,
         366,
-        392
+        392,
+        417,
+        437
       ]
     },
     {
       "position": 5,
-      "points": 381,
-      "wins": 0,
-      "driver_id": 3989,
-      "driver_name": "Chris Buescher",
-      "manufacturer": "Frd",
-      "pointsProgression": [
-        30,
-        52,
-        65,
-        88,
-        119,
-        147,
-        165,
-        189,
-        216,
-        251,
-        283,
-        308,
-        315,
-        323,
-        351,
-        381
-      ]
-    },
-    {
-      "position": 6,
-      "points": 378,
+      "points": 434,
       "wins": 1,
       "driver_id": 4368,
       "driver_name": "Ty Gibbs",
@@ -155,64 +137,42 @@
         314,
         338,
         350,
-        378
+        378,
+        400,
+        434
+      ]
+    },
+    {
+      "position": 6,
+      "points": 430,
+      "wins": 0,
+      "driver_id": 3989,
+      "driver_name": "Chris Buescher",
+      "manufacturer": "Frd",
+      "pointsProgression": [
+        30,
+        52,
+        65,
+        88,
+        119,
+        147,
+        165,
+        189,
+        216,
+        251,
+        283,
+        308,
+        315,
+        323,
+        351,
+        381,
+        412,
+        430
       ]
     },
     {
       "position": 7,
-      "points": 377,
-      "wins": 1,
-      "driver_id": 4113,
-      "driver_name": "Daniel Suarez",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        24,
-        56,
-        68,
-        75,
-        94,
-        124,
-        141,
-        166,
-        184,
-        209,
-        240,
-        264,
-        304,
-        322,
-        353,
-        377
-      ]
-    },
-    {
-      "position": 8,
-      "points": 363,
-      "wins": 1,
-      "driver_id": 4326,
-      "driver_name": "Carson Hocevar",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        19,
-        52,
-        58,
-        75,
-        90,
-        123,
-        143,
-        170,
-        194,
-        234,
-        264,
-        273,
-        287,
-        314,
-        346,
-        363
-      ]
-    },
-    {
-      "position": 9,
-      "points": 352,
+      "points": 419,
       "wins": 0,
       "driver_id": 4030,
       "driver_name": "Kyle Larson",
@@ -233,38 +193,70 @@
         273,
         287,
         320,
-        352
+        352,
+        386,
+        419
+      ]
+    },
+    {
+      "position": 8,
+      "points": 407,
+      "wins": 1,
+      "driver_id": 4326,
+      "driver_name": "Carson Hocevar",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        19,
+        52,
+        58,
+        75,
+        90,
+        123,
+        143,
+        170,
+        194,
+        234,
+        264,
+        273,
+        287,
+        314,
+        346,
+        363,
+        381,
+        407
+      ]
+    },
+    {
+      "position": 9,
+      "points": 407,
+      "wins": 1,
+      "driver_id": 4113,
+      "driver_name": "Daniel Suarez",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        24,
+        56,
+        68,
+        75,
+        94,
+        124,
+        141,
+        166,
+        184,
+        209,
+        240,
+        264,
+        304,
+        322,
+        353,
+        377,
+        401,
+        407
       ]
     },
     {
       "position": 10,
-      "points": 340,
-      "wins": 0,
-      "driver_id": 4184,
-      "driver_name": "William Byron",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        25,
-        34,
-        58,
-        88,
-        122,
-        151,
-        183,
-        190,
-        220,
-        222,
-        251,
-        252,
-        280,
-        287,
-        306,
-        340
-      ]
-    },
-    {
-      "position": 11,
-      "points": 325,
+      "points": 380,
       "wins": 0,
       "driver_id": 4228,
       "driver_name": "Chase Briscoe",
@@ -285,64 +277,42 @@
         239,
         273,
         300,
-        325
+        325,
+        345,
+        380
+      ]
+    },
+    {
+      "position": 11,
+      "points": 370,
+      "wins": 0,
+      "driver_id": 4184,
+      "driver_name": "William Byron",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        25,
+        34,
+        58,
+        88,
+        122,
+        151,
+        183,
+        190,
+        220,
+        222,
+        251,
+        252,
+        280,
+        287,
+        306,
+        340,
+        345,
+        370
       ]
     },
     {
       "position": 12,
-      "points": 320,
-      "wins": 0,
-      "driver_id": 4059,
-      "driver_name": "Erik Jones",
-      "manufacturer": "Tyt",
-      "pointsProgression": [
-        16,
-        29,
-        32,
-        59,
-        76,
-        103,
-        119,
-        133,
-        147,
-        161,
-        186,
-        204,
-        228,
-        254,
-        289,
-        320
-      ]
-    },
-    {
-      "position": 13,
-      "points": 319,
-      "wins": 0,
-      "driver_id": 4153,
-      "driver_name": "Christopher Bell",
-      "manufacturer": "Tyt",
-      "pointsProgression": [
-        2,
-        18,
-        52,
-        87,
-        120,
-        138,
-        168,
-        178,
-        195,
-        215,
-        216,
-        232,
-        267,
-        302,
-        308,
-        319
-      ]
-    },
-    {
-      "position": 14,
-      "points": 310,
+      "points": 360,
       "wins": 0,
       "driver_id": 4025,
       "driver_name": "Bubba Wallace",
@@ -363,38 +333,14 @@
         255,
         260,
         294,
-        310
+        310,
+        345,
+        360
       ]
     },
     {
-      "position": 15,
-      "points": 301,
-      "wins": 1,
-      "driver_id": 4469,
-      "driver_name": "Shane Van Gisbergen",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        7,
-        38,
-        73,
-        99,
-        100,
-        123,
-        149,
-        152,
-        153,
-        170,
-        190,
-        230,
-        256,
-        288,
-        295,
-        301
-      ]
-    },
-    {
-      "position": 16,
-      "points": 301,
+      "position": 13,
+      "points": 356,
       "wins": 0,
       "driver_id": 4070,
       "driver_name": "Ryan Preece",
@@ -415,64 +361,98 @@
         282,
         283,
         292,
-        301
+        301,
+        327,
+        356
+      ]
+    },
+    {
+      "position": 14,
+      "points": 352,
+      "wins": 0,
+      "driver_id": 4153,
+      "driver_name": "Christopher Bell",
+      "manufacturer": "Tyt",
+      "pointsProgression": [
+        2,
+        18,
+        52,
+        87,
+        120,
+        138,
+        168,
+        178,
+        195,
+        215,
+        216,
+        232,
+        267,
+        302,
+        308,
+        319,
+        320,
+        352
+      ]
+    },
+    {
+      "position": 15,
+      "points": 351,
+      "wins": 0,
+      "driver_id": 4059,
+      "driver_name": "Erik Jones",
+      "manufacturer": "Tyt",
+      "pointsProgression": [
+        16,
+        29,
+        32,
+        59,
+        76,
+        103,
+        119,
+        133,
+        147,
+        161,
+        186,
+        204,
+        228,
+        254,
+        289,
+        320,
+        337,
+        351
+      ]
+    },
+    {
+      "position": 16,
+      "points": 342,
+      "wins": 2,
+      "driver_id": 4469,
+      "driver_name": "Shane Van Gisbergen",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        7,
+        38,
+        73,
+        99,
+        100,
+        123,
+        149,
+        152,
+        153,
+        170,
+        190,
+        230,
+        256,
+        288,
+        295,
+        301,
+        302,
+        342
       ]
     },
     {
       "position": 17,
-      "points": 297,
-      "wins": 0,
-      "driver_id": 1816,
-      "driver_name": "Brad Keselowski",
-      "manufacturer": "Frd",
-      "pointsProgression": [
-        32,
-        52,
-        69,
-        91,
-        118,
-        153,
-        177,
-        200,
-        231,
-        237,
-        261,
-        268,
-        290,
-        293,
-        296,
-        297
-      ]
-    },
-    {
-      "position": 18,
-      "points": 287,
-      "wins": 0,
-      "driver_id": 4180,
-      "driver_name": "Austin Cindric",
-      "manufacturer": "Frd",
-      "pointsProgression": [
-        3,
-        14,
-        19,
-        22,
-        40,
-        72,
-        101,
-        122,
-        147,
-        176,
-        198,
-        226,
-        227,
-        238,
-        264,
-        287
-      ]
-    },
-    {
-      "position": 19,
-      "points": 281,
+      "points": 336,
       "wins": 0,
       "driver_id": 3832,
       "driver_name": "Michael McDowell",
@@ -493,38 +473,70 @@
         228,
         250,
         261,
-        281
+        281,
+        308,
+        336
+      ]
+    },
+    {
+      "position": 18,
+      "points": 326,
+      "wins": 0,
+      "driver_id": 4180,
+      "driver_name": "Austin Cindric",
+      "manufacturer": "Frd",
+      "pointsProgression": [
+        3,
+        14,
+        19,
+        22,
+        40,
+        72,
+        101,
+        122,
+        147,
+        176,
+        198,
+        226,
+        227,
+        238,
+        264,
+        287,
+        302,
+        326
+      ]
+    },
+    {
+      "position": 19,
+      "points": 322,
+      "wins": 0,
+      "driver_id": 1816,
+      "driver_name": "Brad Keselowski",
+      "manufacturer": "Frd",
+      "pointsProgression": [
+        32,
+        52,
+        69,
+        91,
+        118,
+        153,
+        177,
+        200,
+        231,
+        237,
+        261,
+        268,
+        290,
+        293,
+        296,
+        297,
+        300,
+        322
       ]
     },
     {
       "position": 20,
-      "points": 266,
-      "wins": 0,
-      "driver_id": 3859,
-      "driver_name": "Joey Logano",
-      "manufacturer": "Frd",
-      "pointsProgression": [
-        34,
-        53,
-        75,
-        81,
-        103,
-        107,
-        141,
-        171,
-        178,
-        179,
-        180,
-        181,
-        210,
-        233,
-        263,
-        266
-      ]
-    },
-    {
-      "position": 21,
-      "points": 266,
+      "points": 319,
       "wins": 0,
       "driver_id": 3774,
       "driver_name": "AJ Allmendinger",
@@ -545,12 +557,14 @@
         229,
         231,
         251,
-        266
+        266,
+        298,
+        319
       ]
     },
     {
-      "position": 22,
-      "points": 265,
+      "position": 21,
+      "points": 317,
       "wins": 0,
       "driver_id": 4272,
       "driver_name": "Zane Smith",
@@ -571,38 +585,14 @@
         232,
         260,
         264,
-        265
+        265,
+        298,
+        317
       ]
     },
     {
-      "position": 23,
-      "points": 262,
-      "wins": 0,
-      "driver_id": 3888,
-      "driver_name": "Ricky Stenhouse Jr.",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        35,
-        36,
-        45,
-        60,
-        68,
-        76,
-        83,
-        103,
-        119,
-        150,
-        168,
-        174,
-        199,
-        232,
-        240,
-        262
-      ]
-    },
-    {
-      "position": 24,
-      "points": 256,
+      "position": 22,
+      "points": 309,
       "wins": 0,
       "driver_id": 4001,
       "driver_name": "Ross Chastain",
@@ -623,38 +613,42 @@
         205,
         206,
         227,
-        256
+        256,
+        286,
+        309
       ]
     },
     {
-      "position": 25,
-      "points": 254,
+      "position": 23,
+      "points": 298,
       "wins": 0,
-      "driver_id": 4231,
-      "driver_name": "Todd Gilliland",
+      "driver_id": 3859,
+      "driver_name": "Joey Logano",
       "manufacturer": "Frd",
       "pointsProgression": [
-        1,
-        13,
-        29,
-        54,
-        57,
-        71,
-        85,
-        116,
-        136,
-        162,
-        167,
-        187,
-        204,
-        221,
-        236,
-        254
+        34,
+        53,
+        75,
+        81,
+        103,
+        107,
+        141,
+        171,
+        178,
+        179,
+        180,
+        181,
+        210,
+        233,
+        263,
+        266,
+        285,
+        298
       ]
     },
     {
-      "position": 26,
-      "points": 253,
+      "position": 24,
+      "points": 289,
       "wins": 0,
       "driver_id": 4269,
       "driver_name": "Riley Herbst",
@@ -675,12 +669,14 @@
         188,
         208,
         232,
-        253
+        253,
+        282,
+        289
       ]
     },
     {
-      "position": 27,
-      "points": 250,
+      "position": 25,
+      "points": 283,
       "wins": 0,
       "driver_id": 4092,
       "driver_name": "John Hunter Nemechek",
@@ -701,12 +697,70 @@
         181,
         194,
         217,
-        250
+        250,
+        271,
+        283
+      ]
+    },
+    {
+      "position": 26,
+      "points": 282,
+      "wins": 0,
+      "driver_id": 3888,
+      "driver_name": "Ricky Stenhouse Jr.",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        35,
+        36,
+        45,
+        60,
+        68,
+        76,
+        83,
+        103,
+        119,
+        150,
+        168,
+        174,
+        199,
+        232,
+        240,
+        262,
+        266,
+        282
+      ]
+    },
+    {
+      "position": 27,
+      "points": 278,
+      "wins": 0,
+      "driver_id": 4231,
+      "driver_name": "Todd Gilliland",
+      "manufacturer": "Frd",
+      "pointsProgression": [
+        1,
+        13,
+        29,
+        54,
+        57,
+        71,
+        85,
+        116,
+        136,
+        162,
+        167,
+        187,
+        204,
+        221,
+        236,
+        254,
+        270,
+        278
       ]
     },
     {
       "position": 28,
-      "points": 242,
+      "points": 265,
       "wins": 0,
       "driver_id": 3873,
       "driver_name": "Austin Dillon",
@@ -727,12 +781,14 @@
         210,
         229,
         230,
-        242
+        242,
+        255,
+        265
       ]
     },
     {
       "position": 29,
-      "points": 210,
+      "points": 217,
       "wins": 0,
       "driver_id": 4224,
       "driver_name": "Noah Gragson",
@@ -753,11 +809,97 @@
         177,
         198,
         208,
-        210
+        210,
+        212,
+        217
       ]
     },
     {
       "position": 30,
+      "points": 207,
+      "wins": 0,
+      "driver_id": 4104,
+      "driver_name": "Cole Custer",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        13,
+        28,
+        36,
+        38,
+        48,
+        57,
+        63,
+        72,
+        84,
+        85,
+        87,
+        109,
+        130,
+        146,
+        171,
+        184,
+        190,
+        207
+      ]
+    },
+    {
+      "position": 31,
+      "points": 206,
+      "wins": 0,
+      "driver_id": 4045,
+      "driver_name": "Alex Bowman",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        1,
+        15,
+        16,
+        16,
+        16,
+        16,
+        16,
+        17,
+        36,
+        70,
+        104,
+        116,
+        136,
+        140,
+        158,
+        168,
+        179,
+        206
+      ]
+    },
+    {
+      "position": 32,
+      "points": 204,
+      "wins": 0,
+      "driver_id": 4013,
+      "driver_name": "Ty Dillon",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        23,
+        44,
+        65,
+        76,
+        80,
+        86,
+        87,
+        95,
+        99,
+        123,
+        136,
+        140,
+        152,
+        177,
+        190,
+        195,
+        202,
+        204
+      ]
+    },
+    {
+      "position": 33,
       "points": 195,
       "wins": 0,
       "driver_id": 454,
@@ -779,64 +921,14 @@
         195,
         195,
         195,
+        195,
+        195,
         195
       ]
     },
     {
-      "position": 31,
-      "points": 195,
-      "wins": 0,
-      "driver_id": 4013,
-      "driver_name": "Ty Dillon",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        23,
-        44,
-        65,
-        76,
-        80,
-        86,
-        87,
-        95,
-        99,
-        123,
-        136,
-        140,
-        152,
-        177,
-        190,
-        195
-      ]
-    },
-    {
-      "position": 32,
-      "points": 184,
-      "wins": 0,
-      "driver_id": 4104,
-      "driver_name": "Cole Custer",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        13,
-        28,
-        36,
-        38,
-        48,
-        57,
-        63,
-        72,
-        84,
-        85,
-        87,
-        109,
-        130,
-        146,
-        171,
-        184
-      ]
-    },
-    {
-      "position": 33,
-      "points": 170,
+      "position": 34,
+      "points": 187,
       "wins": 0,
       "driver_id": 4123,
       "driver_name": "Josh Berry",
@@ -857,38 +949,14 @@
         138,
         144,
         166,
-        170
-      ]
-    },
-    {
-      "position": 34,
-      "points": 168,
-      "wins": 0,
-      "driver_id": 4045,
-      "driver_name": "Alex Bowman",
-      "manufacturer": "Chv",
-      "pointsProgression": [
-        1,
-        15,
-        16,
-        16,
-        16,
-        16,
-        16,
-        17,
-        36,
-        70,
-        104,
-        116,
-        136,
-        140,
-        158,
-        168
+        170,
+        178,
+        187
       ]
     },
     {
       "position": 35,
-      "points": 155,
+      "points": 186,
       "wins": 0,
       "driver_id": 4481,
       "driver_name": "Connor Zilisch #",
@@ -909,12 +977,14 @@
         139,
         140,
         141,
-        155
+        155,
+        156,
+        186
       ]
     },
     {
       "position": 36,
-      "points": 134,
+      "points": 152,
       "wins": 0,
       "driver_id": 4125,
       "driver_name": "Cody Ware",
@@ -935,12 +1005,42 @@
         98,
         113,
         127,
-        134
+        134,
+        148,
+        152
       ]
     },
     {
       "position": 37,
-      "points": 76,
+      "points": 107,
+      "wins": 1,
+      "driver_id": 4387,
+      "driver_name": "* Corey Heim(i)",
+      "manufacturer": "Tyt",
+      "pointsProgression": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        31,
+        31,
+        37,
+        37,
+        55,
+        67,
+        67,
+        67,
+        107,
+        107
+      ]
+    },
+    {
+      "position": 38,
+      "points": 80,
       "wins": 0,
       "driver_id": 4133,
       "driver_name": "* Austin Hill(i)",
@@ -961,33 +1061,9 @@
         30,
         40,
         57,
-        76
-      ]
-    },
-    {
-      "position": 38,
-      "points": 67,
-      "wins": 0,
-      "driver_id": 4387,
-      "driver_name": "* Corey Heim(i)",
-      "manufacturer": "Tyt",
-      "pointsProgression": [
-        9,
-        9,
-        9,
-        9,
-        9,
-        9,
-        9,
-        9,
-        31,
-        31,
-        37,
-        37,
-        55,
-        67,
-        67,
-        67
+        76,
+        77,
+        80
       ]
     },
     {
@@ -1004,6 +1080,8 @@
         1,
         13,
         26,
+        41,
+        41,
         41,
         41,
         41,
@@ -1039,6 +1117,8 @@
         14,
         23,
         23,
+        23,
+        23,
         23
       ]
     },
@@ -1064,6 +1144,8 @@
         6,
         6,
         6,
+        22,
+        22,
         22,
         22
       ]
@@ -1091,6 +1173,8 @@
         13,
         13,
         13,
+        21,
+        21,
         21
       ]
     },
@@ -1117,12 +1201,14 @@
         20,
         20,
         20,
+        20,
+        20,
         20
       ]
     },
     {
       "position": 44,
-      "points": 8,
+      "points": 17,
       "wins": 0,
       "driver_id": 1717,
       "driver_name": "* Jimmie Johnson",
@@ -1143,11 +1229,41 @@
         8,
         8,
         8,
-        8
+        8,
+        17,
+        17
       ]
     },
     {
       "position": 45,
+      "points": 10,
+      "wins": 0,
+      "driver_id": 4541,
+      "driver_name": "* Kevin Magnussen",
+      "manufacturer": "Chv",
+      "pointsProgression": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        10
+      ]
+    },
+    {
+      "position": 46,
       "points": 8,
       "wins": 0,
       "driver_id": 4284,
@@ -1169,11 +1285,13 @@
         8,
         8,
         8,
+        8,
+        8,
         8
       ]
     },
     {
-      "position": 46,
+      "position": 47,
       "points": 7,
       "wins": 0,
       "driver_id": 4004,
@@ -1195,11 +1313,13 @@
         7,
         7,
         7,
+        7,
+        7,
         7
       ]
     },
     {
-      "position": 47,
+      "position": 48,
       "points": 6,
       "wins": 0,
       "driver_id": 2215,
@@ -1221,11 +1341,13 @@
         5,
         5,
         5,
+        6,
+        6,
         6
       ]
     },
     {
-      "position": 48,
+      "position": 49,
       "points": 4,
       "wins": 0,
       "driver_id": 4301,
@@ -1247,11 +1369,13 @@
         4,
         4,
         4,
+        4,
+        4,
         4
       ]
     },
     {
-      "position": 49,
+      "position": 50,
       "points": 3,
       "wins": 0,
       "driver_id": 4213,
@@ -1273,11 +1397,13 @@
         3,
         3,
         3,
+        3,
+        3,
         3
       ]
     },
     {
-      "position": 50,
+      "position": 51,
       "points": 3,
       "wins": 0,
       "driver_id": 3973,
@@ -1299,11 +1425,13 @@
         3,
         3,
         3,
+        3,
+        3,
         3
       ]
     },
     {
-      "position": 51,
+      "position": 52,
       "points": 2,
       "wins": 0,
       "driver_id": 3984,
@@ -1325,9 +1453,11 @@
         2,
         2,
         2,
+        2,
+        2,
         2
       ]
     }
   ],
-  "updated_at": "2026-06-15T10:58:35.289491+00:00"
+  "updated_at": "2026-06-29T09:54:00.745465+00:00"
 }

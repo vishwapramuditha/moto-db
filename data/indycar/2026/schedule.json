@@ -1,7 +1,11 @@
 {
   "season": "2026",
   "total_races": 18,
+<<<<<<< HEAD
   "updated_at": "2026-06-30T20:36:46.609705Z",
+=======
+  "updated_at": "2026-06-29T11:01:03.315373Z",
+>>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
   "races": [
     {
       "event_id": "202603010104",
@@ -301,6 +305,7 @@
       "name": "Grand Prix of Road America",
       "short_name": "Grand Prix of Road America",
       "date": "2026-06-21T18:00Z",
+<<<<<<< HEAD
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, June 21st at 2:00 PM EDT",
       "completed": false,
@@ -327,6 +332,12 @@
           "datetime": "2026-06-21T18:00:00Z"
         }
       ]
+=======
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FOX"
+>>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
     },
     {
       "event_id": "202607050119",
@@ -364,9 +375,9 @@
       "event_id": "202607193999",
       "name": "Grand Prix of Nashville",
       "short_name": "Grand Prix of Nashville",
-      "date": "2026-07-19T04:00Z",
+      "date": "2026-07-19T18:00Z",
       "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, July 18th at 12:00 AM EDT",
+      "status_detail": "Sun, July 19th at 2:00 PM EDT",
       "completed": false,
       "broadcast": "FOX",
       "sessions": [

@@ -4,26 +4,26 @@
     {
       "position": 1,
       "wins": 2,
-      "driver_name": "Jaguar TCS Racing",
-      "team_name": "Jaguar"
-    },
-    {
-      "position": 2,
-      "wins": 1,
       "driver_name": "Jake Dennis",
       "team_name": "Andretti Formula E"
     },
     {
+      "position": 2,
+      "wins": 2,
+      "driver_name": "Mitch Evans",
+      "team_name": "Jaguar TCS Racing"
+    },
+    {
       "position": 3,
-      "wins": 1,
-      "driver_name": "Nick Cassidy",
-      "team_name": "Citroën Racing"
+      "wins": 2,
+      "driver_name": "António Félix da Costa",
+      "team_name": "Jaguar TCS Racing"
     },
     {
       "position": 4,
       "wins": 1,
-      "driver_name": "Mitch Evans",
-      "team_name": "Jaguar TCS Racing"
+      "driver_name": "Nick Cassidy",
+      "team_name": "Citroën Racing"
     },
     {
       "position": 5,
@@ -34,64 +34,53 @@
     {
       "position": 6,
       "wins": 1,
-      "driver_name": "António Félix da Costa",
-      "team_name": "Jaguar TCS Racing"
-    },
-    {
-      "position": 7,
-      "wins": 1,
       "driver_name": "Nico Müller",
       "team_name": "Porsche Formula E Team"
     },
     {
-      "position": 8,
+      "position": 7,
       "wins": 1,
       "driver_name": "Nyck de Vries",
       "team_name": "Mahindra Racing"
     },
     {
-      "position": 9,
+      "position": 8,
       "wins": 1,
-      "driver_name": "Nissan Formula E Team",
-      "team_name": "Nissan"
+      "driver_name": "Oliver Rowland",
+      "team_name": "Nissan Formula E Team"
     }
   ],
   "teamStandings": [
     {
       "position": 1,
-      "wins": 2,
+      "wins": 4,
       "team_name": "Jaguar TCS Racing"
     },
     {
       "position": 2,
       "wins": 2,
-      "team_name": "Porsche Formula E Team"
+      "team_name": "Andretti Formula E"
     },
     {
       "position": 3,
       "wins": 2,
-      "team_name": "Jaguar"
+      "team_name": "Porsche Formula E Team"
     },
     {
       "position": 4,
       "wins": 1,
-      "team_name": "Andretti Formula E"
+      "team_name": "Citroën Racing"
     },
     {
       "position": 5,
       "wins": 1,
-      "team_name": "Citroën Racing"
+      "team_name": "Mahindra Racing"
     },
     {
       "position": 6,
       "wins": 1,
-      "team_name": "Mahindra Racing"
-    },
-    {
-      "position": 7,
-      "wins": 1,
-      "team_name": "Nissan"
+      "team_name": "Nissan Formula E Team"
     }
   ],
-  "updated_at": "2026-06-14T15:59:58.530560+00:00"
+  "updated_at": "2026-06-30T10:57:29.848752+00:00"
 }
