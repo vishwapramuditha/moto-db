@@ -1,7 +1,7 @@
 {
   "season": "2025",
   "total_rounds": 24,
-  "updated_at": "2026-06-15T07:17:43.507181Z",
+  "updated_at": "2026-06-30T20:35:32.506113Z",
   "races": [
     {
       "season": "2025",
@@ -36,7 +36,39 @@
       "Qualifying": {
         "date": "2025-03-15",
         "time": "05:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-03-14",
+          "time": "01:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-03-14",
+          "time": "05:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-03-15",
+          "time": "01:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-03-15",
+          "time": "05:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-03-16",
+          "time": "04:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -71,7 +103,39 @@
       "SprintQualifying": {
         "date": "2025-03-21",
         "time": "07:30:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-03-21",
+          "time": "03:30:00Z"
+        },
+        {
+          "type": "SQ",
+          "name": "Sprint Qualifying",
+          "date": "2025-03-21",
+          "time": "07:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint",
+          "date": "2025-03-22",
+          "time": "03:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-03-22",
+          "time": "07:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-03-23",
+          "time": "07:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -106,7 +170,39 @@
       "Qualifying": {
         "date": "2025-04-05",
         "time": "06:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-04-04",
+          "time": "02:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-04-04",
+          "time": "06:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-04-05",
+          "time": "02:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-04-05",
+          "time": "06:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-04-06",
+          "time": "05:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -141,7 +237,39 @@
       "Qualifying": {
         "date": "2025-04-12",
         "time": "16:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-04-11",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-04-11",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-04-12",
+          "time": "12:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-04-12",
+          "time": "16:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-04-13",
+          "time": "15:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -176,7 +304,39 @@
       "Qualifying": {
         "date": "2025-04-19",
         "time": "17:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-04-18",
+          "time": "13:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-04-18",
+          "time": "17:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-04-19",
+          "time": "13:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-04-19",
+          "time": "17:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-04-20",
+          "time": "17:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -211,7 +371,39 @@
       "SprintQualifying": {
         "date": "2025-05-02",
         "time": "20:30:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-05-02",
+          "time": "16:30:00Z"
+        },
+        {
+          "type": "SQ",
+          "name": "Sprint Qualifying",
+          "date": "2025-05-02",
+          "time": "20:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint",
+          "date": "2025-05-03",
+          "time": "16:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-05-03",
+          "time": "20:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-05-04",
+          "time": "20:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -246,7 +438,39 @@
       "Qualifying": {
         "date": "2025-05-17",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-05-16",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-05-16",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-05-17",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-05-17",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-05-18",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -281,7 +505,39 @@
       "Qualifying": {
         "date": "2025-05-24",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-05-23",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-05-23",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-05-24",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-05-24",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-05-25",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -316,7 +572,39 @@
       "Qualifying": {
         "date": "2025-05-31",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-05-30",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-05-30",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-05-31",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-05-31",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-06-01",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -351,7 +639,39 @@
       "Qualifying": {
         "date": "2025-06-14",
         "time": "20:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-06-13",
+          "time": "17:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-06-13",
+          "time": "21:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-06-14",
+          "time": "16:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-06-14",
+          "time": "20:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-06-15",
+          "time": "18:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -386,7 +706,39 @@
       "Qualifying": {
         "date": "2025-06-28",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-06-27",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-06-27",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-06-28",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-06-28",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-06-29",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -421,7 +773,39 @@
       "Qualifying": {
         "date": "2025-07-05",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-07-04",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-07-04",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-07-05",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-07-05",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-07-06",
+          "time": "14:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -456,7 +840,39 @@
       "SprintQualifying": {
         "date": "2025-07-25",
         "time": "14:30:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-07-25",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "SQ",
+          "name": "Sprint Qualifying",
+          "date": "2025-07-25",
+          "time": "14:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint",
+          "date": "2025-07-26",
+          "time": "10:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-07-26",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-07-27",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -491,7 +907,39 @@
       "Qualifying": {
         "date": "2025-08-02",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-08-01",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-08-01",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-08-02",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-08-02",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-08-03",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -526,7 +974,39 @@
       "Qualifying": {
         "date": "2025-08-30",
         "time": "13:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-08-29",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-08-29",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-08-30",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-08-30",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-08-31",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -561,7 +1041,39 @@
       "Qualifying": {
         "date": "2025-09-06",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-09-05",
+          "time": "11:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-09-05",
+          "time": "15:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-09-06",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-09-06",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-09-07",
+          "time": "13:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -596,7 +1108,39 @@
       "Qualifying": {
         "date": "2025-09-20",
         "time": "12:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-09-19",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-09-19",
+          "time": "12:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-09-20",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-09-20",
+          "time": "12:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-09-21",
+          "time": "11:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -631,7 +1175,39 @@
       "Qualifying": {
         "date": "2025-10-04",
         "time": "13:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-10-03",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-10-03",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-10-04",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-10-04",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-10-05",
+          "time": "12:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -666,7 +1242,39 @@
       "SprintQualifying": {
         "date": "2025-10-17",
         "time": "21:30:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-10-17",
+          "time": "17:30:00Z"
+        },
+        {
+          "type": "SQ",
+          "name": "Sprint Qualifying",
+          "date": "2025-10-17",
+          "time": "21:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint",
+          "date": "2025-10-18",
+          "time": "17:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-10-18",
+          "time": "21:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-10-19",
+          "time": "19:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -701,7 +1309,39 @@
       "Qualifying": {
         "date": "2025-10-25",
         "time": "21:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-10-24",
+          "time": "18:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-10-24",
+          "time": "22:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-10-25",
+          "time": "17:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-10-25",
+          "time": "21:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-10-26",
+          "time": "20:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -736,7 +1376,39 @@
       "SprintQualifying": {
         "date": "2025-11-07",
         "time": "18:30:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-11-07",
+          "time": "14:30:00Z"
+        },
+        {
+          "type": "SQ",
+          "name": "Sprint Qualifying",
+          "date": "2025-11-07",
+          "time": "18:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint",
+          "date": "2025-11-08",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-11-08",
+          "time": "18:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-11-09",
+          "time": "17:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -771,7 +1443,39 @@
       "Qualifying": {
         "date": "2025-11-22",
         "time": "04:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-11-21",
+          "time": "00:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-11-21",
+          "time": "04:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-11-22",
+          "time": "00:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-11-22",
+          "time": "04:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-11-23",
+          "time": "04:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -806,7 +1510,39 @@
       "SprintQualifying": {
         "date": "2025-11-28",
         "time": "17:30:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-11-28",
+          "time": "13:30:00Z"
+        },
+        {
+          "type": "SQ",
+          "name": "Sprint Qualifying",
+          "date": "2025-11-28",
+          "time": "17:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint",
+          "date": "2025-11-29",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-11-29",
+          "time": "18:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-11-30",
+          "time": "16:00:00Z"
+        }
+      ]
     },
     {
       "season": "2025",
@@ -841,7 +1577,39 @@
       "Qualifying": {
         "date": "2025-12-06",
         "time": "14:00:00Z"
-      }
+      },
+      "sessions": [
+        {
+          "type": "FP1",
+          "name": "Free Practice 1",
+          "date": "2025-12-05",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "FP2",
+          "name": "Free Practice 2",
+          "date": "2025-12-05",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "FP3",
+          "name": "Free Practice 3",
+          "date": "2025-12-06",
+          "time": "10:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2025-12-06",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "date": "2025-12-07",
+          "time": "13:00:00Z"
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
   "season": "2025",
   "season_uuid": "ae6c6f0d-c652-44f8-94aa-420fc5b3dab4",
   "total_events": 33,
-  "updated_at": "2026-06-13T12:53:06.043520Z",
+  "updated_at": "2026-06-30T20:38:50.707175Z",
   "events": [
     {
       "country": {
@@ -67,7 +67,149 @@
       },
       "short_name": "THA",
       "id": "b84b9bd0-3ef3-4367-90cb-2840350673ca",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-02-28T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-02-28T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-02-28T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-02-28T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-02-28T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-02-28T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-01T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-01T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-01T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-01T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-01T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-01T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-01T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-01T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-01T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-01T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-02T10:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-02T12:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-02T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-02T15:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -132,7 +274,149 @@
       },
       "short_name": "ARG",
       "id": "0ecbb0a9-a732-4c4f-9a3c-9e5628defa3b",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-14T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-14T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-14T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-14T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-14T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-14T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-15T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-15T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-15T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-15T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-15T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-15T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-15T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-15T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-15T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-15T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-16T10:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-16T12:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-16T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-16T15:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -197,7 +481,149 @@
       },
       "short_name": "AME",
       "id": "71a99aab-984f-4d71-aaa2-a0cd2899810e",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-28T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-28T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-28T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-28T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-28T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-28T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-29T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-29T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-29T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-29T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-29T11:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-29T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-29T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-29T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-29T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-29T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-30T09:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-03-30T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-03-30T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-03-30T14:17:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -262,7 +688,149 @@
       },
       "short_name": "QAT",
       "id": "deb175c1-fe3e-4d2b-a311-3d2752c55f56",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-11T14:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-11T14:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-11T15:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-11T18:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-11T19:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-11T20:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-12T13:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-12T14:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-12T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-12T15:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-12T16:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-12T17:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-12T18:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-12T18:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-12T19:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-12T20:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-13T15:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-13T17:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-13T18:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-13T20:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -327,7 +895,149 @@
       },
       "short_name": "SPA",
       "id": "9d0d45b9-45c4-4388-97e2-def2f9f14e2d",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-25T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-25T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-25T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-25T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-25T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-25T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-26T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-26T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-26T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-26T10:55:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-26T11:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-26T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-26T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-26T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-26T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-26T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-27T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-04-27T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-04-27T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-04-27T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -400,7 +1110,191 @@
       },
       "short_name": "FRA",
       "id": "bf43aaac-e8d6-4758-8685-db0c5b9d5ef9",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "P",
+          "name": "P (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-05-09T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-09T09:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-09T10:06:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-09T10:55:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "P",
+          "name": "P (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-05-09T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-09T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-09T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-09T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-05-09T17:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-05-09T17:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-10T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-10T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-10T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-10T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-10T11:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-05-10T12:27:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-10T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-10T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-10T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-10T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-10T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-05-10T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-11T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-11T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-11T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-11T14:10:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -465,7 +1359,149 @@
       },
       "short_name": "GBR",
       "id": "c1b7084d-dfe3-4110-9d67-1dfa3095242a",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-23T10:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-23T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-23T11:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-23T14:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-23T15:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-23T16:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-24T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-24T10:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-24T11:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-24T11:55:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-24T12:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-24T13:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-24T14:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-24T14:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-24T15:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-24T16:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-25T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-05-25T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-05-25T13:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-05-25T14:50:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -530,7 +1566,149 @@
       },
       "short_name": "ARA",
       "id": "1509e879-d023-4ee6-a359-62ee23e6a4de",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-06T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-06T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-06T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-06T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-06T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-06T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-07T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-07T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-07T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-07T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-07T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-07T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-07T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-07T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-07T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-07T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-08T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-08T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-08T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-08T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -595,7 +1773,149 @@
       },
       "short_name": "ITA",
       "id": "720ca08d-7e2a-4c8f-8dbf-2b432914a0bd",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-20T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-20T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-20T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-20T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-20T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-20T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-21T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-21T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-21T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-21T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-21T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-21T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-21T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-21T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-21T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-21T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-22T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-22T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-22T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-22T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -668,7 +1988,191 @@
       },
       "short_name": "NED",
       "id": "033bcd72-7c89-46b8-811c-0e66250fdd16",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-06-27T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-27T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-27T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-27T11:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-06-27T12:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-27T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-27T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-27T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-06-27T17:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-06-27T17:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-28T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-28T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-28T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-28T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-28T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-06-28T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-28T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-28T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-28T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-28T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-28T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-06-28T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-29T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-06-29T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-06-29T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-06-29T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -733,7 +2237,149 @@
       },
       "short_name": "GER",
       "id": "3466f3f7-ccc0-4da0-a2fd-f7e9d6941727",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-11T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-11T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-11T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-11T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-11T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-11T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-12T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-12T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-12T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-12T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-12T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-12T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-12T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-12T13:55:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-12T14:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-12T15:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-13T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-13T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-13T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-13T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -798,7 +2444,149 @@
       },
       "short_name": "CZE",
       "id": "1fd4d8be-f3bd-4ef7-b9ed-342945ab99a1",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-18T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-18T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-18T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-18T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-18T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-18T15:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-19T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-19T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-19T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-19T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-19T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-19T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-19T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-19T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-19T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-19T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-20T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-07-20T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-07-20T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-07-20T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -871,7 +2659,191 @@
       },
       "short_name": "AUT",
       "id": "1e10b26a-1f79-4d02-8e84-cc9378354141",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-15T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-15T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-15T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-15T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-15T12:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-15T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-15T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-15T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-15T17:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-15T17:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-16T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-16T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-16T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-16T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-16T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-16T12:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-16T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-16T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-16T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-16T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-16T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-16T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-17T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-17T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-17T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-17T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -944,7 +2916,191 @@
       },
       "short_name": "HUN",
       "id": "68503af0-1930-4c5d-88c0-f9c549103ace",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-22T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-22T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-22T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-22T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-22T12:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-22T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-22T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-22T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-22T16:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-22T16:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-23T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-23T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-23T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-23T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-23T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-23T12:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-23T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-23T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-23T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-23T14:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-23T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-08-23T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-24T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-08-24T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-08-24T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-08-24T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1017,7 +3173,191 @@
       },
       "short_name": "CAT",
       "id": "39a99af2-1e6d-4f98-a34a-4d8a067ea3d7",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-05T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-05T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-05T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-05T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-05T12:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-05T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-05T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-05T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-05T16:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-05T16:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-06T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-06T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-06T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-06T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-06T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-06T12:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-06T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-06T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-06T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-06T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-06T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-06T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-07T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-07T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-07T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-07T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1090,7 +3430,191 @@
       },
       "short_name": "RSM",
       "id": "4df78baa-be6b-4ad8-a460-ccb1ae90cef8",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-12T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-12T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-12T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-12T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-12T12:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-12T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-12T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-12T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-12T17:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-12T17:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-13T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-13T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-13T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-13T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-13T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-13T12:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-13T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-13T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-13T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-13T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-13T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-09-13T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-14T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-14T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-14T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-14T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1155,7 +3679,149 @@
       },
       "short_name": "JPN",
       "id": "9e597a40-a1ca-446d-ad0a-88c208fc1f34",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-26T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-26T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-26T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-26T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-26T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-26T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-27T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-27T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-27T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-27T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-27T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-27T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-27T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-27T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-27T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-27T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-28T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-09-28T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-09-28T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-09-28T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1220,7 +3886,149 @@
       },
       "short_name": "INA",
       "id": "768fc48b-9f18-488d-9127-d11544ce4813",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-03T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-03T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-03T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-03T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-03T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-03T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-04T08:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-04T09:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-04T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-04T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-04T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-04T12:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-04T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-04T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-04T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-04T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-05T10:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-05T12:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-05T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-05T15:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1285,7 +4093,149 @@
       },
       "short_name": "AUS",
       "id": "a68df426-907f-4d58-984f-ba5220d5a1b3",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-17T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-17T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-17T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-17T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-17T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-17T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-18T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-18T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-18T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-18T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-18T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-18T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-18T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-18T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-18T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-18T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-19T10:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-19T12:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-19T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-19T15:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1350,7 +4300,149 @@
       },
       "short_name": "MAL",
       "id": "fe2cb5ce-5b39-4b28-93f5-0de7c22b3d66",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-24T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-24T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-24T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-24T13:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-24T14:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-24T15:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-25T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-25T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-25T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-25T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-25T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-25T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-25T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-25T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-25T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-25T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-26T10:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-10-26T13:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-10-26T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-10-26T16:50:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1423,7 +4515,191 @@
       },
       "short_name": "POR",
       "id": "a710091a-0737-405a-9898-b51b4dfa724e",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-11-07T08:30:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-07T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-07T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-07T10:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-11-07T12:35:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-07T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-07T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-07T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-11-07T16:20:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-11-07T16:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-08T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-08T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-08T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-08T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-08T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-11-08T12:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-08T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-08T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-08T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-08T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-08T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoE)",
+          "category": "motoe",
+          "datetime": "2025-11-08T16:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-09T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-09T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-09T13:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-09T14:30:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {
@@ -1488,7 +4764,149 @@
       },
       "short_name": "VAL",
       "id": "5c40a3fe-325c-4c6e-affb-831860933cb7",
-      "status": "FINISHED"
+      "status": "FINISHED",
+      "sessions": [
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-14T09:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-14T09:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-14T11:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-14T13:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-14T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "PR",
+          "name": "Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-14T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-15T08:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-15T09:25:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "FP",
+          "name": "Free Practice (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-15T10:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-15T10:50:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-15T11:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-15T12:45:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-15T13:10:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-15T13:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "Q",
+          "name": "Q (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-15T14:05:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "SPR",
+          "name": "Sprint Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-15T15:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "WUP",
+          "name": "Warm Up (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-16T09:40:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto3)",
+          "category": "moto3",
+          "datetime": "2025-11-16T11:00:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (Moto2)",
+          "category": "moto2",
+          "datetime": "2025-11-16T12:15:00Z",
+          "status": "FINISHED"
+        },
+        {
+          "type": "RAC",
+          "name": "Race (MotoGP)",
+          "category": "motogp",
+          "datetime": "2025-11-16T14:00:00Z",
+          "status": "FINISHED"
+        }
+      ]
     },
     {
       "country": {

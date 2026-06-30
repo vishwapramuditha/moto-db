@@ -1,105 +1,483 @@
 {
   "season": "2025",
   "total_races": 14,
-  "updated_at": "2026-06-14T21:29:53.365307+05:30",
+  "updated_at": "2026-06-30T20:36:46.623204Z",
   "races": [
     {
       "round": "1",
       "name": "Rallye Automobile Monte Carlo",
       "start_date": "23 January",
       "finish_date": "26 January",
-      "surface": "Mixed"
+      "surface": "Mixed",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "2",
       "name": "Rally Sweden",
       "start_date": "13 February",
       "finish_date": "16 February",
-      "surface": "Snow"
+      "surface": "Snow",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "3",
       "name": "Safari Rally Kenya",
       "start_date": "20 March",
       "finish_date": "23 March",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "4",
       "name": "Rally Islas Canarias",
       "start_date": "24 April",
       "finish_date": "27 April",
-      "surface": "Tarmac"
+      "surface": "Tarmac",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "5",
       "name": "Rally de Portugal",
       "start_date": "15 May",
       "finish_date": "18 May",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "6",
       "name": "Rally Italia Sardegna",
       "start_date": "5 June",
       "finish_date": "8 June",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "7",
       "name": "Acropolis Rally Greece",
       "start_date": "26 June",
       "finish_date": "29 June",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "8",
       "name": "Rally Estonia",
       "start_date": "17 July",
       "finish_date": "20 July",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "9",
       "name": "Rally Finland",
       "start_date": "31 July",
       "finish_date": "3 August",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "10",
       "name": "Rally del Paraguay",
       "start_date": "28 August",
       "finish_date": "31 August",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "11",
       "name": "Rally Chile",
       "start_date": "11 September",
       "finish_date": "14 September",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "12",
       "name": "Central European Rally",
       "start_date": "16 October",
       "finish_date": "19 October",
-      "surface": "Tarmac"
+      "surface": "Tarmac",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "13",
       "name": "Rally Japan",
       "start_date": "6 November",
       "finish_date": "9 November",
-      "surface": "Tarmac"
+      "surface": "Tarmac",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     },
     {
       "round": "14",
       "name": "Rally Saudi Arabia",
       "start_date": "26 November",
       "finish_date": "29 November",
-      "surface": "Gravel"
+      "surface": "Gravel",
+      "sessions": [
+        {
+          "type": "Shakedown",
+          "name": "Shakedown",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 1 – Super Special Stage",
+          "day": "Thursday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 2 – Friday Stages",
+          "day": "Friday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 3 – Saturday Stages",
+          "day": "Saturday"
+        },
+        {
+          "type": "SS",
+          "name": "Day 4 – Power Stage (Sunday)",
+          "day": "Sunday"
+        }
+      ]
     }
   ]
 }

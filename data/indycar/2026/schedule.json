@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-06-15T12:16:21.057945Z",
+  "updated_at": "2026-06-30T20:36:46.609705Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -11,7 +11,29 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-02-27T17:30:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-02-28T16:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-02-28T19:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-03-01T17:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202603070103",
@@ -21,7 +43,24 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "datetime": "2026-03-06T22:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-03-07T00:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-03-07T20:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202603154263",
@@ -31,7 +70,29 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-03-13T19:30:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-03-14T18:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-03-14T21:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-03-15T16:30:00Z"
+        }
+      ]
     },
     {
       "event_id": "202603290752",
@@ -41,7 +102,29 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-03-27T16:30:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-03-28T16:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-03-28T19:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-03-29T17:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202604190502",
@@ -51,7 +134,29 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-04-17T21:45:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-04-18T17:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-04-18T21:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-04-19T21:30:00Z"
+        }
+      ]
     },
     {
       "event_id": "202605094000",
@@ -61,7 +166,29 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-05-07T16:30:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-05-08T16:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-05-08T20:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-05-09T20:30:00Z"
+        }
+      ]
     },
     {
       "event_id": "202605240106",
@@ -71,7 +198,44 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Open Practice Day 1",
+          "datetime": "2026-05-12T16:00:00Z"
+        },
+        {
+          "type": "Practice",
+          "name": "Open Practice Day 2",
+          "datetime": "2026-05-13T15:00:00Z"
+        },
+        {
+          "type": "Practice",
+          "name": "Open Practice Day 3",
+          "datetime": "2026-05-14T15:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying Day 1",
+          "datetime": "2026-05-16T17:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying Day 2 (Bump)",
+          "datetime": "2026-05-17T17:00:00Z"
+        },
+        {
+          "type": "Practice",
+          "name": "Carb Day Practice",
+          "datetime": "2026-05-22T16:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Indianapolis 500",
+          "datetime": "2026-05-24T16:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202605310120",
@@ -81,7 +245,29 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-05-29T17:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-05-30T17:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-05-30T20:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-05-31T16:30:00Z"
+        }
+      ]
     },
     {
       "event_id": "202606070785",
@@ -91,7 +277,24 @@
       "status": "STATUS_FINAL",
       "status_detail": "Final",
       "completed": true,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "datetime": "2026-06-06T21:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-06-07T00:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-06-08T01:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202606210111",
@@ -101,7 +304,29 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, June 21st at 2:00 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-06-19T17:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-06-20T16:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-06-20T19:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-06-21T18:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202607050119",
@@ -111,7 +336,29 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, July 5th at 12:30 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-07-03T18:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-07-04T17:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-07-04T20:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-07-05T16:30:00Z"
+        }
+      ]
     },
     {
       "event_id": "202607193999",
@@ -121,7 +368,29 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, July 18th at 12:00 AM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-07-17T22:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-07-18T17:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-07-18T21:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-07-19T04:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202608090790",
@@ -131,7 +400,29 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, August 9th at 4:00 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-08-07T19:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-08-08T18:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-08-08T21:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-08-09T20:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202608164264",
@@ -141,7 +432,24 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, August 16th at 12:00 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "datetime": "2026-08-15T16:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-08-15T19:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-08-16T16:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202608235829",
@@ -151,7 +459,29 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, August 22nd at 12:00 AM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-08-21T20:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-08-22T19:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-08-22T22:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-08-23T04:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202608294252",
@@ -161,7 +491,24 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sat, August 29th at 2:30 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "datetime": "2026-08-28T18:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-08-28T21:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-08-29T18:30:00Z"
+        }
+      ]
     },
     {
       "event_id": "202608304253",
@@ -171,7 +518,14 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, August 30th at 1:00 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-08-30T17:00:00Z"
+        }
+      ]
     },
     {
       "event_id": "202609061784",
@@ -181,7 +535,29 @@
       "status": "STATUS_SCHEDULED",
       "status_detail": "Sun, September 6th at 2:30 PM EDT",
       "completed": false,
-      "broadcast": "FOX"
+      "broadcast": "FOX",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-09-04T19:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-09-05T18:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "datetime": "2026-09-05T21:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-09-06T18:30:00Z"
+        }
+      ]
     }
   ]
 }

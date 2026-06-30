@@ -1,121 +1,457 @@
-[
-  {
-    "round": "1",
-    "eprix": "São Paulo ePrix",
-    "country": "São Paulo Street Circuit",
-    "circuit": "6 December 2025",
-    "date": "6 December 2025"
-  },
-  {
-    "round": "2",
-    "eprix": "Mexico City ePrix",
-    "country": "Autódromo Hermanos Rodríguez",
-    "circuit": "10 January 2026",
-    "date": "10 January 2026"
-  },
-  {
-    "round": "3",
-    "eprix": "Miami ePrix",
-    "country": "Miami International Autodrome",
-    "circuit": "31 January 2026",
-    "date": "31 January 2026"
-  },
-  {
-    "round": "4",
-    "eprix": "Jeddah ePrix",
-    "country": "Jeddah Corniche Circuit",
-    "circuit": "13 February 2026",
-    "date": "13 February 2026"
-  },
-  {
-    "round": "5",
-    "eprix": "Jeddah ePrix",
-    "country": "Jeddah Corniche Circuit",
-    "circuit": "13 February 2026",
-    "date": "14 February 2026"
-  },
-  {
-    "round": "6",
-    "eprix": "Madrid ePrix",
-    "country": "Circuito del Jarama",
-    "circuit": "21 March 2026",
-    "date": "21 March 2026"
-  },
-  {
-    "round": "7",
-    "eprix": "Berlin ePrix",
-    "country": "Tempelhof Airport Street Circuit",
-    "circuit": "2 May 2026",
-    "date": "2 May 2026"
-  },
-  {
-    "round": "8",
-    "eprix": "Berlin ePrix",
-    "country": "Tempelhof Airport Street Circuit",
-    "circuit": "2 May 2026",
-    "date": "3 May 2026"
-  },
-  {
-    "round": "9",
-    "eprix": "Monaco ePrix",
-    "country": "Circuit de Monaco",
-    "circuit": "16 May 2026",
-    "date": "16 May 2026"
-  },
-  {
-    "round": "10",
-    "eprix": "Monaco ePrix",
-    "country": "Circuit de Monaco",
-    "circuit": "16 May 2026",
-    "date": "17 May 2026"
-  },
-  {
-    "round": "11",
-    "eprix": "Sanya ePrix",
-    "country": "Sanya Street Circuit",
-    "circuit": "20 June 2026",
-    "date": "20 June 2026"
-  },
-  {
-    "round": "12",
-    "eprix": "Shanghai ePrix",
-    "country": "4 July 2026",
-    "circuit": "",
-    "date": "4 July 2026"
-  },
-  {
-    "round": "13",
-    "eprix": "Shanghai ePrix",
-    "country": "4 July 2026",
-    "circuit": "",
-    "date": "5 July 2026"
-  },
-  {
-    "round": "14",
-    "eprix": "Tokyo ePrix",
-    "country": "Tokyo Street Circuit",
-    "circuit": "25 July 2026",
-    "date": "25 July 2026"
-  },
-  {
-    "round": "15",
-    "eprix": "Tokyo ePrix",
-    "country": "Tokyo Street Circuit",
-    "circuit": "25 July 2026",
-    "date": "26 July 2026"
-  },
-  {
-    "round": "16",
-    "eprix": "London ePrix",
-    "country": "ExCeL London Circuit",
-    "circuit": "15 August 2026",
-    "date": "15 August 2026"
-  },
-  {
-    "round": "17",
-    "eprix": "London ePrix",
-    "country": "ExCeL London Circuit",
-    "circuit": "15 August 2026",
-    "date": "16 August 2026"
-  }
-]
+{
+  "season": "2025-26",
+  "total_rounds": 17,
+  "updated_at": "2026-06-30T20:36:46.626247Z",
+  "races": [
+    {
+      "round": "1",
+      "eprix": "São Paulo ePrix",
+      "circuit": "São Paulo Street Circuit",
+      "country": "Brazil",
+      "city": "São Paulo",
+      "date": "2025-12-06",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2025-12-06T10:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2025-12-06T12:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2025-12-06T14:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2025-12-06T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "2",
+      "eprix": "Mexico City ePrix",
+      "circuit": "Autódromo Hermanos Rodríguez",
+      "country": "Mexico",
+      "city": "Mexico City",
+      "date": "2026-01-10",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-01-10T14:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-01-10T16:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-01-10T18:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-01-10T21:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "3",
+      "eprix": "Miami ePrix",
+      "circuit": "Miami International Autodrome",
+      "country": "USA",
+      "city": "Miami",
+      "date": "2026-01-31",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-01-31T15:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-01-31T17:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-01-31T19:30:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-01-31T22:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "4",
+      "eprix": "Jeddah ePrix (Race 1)",
+      "circuit": "Jeddah Corniche Circuit",
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "date": "2026-02-13",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-02-12T09:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-02-12T11:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-02-13T10:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-02-13T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "5",
+      "eprix": "Jeddah ePrix (Race 2)",
+      "circuit": "Jeddah Corniche Circuit",
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "date": "2026-02-14",
+      "sessions": [
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-02-14T10:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-02-14T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "6",
+      "eprix": "Madrid ePrix",
+      "circuit": "Circuito del Jarama",
+      "country": "Spain",
+      "city": "Madrid",
+      "date": "2026-03-21",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-03-21T08:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-03-21T10:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-03-21T12:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-03-21T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "7",
+      "eprix": "Berlin ePrix (Race 1)",
+      "circuit": "Tempelhof Airport Street Circuit",
+      "country": "Germany",
+      "city": "Berlin",
+      "date": "2026-05-02",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-05-01T09:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-05-01T11:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-05-02T09:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-05-02T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "round": "8",
+      "eprix": "Berlin ePrix (Race 2)",
+      "circuit": "Tempelhof Airport Street Circuit",
+      "country": "Germany",
+      "city": "Berlin",
+      "date": "2026-05-03",
+      "sessions": [
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-05-03T09:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-05-03T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "round": "9",
+      "eprix": "Monaco ePrix (Race 1)",
+      "circuit": "Circuit de Monaco",
+      "country": "Monaco",
+      "city": "Monte Carlo",
+      "date": "2026-05-16",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-05-15T09:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-05-15T11:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-05-16T09:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-05-16T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "round": "10",
+      "eprix": "Monaco ePrix (Race 2)",
+      "circuit": "Circuit de Monaco",
+      "country": "Monaco",
+      "city": "Monte Carlo",
+      "date": "2026-05-17",
+      "sessions": [
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-05-17T09:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-05-17T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "round": "11",
+      "eprix": "Sanya ePrix",
+      "circuit": "Sanya Street Circuit",
+      "country": "China",
+      "city": "Sanya",
+      "date": "2026-06-20",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-06-20T04:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-06-20T06:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-06-20T08:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race",
+          "datetime": "2026-06-20T10:30:00Z"
+        }
+      ]
+    },
+    {
+      "round": "12",
+      "eprix": "Shanghai ePrix (Race 1)",
+      "circuit": "Shanghai Street Circuit",
+      "country": "China",
+      "city": "Shanghai",
+      "date": "2026-07-04",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-07-03T04:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-07-03T06:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-07-04T04:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-07-04T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "13",
+      "eprix": "Shanghai ePrix (Race 2)",
+      "circuit": "Shanghai Street Circuit",
+      "country": "China",
+      "city": "Shanghai",
+      "date": "2026-07-05",
+      "sessions": [
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-07-05T04:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-07-05T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "14",
+      "eprix": "Tokyo ePrix (Race 1)",
+      "circuit": "Tokyo Street Circuit",
+      "country": "Japan",
+      "city": "Tokyo",
+      "date": "2026-07-25",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-07-24T03:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-07-24T05:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-07-25T03:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-07-25T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "15",
+      "eprix": "Tokyo ePrix (Race 2)",
+      "circuit": "Tokyo Street Circuit",
+      "country": "Japan",
+      "city": "Tokyo",
+      "date": "2026-07-26",
+      "sessions": [
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-07-26T03:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-07-26T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "16",
+      "eprix": "London ePrix (Race 1)",
+      "circuit": "ExCeL London Circuit",
+      "country": "UK",
+      "city": "London",
+      "date": "2026-08-15",
+      "sessions": [
+        {
+          "type": "Practice1",
+          "name": "Practice 1",
+          "datetime": "2026-08-14T10:00:00Z"
+        },
+        {
+          "type": "Practice2",
+          "name": "Practice 2",
+          "datetime": "2026-08-14T12:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-08-15T10:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 1",
+          "datetime": "2026-08-15T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "round": "17",
+      "eprix": "London ePrix (Race 2)",
+      "circuit": "ExCeL London Circuit",
+      "country": "UK",
+      "city": "London",
+      "date": "2026-08-16",
+      "sessions": [
+        {
+          "type": "Qualifying",
+          "name": "Qualifying (Groups + Duels)",
+          "datetime": "2026-08-16T10:00:00Z"
+        },
+        {
+          "type": "Race",
+          "name": "Race 2",
+          "datetime": "2026-08-16T13:00:00Z"
+        }
+      ]
+    }
+  ]
+}

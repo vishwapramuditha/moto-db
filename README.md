@@ -4,7 +4,7 @@
   <img src="public/hero-car.svg" alt="Moto-DB F1 Dotted Car Banner" width="480">
 </p>
 
-An open-source, developer-friendly database of schedules, race results, driver profiles, and track metadata for major motorsports—hosted entirely on GitHub and accessible for **$0** in hosting costs with infinite scale.
+An open-source, developer-friendly database of schedules, **race weekend session timetables**, race results, driver profiles, and track metadata for major motorsports—hosted entirely on GitHub and accessible for **$0** in hosting costs with infinite scale.
 
 ---
 
@@ -95,13 +95,13 @@ moto-db/
 │   │   ├── drivers.json           # Active and historical F1 drivers
 │   │   ├── tracks.json            # F1 circuits around the world
 │   │   └── {year}/
-│   │       ├── schedule.json      # Full season schedule
+│   │       ├── schedule.json      # Full season schedule with sessions[] (FP1, FP2, FP3, SQ, Sprint, Qualifying, Race)
 │   │       └── results_{round}.json
 │   ├── motogp/
 │   │   ├── drivers.json           # Active and historical MotoGP riders
 │   │   ├── tracks.json            # MotoGP circuits around the world
 │   │   └── {year}/
-│   │       ├── schedule.json      # Season schedule
+│   │       ├── schedule.json      # Season schedule with sessions[] (FP, Q1, Q2, Sprint, Warm-Up, Race per class)
 │   │       └── {event_short_name}/
 │   │               ├── motogp_RAC.json # Main Grand Prix Race results
 │   │               └── motogp_SPR.json # Sprint Race results (if applicable)
@@ -136,7 +136,8 @@ moto-db/
 │   ├── scrape_indycar.py          # Python scraper for IndyCar (ESPN Scoreboard)
 │   ├── scrape_wec.py              # Python scraper for WEC (fiawec.com LD-JSON)
 │   ├── scrape_formula_e.py        # Python scraper for Formula E (Wiki HTML Tables)
-│   └── scrape_wrc.py              # Python scraper for WRC (Wiki HTML Tables)
+│   ├── scrape_wrc.py              # Python scraper for WRC (Wiki HTML Tables)
+│   └── generate_sessions.py       # Populates sessions[] in all schedule.json files
 └── .github/workflows/
     ├── scrape_f1.yml              # Daily scraping workflow for F1
     ├── scrape_motogp.yml          # Daily scraping workflow for MotoGP
@@ -225,6 +226,38 @@ To scrape specific WRC years:
 ```bash
 python scripts/scrape_wrc.py --years 2024,2025
 ```
+
+### 3. Generate Session Schedules
+
+All `schedule.json` files contain a `sessions[]` array listing every on-track event in the race week (practices, qualifying, sprint, race) with accurate UTC times. Run `generate_sessions.py` after scraping to refresh the session data:
+
+```bash
+# Regenerate session schedules for all sports
+python scripts/generate_sessions.py --sports f1,motogp,indycar,wrc,formula_e --years 2025,2026
+
+# Refresh MotoGP only (fetches live times from Pulse Live API)
+python scripts/generate_sessions.py --sports motogp --years 2026
+```
+
+**Session schema** (used in `schedule.json` for all sports):
+```json
+"sessions": [
+  { "type": "FP1",        "name": "Free Practice 1", "date": "2026-03-06", "time": "01:30:00Z" },
+  { "type": "FP2",        "name": "Free Practice 2", "date": "2026-03-06", "time": "05:00:00Z" },
+  { "type": "FP3",        "name": "Free Practice 3", "date": "2026-03-07", "time": "01:30:00Z" },
+  { "type": "Qualifying", "name": "Qualifying",       "date": "2026-03-07", "time": "05:00:00Z" },
+  { "type": "Race",       "name": "Race",             "date": "2026-03-08", "time": "04:00:00Z" }
+]
+```
+
+**Sprint weekend sessions** (F1):
+`FP1 → Sprint Qualifying (SQ) → Sprint → Qualifying → Race`
+
+**MotoGP weekend sessions** (per class — MotoGP, Moto2, Moto3):
+`FP → Practice → Q1 → Q2 → Sprint Race (MotoGP only) → Warm-Up → Race`
+
+**WRC rally sessions**:
+`Shakedown → Day 1 Super Special Stage → Friday Stages → Saturday Stages → Sunday Power Stage`
 
 ---
 
