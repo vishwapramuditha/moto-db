@@ -1,11 +1,7 @@
 {
   "season": "2026",
   "total_races": 14,
-<<<<<<< HEAD
   "updated_at": "2026-06-30T20:36:46.624692Z",
-=======
-  "updated_at": "2026-06-29T12:22:35.446410Z",
->>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
   "races": [
     {
       "round": "1",

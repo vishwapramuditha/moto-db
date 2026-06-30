@@ -2,11 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-<<<<<<< HEAD
   "updated_at": "2026-06-30T20:36:35.737107Z",
-=======
-  "updated_at": "2026-06-29T08:59:57.381717Z",
->>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
   "events": [
     {
       "country": {
@@ -1748,7 +1744,6 @@
       },
       "short_name": "CZE",
       "id": "f9d2e80c-431b-485f-afcf-671950648ad7",
-<<<<<<< HEAD
       "status": "NOT-STARTED",
       "sessions": [
         {
@@ -1850,9 +1845,6 @@
           "status": "NOT-STARTED"
         }
       ]
-=======
-      "status": "FINISHED"
->>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
     },
     {
       "country": {
@@ -1917,7 +1909,6 @@
       },
       "short_name": "NED",
       "id": "83804cb1-a417-4213-b727-37f84b26d36e",
-<<<<<<< HEAD
       "status": "NOT-STARTED",
       "sessions": [
         {
@@ -2019,9 +2010,6 @@
           "status": "NOT-STARTED"
         }
       ]
-=======
-      "status": "FINISHED"
->>>>>>> b375a5f7e06baeaf93e84b2182f3eed95fc815a7
     },
     {
       "country": {
