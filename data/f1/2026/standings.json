@@ -29,12 +29,13 @@
         118.0,
         143.0,
         143.0,
+        158.0,
         158.0
       ]
     },
     {
       "position": 2,
-      "points": 114.0,
+      "points": 129.0,
       "wins": 1,
       "Driver": {
         "driverId": "hamilton",
@@ -60,12 +61,13 @@
         61.0,
         79.0,
         104.0,
-        114.0
+        114.0,
+        129.0
       ]
     },
     {
       "position": 3,
-      "points": 110.0,
+      "points": 128.0,
       "wins": 2,
       "Driver": {
         "driverId": "russell",
@@ -91,11 +93,76 @@
         67.0,
         67.0,
         85.0,
-        110.0
+        110.0,
+        128.0
       ]
     },
     {
       "position": 4,
+      "points": 87.0,
+      "wins": 1,
+      "Driver": {
+        "driverId": "leclerc",
+        "permanentNumber": "16",
+        "code": "LEC",
+        "url": "http://en.wikipedia.org/wiki/Charles_Leclerc",
+        "givenName": "Charles",
+        "familyName": "Leclerc",
+        "dateOfBirth": "1997-10-16",
+        "nationality": "Monegasque"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "pointsProgression": [
+        15.0,
+        27.0,
+        42.0,
+        46.0,
+        58.0,
+        58.0,
+        58.0,
+        62.0,
+        87.0
+      ]
+    },
+    {
+      "position": 5,
+      "points": 71.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "norris",
+        "permanentNumber": "1",
+        "code": "NOR",
+        "url": "http://en.wikipedia.org/wiki/Lando_Norris",
+        "givenName": "Lando",
+        "familyName": "Norris",
+        "dateOfBirth": "1999-11-13",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "pointsProgression": [
+        10.0,
+        10.0,
+        20.0,
+        38.0,
+        38.0,
+        38.0,
+        53.0,
+        59.0,
+        71.0
+      ]
+    },
+    {
+      "position": 6,
       "points": 67.0,
       "wins": 0,
       "Driver": {
@@ -122,11 +189,12 @@
         37.0,
         37.0,
         49.0,
+        67.0,
         67.0
       ]
     },
     {
-      "position": 5,
+      "position": 7,
       "points": 65.0,
       "wins": 0,
       "Driver": {
@@ -153,74 +221,13 @@
         33.0,
         43.0,
         53.0,
+        65.0,
         65.0
       ]
     },
     {
-      "position": 6,
-      "points": 62.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "leclerc",
-        "permanentNumber": "16",
-        "code": "LEC",
-        "url": "http://en.wikipedia.org/wiki/Charles_Leclerc",
-        "givenName": "Charles",
-        "familyName": "Leclerc",
-        "dateOfBirth": "1997-10-16",
-        "nationality": "Monegasque"
-      },
-      "Constructor": {
-        "constructorId": "ferrari",
-        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-        "name": "Ferrari",
-        "nationality": "Italian"
-      },
-      "pointsProgression": [
-        15.0,
-        27.0,
-        42.0,
-        46.0,
-        58.0,
-        58.0,
-        58.0,
-        62.0
-      ]
-    },
-    {
-      "position": 7,
-      "points": 59.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "norris",
-        "permanentNumber": "1",
-        "code": "NOR",
-        "url": "http://en.wikipedia.org/wiki/Lando_Norris",
-        "givenName": "Lando",
-        "familyName": "Norris",
-        "dateOfBirth": "1999-11-13",
-        "nationality": "British"
-      },
-      "Constructor": {
-        "constructorId": "mclaren",
-        "url": "https://en.wikipedia.org/wiki/McLaren",
-        "name": "McLaren",
-        "nationality": "British"
-      },
-      "pointsProgression": [
-        10.0,
-        10.0,
-        20.0,
-        38.0,
-        38.0,
-        38.0,
-        53.0,
-        59.0
-      ]
-    },
-    {
       "position": 8,
-      "points": 42.0,
+      "points": 52.0,
       "wins": 0,
       "Driver": {
         "driverId": "hadjar",
@@ -246,12 +253,13 @@
         14.0,
         26.0,
         34.0,
-        42.0
+        42.0,
+        52.0
       ]
     },
     {
       "position": 9,
-      "points": 40.0,
+      "points": 41.0,
       "wins": 0,
       "Driver": {
         "driverId": "gasly",
@@ -277,12 +285,13 @@
         19.0,
         34.0,
         40.0,
-        40.0
+        40.0,
+        41.0
       ]
     },
     {
       "position": 10,
-      "points": 28.0,
+      "points": 36.0,
       "wins": 0,
       "Driver": {
         "driverId": "lawson",
@@ -308,11 +317,76 @@
         14.0,
         22.0,
         26.0,
-        28.0
+        28.0,
+        36.0
       ]
     },
     {
       "position": 11,
+      "points": 19.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "arvid_lindblad",
+        "permanentNumber": "41",
+        "code": "LIN",
+        "url": "https://en.wikipedia.org/wiki/Arvid_Lindblad",
+        "givenName": "Arvid",
+        "familyName": "Lindblad",
+        "dateOfBirth": "2007-08-08",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "rb",
+        "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      },
+      "pointsProgression": [
+        4.0,
+        4.0,
+        4.0,
+        4.0,
+        4.0,
+        10.0,
+        12.0,
+        13.0,
+        19.0
+      ]
+    },
+    {
+      "position": 12,
+      "points": 18.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "colapinto",
+        "permanentNumber": "43",
+        "code": "COL",
+        "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
+        "givenName": "Franco",
+        "familyName": "Colapinto",
+        "dateOfBirth": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      },
+      "pointsProgression": [
+        0.0,
+        1.0,
+        1.0,
+        7.0,
+        15.0,
+        15.0,
+        16.0,
+        16.0,
+        18.0
+      ]
+    },
+    {
+      "position": 13,
       "points": 17.0,
       "wins": 0,
       "Driver": {
@@ -339,73 +413,44 @@
         17.0,
         17.0,
         17.0,
+        17.0,
         17.0
       ]
     },
     {
-      "position": 12,
-      "points": 16.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "colapinto",
-        "permanentNumber": "43",
-        "code": "COL",
-        "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
-        "givenName": "Franco",
-        "familyName": "Colapinto",
-        "dateOfBirth": "2003-05-27",
-        "nationality": "Argentine"
-      },
-      "Constructor": {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      },
-      "pointsProgression": [
-        0.0,
-        1.0,
-        1.0,
-        7.0,
-        15.0,
-        15.0,
-        16.0,
-        16.0
-      ]
-    },
-    {
-      "position": 13,
-      "points": 13.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "arvid_lindblad",
-        "permanentNumber": "41",
-        "code": "LIN",
-        "url": "https://en.wikipedia.org/wiki/Arvid_Lindblad",
-        "givenName": "Arvid",
-        "familyName": "Lindblad",
-        "dateOfBirth": "2007-08-08",
-        "nationality": "British"
-      },
-      "Constructor": {
-        "constructorId": "rb",
-        "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-        "name": "RB F1 Team",
-        "nationality": "Italian"
-      },
-      "pointsProgression": [
-        4.0,
-        4.0,
-        4.0,
-        4.0,
-        4.0,
-        10.0,
-        12.0,
-        13.0
-      ]
-    },
-    {
       "position": 14,
+      "points": 6.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "bortoleto",
+        "permanentNumber": "5",
+        "code": "BOR",
+        "url": "https://en.wikipedia.org/wiki/Gabriel_Bortoleto",
+        "givenName": "Gabriel",
+        "familyName": "Bortoleto",
+        "dateOfBirth": "2004-10-14",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "audi",
+        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
+        "name": "Audi",
+        "nationality": "German"
+      },
+      "pointsProgression": [
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        2.0,
+        6.0
+      ]
+    },
+    {
+      "position": 15,
       "points": 6.0,
       "wins": 0,
       "Driver": {
@@ -432,11 +477,12 @@
         6.0,
         6.0,
         6.0,
+        6.0,
         6.0
       ]
     },
     {
-      "position": 15,
+      "position": 16,
       "points": 5.0,
       "wins": 0,
       "Driver": {
@@ -463,11 +509,12 @@
         1.0,
         5.0,
         5.0,
+        5.0,
         5.0
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "points": 3.0,
       "wins": 0,
       "Driver": {
@@ -494,38 +541,8 @@
         1.0,
         3.0,
         3.0,
+        3.0,
         3.0
-      ]
-    },
-    {
-      "position": 17,
-      "points": 2.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "bortoleto",
-        "permanentNumber": "5",
-        "code": "BOR",
-        "url": "https://en.wikipedia.org/wiki/Gabriel_Bortoleto",
-        "givenName": "Gabriel",
-        "familyName": "Bortoleto",
-        "dateOfBirth": "2004-10-14",
-        "nationality": "Brazilian"
-      },
-      "Constructor": {
-        "constructorId": "audi",
-        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-        "name": "Audi",
-        "nationality": "German"
-      },
-      "pointsProgression": [
-        2.0,
-        2.0,
-        2.0,
-        2.0,
-        2.0,
-        2.0,
-        2.0,
-        2.0
       ]
     },
     {
@@ -556,6 +573,7 @@
         0.0,
         1.0,
         1.0,
+        1.0,
         1.0
       ]
     },
@@ -580,6 +598,7 @@
         "nationality": "German"
       },
       "pointsProgression": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -618,6 +637,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
@@ -642,6 +662,7 @@
         "nationality": "American"
       },
       "pointsProgression": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -680,6 +701,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
@@ -687,7 +709,7 @@
   "constructorStandings": [
     {
       "position": 1,
-      "points": 268.0,
+      "points": 286.0,
       "wins": 7,
       "Constructor": {
         "constructorId": "mercedes",
@@ -703,13 +725,14 @@
         185.0,
         210.0,
         228.0,
-        268.0
+        268.0,
+        286.0
       ]
     },
     {
       "position": 2,
-      "points": 176.0,
-      "wins": 1,
+      "points": 216.0,
+      "wins": 2,
       "Constructor": {
         "constructorId": "ferrari",
         "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
@@ -724,12 +747,13 @@
         119.0,
         137.0,
         162.0,
-        176.0
+        176.0,
+        216.0
       ]
     },
     {
       "position": 3,
-      "points": 124.0,
+      "points": 136.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "mclaren",
@@ -745,12 +769,13 @@
         71.0,
         81.0,
         106.0,
-        124.0
+        124.0,
+        136.0
       ]
     },
     {
       "position": 4,
-      "points": 109.0,
+      "points": 119.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "red_bull",
@@ -766,12 +791,13 @@
         51.0,
         63.0,
         83.0,
-        109.0
+        109.0,
+        119.0
       ]
     },
     {
       "position": 5,
-      "points": 56.0,
+      "points": 59.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "alpine",
@@ -787,12 +813,13 @@
         34.0,
         49.0,
         56.0,
-        56.0
+        56.0,
+        59.0
       ]
     },
     {
       "position": 6,
-      "points": 41.0,
+      "points": 55.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "rb",
@@ -808,7 +835,8 @@
         18.0,
         32.0,
         38.0,
-        41.0
+        41.0,
+        55.0
       ]
     },
     {
@@ -827,6 +855,7 @@
         17.0,
         17.0,
         18.0,
+        20.0,
         20.0,
         20.0,
         20.0
@@ -850,12 +879,13 @@
         7.0,
         11.0,
         11.0,
+        11.0,
         11.0
       ]
     },
     {
       "position": 9,
-      "points": 2.0,
+      "points": 6.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "audi",
@@ -871,7 +901,8 @@
         2.0,
         2.0,
         2.0,
-        2.0
+        2.0,
+        6.0
       ]
     },
     {
@@ -890,6 +921,7 @@
         0.0,
         0.0,
         0.0,
+        1.0,
         1.0,
         1.0,
         1.0
@@ -913,9 +945,10 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
   ],
-  "updated_at": "2026-06-29T06:44:55.590567+00:00"
+  "updated_at": "2026-07-06T06:26:42.826939+00:00"
 }
