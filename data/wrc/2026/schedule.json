@@ -1,609 +1,105 @@
 {
   "season": "2026",
   "total_races": 14,
-  "updated_at": "2026-06-30T20:36:46.624692Z",
+  "updated_at": "2026-07-06T11:53:43.918734Z",
   "races": [
     {
       "round": "1",
       "name": "Rallye Automobile Monte Carlo",
-      "start_date": "2026-01-22",
-      "finish_date": "2026-01-25",
-      "surface": "Mixed",
-      "location": {
-        "country": "Monaco",
-        "city": "Monte Carlo"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-01-22"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-01-22"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-01-23"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-01-24"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-01-25"
-        }
-      ]
+      "start_date": "22 January",
+      "finish_date": "25 January",
+      "surface": "Mixed"
     },
     {
       "round": "2",
       "name": "Rally Sweden",
-      "start_date": "2026-02-12",
-      "finish_date": "2026-02-15",
-      "surface": "Snow",
-      "location": {
-        "country": "Sweden",
-        "city": "Umeå"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-02-12"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-02-12"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-02-13"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-02-14"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-02-15"
-        }
-      ]
+      "start_date": "12 February",
+      "finish_date": "15 February",
+      "surface": "Snow"
     },
     {
       "round": "3",
       "name": "Safari Rally Kenya",
-      "start_date": "2026-03-12",
-      "finish_date": "2026-03-15",
-      "surface": "Gravel",
-      "location": {
-        "country": "Kenya",
-        "city": "Nairobi"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-03-12"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-03-12"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-03-13"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-03-14"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-03-15"
-        }
-      ]
+      "start_date": "12 March",
+      "finish_date": "15 March",
+      "surface": "Gravel"
     },
     {
       "round": "4",
       "name": "Croatia Rally",
-      "start_date": "2026-04-09",
-      "finish_date": "2026-04-12",
-      "surface": "Tarmac",
-      "location": {
-        "country": "Croatia",
-        "city": "Zagreb"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-04-09"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-04-09"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-04-10"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-04-11"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-04-12"
-        }
-      ]
+      "start_date": "9 April",
+      "finish_date": "12 April",
+      "surface": "Tarmac"
     },
     {
       "round": "5",
       "name": "Rally Islas Canarias",
-      "start_date": "2026-04-23",
-      "finish_date": "2026-04-26",
-      "surface": "Tarmac",
-      "location": {
-        "country": "Spain",
-        "city": "Las Palmas"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-04-23"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-04-23"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-04-24"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-04-25"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-04-26"
-        }
-      ]
+      "start_date": "23 April",
+      "finish_date": "26 April",
+      "surface": "Tarmac"
     },
     {
       "round": "6",
       "name": "Rally de Portugal",
-      "start_date": "2026-05-07",
-      "finish_date": "2026-05-10",
-      "surface": "Gravel",
-      "location": {
-        "country": "Portugal",
-        "city": "Matosinhos"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-05-07"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-05-07"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-05-08"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-05-09"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-05-10"
-        }
-      ]
+      "start_date": "7 May",
+      "finish_date": "10 May",
+      "surface": "Gravel"
     },
     {
       "round": "7",
       "name": "Rally Japan",
-      "start_date": "2026-05-28",
-      "finish_date": "2026-05-31",
-      "surface": "Tarmac",
-      "location": {
-        "country": "Japan",
-        "city": "Toyota"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-05-28"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-05-28"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-05-29"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-05-30"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-05-31"
-        }
-      ]
+      "start_date": "28 May",
+      "finish_date": "31 May",
+      "surface": "Tarmac"
     },
     {
       "round": "8",
       "name": "Acropolis Rally Greece",
-      "start_date": "2026-06-25",
-      "finish_date": "2026-06-28",
-      "surface": "Gravel",
-      "location": {
-        "country": "Greece",
-        "city": "Athens"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-06-25"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-06-25"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-06-26"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-06-27"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-06-28"
-        }
-      ]
+      "start_date": "25 June",
+      "finish_date": "28 June",
+      "surface": "Gravel"
     },
     {
       "round": "9",
       "name": "Rally Estonia",
-      "start_date": "2026-07-16",
-      "finish_date": "2026-07-19",
-      "surface": "Gravel",
-      "location": {
-        "country": "Estonia",
-        "city": "Tartu"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-07-16"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-07-16"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-07-17"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-07-18"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-07-19"
-        }
-      ]
+      "start_date": "16 July",
+      "finish_date": "19 July",
+      "surface": "Gravel"
     },
     {
       "round": "10",
       "name": "Rally Finland",
-      "start_date": "2026-07-30",
-      "finish_date": "2026-08-02",
-      "surface": "Gravel",
-      "location": {
-        "country": "Finland",
-        "city": "Jyväskylä"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-07-30"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-07-30"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-07-31"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-08-01"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-08-02"
-        }
-      ]
+      "start_date": "30 July",
+      "finish_date": "2 August",
+      "surface": "Gravel"
     },
     {
       "round": "11",
       "name": "Rally del Paraguay",
-      "start_date": "2026-08-27",
-      "finish_date": "2026-08-30",
-      "surface": "Gravel",
-      "location": {
-        "country": "Paraguay",
-        "city": "Asunción"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-08-27"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-08-27"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-08-28"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-08-29"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-08-30"
-        }
-      ]
+      "start_date": "27 August",
+      "finish_date": "30 August",
+      "surface": "Gravel"
     },
     {
       "round": "12",
       "name": "Rally Chile",
-      "start_date": "2026-09-10",
-      "finish_date": "2026-09-13",
-      "surface": "Gravel",
-      "location": {
-        "country": "Chile",
-        "city": "Concepción"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-09-10"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-09-10"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-09-11"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-09-12"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-09-13"
-        }
-      ]
+      "start_date": "10 September",
+      "finish_date": "13 September",
+      "surface": "Gravel"
     },
     {
       "round": "13",
       "name": "Rally Italia Sardegna",
-      "start_date": "2026-10-01",
-      "finish_date": "2026-10-04",
-      "surface": "Gravel",
-      "location": {
-        "country": "Italy",
-        "city": "Alghero"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Thursday",
-          "date": "2026-10-01"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Thursday",
-          "date": "2026-10-01"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Friday",
-          "date": "2026-10-02"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Saturday",
-          "date": "2026-10-03"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage (Sunday)",
-          "day": "Sunday",
-          "date": "2026-10-04"
-        }
-      ]
+      "start_date": "1 October",
+      "finish_date": "4 October",
+      "surface": "Gravel"
     },
     {
       "round": "14",
       "name": "Rally Saudi Arabia",
-      "start_date": "2026-11-11",
-      "finish_date": "2026-11-14",
-      "surface": "Gravel",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": "Riyadh"
-      },
-      "sessions": [
-        {
-          "type": "Shakedown",
-          "name": "Shakedown",
-          "day": "Wednesday",
-          "date": "2026-11-11"
-        },
-        {
-          "type": "SS",
-          "name": "Day 1 – Super Special Stage",
-          "day": "Wednesday",
-          "date": "2026-11-11"
-        },
-        {
-          "type": "SS",
-          "name": "Day 2 – Friday Stages",
-          "day": "Thursday",
-          "date": "2026-11-12"
-        },
-        {
-          "type": "SS",
-          "name": "Day 3 – Saturday Stages",
-          "day": "Friday",
-          "date": "2026-11-13"
-        },
-        {
-          "type": "SS",
-          "name": "Day 4 – Power Stage",
-          "day": "Saturday",
-          "date": "2026-11-14"
-        }
-      ]
+      "start_date": "11 November",
+      "finish_date": "14 November",
+      "surface": "Gravel"
     }
   ]
 }
