@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-06-29T09:53:13.963502Z",
+  "updated_at": "2026-07-06T09:03:44.576247Z",
   "series": {
     "cup": [
       {
@@ -2742,28 +2742,28 @@
         "track_id": 39,
         "track_name": "Chicagoland Speedway",
         "date_scheduled": "2026-07-05T18:00:00",
-        "race_date": "2026-07-05T18:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "race_date": "2026-07-05T17:00:00",
+        "qualifying_date": "2026-07-05T17:00:00",
         "tunein_date": "2026-07-05T18:00:00",
         "scheduled_distance": 400,
-        "actual_distance": 400,
+        "actual_distance": 400.5,
         "scheduled_laps": 267,
         "actual_laps": 267,
         "stage_1_laps": 80,
         "stage_2_laps": 85,
         "stage_3_laps": 102,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 38,
+        "pole_winner_driver_id": 1361,
+        "pole_winner_speed": 178.241,
+        "number_of_lead_changes": 28,
+        "number_of_leaders": 13,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 43,
+        "average_speed": 126.941,
+        "total_race_time": "3:09:18",
+        "margin_of_victory": ".276",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Chase Briscoe won the eero 400 at Chicagoland Speedway, his sixth NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 71 (multiple inspection failures).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -2829,7 +2829,7 @@
           },
           {
             "event_name": "The Drivers Meeting",
-            "notes": "The Drivers Meeting Room",
+            "notes": "Tent In Front of Media Center",
             "start_time_utc": "2026-07-05T21:00:00",
             "run_type": 0
           },
@@ -2850,13 +2850,13 @@
         "television_broadcaster": "TNT",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5291,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4228,
         "pole_winner_laptime": null
       },
       {
@@ -2991,15 +2991,15 @@
         "track_name": "North Wilkesboro Speedway",
         "date_scheduled": "2026-07-19T19:00:00",
         "race_date": "2026-07-19T19:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-18T00:00:00",
         "tunein_date": "2026-07-19T19:00:00",
         "scheduled_distance": 281.25,
-        "actual_distance": 1,
+        "actual_distance": 281.25,
         "scheduled_laps": 450,
-        "actual_laps": 1,
+        "actual_laps": 450,
         "stage_1_laps": 80,
         "stage_2_laps": 185,
-        "stage_3_laps": -264,
+        "stage_3_laps": 185,
         "number_of_cars_in_field": 40,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
@@ -3014,90 +3014,11 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [
-          {
-            "event_name": "Driver / Crew Chief Meeting",
-            "notes": "Sent Electronically",
-            "start_time_utc": "2026-07-16T21:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Haulers Enter",
-            "notes": "Equipment Unloading",
-            "start_time_utc": "2026-07-17T10:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Team Access for Equipment Set Up Permitted",
-            "notes": "",
-            "start_time_utc": "2026-07-17T11:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-07-17T11:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-07-18T19:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Practice",
-            "notes": " ",
-            "start_time_utc": "2026-07-18T21:00:00",
-            "run_type": 1
-          },
-          {
-            "event_name": "Qualifying (Impound)",
-            "notes": " ",
-            "start_time_utc": "2026-07-18T22:10:00",
-            "run_type": 2
-          },
-          {
-            "event_name": "Team Access To Haulers Permitted",
-            "notes": " ",
-            "start_time_utc": "2026-07-19T19:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
-            "notes": "",
-            "start_time_utc": "2026-07-19T19:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-07-19T20:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
-            "notes": "Pit Road",
-            "start_time_utc": "2026-07-19T21:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Driver Introductions",
-            "notes": " ",
-            "start_time_utc": "2026-07-19T22:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Race",
-            "notes": "Stages 80/265/450 = 281.25 Miles",
-            "start_time_utc": "2026-07-19T23:00:00",
-            "run_type": 3
-          }
-        ],
+        "schedule": [],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "TNT",
         "satellite_radio_broadcaster": "SIRIUSXM",
-        "master_race_id": 922,
+        "master_race_id": 5618,
         "inspection_complete": false,
         "playoff_round": 0,
         "is_qualifying_race": false,
@@ -6127,34 +6048,34 @@
         "race_id": 5651,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "NASCAR O'Reilly Auto Parts Series Race at Chicagoland",
+        "race_name": "Cuervo 300",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 39,
         "track_name": "Chicagoland Speedway",
         "date_scheduled": "2026-07-04T17:30:00",
-        "race_date": "2026-07-04T17:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "race_date": "2026-07-04T16:30:00",
+        "qualifying_date": "2026-07-04T16:30:00",
         "tunein_date": "2026-07-04T17:30:00",
         "scheduled_distance": 300,
-        "actual_distance": 300,
+        "actual_distance": 301.5,
         "scheduled_laps": 200,
-        "actual_laps": 200,
+        "actual_laps": 201,
         "stage_1_laps": 45,
         "stage_2_laps": 45,
-        "stage_3_laps": 110,
+        "stage_3_laps": 111,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
+        "pole_winner_driver_id": 4481,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 16,
+        "number_of_leaders": 6,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 40,
+        "average_speed": 118.119,
+        "total_race_time": "2:33:09",
+        "margin_of_victory": ".171",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Brandon Jones has won the Cuervo 300 at Chicagoland Speedway, his eighth career victory in the NASCAR O’Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No 45 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -6184,7 +6105,7 @@
           },
           {
             "event_name": "Practice",
-            "notes": " ",
+            "notes": "Postponed",
             "start_time_utc": "2026-07-03T20:30:00",
             "run_type": 1
           },
@@ -6196,9 +6117,15 @@
           },
           {
             "event_name": "Qualifying (Impound)",
-            "notes": "  ",
+            "notes": "Canceled - Line Up Set Per Rule Book",
             "start_time_utc": "2026-07-04T17:30:00",
             "run_type": 2
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "",
+            "start_time_utc": "2026-07-04T17:30:00",
+            "run_type": 1
           },
           {
             "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
@@ -6223,13 +6150,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5337,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4085,
         "pole_winner_laptime": null
       },
       {
@@ -8655,12 +8582,6 @@
             "run_type": 0
           },
           {
-            "event_name": "Open Garage Area to Properly Credentialed Fans",
-            "notes": "",
-            "start_time_utc": "2026-07-10T18:00:00",
-            "run_type": 0
-          },
-          {
             "event_name": "Garage Hours",
             "notes": "",
             "start_time_utc": "2026-07-11T11:00:00",
@@ -8750,80 +8671,7 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [
-          {
-            "event_name": "Driver / Crew Chief Meeting",
-            "notes": "Sent Electronically",
-            "start_time_utc": "2026-07-16T21:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Haulers Enter",
-            "notes": "Equipment Unloading",
-            "start_time_utc": "2026-07-17T11:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Team Access for Equipment Set Up Permitted",
-            "notes": "",
-            "start_time_utc": "2026-07-17T12:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-07-17T13:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Rookie Meeting",
-            "notes": "Series Inspection Trailer",
-            "start_time_utc": "2026-07-17T13:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Practice",
-            "notes": " ",
-            "start_time_utc": "2026-07-17T18:00:00",
-            "run_type": 1
-          },
-          {
-            "event_name": "Qualifying (Impound)",
-            "notes": " ",
-            "start_time_utc": "2026-07-17T19:05:00",
-            "run_type": 2
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-07-18T13:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Autograph Session",
-            "notes": "Fan Zone",
-            "start_time_utc": "2026-07-18T13:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
-            "notes": "Pit Road",
-            "start_time_utc": "2026-07-18T15:50:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Driver Introductions",
-            "notes": " ",
-            "start_time_utc": "2026-07-18T16:10:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Race",
-            "notes": "Stages 70/140/250 Laps = 156.25 Miles",
-            "start_time_utc": "2026-07-18T16:30:00",
-            "run_type": 3
-          }
-        ],
+        "schedule": [],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -9106,7 +8954,7 @@
         "race_id": 5675,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "NASCAR CRAFTSMAN Truck Series Race at Kansas",
+        "race_name": "Race to Stop Suicide 200",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 41,
