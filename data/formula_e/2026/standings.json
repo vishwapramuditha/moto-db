@@ -16,20 +16,20 @@
     {
       "position": 3,
       "wins": 2,
+      "driver_name": "Pascal Wehrlein",
+      "team_name": "Porsche Formula E Team"
+    },
+    {
+      "position": 4,
+      "wins": 2,
       "driver_name": "António Félix da Costa",
       "team_name": "Jaguar TCS Racing"
     },
     {
-      "position": 4,
+      "position": 5,
       "wins": 1,
       "driver_name": "Nick Cassidy",
       "team_name": "Citroën Racing"
-    },
-    {
-      "position": 5,
-      "wins": 1,
-      "driver_name": "Pascal Wehrlein",
-      "team_name": "Porsche Formula E Team"
     },
     {
       "position": 6,
@@ -48,6 +48,12 @@
       "wins": 1,
       "driver_name": "Oliver Rowland",
       "team_name": "Nissan Formula E Team"
+    },
+    {
+      "position": 9,
+      "wins": 1,
+      "driver_name": "Lucas di Grassi",
+      "team_name": "Lola Yamaha ABT Formula E Team"
     }
   ],
   "teamStandings": [
@@ -58,13 +64,13 @@
     },
     {
       "position": 2,
-      "wins": 2,
-      "team_name": "Andretti Formula E"
+      "wins": 3,
+      "team_name": "Porsche Formula E Team"
     },
     {
       "position": 3,
       "wins": 2,
-      "team_name": "Porsche Formula E Team"
+      "team_name": "Andretti Formula E"
     },
     {
       "position": 4,
@@ -80,7 +86,12 @@
       "position": 6,
       "wins": 1,
       "team_name": "Nissan Formula E Team"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "team_name": "Lola Yamaha ABT Formula E Team"
     }
   ],
-  "updated_at": "2026-06-30T10:57:29.848752+00:00"
+  "updated_at": "2026-07-07T10:57:17.101314+00:00"
 }

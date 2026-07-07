@@ -75,5 +75,19 @@
     "pole_position": "Jake Dennis",
     "winning_driver": "Jake Dennis",
     "winning_team": "Andretti Formula E"
+  },
+  {
+    "round": "12",
+    "eprix": "Shanghai",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "Porsche Formula E Team"
+  },
+  {
+    "round": "13",
+    "eprix": "Shanghai",
+    "pole_position": "Felipe Drugovich",
+    "winning_driver": "Lucas di Grassi",
+    "winning_team": "Lola Yamaha ABT Formula E Team"
   }
 ]
