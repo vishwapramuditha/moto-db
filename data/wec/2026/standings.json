@@ -18,6 +18,12 @@
       "wins": 1,
       "driver_name": "Mike Conway Kamui Kobayashi Nyck de Vries",
       "team_name": "No. 7 Toyota Racing"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "driver_name": "Kevin Magnussen Raffaele Marciello Dries Vanthoor",
+      "team_name": "No. 15 BMW M Team WRT"
     }
   ],
   "hypercarTeamStandings": [
@@ -35,6 +41,11 @@
       "position": 3,
       "wins": 1,
       "team_name": "No. 7 Toyota Racing"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "team_name": "No. 15 BMW M Team WRT"
     }
   ],
   "lmgt3DriverStandings": [
@@ -55,6 +66,12 @@
       "wins": 1,
       "driver_name": "Nicky Catsburg Jonny Edgar Ben Keating",
       "team_name": "No. 33 TF Sport"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "driver_name": "Peter Dempsey Charlie Eastwood Salih Yoluç",
+      "team_name": "No. 34 Racing Team Turkey by TF"
     }
   ],
   "lmgt3TeamStandings": [
@@ -72,7 +89,12 @@
       "position": 3,
       "wins": 1,
       "team_name": "No. 33 TF Sport"
+    },
+    {
+      "position": 4,
+      "wins": 1,
+      "team_name": "No. 34 Racing Team Turkey by TF"
     }
   ],
-  "updated_at": "2026-07-06T11:40:15.029938+00:00"
+  "updated_at": "2026-07-13T04:01:40.433786+00:00"
 }
