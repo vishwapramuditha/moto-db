@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-07-06T09:03:44.576247Z",
+  "updated_at": "2026-07-13T04:02:50.368596Z",
   "series": {
     "cup": [
       {
@@ -3014,7 +3014,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-07-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-07-17T10:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-07-17T11:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-07-17T11:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-07-18T19:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-07-18T21:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-07-18T22:10:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": " ",
+            "start_time_utc": "2026-07-19T19:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-07-19T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-07-19T20:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-07-19T21:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-07-19T22:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 80/265/450 = 281.25 Miles",
+            "start_time_utc": "2026-07-19T23:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "TNT",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -6055,7 +6134,7 @@
         "track_name": "Chicagoland Speedway",
         "date_scheduled": "2026-07-04T17:30:00",
         "race_date": "2026-07-04T16:30:00",
-        "qualifying_date": "2026-07-04T16:30:00",
+        "qualifying_date": "2026-07-04T00:00:00",
         "tunein_date": "2026-07-04T17:30:00",
         "scheduled_distance": 300,
         "actual_distance": 301.5,
@@ -6065,7 +6144,7 @@
         "stage_2_laps": 45,
         "stage_3_laps": 111,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 4481,
+        "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
         "number_of_lead_changes": 16,
         "number_of_leaders": 6,
@@ -6170,27 +6249,27 @@
         "track_name": "Atlanta Motor Speedway",
         "date_scheduled": "2026-07-11T19:00:00",
         "race_date": "2026-07-11T19:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-11T19:00:00",
         "tunein_date": "2026-07-11T19:00:00",
         "scheduled_distance": 251.02,
-        "actual_distance": 251.02,
+        "actual_distance": 264.88,
         "scheduled_laps": 163,
-        "actual_laps": 163,
+        "actual_laps": 172,
         "stage_1_laps": 45,
         "stage_2_laps": 45,
-        "stage_3_laps": 73,
+        "stage_3_laps": 82,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4327,
+        "pole_winner_speed": 173.554,
+        "number_of_lead_changes": 19,
+        "number_of_leaders": 11,
+        "number_of_cautions": 13,
+        "number_of_caution_laps": 76,
+        "average_speed": 89.06,
+        "total_race_time": "2:58:27",
+        "margin_of_victory": ".139",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Justin Allgaier won the Focused Health 250 at EchoPark Speedway, his 34th NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following cars dropped to the rear for the reason indicated: Nos. 31, 32, 42 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -6259,13 +6338,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2432,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 34,
         "pole_winner_laptime": null
       },
       {
@@ -6435,7 +6514,7 @@
         "race_id": 5657,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "Wawa 250 Powered by Coca-Cola ",
+        "race_name": "Winn-Dixie 250 Powered by Coca-Cola ",
         "race_type_id": 1,
         "restrictor_plate": true,
         "track_id": 105,
@@ -6531,7 +6610,7 @@
         "race_id": 5659,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "Nu Way 225 Sauced by Blues Hog",
+        "race_name": "Nu Way 225 Powered by Bobcat and Sauced by Blues Hog",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 45,
@@ -8526,34 +8605,34 @@
         "race_id": 5681,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "LiUNA 150",
+        "race_name": "Liuna 150 at Lime Rock Park",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 220,
         "track_name": "Lime Rock Park",
         "date_scheduled": "2026-07-11T13:00:00",
         "race_date": "2026-07-11T13:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-11T13:00:00",
         "tunein_date": "2026-07-11T13:00:00",
         "scheduled_distance": 147.8,
-        "actual_distance": 147.8,
+        "actual_distance": 0,
         "scheduled_laps": 100,
         "actual_laps": 100,
         "stage_1_laps": 30,
         "stage_2_laps": 30,
         "stage_3_laps": 40,
-        "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 33,
+        "pole_winner_driver_id": 4446,
+        "pole_winner_speed": 99.115,
+        "number_of_lead_changes": 9,
+        "number_of_leaders": 6,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 39,
+        "average_speed": 57.929,
+        "total_race_time": "2:33:05",
+        "margin_of_victory": "0.483",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Grant Enfinger won the LiUNA 150 at Lime Rock Park, his 13th career NASCAR CRAFTSMAN Truck Series victory. Prior to the green flag to start the race, the following cars dropped to the rear for the reason indicated: Nos. 25 and 99 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -8628,13 +8707,13 @@
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5509,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 3978,
         "pole_winner_laptime": null
       },
       {
@@ -8671,7 +8750,80 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-07-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-07-17T11:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-07-17T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-07-17T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-07-17T13:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-07-17T18:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-07-17T19:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-07-18T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Fan Zone",
+            "start_time_utc": "2026-07-18T13:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-07-18T15:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-07-18T16:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/140/250 Laps = 156.25 Miles",
+            "start_time_utc": "2026-07-18T16:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
