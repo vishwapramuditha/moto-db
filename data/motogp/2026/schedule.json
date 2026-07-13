@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-07-06T08:21:31.845104Z",
+  "updated_at": "2026-07-13T04:04:05.870573Z",
   "events": [
     {
       "country": {
@@ -662,23 +662,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GER/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GER/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GER/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GER/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GER/table4.pdf",
           "menu_position": 2
         }
       },
@@ -717,7 +717,7 @@
       },
       "short_name": "GER",
       "id": "b26a84f7-2d9b-4cc5-a3e5-3d1abe916d8c",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
