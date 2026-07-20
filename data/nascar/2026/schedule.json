@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-07-13T08:20:12.584986Z",
+  "updated_at": "2026-07-20T08:10:22.430307Z",
   "series": {
     "cup": [
       {
@@ -2971,7 +2971,7 @@
         "television_broadcaster": "TNT",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 3335,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
@@ -2991,7 +2991,7 @@
         "track_name": "North Wilkesboro Speedway",
         "date_scheduled": "2026-07-19T19:00:00",
         "race_date": "2026-07-19T19:00:00",
-        "qualifying_date": "2026-07-18T00:00:00",
+        "qualifying_date": "2026-07-19T19:00:00",
         "tunein_date": "2026-07-19T19:00:00",
         "scheduled_distance": 281.25,
         "actual_distance": 281.25,
@@ -3000,18 +3000,18 @@
         "stage_1_laps": 80,
         "stage_2_laps": 185,
         "stage_3_laps": 185,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 4023,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 17,
+        "number_of_leaders": 9,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 43,
+        "average_speed": 88.397,
+        "total_race_time": "2:50:54",
+        "margin_of_victory": ".859",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Joey Logano won the Window World 450 at North Wilkesboro Speedway, his 38th career NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 1 (multiple inspection failures), No. 12 (unapproved adjustment).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3046,16 +3046,16 @@
             "run_type": 0
           },
           {
-            "event_name": "Practice",
-            "notes": " ",
-            "start_time_utc": "2026-07-18T21:00:00",
-            "run_type": 1
-          },
-          {
             "event_name": "Qualifying (Impound)",
-            "notes": " ",
+            "notes": "Canceled - Line Up Set Per Rule Book",
             "start_time_utc": "2026-07-18T22:10:00",
             "run_type": 2
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-07-18T22:30:00",
+            "run_type": 1
           },
           {
             "event_name": "Team Access To Haulers Permitted",
@@ -3098,13 +3098,13 @@
         "television_broadcaster": "TNT",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5618,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 3859,
         "pole_winner_laptime": null
       },
       {
@@ -3334,7 +3334,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-13T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-14T11:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-14T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Competition Briefing (Full-Time Competitors)",
+            "notes": "Media Center Hospitality Room",
+            "start_time_utc": "2026-08-14T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-08-14T19:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-14T20:40:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": " ",
+            "start_time_utc": "2026-08-15T19:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-15T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-15T20:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-15T21:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Media Center Hospitality Room",
+            "start_time_utc": "2026-08-15T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Turn 1",
+            "start_time_utc": "2026-08-15T22:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/230/400 Laps = 300 Miles",
+            "start_time_utc": "2026-08-15T23:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -3430,7 +3509,74 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-27T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-28T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-28T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-28T21:00:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-29T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-29T20:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-29T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-29T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "The Drivers Meeting Room",
+            "start_time_utc": "2026-08-29T22:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-29T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 35/95/160 Laps = 400 Miles",
+            "start_time_utc": "2026-08-29T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "NBC",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -6544,7 +6690,62 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-27T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-08-27T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-27T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-27T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-28T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "  ",
+            "start_time_utc": "2026-08-28T19:00:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-28T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-28T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 30/60/100 Laps = 250 Miles ",
+            "start_time_utc": "2026-08-28T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -8720,14 +8921,14 @@
         "race_id": 5676,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "FaithFest 250",
+        "race_name": "FaithFest 250 presented by Mercer Transportation",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 177,
         "track_name": "North Wilkesboro Speedway",
         "date_scheduled": "2026-07-18T12:30:00",
         "race_date": "2026-07-18T12:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-18T12:30:00",
         "tunein_date": "2026-07-18T12:30:00",
         "scheduled_distance": 156.25,
         "actual_distance": 156.25,
@@ -8737,17 +8938,17 @@
         "stage_2_laps": 70,
         "stage_3_laps": 110,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4446,
+        "pole_winner_speed": 121.608,
+        "number_of_lead_changes": 7,
+        "number_of_leaders": 6,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 34,
+        "average_speed": 91.627,
+        "total_race_time": "1:42:19",
+        "margin_of_victory": "8.479",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Chandler Smith won the FaithFest 250 presented by Mercer Transportation at North Wilkesboro Speedway, his ninth NASCAR CRAFTSMAN Truck Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: N/A.",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -8828,13 +9029,13 @@
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5134,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4312,
         "pole_winner_laptime": null
       },
       {
@@ -8992,7 +9193,74 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-13T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-14T10:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-14T11:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-14T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-08-14T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-08-14T17:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-14T18:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Infield Fan Grounds",
+            "start_time_utc": "2026-08-14T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-14T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Turn 1",
+            "start_time_utc": "2026-08-14T23:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/140/250 Laps = 187.5 Miles",
+            "start_time_utc": "2026-08-14T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",

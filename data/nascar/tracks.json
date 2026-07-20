@@ -120,7 +120,7 @@
     {
       "id": 103,
       "name": "Dover Motor Speedway",
-      "type": "High-banked Concrete Oval",
+      "type": "Intermediate",
       "length": 1,
       "city": "Dover",
       "state": "DE",
@@ -129,7 +129,7 @@
     {
       "id": 111,
       "name": "EchoPark Speedway",
-      "type": "Drafting",
+      "type": "Intermediate",
       "length": 1.54,
       "city": "Hampton",
       "state": "GA",
@@ -165,7 +165,7 @@
     {
       "id": 123,
       "name": "Indianapolis Motor Speedway",
-      "type": "Rectangular Oval",
+      "type": "Intermediate",
       "length": 2.5,
       "city": "Speedway",
       "state": "IN",
@@ -336,7 +336,7 @@
     {
       "id": 198,
       "name": "Pocono Raceway",
-      "type": "Superspeedway",
+      "type": "Intermediate",
       "length": 2.5,
       "city": "Long Pond",
       "state": "PA",
@@ -443,5 +443,5 @@
     }
   ],
   "total": 49,
-  "updated_at": "2026-07-13T08:20:11.416941Z"
+  "updated_at": "2026-07-20T08:10:21.076747Z"
 }
