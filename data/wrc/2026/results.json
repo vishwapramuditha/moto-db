@@ -62,5 +62,13 @@
     "winning_co_driver": "Vincent Landais",
     "winning_entrant": "Toyota Gazoo Racing WRT",
     "winning_time": "3:36:40.7"
+  },
+  {
+    "round": "9",
+    "event": "Rally Estonia",
+    "winning_driver": "Sami Pajari",
+    "winning_co_driver": "Marko Salminen",
+    "winning_entrant": "Toyota Gazoo Racing WRT2",
+    "winning_time": "2:31:16.5"
   }
 ]
