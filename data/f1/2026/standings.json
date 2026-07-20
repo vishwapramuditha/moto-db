@@ -3,8 +3,8 @@
   "driverStandings": [
     {
       "position": 1,
-      "points": 158.0,
-      "wins": 5,
+      "points": 183.0,
+      "wins": 6,
       "Driver": {
         "driverId": "antonelli",
         "permanentNumber": "12",
@@ -30,12 +30,13 @@
         143.0,
         143.0,
         158.0,
-        158.0
+        158.0,
+        183.0
       ]
     },
     {
       "position": 2,
-      "points": 129.0,
+      "points": 141.0,
       "wins": 1,
       "Driver": {
         "driverId": "hamilton",
@@ -62,7 +63,8 @@
         79.0,
         104.0,
         114.0,
-        129.0
+        129.0,
+        141.0
       ]
     },
     {
@@ -94,12 +96,13 @@
         67.0,
         85.0,
         110.0,
+        128.0,
         128.0
       ]
     },
     {
       "position": 4,
-      "points": 87.0,
+      "points": 105.0,
       "wins": 1,
       "Driver": {
         "driverId": "leclerc",
@@ -126,44 +129,13 @@
         58.0,
         58.0,
         62.0,
-        87.0
+        87.0,
+        105.0
       ]
     },
     {
       "position": 5,
-      "points": 71.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "norris",
-        "permanentNumber": "1",
-        "code": "NOR",
-        "url": "http://en.wikipedia.org/wiki/Lando_Norris",
-        "givenName": "Lando",
-        "familyName": "Norris",
-        "dateOfBirth": "1999-11-13",
-        "nationality": "British"
-      },
-      "Constructor": {
-        "constructorId": "mclaren",
-        "url": "https://en.wikipedia.org/wiki/McLaren",
-        "name": "McLaren",
-        "nationality": "British"
-      },
-      "pointsProgression": [
-        10.0,
-        10.0,
-        20.0,
-        38.0,
-        38.0,
-        38.0,
-        53.0,
-        59.0,
-        71.0
-      ]
-    },
-    {
-      "position": 6,
-      "points": 67.0,
+      "points": 82.0,
       "wins": 0,
       "Driver": {
         "driverId": "max_verstappen",
@@ -190,12 +162,46 @@
         37.0,
         49.0,
         67.0,
-        67.0
+        67.0,
+        82.0
+      ]
+    },
+    {
+      "position": 6,
+      "points": 77.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "norris",
+        "permanentNumber": "1",
+        "code": "NOR",
+        "url": "http://en.wikipedia.org/wiki/Lando_Norris",
+        "givenName": "Lando",
+        "familyName": "Norris",
+        "dateOfBirth": "1999-11-13",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "pointsProgression": [
+        10.0,
+        10.0,
+        20.0,
+        38.0,
+        38.0,
+        38.0,
+        53.0,
+        59.0,
+        71.0,
+        77.0
       ]
     },
     {
       "position": 7,
-      "points": 65.0,
+      "points": 75.0,
       "wins": 0,
       "Driver": {
         "driverId": "piastri",
@@ -222,12 +228,13 @@
         43.0,
         53.0,
         65.0,
-        65.0
+        65.0,
+        75.0
       ]
     },
     {
       "position": 8,
-      "points": 52.0,
+      "points": 60.0,
       "wins": 0,
       "Driver": {
         "driverId": "hadjar",
@@ -254,7 +261,8 @@
         26.0,
         34.0,
         42.0,
-        52.0
+        52.0,
+        60.0
       ]
     },
     {
@@ -286,6 +294,7 @@
         34.0,
         40.0,
         40.0,
+        41.0,
         41.0
       ]
     },
@@ -318,12 +327,13 @@
         22.0,
         26.0,
         28.0,
+        36.0,
         36.0
       ]
     },
     {
       "position": 11,
-      "points": 19.0,
+      "points": 21.0,
       "wins": 0,
       "Driver": {
         "driverId": "arvid_lindblad",
@@ -350,12 +360,13 @@
         10.0,
         12.0,
         13.0,
-        19.0
+        19.0,
+        21.0
       ]
     },
     {
       "position": 12,
-      "points": 18.0,
+      "points": 19.0,
       "wins": 0,
       "Driver": {
         "driverId": "colapinto",
@@ -382,7 +393,8 @@
         15.0,
         16.0,
         16.0,
-        18.0
+        18.0,
+        19.0
       ]
     },
     {
@@ -414,12 +426,13 @@
         17.0,
         17.0,
         17.0,
+        17.0,
         17.0
       ]
     },
     {
       "position": 14,
-      "points": 6.0,
+      "points": 10.0,
       "wins": 0,
       "Driver": {
         "driverId": "bortoleto",
@@ -446,7 +459,8 @@
         2.0,
         2.0,
         2.0,
-        6.0
+        6.0,
+        10.0
       ]
     },
     {
@@ -474,6 +488,7 @@
         2.0,
         2.0,
         4.0,
+        6.0,
         6.0,
         6.0,
         6.0,
@@ -510,6 +525,7 @@
         5.0,
         5.0,
         5.0,
+        5.0,
         5.0
       ]
     },
@@ -539,6 +555,7 @@
         1.0,
         1.0,
         1.0,
+        3.0,
         3.0,
         3.0,
         3.0,
@@ -574,6 +591,7 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         1.0
       ]
     },
@@ -598,6 +616,7 @@
         "nationality": "German"
       },
       "pointsProgression": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -638,6 +657,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
@@ -662,6 +682,7 @@
         "nationality": "American"
       },
       "pointsProgression": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -702,6 +723,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
@@ -709,8 +731,8 @@
   "constructorStandings": [
     {
       "position": 1,
-      "points": 286.0,
-      "wins": 7,
+      "points": 311.0,
+      "wins": 8,
       "Constructor": {
         "constructorId": "mercedes",
         "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
@@ -726,12 +748,13 @@
         210.0,
         228.0,
         268.0,
-        286.0
+        286.0,
+        311.0
       ]
     },
     {
       "position": 2,
-      "points": 216.0,
+      "points": 246.0,
       "wins": 2,
       "Constructor": {
         "constructorId": "ferrari",
@@ -748,12 +771,13 @@
         137.0,
         162.0,
         176.0,
-        216.0
+        216.0,
+        246.0
       ]
     },
     {
       "position": 3,
-      "points": 136.0,
+      "points": 152.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "mclaren",
@@ -770,12 +794,13 @@
         81.0,
         106.0,
         124.0,
-        136.0
+        136.0,
+        152.0
       ]
     },
     {
       "position": 4,
-      "points": 119.0,
+      "points": 142.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "red_bull",
@@ -792,12 +817,13 @@
         63.0,
         83.0,
         109.0,
-        119.0
+        119.0,
+        142.0
       ]
     },
     {
       "position": 5,
-      "points": 59.0,
+      "points": 60.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "alpine",
@@ -814,12 +840,13 @@
         49.0,
         56.0,
         56.0,
-        59.0
+        59.0,
+        60.0
       ]
     },
     {
       "position": 6,
-      "points": 55.0,
+      "points": 57.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "rb",
@@ -836,7 +863,8 @@
         32.0,
         38.0,
         41.0,
-        55.0
+        55.0,
+        57.0
       ]
     },
     {
@@ -855,6 +883,7 @@
         17.0,
         17.0,
         18.0,
+        20.0,
         20.0,
         20.0,
         20.0,
@@ -880,12 +909,13 @@
         11.0,
         11.0,
         11.0,
+        11.0,
         11.0
       ]
     },
     {
       "position": 9,
-      "points": 6.0,
+      "points": 10.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "audi",
@@ -902,7 +932,8 @@
         2.0,
         2.0,
         2.0,
-        6.0
+        6.0,
+        10.0
       ]
     },
     {
@@ -921,6 +952,7 @@
         0.0,
         0.0,
         0.0,
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -946,9 +978,10 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
   ],
-  "updated_at": "2026-07-13T05:35:34.132227+00:00"
+  "updated_at": "2026-07-20T05:37:51.950303+00:00"
 }
