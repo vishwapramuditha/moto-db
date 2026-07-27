@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-07-20T08:10:22.430307Z",
+  "updated_at": "2026-07-27T08:36:12.849671Z",
   "series": {
     "cup": [
       {
@@ -2991,7 +2991,7 @@
         "track_name": "North Wilkesboro Speedway",
         "date_scheduled": "2026-07-19T19:00:00",
         "race_date": "2026-07-19T19:00:00",
-        "qualifying_date": "2026-07-19T19:00:00",
+        "qualifying_date": "2026-07-19T00:00:00",
         "tunein_date": "2026-07-19T19:00:00",
         "scheduled_distance": 281.25,
         "actual_distance": 281.25,
@@ -3001,7 +3001,7 @@
         "stage_2_laps": 185,
         "stage_3_laps": 185,
         "number_of_cars_in_field": 37,
-        "pole_winner_driver_id": 4023,
+        "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
         "number_of_lead_changes": 17,
         "number_of_leaders": 9,
@@ -3111,14 +3111,14 @@
         "race_id": 5619,
         "series_id": 1,
         "race_season": 2026,
-        "race_name": "Brickyard 400",
+        "race_name": "Brickyard 400 presented by PPG",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 123,
         "track_name": "Indianapolis Motor Speedway",
         "date_scheduled": "2026-07-26T14:00:00",
         "race_date": "2026-07-26T14:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-26T14:00:00",
         "tunein_date": "2026-07-26T14:00:00",
         "scheduled_distance": 400,
         "actual_distance": 400,
@@ -3127,18 +3127,18 @@
         "stage_1_laps": 50,
         "stage_2_laps": 50,
         "stage_3_laps": 60,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 39,
+        "pole_winner_driver_id": 4326,
+        "pole_winner_speed": 186.598,
+        "number_of_lead_changes": 15,
+        "number_of_leaders": 11,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 27,
+        "average_speed": 127.422,
+        "total_race_time": "3:08:21",
+        "margin_of_victory": ".287",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Corey Heim won the Brickyard 400 presented by PPG at Indianapolis Motor Speedway, his second NASCAR Cup Series champion. No cars dropped to the rear prior to the green flag to start the race.",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3243,13 +3243,13 @@
         "television_broadcaster": "TNT",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5074,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4387,
         "pole_winner_laptime": null
       },
       {
@@ -3286,7 +3286,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-06T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-07T17:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-08T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "Combined Group 1 & 2 (Impound)",
+            "start_time_utc": "2026-08-08T18:05:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "  ",
+            "start_time_utc": "2026-08-08T19:10:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-09T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-09T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-09T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-09T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Media Center Meeting Room",
+            "start_time_utc": "2026-08-09T18:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Drivers Report For Pre-Race",
+            "notes": "O'Reilly Series Garage Area",
+            "start_time_utc": "2026-08-09T18:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-09T18:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/210/350 Laps = 306.25 Miles",
+            "start_time_utc": "2026-08-09T19:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -3461,7 +3540,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-20T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-21T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-21T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-22T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T14:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T15:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-23T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-23T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-23T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-23T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Infield Hospitality Tent",
+            "start_time_utc": "2026-08-23T17:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-23T18:20:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/185/301 Laps = 318.46 Miles",
+            "start_time_utc": "2026-08-23T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -6497,14 +6655,14 @@
         "race_id": 5654,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "Pennzoil 250",
+        "race_name": "Pennzoil 250 presented by Take 5 Oil Change",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 123,
         "track_name": "Indianapolis Motor Speedway",
         "date_scheduled": "2026-07-25T16:00:00",
         "race_date": "2026-07-25T16:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-25T16:00:00",
         "tunein_date": "2026-07-25T16:00:00",
         "scheduled_distance": 250,
         "actual_distance": 250,
@@ -6514,17 +6672,17 @@
         "stage_2_laps": 30,
         "stage_3_laps": 40,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4204,
+        "pole_winner_speed": 169.591,
+        "number_of_lead_changes": 10,
+        "number_of_leaders": 8,
+        "number_of_cautions": 3,
+        "number_of_caution_laps": 13,
+        "average_speed": 128.94,
+        "total_race_time": "1:56:20",
+        "margin_of_victory": "0.643",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Carson Kvapil won the Pennzoil 250 presented by Take 5 Oil Change at Indianapolis Motor Speedway, his first career NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following car dropped to the rear for the reason indicated: No. 88 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -6599,13 +6757,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4074,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4467,
         "pole_winner_laptime": null
       },
       {
@@ -6642,7 +6800,68 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-06T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-07T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-08-07T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-07T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-08T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-08-08T15:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying",
+            "notes": "  ",
+            "start_time_utc": "2026-08-08T16:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-08T20:20:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-08T20:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 60/120/250 Laps = 218.75 Miles",
+            "start_time_utc": "2026-08-08T21:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -6730,13 +6949,13 @@
           {
             "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
             "notes": "Pit Road",
-            "start_time_utc": "2026-08-28T22:50:00",
+            "start_time_utc": "2026-08-28T22:45:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
             "notes": " ",
-            "start_time_utc": "2026-08-28T22:55:00",
+            "start_time_utc": "2026-08-28T22:50:00",
             "run_type": 0
           },
           {
@@ -6763,7 +6982,7 @@
         "race_id": 5658,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "NASCAR O'Reilly Auto Parts Series Race at Darlington",
+        "race_name": "Fleetio 200",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 4,
@@ -8813,10 +9032,10 @@
         "track_name": "Lime Rock Park",
         "date_scheduled": "2026-07-11T13:00:00",
         "race_date": "2026-07-11T13:00:00",
-        "qualifying_date": "2026-07-11T13:00:00",
+        "qualifying_date": "2026-07-11T00:00:00",
         "tunein_date": "2026-07-11T13:00:00",
         "scheduled_distance": 147.8,
-        "actual_distance": 0,
+        "actual_distance": 147.8,
         "scheduled_laps": 100,
         "actual_laps": 100,
         "stage_1_laps": 30,
@@ -9042,14 +9261,14 @@
         "race_id": 5682,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "NASCAR CRAFTSMAN Truck Series Race at Indianapolis",
+        "race_name": "TSport 200 presented by Warn Industries",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 47,
         "track_name": "Lucas Oil Indianapolis Raceway Park",
         "date_scheduled": "2026-07-24T20:00:00",
         "race_date": "2026-07-24T20:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-07-24T20:00:00",
         "tunein_date": "2026-07-24T20:00:00",
         "scheduled_distance": 137.2,
         "actual_distance": 137.2,
@@ -9059,17 +9278,17 @@
         "stage_2_laps": 60,
         "stage_3_laps": 80,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4446,
+        "pole_winner_speed": 108.292,
+        "number_of_lead_changes": 2,
+        "number_of_leaders": 2,
+        "number_of_cautions": 3,
+        "number_of_caution_laps": 25,
+        "average_speed": 80.601,
+        "total_race_time": "1:42:08",
+        "margin_of_victory": "1.148",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Layne Riggs won the TSport 200 presented by Warn Industries at Lucas Oil Indianapolis Raceway Park, his 10th career NASCAR CRAFTSMAN Truck Series victory. No Trucks went to the rear prior to the start of the race.",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -9150,20 +9369,20 @@
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5234,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4446,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5684,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "NASCAR CRAFTSMAN Truck Series Race at Richmond",
+        "race_name": "eero 250",
         "race_type_id": 1,
         "restrictor_plate": true,
         "track_id": 26,
@@ -9308,7 +9527,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-20T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-21T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-21T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-21T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-08-21T20:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-21T21:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-22T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Fan Zone",
+            "start_time_utc": "2026-08-22T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-22T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-08-22T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-22T16:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T17:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 55/110/175 = 185.15 Miles",
+            "start_time_utc": "2026-08-22T17:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
