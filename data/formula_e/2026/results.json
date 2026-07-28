@@ -89,5 +89,19 @@
     "pole_position": "Felipe Drugovich",
     "winning_driver": "Lucas di Grassi",
     "winning_team": "Lola Yamaha ABT Formula E Team"
+  },
+  {
+    "round": "14",
+    "eprix": "Tokyo",
+    "pole_position": "Jake Dennis",
+    "winning_driver": "Dan Ticktum",
+    "winning_team": "Cupra Kiro"
+  },
+  {
+    "round": "15",
+    "eprix": "Tokyo",
+    "pole_position": "Edoardo Mortara",
+    "winning_driver": "Nyck de Vries",
+    "winning_team": "Mahindra Racing"
   }
 ]
