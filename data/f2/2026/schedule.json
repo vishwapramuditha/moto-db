@@ -1,0 +1,623 @@
+{
+  "season": "2026",
+  "total_rounds": 14,
+  "updated_at": "2026-07-30T16:58:00Z",
+  "races": [
+    {
+      "season": "2026",
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "name": "Formula 2 - Australian Grand Prix",
+      "Circuit": {
+        "circuitId": "albert_park",
+        "circuitName": "Albert Park Grand Prix Circuit",
+        "Location": {
+          "locality": "Melbourne",
+          "country": "Australia"
+        }
+      },
+      "country": "Australia",
+      "date": "2026-03-08",
+      "time": "02:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-03-06",
+          "time": "00:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-03-06",
+          "time": "04:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-03-07",
+          "time": "00:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-03-08",
+          "time": "02:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "2",
+      "raceName": "Bahrain Grand Prix",
+      "name": "Formula 2 - Bahrain Grand Prix",
+      "Circuit": {
+        "circuitId": "bahrain",
+        "circuitName": "Bahrain International Circuit",
+        "Location": {
+          "locality": "Sakhir",
+          "country": "Bahrain"
+        }
+      },
+      "country": "Bahrain",
+      "date": "2026-04-12",
+      "time": "14:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-04-10",
+          "time": "10:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-04-10",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-04-11",
+          "time": "11:00:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-04-12",
+          "time": "14:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "3",
+      "raceName": "Saudi Arabian Grand Prix",
+      "name": "Formula 2 - Saudi Arabian Grand Prix",
+      "Circuit": {
+        "circuitId": "jeddah",
+        "circuitName": "Jeddah Corniche Circuit",
+        "Location": {
+          "locality": "Jeddah",
+          "country": "Saudi Arabia"
+        }
+      },
+      "country": "Saudi Arabia",
+      "date": "2026-04-19",
+      "time": "16:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-04-17",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-04-17",
+          "time": "16:30:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-04-18",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-04-19",
+          "time": "16:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "4",
+      "raceName": "Monaco Grand Prix",
+      "name": "Formula 2 - Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "country": "Monaco",
+      "date": "2026-06-07",
+      "time": "09:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-06-04",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-06-05",
+          "time": "09:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-06-06",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-06-07",
+          "time": "09:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "5",
+      "raceName": "Spanish Grand Prix",
+      "name": "Formula 2 - Spanish Grand Prix",
+      "Circuit": {
+        "circuitId": "catalunya",
+        "circuitName": "Circuit de Barcelona-Catalunya",
+        "Location": {
+          "locality": "Barcelona",
+          "country": "Spain"
+        }
+      },
+      "country": "Spain",
+      "date": "2026-06-14",
+      "time": "10:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-06-12",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-06-12",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-06-13",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-06-14",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "6",
+      "raceName": "Austrian Grand Prix",
+      "name": "Formula 2 - Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "country": "Austria",
+      "date": "2026-06-28",
+      "time": "10:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-06-26",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-06-26",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-06-27",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-06-28",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "7",
+      "raceName": "British Grand Prix",
+      "name": "Formula 2 - British Grand Prix",
+      "Circuit": {
+        "circuitId": "silverstone",
+        "circuitName": "Silverstone Circuit",
+        "Location": {
+          "locality": "Silverstone",
+          "country": "United Kingdom"
+        }
+      },
+      "country": "United Kingdom",
+      "date": "2026-07-05",
+      "time": "10:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-07-03",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-07-03",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-07-04",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-07-05",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "8",
+      "raceName": "Belgian Grand Prix",
+      "name": "Formula 2 - Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "locality": "Spa-Francorchamps",
+          "country": "Belgium"
+        }
+      },
+      "country": "Belgium",
+      "date": "2026-07-19",
+      "time": "10:00:00Z",
+      "completed": true,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-07-17",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-07-17",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-07-18",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-07-19",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "9",
+      "raceName": "Hungarian Grand Prix",
+      "name": "Formula 2 - Hungarian Grand Prix",
+      "Circuit": {
+        "circuitId": "hungaroring",
+        "circuitName": "Hungaroring",
+        "Location": {
+          "locality": "Budapest",
+          "country": "Hungary"
+        }
+      },
+      "country": "Hungary",
+      "date": "2026-07-26",
+      "time": "10:00:00Z",
+      "completed": false,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-07-24",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-07-24",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-07-25",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-07-26",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "10",
+      "raceName": "Italian Grand Prix",
+      "name": "Formula 2 - Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "country": "Italy",
+      "date": "2026-09-06",
+      "time": "10:00:00Z",
+      "completed": false,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-09-04",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-09-04",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-09-05",
+          "time": "09:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-09-06",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "11",
+      "raceName": "Madrid Grand Prix",
+      "name": "Formula 2 - Madrid Grand Prix",
+      "Circuit": {
+        "circuitId": "madrid",
+        "circuitName": "Madrid Street Circuit",
+        "Location": {
+          "locality": "Madrid",
+          "country": "Spain"
+        }
+      },
+      "country": "Spain",
+      "date": "2026-09-13",
+      "time": "12:00:00Z",
+      "completed": false,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-09-11",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-09-11",
+          "time": "13:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-09-12",
+          "time": "10:00:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-09-13",
+          "time": "12:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "12",
+      "raceName": "Azerbaijan Grand Prix",
+      "name": "Formula 2 - Azerbaijan Grand Prix",
+      "Circuit": {
+        "circuitId": "baku",
+        "circuitName": "Baku City Circuit",
+        "Location": {
+          "locality": "Baku",
+          "country": "Azerbaijan"
+        }
+      },
+      "country": "Azerbaijan",
+      "date": "2026-09-27",
+      "time": "10:00:00Z",
+      "completed": false,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-09-25",
+          "time": "06:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-09-25",
+          "time": "10:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-09-26",
+          "time": "07:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-09-27",
+          "time": "10:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "13",
+      "raceName": "Qatar Grand Prix",
+      "name": "Formula 2 - Qatar Grand Prix",
+      "Circuit": {
+        "circuitId": "lusail",
+        "circuitName": "Lusail International Circuit",
+        "Location": {
+          "locality": "Lusail",
+          "country": "Qatar"
+        }
+      },
+      "country": "Qatar",
+      "date": "2026-11-29",
+      "time": "14:00:00Z",
+      "completed": false,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-11-27",
+          "time": "10:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-11-27",
+          "time": "14:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-11-28",
+          "time": "11:00:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-11-29",
+          "time": "14:00:00Z"
+        }
+      ]
+    },
+    {
+      "season": "2026",
+      "round": "14",
+      "raceName": "Abu Dhabi Grand Prix",
+      "name": "Formula 2 - Abu Dhabi Grand Prix",
+      "Circuit": {
+        "circuitId": "yas_marina",
+        "circuitName": "Yas Marina Circuit",
+        "Location": {
+          "locality": "Abu Dhabi",
+          "country": "UAE"
+        }
+      },
+      "country": "UAE",
+      "date": "2026-12-06",
+      "time": "12:00:00Z",
+      "completed": false,
+      "sessions": [
+        {
+          "type": "Practice",
+          "name": "Practice",
+          "date": "2026-12-04",
+          "time": "07:00:00Z"
+        },
+        {
+          "type": "Qualifying",
+          "name": "Qualifying",
+          "date": "2026-12-04",
+          "time": "11:00:00Z"
+        },
+        {
+          "type": "Sprint",
+          "name": "Sprint Race",
+          "date": "2026-12-05",
+          "time": "08:30:00Z"
+        },
+        {
+          "type": "Feature",
+          "name": "Feature Race",
+          "date": "2026-12-06",
+          "time": "12:00:00Z"
+        }
+      ]
+    }
+  ]
+}
