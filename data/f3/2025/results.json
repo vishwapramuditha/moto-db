@@ -1,76 +1,158 @@
 {
   "season": "2025",
-  "updated_at": "2026-08-03T14:33:04Z",
+  "updated_at": "2026-08-03T15:02:35Z",
   "results": [
     {
       "round": 1,
-      "circuit": "SR",
-      "pole_position": "Albert Park Circuit",
+      "race_type": "Sprint Race",
+      "circuit": "Albert Park Circuit",
+      "fastest_lap": "",
       "winning_driver": "Martinius Stenshorne",
       "winning_team": "Santiago Ramos"
     },
     {
+      "round": 1,
+      "race_type": "Feature Race",
+      "circuit": "Rafael Câmara",
+      "fastest_lap": "Rafael Câmara",
+      "winning_driver": "Rafael Câmara",
+      "winning_team": "Trident"
+    },
+    {
       "round": 2,
-      "circuit": "SR",
-      "pole_position": "Bahrain International Circuit",
+      "race_type": "Sprint Race",
+      "circuit": "Bahrain International Circuit",
+      "fastest_lap": "",
       "winning_driver": "Freddie Slater",
       "winning_team": "Nikola Tsolov"
     },
     {
+      "round": 2,
+      "race_type": "Feature Race",
+      "circuit": "Rafael Câmara",
+      "fastest_lap": "Rafael Câmara",
+      "winning_driver": "Rafael Câmara",
+      "winning_team": "Trident"
+    },
+    {
       "round": 3,
-      "circuit": "SR",
-      "pole_position": "Imola Circuit",
+      "race_type": "Sprint Race",
+      "circuit": "Imola Circuit",
+      "fastest_lap": "",
       "winning_driver": "Noah Strømsted",
       "winning_team": "Tim Tramnitz"
     },
     {
+      "round": 3,
+      "race_type": "Feature Race",
+      "circuit": "Rafael Câmara",
+      "fastest_lap": "Noah Strømsted",
+      "winning_driver": "Santiago Ramos",
+      "winning_team": "Van Amersfoort Racing"
+    },
+    {
       "round": 4,
-      "circuit": "SR",
-      "pole_position": "Circuit de Monaco",
+      "race_type": "Sprint Race",
+      "circuit": "Circuit de Monaco",
+      "fastest_lap": "",
       "winning_driver": "Martinius Stenshorne",
       "winning_team": "Martinius Stenshorne"
     },
     {
+      "round": 4,
+      "race_type": "Feature Race",
+      "circuit": "Nikola Tsolov",
+      "fastest_lap": "Nikola Tsolov",
+      "winning_driver": "Nikola Tsolov",
+      "winning_team": "Campos Racing"
+    },
+    {
       "round": 5,
-      "circuit": "SR",
-      "pole_position": "Circuit de Barcelona-Catalunya",
+      "race_type": "Sprint Race",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "fastest_lap": "",
       "winning_driver": "Noah Strømsted",
       "winning_team": "Ivan Domingues"
     },
     {
+      "round": 5,
+      "race_type": "Feature Race",
+      "circuit": "Rafael Câmara",
+      "fastest_lap": "Rafael Câmara",
+      "winning_driver": "Rafael Câmara",
+      "winning_team": "Trident"
+    },
+    {
       "round": 6,
-      "circuit": "SR",
-      "pole_position": "Red Bull Ring",
+      "race_type": "Sprint Race",
+      "circuit": "Red Bull Ring",
+      "fastest_lap": "",
       "winning_driver": "Martinius Stenshorne",
       "winning_team": "James Wharton"
     },
     {
+      "round": 6,
+      "race_type": "Feature Race",
+      "circuit": "Nikola Tsolov",
+      "fastest_lap": "Mari Boya",
+      "winning_driver": "Martinius Stenshorne",
+      "winning_team": "Hitech TGR"
+    },
+    {
       "round": 7,
-      "circuit": "SR",
-      "pole_position": "Silverstone Circuit",
+      "race_type": "Sprint Race",
+      "circuit": "Silverstone Circuit",
+      "fastest_lap": "",
       "winning_driver": "Théophile Naël",
       "winning_team": "Tasanapol Inthraphuvasak"
     },
     {
+      "round": 7,
+      "race_type": "Feature Race",
+      "circuit": "Nikola Tsolov",
+      "fastest_lap": "Laurens van Hoepen",
+      "winning_driver": "Mari Boya",
+      "winning_team": "Campos Racing"
+    },
+    {
       "round": 8,
-      "circuit": "SR",
-      "pole_position": "Circuit de Spa-Francorchamps",
+      "race_type": "Sprint Race",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "fastest_lap": "",
       "winning_driver": "Noah Strømsted",
       "winning_team": "Noah Strømsted"
     },
     {
       "round": 9,
-      "circuit": "SR",
-      "pole_position": "Hungaroring",
+      "race_type": "Sprint Race",
+      "circuit": "Hungaroring",
+      "fastest_lap": "",
       "winning_driver": "Ivan Domingues",
       "winning_team": "Tasanapol Inthraphuvasak"
     },
     {
+      "round": 9,
+      "race_type": "Feature Race",
+      "circuit": "Rafael Câmara",
+      "fastest_lap": "Noel León",
+      "winning_driver": "Rafael Câmara",
+      "winning_team": "Trident"
+    },
+    {
       "round": 10,
-      "circuit": "SR",
-      "pole_position": "Monza Circuit",
+      "race_type": "Sprint Race",
+      "circuit": "Monza Circuit",
+      "fastest_lap": "",
       "winning_driver": "Rafael Câmara",
       "winning_team": "Roman Bilinski"
+    },
+    {
+      "round": 10,
+      "race_type": "Feature Race",
+      "circuit": "Brad Benavides",
+      "fastest_lap": "Alessandro Giusti",
+      "winning_driver": "Tasanapol Inthraphuvasak",
+      "winning_team": "Campos Racing"
     }
   ]
 }

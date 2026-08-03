@@ -1,55 +1,132 @@
 {
   "season": "2026",
-  "updated_at": "2026-08-03T14:33:05Z",
+  "updated_at": "2026-08-03T15:04:24Z",
   "results": [
     {
       "round": 1,
-      "circuit": "SR",
-      "pole_position": "Albert Park Circuit",
-      "winning_driver": "Louis Sharp",
-      "winning_team": "Bruno del Pino"
+      "race_type": "Sprint Race",
+      "circuit": "Albert Park Circuit",
+      "pole_position": "",
+      "fastest_lap": "Louis Sharp",
+      "winning_driver": "Bruno del Pino",
+      "winning_team": "Van Amersfoort Racing"
+    },
+    {
+      "round": 1,
+      "race_type": "Feature Race",
+      "circuit": "Albert Park Circuit",
+      "pole_position": "Bruno del Pino",
+      "fastest_lap": "Théophile Naël",
+      "winning_driver": "Ugo Ugochukwu",
+      "winning_team": "Campos Racing"
     },
     {
       "round": 2,
-      "circuit": "SR",
-      "pole_position": "Circuit de Monaco",
-      "winning_driver": "James Wharton",
-      "winning_team": "Gerrard Xie"
+      "race_type": "Sprint Race",
+      "circuit": "Circuit de Monaco",
+      "pole_position": "",
+      "fastest_lap": "James Wharton",
+      "winning_driver": "Gerrard Xie",
+      "winning_team": "DAMS Lucas Oil"
+    },
+    {
+      "round": 2,
+      "race_type": "Feature Race",
+      "circuit": "Circuit de Monaco",
+      "pole_position": "James Wharton",
+      "fastest_lap": "Théophile Naël",
+      "winning_driver": "Brando Badoer",
+      "winning_team": "Rodin Motorsport"
     },
     {
       "round": 3,
-      "circuit": "SR",
-      "pole_position": "Circuit de Barcelona-Catalunya",
+      "race_type": "Sprint Race",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "pole_position": "",
+      "fastest_lap": "James Wharton",
       "winning_driver": "James Wharton",
-      "winning_team": "James Wharton"
+      "winning_team": "Prema Racing"
+    },
+    {
+      "round": 3,
+      "race_type": "Feature Race",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "pole_position": "Hiyu Yamakoshi",
+      "fastest_lap": "Théophile Naël",
+      "winning_driver": "Théophile Naël",
+      "winning_team": "Campos Racing"
     },
     {
       "round": 4,
-      "circuit": "SR",
-      "pole_position": "Red Bull Ring",
-      "winning_driver": "Louis Sharp",
-      "winning_team": "Ernesto Rivera"
+      "race_type": "Sprint Race",
+      "circuit": "Red Bull Ring",
+      "pole_position": "",
+      "fastest_lap": "Louis Sharp",
+      "winning_driver": "Ernesto Rivera",
+      "winning_team": "Campos Racing"
+    },
+    {
+      "round": 4,
+      "race_type": "Feature Race",
+      "circuit": "Red Bull Ring",
+      "pole_position": "Théophile Naël",
+      "fastest_lap": "Hiyu Yamakoshi",
+      "winning_driver": "Noah Strømsted",
+      "winning_team": "Trident"
     },
     {
       "round": 5,
-      "circuit": "SR",
-      "pole_position": "Silverstone Circuit",
+      "race_type": "Sprint Race",
+      "circuit": "Silverstone Circuit",
+      "pole_position": "",
+      "fastest_lap": "Ugo Ugochukwu",
       "winning_driver": "Ugo Ugochukwu",
-      "winning_team": "Ugo Ugochukwu"
+      "winning_team": "Campos Racing"
+    },
+    {
+      "round": 5,
+      "race_type": "Feature Race",
+      "circuit": "Silverstone Circuit",
+      "pole_position": "Ernesto Rivera",
+      "fastest_lap": "Freddie Slater",
+      "winning_driver": "Maciej Gładysz",
+      "winning_team": "ART Grand Prix"
     },
     {
       "round": 6,
-      "circuit": "SR",
-      "pole_position": "Circuit de Spa-Francorchamps",
-      "winning_driver": "Ugo Ugochukwu",
-      "winning_team": "Jin Nakamura"
+      "race_type": "Sprint Race",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "pole_position": "",
+      "fastest_lap": "Ugo Ugochukwu",
+      "winning_driver": "Jin Nakamura",
+      "winning_team": "Hitech"
+    },
+    {
+      "round": 6,
+      "race_type": "Feature Race",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "pole_position": "Ugo Ugochukwu",
+      "fastest_lap": "Freddie Slater",
+      "winning_driver": "Ernesto Rivera",
+      "winning_team": "Campos Racing"
     },
     {
       "round": 7,
-      "circuit": "SR",
-      "pole_position": "Hungaroring",
-      "winning_driver": "Tuukka Taponen",
-      "winning_team": "Théophile Naël"
+      "race_type": "Sprint Race",
+      "circuit": "Hungaroring",
+      "pole_position": "",
+      "fastest_lap": "Tuukka Taponen",
+      "winning_driver": "Théophile Naël",
+      "winning_team": "Campos Racing"
+    },
+    {
+      "round": 7,
+      "race_type": "Feature Race",
+      "circuit": "Hungaroring",
+      "pole_position": "Matteo De Palo",
+      "fastest_lap": "Tuukka Taponen",
+      "winning_driver": "Freddie Slater",
+      "winning_team": "Trident"
     }
   ]
 }

@@ -155,37 +155,59 @@ def parse_schedule(table):
 
 
 def parse_results(table):
-    results = []
-    headers = [h.lower() for h in table[0]]
+    """Parse the F3 results table.
 
-    idx_round   = next((i for i, h in enumerate(headers) if h == "round"), 0)
-    idx_circuit = next((i for i, h in enumerate(headers) if "circuit" in h or "grand prix" in h), None)
-    idx_winner  = next((i for i, h in enumerate(headers) if "winning driver" in h or h == "winner"), None)
-    idx_team    = next((i for i, h in enumerate(headers) if "winning team" in h or "entrant" in h or ("team" in h and "winning" in h)), None)
-    idx_pole    = next((i for i, h in enumerate(headers) if "pole" in h), None)
+    Two rows per round on Wikipedia:
+      SR row (8 cells): [round, 'SR', circuit, pole_position, fastest_lap, winning_driver, winning_team, 'Report']
+      FR row (5 cells): ['FR', fastest_lap, pole_position, winning_driver, winning_team]
+                        (circuit is inherited from the preceding SR row)
+    """
+    results = []
+    current_round = None
+    current_circuit = ""
 
     for row in table[1:]:
-        if not row or not row[0].strip().isdigit():
-            continue
-        if "source" in row[0].lower():
+        if not row:
             continue
 
-        round_num = int(row[idx_round].strip())
-        circuit   = row[idx_circuit].strip() if idx_circuit is not None and len(row) > idx_circuit else ""
-        winner    = row[idx_winner].strip()  if idx_winner  is not None and len(row) > idx_winner  else ""
-        team      = row[idx_team].strip()    if idx_team    is not None and len(row) > idx_team    else ""
-        pole      = row[idx_pole].strip()    if idx_pole    is not None and len(row) > idx_pole    else ""
+        first = row[0].strip()
+        if "source" in first.lower() or first.lower() in ("key", "colour", "round"):
+            continue
+
+        if first.isdigit():
+            # SR primary row
+            current_round = int(first)
+            session_type    = row[1].strip() if len(row) > 1 else "SR"
+            current_circuit = row[2].strip() if len(row) > 2 else ""
+            pole            = row[3].strip() if len(row) > 3 else ""
+            fastest_lap     = row[4].strip() if len(row) > 4 else ""
+            winner          = row[5].strip() if len(row) > 5 else ""
+            team            = row[6].strip() if len(row) > 6 else ""
+        else:
+            # FR sub-row — circuit inherited
+            if current_round is None:
+                continue
+            session_type = first  # 'FR'
+            fastest_lap  = row[1].strip() if len(row) > 1 else ""
+            pole         = row[2].strip() if len(row) > 2 else ""
+            winner       = row[3].strip() if len(row) > 3 else ""
+            team         = row[4].strip() if len(row) > 4 else ""
 
         if winner and winner.lower() not in ("tbd", "", "cancelled"):
             results.append({
-                "round":          round_num,
-                "circuit":        circuit,
+                "round":          current_round,
+                "race_type":      "Sprint Race" if session_type.upper() == "SR" else "Feature Race",
+                "circuit":        current_circuit,
                 "pole_position":  pole,
+                "fastest_lap":    fastest_lap,
                 "winning_driver": winner,
                 "winning_team":   team,
             })
 
     return results
+
+
+
 
 
 def ensure_dir(path):
