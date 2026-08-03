@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-07-27T08:36:12.849671Z",
+  "updated_at": "2026-08-03T08:33:50.719947Z",
   "series": {
     "cup": [
       {
@@ -3477,13 +3477,13 @@
           {
             "event_name": "The Drivers Meeting",
             "notes": "Media Center Hospitality Room",
-            "start_time_utc": "2026-08-15T22:00:00",
+            "start_time_utc": "2026-08-15T21:55:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
             "notes": "Turn 1",
-            "start_time_utc": "2026-08-15T22:25:00",
+            "start_time_utc": "2026-08-15T22:20:00",
             "run_type": 0
           },
           {
@@ -3540,86 +3540,7 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [
-          {
-            "event_name": "Driver / Crew Chief Meeting",
-            "notes": "Sent Electronically",
-            "start_time_utc": "2026-08-20T21:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Haulers Enter",
-            "notes": "Equipment Unloading",
-            "start_time_utc": "2026-08-21T12:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-08-21T16:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-08-22T12:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Practice",
-            "notes": " ",
-            "start_time_utc": "2026-08-22T14:30:00",
-            "run_type": 1
-          },
-          {
-            "event_name": "Qualifying (Impound)",
-            "notes": " ",
-            "start_time_utc": "2026-08-22T15:35:00",
-            "run_type": 2
-          },
-          {
-            "event_name": "Team Access To Haulers Permitted",
-            "notes": "",
-            "start_time_utc": "2026-08-23T15:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
-            "notes": "",
-            "start_time_utc": "2026-08-23T15:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-08-23T16:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
-            "notes": "Pit Road",
-            "start_time_utc": "2026-08-23T17:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "The Drivers Meeting",
-            "notes": "Infield Hospitality Tent",
-            "start_time_utc": "2026-08-23T17:55:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Driver Introductions",
-            "notes": " ",
-            "start_time_utc": "2026-08-23T18:20:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Race",
-            "notes": "Stages 70/185/301 Laps = 318.46 Miles",
-            "start_time_utc": "2026-08-23T19:00:00",
-            "run_type": 3
-          }
-        ],
+        "schedule": [],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -6770,7 +6691,7 @@
         "race_id": 5655,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "NASCAR O'Reilly Auto Parts Series Race at Iowa",
+        "race_name": "HyVee Perks 250",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 206,
@@ -9382,7 +9303,7 @@
         "race_id": 5684,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "eero 250",
+        "race_name": "Black's Tire 250 presented by BTS Rewards at Richmond Raceway",
         "race_type_id": 1,
         "restrictor_plate": true,
         "track_id": 26,
@@ -9527,86 +9448,7 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [
-          {
-            "event_name": "Driver / Crew Chief Meeting",
-            "notes": "Sent Electronically",
-            "start_time_utc": "2026-08-20T21:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Haulers Enter",
-            "notes": "Equipment Unloading",
-            "start_time_utc": "2026-08-21T13:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Team Access for Equipment Set Up Permitted",
-            "notes": "",
-            "start_time_utc": "2026-08-21T14:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-08-21T15:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Practice",
-            "notes": " ",
-            "start_time_utc": "2026-08-21T20:00:00",
-            "run_type": 1
-          },
-          {
-            "event_name": "Qualifying (Impound)",
-            "notes": " ",
-            "start_time_utc": "2026-08-21T21:05:00",
-            "run_type": 2
-          },
-          {
-            "event_name": "Team Access To Haulers Permitted",
-            "notes": "",
-            "start_time_utc": "2026-08-22T14:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Autograph Session",
-            "notes": "Fan Zone",
-            "start_time_utc": "2026-08-22T15:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage Hours",
-            "notes": "",
-            "start_time_utc": "2026-08-22T15:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Rookie Meeting",
-            "notes": "Series Inspection Trailer",
-            "start_time_utc": "2026-08-22T16:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
-            "notes": "Pit Road",
-            "start_time_utc": "2026-08-22T16:50:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Driver Introductions",
-            "notes": " ",
-            "start_time_utc": "2026-08-22T17:10:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Race",
-            "notes": "Stages 55/110/175 = 185.15 Miles",
-            "start_time_utc": "2026-08-22T17:30:00",
-            "run_type": 3
-          }
-        ],
+        "schedule": [],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
