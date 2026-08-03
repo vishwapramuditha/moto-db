@@ -16,6 +16,7 @@ concurrency:
   group: scrape-f1
   cancel-in-progress: false
 
+jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
