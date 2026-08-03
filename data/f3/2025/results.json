@@ -1,0 +1,76 @@
+{
+  "season": "2025",
+  "updated_at": "2026-08-03T14:33:04Z",
+  "results": [
+    {
+      "round": 1,
+      "circuit": "SR",
+      "pole_position": "Albert Park Circuit",
+      "winning_driver": "Martinius Stenshorne",
+      "winning_team": "Santiago Ramos"
+    },
+    {
+      "round": 2,
+      "circuit": "SR",
+      "pole_position": "Bahrain International Circuit",
+      "winning_driver": "Freddie Slater",
+      "winning_team": "Nikola Tsolov"
+    },
+    {
+      "round": 3,
+      "circuit": "SR",
+      "pole_position": "Imola Circuit",
+      "winning_driver": "Noah Strømsted",
+      "winning_team": "Tim Tramnitz"
+    },
+    {
+      "round": 4,
+      "circuit": "SR",
+      "pole_position": "Circuit de Monaco",
+      "winning_driver": "Martinius Stenshorne",
+      "winning_team": "Martinius Stenshorne"
+    },
+    {
+      "round": 5,
+      "circuit": "SR",
+      "pole_position": "Circuit de Barcelona-Catalunya",
+      "winning_driver": "Noah Strømsted",
+      "winning_team": "Ivan Domingues"
+    },
+    {
+      "round": 6,
+      "circuit": "SR",
+      "pole_position": "Red Bull Ring",
+      "winning_driver": "Martinius Stenshorne",
+      "winning_team": "James Wharton"
+    },
+    {
+      "round": 7,
+      "circuit": "SR",
+      "pole_position": "Silverstone Circuit",
+      "winning_driver": "Théophile Naël",
+      "winning_team": "Tasanapol Inthraphuvasak"
+    },
+    {
+      "round": 8,
+      "circuit": "SR",
+      "pole_position": "Circuit de Spa-Francorchamps",
+      "winning_driver": "Noah Strømsted",
+      "winning_team": "Noah Strømsted"
+    },
+    {
+      "round": 9,
+      "circuit": "SR",
+      "pole_position": "Hungaroring",
+      "winning_driver": "Ivan Domingues",
+      "winning_team": "Tasanapol Inthraphuvasak"
+    },
+    {
+      "round": 10,
+      "circuit": "SR",
+      "pole_position": "Monza Circuit",
+      "winning_driver": "Rafael Câmara",
+      "winning_team": "Roman Bilinski"
+    }
+  ]
+}

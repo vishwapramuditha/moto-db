@@ -1,0 +1,67 @@
+{
+  "season": "2025",
+  "total_rounds": 10,
+  "updated_at": "2026-08-03T14:33:04Z",
+  "races": [
+    {
+      "round": 1,
+      "circuit": "Albert Park Circuit, Melbourne",
+      "country": "",
+      "date": "15 March"
+    },
+    {
+      "round": 2,
+      "circuit": "Bahrain International Circuit, Sakhir",
+      "country": "",
+      "date": "12 April"
+    },
+    {
+      "round": 3,
+      "circuit": "Imola Circuit, Imola",
+      "country": "",
+      "date": "17 May"
+    },
+    {
+      "round": 4,
+      "circuit": "Circuit de Monaco, Monaco",
+      "country": "",
+      "date": "24 May"
+    },
+    {
+      "round": 5,
+      "circuit": "Circuit de Barcelona-Catalunya, Montmeló",
+      "country": "",
+      "date": "31 May"
+    },
+    {
+      "round": 6,
+      "circuit": "Red Bull Ring, Spielberg",
+      "country": "",
+      "date": "28 June"
+    },
+    {
+      "round": 7,
+      "circuit": "Silverstone Circuit, Silverstone",
+      "country": "",
+      "date": "5 July"
+    },
+    {
+      "round": 8,
+      "circuit": "Circuit de Spa-Francorchamps, Stavelot",
+      "country": "",
+      "date": "26 July"
+    },
+    {
+      "round": 9,
+      "circuit": "Hungaroring, Mogyoród",
+      "country": "",
+      "date": "2 August"
+    },
+    {
+      "round": 10,
+      "circuit": "Monza Circuit, Monza",
+      "country": "",
+      "date": "6 September"
+    }
+  ]
+}

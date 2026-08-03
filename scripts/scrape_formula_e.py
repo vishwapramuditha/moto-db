@@ -1,8 +1,12 @@
 import urllib.request
+import urllib.error
 import json
 import os
+import re
+import time
 import argparse
 from html.parser import HTMLParser
+from datetime import datetime
 
 class WikiParser(HTMLParser):
     def __init__(self):
@@ -40,7 +44,6 @@ class WikiParser(HTMLParser):
             self.in_cell = False
             # Clean up footnote references like [a], [1], and extra spaces
             text = ''.join(self.current_cell).strip()
-            import re
             text = re.sub(r'\[.*?\]', '', text).strip()
             self.current_row.append(text)
             
@@ -49,22 +52,43 @@ class WikiParser(HTMLParser):
             self.current_cell.append(data.replace('\n', ' '))
 
 
+def fetch_with_retry(url, retries=3):
+    """Fetch a URL with retry logic and exponential back-off."""
+    req = urllib.request.Request(url, headers={'User-Agent': 'MotoDBScraper/1.0'})
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode('utf-8', errors='ignore')
+        except urllib.error.HTTPError as e:
+            print(f"HTTP {e.code} fetching {url} (attempt {attempt + 1}/{retries})")
+            if attempt == retries - 1:
+                return None
+            time.sleep(2 ** attempt)
+        except Exception as e:
+            print(f"Error fetching {url}: {e} (attempt {attempt + 1}/{retries})")
+            if attempt == retries - 1:
+                return None
+            time.sleep(2 ** attempt)
+    return None
+
+
 def fetch_wiki_data(year):
     # Map the year to the Wikipedia season string
     # E.g. 2025 -> 2024-25, 2026 -> 2025-26
     prev_year = int(year) - 1
     # %E2%80%93 is the en dash URL encoded
     season_str = f"{prev_year}%E2%80%93{str(year)[-2:]}"
-    
+
     if int(year) <= 2020:
         url = f"https://en.wikipedia.org/wiki/{season_str}_Formula_E_Championship"
     else:
         url = f"https://en.wikipedia.org/wiki/{season_str}_Formula_E_World_Championship"
-        
+
     print(f"Fetching Formula E data from: {url}")
-    req = urllib.request.Request(url, headers={'User-Agent': 'MotoDBScraper/1.0'})
-    
-    html = urllib.request.urlopen(req).read().decode('utf-8', errors='ignore')
+    html = fetch_with_retry(url)
+    if not html:
+        print(f"Error fetching Formula E data for {year}")
+        return [], []
     parser = WikiParser()
     parser.feed(html)
     
@@ -148,9 +172,8 @@ def parse_schedule(table):
 
 def parse_results(table, schedule, year):
     results = []
-    
+
     # Build schedule keywords to detect double headers (E-Prix omitted)
-    import re
     eprix_keywords = set()
     for s in schedule:
         name = s.get('eprix', '').lower()
@@ -230,8 +253,7 @@ def main():
     parser.add_argument('--years', type=str, help="Comma-separated list of years to scrape (e.g. 2024,2025)")
     parser.add_argument('--all-time', action='store_true', help="Scrape all historical years (2015 to current)")
     args = parser.parse_args()
-    
-    from datetime import datetime
+
     current_year = datetime.now().year
     
     if args.all_time:

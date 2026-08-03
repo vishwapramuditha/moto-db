@@ -1,6 +1,9 @@
 import urllib.request
+import urllib.error
 import json
 import os
+import re
+import time
 import argparse
 from html.parser import HTMLParser
 from datetime import datetime
@@ -38,7 +41,6 @@ class WikiParser(HTMLParser):
             self.in_cell = False
             # Clean up footnote references like [a], [1]
             text = ''.join(self.current_cell).strip()
-            import re
             text = re.sub(r'\[.*?\]', '', text).strip()
             self.current_row.append(text)
             
@@ -47,16 +49,33 @@ class WikiParser(HTMLParser):
             self.current_cell.append(data.replace('\n', ' '))
 
 
+def fetch_with_retry(url, retries=3):
+    """Fetch a URL with retry logic and exponential back-off."""
+    req = urllib.request.Request(url, headers={'User-Agent': 'MotoDBScraper/1.0'})
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode('utf-8', errors='ignore')
+        except urllib.error.HTTPError as e:
+            print(f"HTTP {e.code} fetching {url} (attempt {attempt + 1}/{retries})")
+            if attempt == retries - 1:
+                return None
+            time.sleep(2 ** attempt)
+        except Exception as e:
+            print(f"Error fetching {url}: {e} (attempt {attempt + 1}/{retries})")
+            if attempt == retries - 1:
+                return None
+            time.sleep(2 ** attempt)
+    return None
+
+
 def fetch_wiki_data(year):
     url = f"https://en.wikipedia.org/wiki/{year}_World_Rally_Championship"
-        
+
     print(f"Fetching WRC data from: {url}")
-    req = urllib.request.Request(url, headers={'User-Agent': 'MotoDBScraper/1.0'})
-    
-    try:
-        html = urllib.request.urlopen(req).read().decode('utf-8', errors='ignore')
-    except Exception as e:
-        print(f"Error fetching data for {year}: {e}")
+    html = fetch_with_retry(url)
+    if not html:
+        print(f"Error fetching data for {year}")
         return [], []
         
     parser = WikiParser()

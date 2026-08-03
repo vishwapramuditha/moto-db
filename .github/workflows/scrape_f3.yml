@@ -1,21 +1,22 @@
-name: Scrape F1 Data
+﻿name: Scrape FIA Formula 3 Data
 
 on:
   schedule:
-    # Run every Monday at 02:00 UTC (after race weekends)
-    - cron: '0 2 * * 1'
+    # Run every Monday at 09:00 UTC (F3 races alongside F1 weekends)
+    - cron: '0 9 * * 1'
   workflow_dispatch:
     inputs:
       all_time:
-        description: 'Fetch all historical data'
+        description: 'Fetch all historical data (2019 onwards)'
         required: false
         type: boolean
         default: false
 
 concurrency:
-  group: scrape-f1
+  group: scrape-f3
   cancel-in-progress: false
 
+jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
@@ -30,16 +31,13 @@ concurrency:
         with:
           python-version: '3.11'
 
-      - name: Run F1 Scraper
+      - name: Run F3 Scraper
         run: |
           if [ "${{ github.event.inputs.all_time }}" == "true" ]; then
-            python scripts/scrape_f1.py --all-time
+            python scripts/scrape_f3.py --all-time
           else
-            python scripts/scrape_f1.py
+            python scripts/scrape_f3.py
           fi
-
-      - name: Compile Standings
-        run: python scripts/compile_standings.py --series f1
 
       - name: Validate Data
         run: python scripts/validate_data.py
@@ -48,13 +46,13 @@ concurrency:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add data/
-          
+
+          git add data/f3/
+
           # Check if there are changes to commit
           if git diff --cached --quiet; then
             echo "No new data changes to commit."
           else
-            git commit -m "auto(data): update F1 data [skip ci]"
+            git commit -m "auto(data): update F3 data [skip ci]"
             git push
           fi

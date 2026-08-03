@@ -70,6 +70,10 @@ You can query Moto-DB directly in your client-side (React, Vue, Swift, Android) 
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wrc/2025/schedule.json`
 *   **WRC Results (e.g. 2025)**:
     `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/wrc/2025/results.json`
+*   **FIA Formula 3 Schedule (e.g. 2026)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f3/2026/schedule.json`
+*   **FIA Formula 3 Results (e.g. 2026)**:
+    `https://cdn.jsdelivr.net/gh/vishwapramuditha/moto-db@main/data/f3/2026/results.json`
 
 ---
 
@@ -227,6 +231,16 @@ To scrape specific WRC years:
 python scripts/scrape_wrc.py --years 2024,2025
 ```
 
+#### FIA Formula 3
+By default, F3 pulls data for the current and previous year:
+```bash
+python scripts/scrape_f3.py
+```
+To scrape specific F3 years (FIA Formula 3 started in 2019):
+```bash
+python scripts/scrape_f3.py --years 2024,2025,2026
+```
+
 ### 3. Generate Session Schedules
 
 All `schedule.json` files contain a `sessions[]` array listing every on-track event in the race week (practices, qualifying, sprint, race) with accurate UTC times. Run `generate_sessions.py` after scraping to refresh the session data:
@@ -259,6 +273,23 @@ python scripts/generate_sessions.py --sports motogp --years 2026
 **WRC rally sessions**:
 `Shakedown → Day 1 Super Special Stage → Friday Stages → Saturday Stages → Sunday Power Stage`
 
+**F3 weekend sessions** (alongside F1):
+`Practice → Qualifying → Sprint Race → Feature Race`
+
+---
+
+### 4. Resolve Git Conflicts
+
+If two CI workflows push simultaneously and create merge conflicts in JSON data files, use the included helper to automatically keep the `HEAD` (local) version:
+
+```bash
+# Resolve conflicts in the default set of commonly-affected schedule files
+python scripts/resolve_conflicts.py
+
+# Resolve specific files
+python scripts/resolve_conflicts.py data/f1/2026/schedule.json data/wrc/2026/schedule.json
+```
+
 ---
 
 ## 🛣️ Roadmap: All Motorsports 🏍️🏎️
@@ -270,6 +301,7 @@ python scripts/generate_sessions.py --sports motogp --years 2026
 *   [x] **WEC** (Complete - Schedule via fiawec.com, Results/Standings via Wiki table parsing)
 *   [x] **Formula E** (Complete - Wiki HTML table parsing)
 *   [x] **World Rally Championship (WRC)** (Complete - Wiki HTML table parsing)
+*   [x] **FIA Formula 3** (Complete - Wiki HTML table parsing)
 
 Contributions are highly encouraged! If you want to build a scraper for WRC, integrate a new series, or correct data typos, feel free to open a Pull Request.
 
