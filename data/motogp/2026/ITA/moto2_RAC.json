@@ -9,7 +9,8 @@
       "name": "Autodromo Internazionale del Mugello",
       "legacy_id": 6,
       "place": "Mugello",
-      "nation": "ITA"
+      "nation": "ITA",
+      "events_id": null
     },
     "date_start": "2026-05-29",
     "date_end": "2026-05-31"
@@ -31,7 +32,7 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-08-03T07:28:20.710193Z",
+  "updated_at": "2026-08-10T05:26:15.425431Z",
   "results": [
     {
       "id": "b1735804-7a0c-4f7e-94a9-9c77385f4b1b",
@@ -407,7 +408,7 @@
       "position": 10,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz Öncü",
+        "full_name": "Deniz öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",

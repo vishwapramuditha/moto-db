@@ -9,7 +9,8 @@
       "name": "CREDITAS Autodrom Brno",
       "legacy_id": 11,
       "place": "Brno",
-      "nation": "CZE"
+      "nation": "CZE",
+      "events_id": null
     },
     "date_start": "2026-06-19",
     "date_end": "2026-06-21"
@@ -31,7 +32,7 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-08-03T07:28:40.087765Z",
+  "updated_at": "2026-08-10T05:26:34.927588Z",
   "results": [
     {
       "id": "3a2534a4-467d-4863-bd09-2c5f65e3722c",
@@ -735,7 +736,7 @@
       "position": 18,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz Öncü",
+        "full_name": "Deniz öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",

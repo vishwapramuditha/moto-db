@@ -9,7 +9,8 @@
       "name": "Balaton Park Circuit",
       "legacy_id": 115,
       "place": "\tBalatonfokajár",
-      "nation": "HUN"
+      "nation": "HUN",
+      "events_id": null
     },
     "date_start": "2026-06-05",
     "date_end": "2026-06-07"
@@ -31,7 +32,7 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-08-03T07:28:28.028173Z",
+  "updated_at": "2026-08-10T05:26:23.201517Z",
   "results": [
     {
       "id": "00ea6893-c1d8-4820-97fe-b59e972123b6",

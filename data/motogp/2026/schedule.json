@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-08-03T07:27:05.045738Z",
+  "updated_at": "2026-08-10T05:25:00.520080Z",
   "events": [
     {
       "country": {
@@ -37,7 +37,8 @@
         "name": "Chang International Circuit",
         "legacy_id": 106,
         "place": "Buriram",
-        "nation": "THA"
+        "nation": "THA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "PT Grand Prix of Thailand",
@@ -102,7 +103,8 @@
         "name": "Autódromo Internacional de Goiânia - Ayrton Senna",
         "legacy_id": 39,
         "place": "Goiania",
-        "nation": "BRA"
+        "nation": "BRA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Estrella Galicia 0,0 Grand Prix of Brazil",
@@ -167,7 +169,8 @@
         "name": "Circuit Of The Americas",
         "legacy_id": 101,
         "place": "Austin",
-        "nation": "USA"
+        "nation": "USA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Red Bull Grand Prix of The United States",
@@ -232,7 +235,8 @@
         "name": "Circuito de Jerez - Ángel Nieto",
         "legacy_id": 4,
         "place": "Jerez de la Frontera",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Estrella Galicia 0,0 Grand Prix of Spain",
@@ -297,7 +301,8 @@
         "name": "Le Mans",
         "legacy_id": 8,
         "place": "Le Mans",
-        "nation": "FRA"
+        "nation": "FRA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Michelin Grand Prix of France",
@@ -362,7 +367,8 @@
         "name": "Circuit de Barcelona-Catalunya",
         "legacy_id": 13,
         "place": "Barcelona",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Monster Energy Grand Prix of Catalonia",
@@ -427,7 +433,8 @@
         "name": "Autodromo Internazionale del Mugello",
         "legacy_id": 6,
         "place": "Mugello",
-        "nation": "ITA"
+        "nation": "ITA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "BREMBO GRAND PRIX OF ITALY ",
@@ -492,7 +499,8 @@
         "name": "Balaton Park Circuit",
         "legacy_id": 115,
         "place": "\tBalatonfokajár",
-        "nation": "HUN"
+        "nation": "HUN",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "GRAND PRIX OF HUNGARY ",
@@ -557,7 +565,8 @@
         "name": "CREDITAS Autodrom Brno",
         "legacy_id": 11,
         "place": "Brno",
-        "nation": "CZE"
+        "nation": "CZE",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "MONSTER ENERGY GRAND PRIX OF CZECHIA ",
@@ -622,7 +631,8 @@
         "name": "TT Circuit Assen",
         "legacy_id": 7,
         "place": "Assen",
-        "nation": "NED"
+        "nation": "NED",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "TISSOT GRAND PRIX OF THE NETHERLANDS ",
@@ -687,7 +697,8 @@
         "name": "Sachsenring",
         "legacy_id": 51,
         "place": "Sachsenring",
-        "nation": "GER"
+        "nation": "GER",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "LIQUI MOLY GRAND PRIX OF GERMANY ",
@@ -727,23 +738,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GBR/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GBR/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GBR/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GBR/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/GBR/table4.pdf",
           "menu_position": 2
         }
       },
@@ -752,7 +763,8 @@
         "name": "Silverstone Circuit",
         "legacy_id": 42,
         "place": "Silverstone",
-        "nation": "GBR"
+        "nation": "GBR",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN ",
@@ -782,7 +794,7 @@
       },
       "short_name": "GBR",
       "id": "6a16e0cb-ef4b-44b1-92e5-2e958cca0815",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
@@ -817,7 +829,8 @@
         "name": "MotorLand Aragón",
         "legacy_id": 100,
         "place": "Alcañiz",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "MICHELIN® GRAND PRIX OF ARAGON ",
@@ -882,7 +895,8 @@
         "name": "Misano World Circuit Marco Simoncelli",
         "legacy_id": 38,
         "place": "Misano Adriatico",
-        "nation": "ITA"
+        "nation": "ITA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Red Bull Grand Prix of San Marino and The Rimini Riviera",
@@ -947,7 +961,8 @@
         "name": "Red Bull Ring - Spielberg",
         "legacy_id": 24,
         "place": "Spielberg",
-        "nation": "AUT"
+        "nation": "AUT",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "GRAND PRIX OF AUSTRIA ",
@@ -1012,7 +1027,8 @@
         "name": "Mobility Resort Motegi",
         "legacy_id": 76,
         "place": "Motegi",
-        "nation": "JPN"
+        "nation": "JPN",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Motul Grand Prix of Japan",
@@ -1077,7 +1093,8 @@
         "name": "Pertamina Mandalika Circuit",
         "legacy_id": 111,
         "place": "Lombok",
-        "nation": "INA"
+        "nation": "INA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Pertamina Grand Prix of Indonesia",
@@ -1142,7 +1159,8 @@
         "name": "Phillip Island",
         "legacy_id": 32,
         "place": "Phillip Island",
-        "nation": "AUS"
+        "nation": "AUS",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "GRAND PRIX OF AUSTRALIA ",
@@ -1207,7 +1225,8 @@
         "name": "Petronas Sepang International Circuit",
         "legacy_id": 75,
         "place": "Sepang",
-        "nation": "MAL"
+        "nation": "MAL",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Petronas Grand Prix of Malaysia",
@@ -1272,7 +1291,8 @@
         "name": "Lusail International Circuit",
         "legacy_id": 93,
         "place": "Doha",
-        "nation": "QAT"
+        "nation": "QAT",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Qatar Airways Grand Prix of Qatar",
@@ -1337,7 +1357,8 @@
         "name": "Autódromo Internacional do Algarve",
         "legacy_id": 109,
         "place": "Portimao",
-        "nation": "POR"
+        "nation": "POR",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Repsol Grand Prix of Portugal",
@@ -1402,7 +1423,8 @@
         "name": "Circuit Ricardo Tormo",
         "legacy_id": 77,
         "place": "Cheste",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": false,
       "sponsored_name": "Motul Grand Prix of Valencia",
@@ -1467,7 +1489,8 @@
         "name": "Circuit Ricardo Tormo",
         "legacy_id": 77,
         "place": "Cheste",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "VALENCIA TEST",
@@ -1540,7 +1563,8 @@
         "name": "Petronas Sepang International Circuit",
         "legacy_id": 75,
         "place": "Sepang",
-        "nation": "MAL"
+        "nation": "MAL",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "SEPANG TEST",
@@ -1613,7 +1637,8 @@
         "name": "Circuito de Jerez - Ángel Nieto",
         "legacy_id": 4,
         "place": "Jerez de la Frontera",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "JEREZ MOTO3 TEST",
@@ -1670,7 +1695,8 @@
         "name": "Circuito de Jerez - Ángel Nieto",
         "legacy_id": 4,
         "place": "Jerez de la Frontera",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "JEREZ MOTO2 TEST",
@@ -1727,7 +1753,8 @@
         "name": "Chang International Circuit",
         "legacy_id": 106,
         "place": "Buriram",
-        "nation": "THA"
+        "nation": "THA",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "BURIRAM TEST",
@@ -1804,7 +1831,8 @@
         "name": "Circuito de Jerez - Ángel Nieto",
         "legacy_id": 4,
         "place": "Jerez de la Frontera",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "JEREZ TEST ",
@@ -1861,7 +1889,8 @@
         "name": "Circuit de Barcelona-Catalunya",
         "legacy_id": 13,
         "place": "Barcelona",
-        "nation": "SPA"
+        "nation": "SPA",
+        "events_id": null
       },
       "test": true,
       "sponsored_name": "BARCELONA TEST ",

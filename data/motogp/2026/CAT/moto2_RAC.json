@@ -9,7 +9,8 @@
       "name": "Circuit de Barcelona-Catalunya",
       "legacy_id": 13,
       "place": "Barcelona",
-      "nation": "SPA"
+      "nation": "SPA",
+      "events_id": null
     },
     "date_start": "2026-05-15",
     "date_end": "2026-05-17"
@@ -31,7 +32,7 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-08-03T07:28:10.343021Z",
+  "updated_at": "2026-08-10T05:26:05.131619Z",
   "results": [
     {
       "id": "af41aa13-37ba-43b0-a751-26cf841e5d3b",
@@ -899,7 +900,7 @@
       "position": 22,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz Öncü",
+        "full_name": "Deniz öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",

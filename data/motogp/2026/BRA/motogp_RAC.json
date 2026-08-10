@@ -9,7 +9,8 @@
       "name": "Autódromo Internacional de Goiânia - Ayrton Senna",
       "legacy_id": 39,
       "place": "Goiania",
-      "nation": "BRA"
+      "nation": "BRA",
+      "events_id": null
     },
     "date_start": "2026-03-20",
     "date_end": "2026-03-22"
@@ -31,7 +32,7 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-08-03T07:27:22.192738Z",
+  "updated_at": "2026-08-10T05:25:18.182640Z",
   "results": [
     {
       "id": "8f72550b-6a6e-49da-977d-7b7848702b6f",

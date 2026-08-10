@@ -9,7 +9,8 @@
       "name": "Circuito de Jerez - Ángel Nieto",
       "legacy_id": 4,
       "place": "Jerez de la Frontera",
-      "nation": "SPA"
+      "nation": "SPA",
+      "events_id": null
     },
     "date_start": "2026-04-24",
     "date_end": "2026-04-26"
@@ -31,7 +32,7 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-08-03T07:27:46.919183Z",
+  "updated_at": "2026-08-10T05:25:42.969656Z",
   "results": [
     {
       "id": "74f04ce2-8b11-4a07-a9b2-ef79a09a6137",
@@ -530,7 +531,7 @@
       "position": 13,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz Öncü",
+        "full_name": "Deniz öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",

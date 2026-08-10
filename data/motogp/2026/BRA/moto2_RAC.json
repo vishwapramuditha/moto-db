@@ -9,7 +9,8 @@
       "name": "Autódromo Internacional de Goiânia - Ayrton Senna",
       "legacy_id": 39,
       "place": "Goiania",
-      "nation": "BRA"
+      "nation": "BRA",
+      "events_id": null
     },
     "date_start": "2026-03-20",
     "date_end": "2026-03-22"
@@ -31,7 +32,7 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-08-03T07:27:24.646975Z",
+  "updated_at": "2026-08-10T05:25:20.681013Z",
   "results": [
     {
       "id": "5345e471-f24e-466f-9a0e-95462f317746",
@@ -817,7 +818,7 @@
       "position": 20,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz Öncü",
+        "full_name": "Deniz öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",

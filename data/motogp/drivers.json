@@ -469,6 +469,19 @@
       "riders_api_uuid": "96d9b2b4-a26b-427f-b76a-6e1294c341c0"
     },
     {
+      "id": "8eb7bb58-ad5e-4191-84d9-4fec986d62fb",
+      "full_name": "David Gonzalez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10702,
+      "riders_id": "cdeb7f8b-c40e-43dd-b3a7-e3a7a859781a",
+      "number": 71,
+      "riders_api_uuid": "cdeb7f8b-c40e-43dd-b3a7-e3a7a859781a"
+    },
+    {
       "id": "ed6ebad8-3f85-48db-8539-5cf755de6c30",
       "full_name": "David Muñoz",
       "country": {
@@ -483,7 +496,7 @@
     },
     {
       "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-      "full_name": "Deniz Öncü",
+      "full_name": "Deniz öncü",
       "country": {
         "iso": "TR",
         "name": "Türkiye",
@@ -1013,6 +1026,19 @@
       "riders_id": "562b1364-6251-4e41-8842-b43ba200b488",
       "number": 21,
       "riders_api_uuid": "562b1364-6251-4e41-8842-b43ba200b488"
+    },
+    {
+      "id": "055c69fa-ccac-4086-9ba8-28de9fb3e59f",
+      "full_name": "Kiattisak Singhapong",
+      "country": {
+        "iso": "TH",
+        "name": "Thailand",
+        "region_iso": ""
+      },
+      "legacy_id": 10488,
+      "riders_id": "d0314e82-c2fc-4e5d-9237-c3b2b65273f2",
+      "number": 85,
+      "riders_api_uuid": "d0314e82-c2fc-4e5d-9237-c3b2b65273f2"
     },
     {
       "id": "c0102774-07ed-4cea-9fba-68417dd25c35",
@@ -1821,6 +1847,6 @@
       "riders_api_uuid": "206c1c78-6d79-4e13-9568-5a90138ece2b"
     }
   ],
-  "total": 140,
-  "updated_at": "2026-08-03T07:29:02.932706Z"
+  "total": 142,
+  "updated_at": "2026-08-10T05:27:06.257747Z"
 }

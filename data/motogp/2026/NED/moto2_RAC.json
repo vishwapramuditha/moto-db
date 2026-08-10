@@ -9,7 +9,8 @@
       "name": "TT Circuit Assen",
       "legacy_id": 7,
       "place": "Assen",
-      "nation": "NED"
+      "nation": "NED",
+      "events_id": null
     },
     "date_start": "2026-06-26",
     "date_end": "2026-06-28"
@@ -31,7 +32,7 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-08-03T07:28:50.586680Z",
+  "updated_at": "2026-08-10T05:26:44.338105Z",
   "results": [
     {
       "id": "a9036a76-fc59-4245-8ceb-8c09ebdcc768",
@@ -1063,7 +1064,7 @@
       "position": null,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz Öncü",
+        "full_name": "Deniz öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",
