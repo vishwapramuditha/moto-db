@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-08-03T08:33:50.719947Z",
+  "updated_at": "2026-08-10T06:07:16.092930Z",
   "series": {
     "cup": [
       {
@@ -3263,7 +3263,7 @@
         "track_name": "Iowa Speedway",
         "date_scheduled": "2026-08-09T15:30:00",
         "race_date": "2026-08-09T15:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-09T14:30:00",
         "tunein_date": "2026-08-09T15:30:00",
         "scheduled_distance": 306.25,
         "actual_distance": 306.25,
@@ -3272,18 +3272,18 @@
         "stage_1_laps": 70,
         "stage_2_laps": 140,
         "stage_3_laps": 140,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 4023,
+        "pole_winner_speed": 134.191,
+        "number_of_lead_changes": 9,
+        "number_of_leaders": 6,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 45,
+        "average_speed": 103.337,
+        "total_race_time": "2:57:49",
+        "margin_of_victory": ".253",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Ty Gibbs has won the Iowa Corn 350 Powered by Ethanol, his second victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty:  Nos. 6, 9, 11 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3370,13 +3370,13 @@
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5386,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4368,
         "pole_winner_laptime": null
       },
       {
@@ -3540,7 +3540,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-20T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-21T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-21T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-22T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-08-22T14:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T15:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-23T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-23T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-23T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-23T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Infield Hospitality Tent",
+            "start_time_utc": "2026-08-23T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-23T18:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/185/301 Laps = 318.46 Miles",
+            "start_time_utc": "2026-08-23T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -6698,27 +6777,27 @@
         "track_name": "Iowa Speedway",
         "date_scheduled": "2026-08-08T17:00:00",
         "race_date": "2026-08-08T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-08T16:00:00",
         "tunein_date": "2026-08-08T17:00:00",
         "scheduled_distance": 218.75,
-        "actual_distance": 218.75,
+        "actual_distance": 227.5,
         "scheduled_laps": 250,
-        "actual_laps": 250,
+        "actual_laps": 260,
         "stage_1_laps": 60,
         "stage_2_laps": 60,
-        "stage_3_laps": 130,
-        "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "stage_3_laps": 140,
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 3884,
+        "pole_winner_speed": 131.436,
+        "number_of_lead_changes": 7,
+        "number_of_leaders": 7,
+        "number_of_cautions": 12,
+        "number_of_caution_laps": 72,
+        "average_speed": 83.418,
+        "total_race_time": "2:43:38",
+        "margin_of_victory": "0.343",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Carson Kvapil has won the HyVee Perks 250 at Iowa Speedway, his second victory in the NASCAR O'Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 02, 28 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -6787,13 +6866,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5430,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4467,
         "pole_winner_laptime": null
       },
       {
@@ -9448,7 +9527,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-20T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-21T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-21T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-21T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-08-21T20:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-21T21:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-22T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Fan Zone",
+            "start_time_utc": "2026-08-22T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-22T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-08-22T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-22T16:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T17:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 55/110/175 = 185.15 Miles",
+            "start_time_utc": "2026-08-22T17:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
