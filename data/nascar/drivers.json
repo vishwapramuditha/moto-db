@@ -5147,7 +5147,7 @@
       "full_name": "Mason Massey",
       "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2025/03/04/Chevrolet_2025-330x140.png",
       "team": "Youngs Motorsports",
-      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2023/02/20/mason-massey-hero.png",
+      "image": "https://www.nascar.com/wp-includes/images/media/default.png",
       "twitter": ""
     },
     {
@@ -6517,7 +6517,7 @@
       "full_name": "Sam Mayer",
       "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2025/03/04/Chevrolet_2025-330x140.png",
       "team": "Haas Factory Team",
-      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/18/Sam-Mayer-1.png",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2022/11/12/individual-driver-page.png",
       "twitter": ""
     },
     {
@@ -7732,5 +7732,5 @@
     }
   ],
   "total": 773,
-  "updated_at": "2026-08-10T06:07:13.176915Z"
+  "updated_at": "2026-08-17T05:27:56.347474Z"
 }

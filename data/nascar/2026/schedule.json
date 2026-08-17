@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-08-10T06:07:16.092930Z",
+  "updated_at": "2026-08-17T05:27:59.279327Z",
   "series": {
     "cup": [
       {
@@ -3390,7 +3390,7 @@
         "track_name": "Richmond Raceway",
         "date_scheduled": "2026-08-15T19:00:00",
         "race_date": "2026-08-15T19:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-15T19:00:00",
         "tunein_date": "2026-08-15T19:00:00",
         "scheduled_distance": 300,
         "actual_distance": 300,
@@ -3399,18 +3399,18 @@
         "stage_1_laps": 70,
         "stage_2_laps": 160,
         "stage_3_laps": 170,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 4023,
+        "pole_winner_speed": 121.485,
+        "number_of_lead_changes": 29,
+        "number_of_leaders": 10,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 31,
+        "average_speed": 98.343,
+        "total_race_time": "3:03:02",
+        "margin_of_victory": ".392",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Joey Logano won the Cook Out 400 at Richmond Raceway, his 39th career NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 51 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3497,13 +3497,13 @@
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 1544,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 3859,
         "pole_winner_laptime": null
       },
       {
@@ -3568,13 +3568,13 @@
           {
             "event_name": "Practice (Impound)",
             "notes": "All Entries",
-            "start_time_utc": "2026-08-22T14:30:00",
+            "start_time_utc": "2026-08-22T14:35:00",
             "run_type": 1
           },
           {
             "event_name": "Qualifying (Impound)",
             "notes": " ",
-            "start_time_utc": "2026-08-22T15:35:00",
+            "start_time_utc": "2026-08-22T15:40:00",
             "run_type": 2
           },
           {
@@ -3782,7 +3782,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-04T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Hauler Parade",
+            "notes": "",
+            "start_time_utc": "2026-09-04T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-04T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-05T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-05T20:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "",
+            "start_time_utc": "2026-09-05T21:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-06T17:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-06T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-06T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-06T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Cup Series Garage Area Tent",
+            "start_time_utc": "2026-09-06T19:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-06T20:20:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 115/230/367 Laps =  501.32 Miles ",
+            "start_time_utc": "2026-09-06T21:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -3830,7 +3909,80 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-11T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-11T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-12T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-12T19:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-12T20:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": " ",
+            "start_time_utc": "2026-09-13T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-13T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-13T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-13T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "The Drivers Meeting Room",
+            "start_time_utc": "2026-09-13T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Fan Zone Stage",
+            "start_time_utc": "2026-09-13T18:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/140/240 Laps = 300 Miles",
+            "start_time_utc": "2026-09-13T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -3878,7 +4030,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-18T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-18T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-18T20:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T21:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Cars & Equipment Behind Haulers",
+            "notes": "",
+            "start_time_utc": "2026-09-18T22:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-19T18:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-19T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "VIP GARAGE ACCESS PERMITTED",
+            "notes": "Infield",
+            "start_time_utc": "2026-09-19T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-19T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Garage Bar",
+            "start_time_utc": "2026-09-19T22:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-19T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 125/250/500 Laps = 266.5 Miles",
+            "start_time_utc": "2026-09-19T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -3926,7 +4157,86 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-24T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-25T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-25T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-26T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-26T14:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-26T15:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-27T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-27T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-27T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-27T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Tent Behind Media Center",
+            "start_time_utc": "2026-09-27T17:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-27T18:15:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 80/165/267 Laps = 400.5 Miles",
+            "start_time_utc": "2026-09-27T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -7012,7 +7322,74 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-04T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-09-04T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-04T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-04T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-05T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-09-05T17:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-05T18:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Move Vehicles to Pit Road",
+            "notes": "",
+            "start_time_utc": "2026-09-05T22:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-05T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-05T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/147 Laps = 200.8 Miles",
+            "start_time_utc": "2026-09-05T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -7060,7 +7437,74 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-11T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-11T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-11T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-11T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-12T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Cup Series Garage - Fan Walk Side",
+            "start_time_utc": "2026-09-12T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-09-12T17:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "",
+            "start_time_utc": "2026-09-12T18:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-12T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Fan Zone Stage",
+            "start_time_utc": "2026-09-12T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/180 Laps = 225 Miles",
+            "start_time_utc": "2026-09-12T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -7108,7 +7552,62 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-18T11:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area / Pit Road",
+            "start_time_utc": "2026-09-18T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-18T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T18:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T19:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-18T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 85/170/300 Laps = 159.9 Miles",
+            "start_time_utc": "2026-09-18T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -9382,15 +9881,15 @@
         "race_id": 5684,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "Black's Tire 250 presented by BTS Rewards at Richmond Raceway",
+        "race_name": "Black's Tire 250 presented by BTS Rewards",
         "race_type_id": 1,
         "restrictor_plate": true,
         "track_id": 26,
         "track_name": "Richmond Raceway",
         "date_scheduled": "2026-08-14T19:30:00",
         "race_date": "2026-08-14T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
-        "tunein_date": "2026-08-14T19:30:00",
+        "qualifying_date": "2026-08-15T12:00:00",
+        "tunein_date": "2026-08-15T12:00:00",
         "scheduled_distance": 187.5,
         "actual_distance": 187.5,
         "scheduled_laps": 250,
@@ -9399,17 +9898,17 @@
         "stage_2_laps": 70,
         "stage_3_laps": 110,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4469,
+        "pole_winner_speed": 116.54,
+        "number_of_lead_changes": 6,
+        "number_of_leaders": 4,
+        "number_of_cautions": 3,
+        "number_of_caution_laps": 24,
+        "average_speed": 93.155,
+        "total_race_time": "2:00:46",
+        "margin_of_victory": "1.313",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kaden Honeycutt won the Black's Tire 250 presented by BTS Rewards at Richmond Raceway, his second career NASCAR CRAFTSMAN Truck Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 62 (driver change).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -9474,23 +9973,29 @@
             "run_type": 0
           },
           {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-15T14:00:00",
+            "run_type": 0
+          },
+          {
             "event_name": "Race",
             "notes": "Stages 70/140/250 Laps = 187.5 Miles",
-            "start_time_utc": "2026-08-14T23:30:00",
+            "start_time_utc": "2026-08-15T16:00:00",
             "run_type": 3
           }
         ],
         "radio_broadcaster": "NRN",
-        "television_broadcaster": "FS1",
+        "television_broadcaster": "FS2",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5004,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4427,
         "pole_winner_laptime": null
       },
       {
@@ -9553,6 +10058,12 @@
             "run_type": 0
           },
           {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-08-21T15:30:00",
+            "run_type": 0
+          },
+          {
             "event_name": "Practice",
             "notes": " ",
             "start_time_utc": "2026-08-21T20:00:00",
@@ -9580,12 +10091,6 @@
             "event_name": "Garage Hours",
             "notes": "",
             "start_time_utc": "2026-08-22T15:30:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Rookie Meeting",
-            "notes": "Series Inspection Trailer",
-            "start_time_utc": "2026-08-22T16:00:00",
             "run_type": 0
           },
           {
@@ -9654,7 +10159,68 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-17T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-17T13:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-17T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-09-17T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-09-17T19:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-17T20:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-17T23:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-17T23:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 65/130/250 Laps = 133.25 Miles",
+            "start_time_utc": "2026-09-18T00:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
@@ -9702,7 +10268,74 @@
         "race_comments": "",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-24T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-25T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-09-25T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-25T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-09-25T21:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-25T22:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-26T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-09-26T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-26T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-26T16:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 30/60/134 Laps = 201 Miles",
+            "start_time_utc": "2026-09-26T17:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
