@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-08-10T07:47:29.385072Z",
+  "updated_at": "2026-08-17T07:01:20.752995Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -138,9 +138,9 @@
       "name": "Grand Prix of Ontario",
       "short_name": "Grand Prix of Ontario",
       "date": "2026-08-16T16:00Z",
-      "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, August 16th at 12:00 PM EDT",
-      "completed": false,
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
       "broadcast": "FOX"
     },
     {
