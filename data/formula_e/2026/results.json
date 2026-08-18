@@ -103,5 +103,19 @@
     "pole_position": "Edoardo Mortara",
     "winning_driver": "Nyck de Vries",
     "winning_team": "Mahindra Racing"
+  },
+  {
+    "round": "16",
+    "eprix": "London",
+    "pole_position": "Pascal Wehrlein",
+    "winning_driver": "Pascal Wehrlein",
+    "winning_team": "Porsche Formula E Team"
+  },
+  {
+    "round": "17",
+    "eprix": "London",
+    "pole_position": "Nyck de Vries",
+    "winning_driver": "Taylor Barnard",
+    "winning_team": "DS Penske"
   }
 ]

@@ -3,21 +3,21 @@
   "driverStandings": [
     {
       "position": 1,
+      "wins": 3,
+      "driver_name": "Pascal Wehrlein",
+      "team_name": "Porsche Formula E Team"
+    },
+    {
+      "position": 2,
       "wins": 2,
       "driver_name": "Jake Dennis",
       "team_name": "Andretti Formula E"
     },
     {
-      "position": 2,
+      "position": 3,
       "wins": 2,
       "driver_name": "Mitch Evans",
       "team_name": "Jaguar TCS Racing"
-    },
-    {
-      "position": 3,
-      "wins": 2,
-      "driver_name": "Pascal Wehrlein",
-      "team_name": "Porsche Formula E Team"
     },
     {
       "position": 4,
@@ -60,6 +60,12 @@
       "wins": 1,
       "driver_name": "Dan Ticktum",
       "team_name": "Cupra Kiro"
+    },
+    {
+      "position": 11,
+      "wins": 1,
+      "driver_name": "Taylor Barnard",
+      "team_name": "DS Penske"
     }
   ],
   "teamStandings": [
@@ -70,7 +76,7 @@
     },
     {
       "position": 2,
-      "wins": 3,
+      "wins": 4,
       "team_name": "Porsche Formula E Team"
     },
     {
@@ -102,7 +108,12 @@
       "position": 8,
       "wins": 1,
       "team_name": "Cupra Kiro"
+    },
+    {
+      "position": 9,
+      "wins": 1,
+      "team_name": "DS Penske"
     }
   ],
-  "updated_at": "2026-08-11T08:56:33.173781+00:00"
+  "updated_at": "2026-08-18T08:36:48.027677+00:00"
 }
