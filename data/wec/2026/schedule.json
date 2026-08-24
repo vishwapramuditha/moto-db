@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 9,
-  "updated_at": "2026-08-17T07:49:13.200423Z",
+  "updated_at": "2026-08-24T07:55:11.768701Z",
   "races": [
     {
       "race_id": "official-prologue-imola-2026",
@@ -455,7 +455,7 @@
       "completed": false,
       "startDate": "2026-10-16T00:00:00+02:00",
       "endDate": "2026-10-18T23:59:00+02:00",
-      "date": "2026-10-18T11:30:00+02:00",
+      "date": "2026-10-18T12:00:00+02:00",
       "location": {
         "venue": "Barcelona",
         "address": "Barcelona, ESP"
@@ -481,31 +481,31 @@
         },
         {
           "name": "Qualifying - LMGT3 - 6 Hours of Barcelona",
-          "date": "2026-10-17T14:30:00+02:00",
+          "date": "2026-10-17T11:50:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Hyperpole - LMGT3 - 6 Hours of Barcelona",
-          "date": "2026-10-17T14:50:00+02:00",
+          "date": "2026-10-17T12:10:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Qualifying - HYPERCAR - 6 Hours of Barcelona",
-          "date": "2026-10-17T15:10:00+02:00",
+          "date": "2026-10-17T12:30:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Hyperpole - HYPERCAR - 6 Hours of Barcelona",
-          "date": "2026-10-17T15:30:00+02:00",
+          "date": "2026-10-17T12:50:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Race - 6 Hours of Barcelona",
-          "date": "2026-10-18T11:30:00+02:00",
+          "date": "2026-10-18T12:00:00+02:00",
           "status": "EventScheduled",
           "completed": false
         }
@@ -520,7 +520,7 @@
       "completed": false,
       "startDate": "2026-11-06T00:00:00+01:00",
       "endDate": "2026-11-08T23:59:00+01:00",
-      "date": "2026-11-08T11:30:00+01:00",
+      "date": "2026-11-08T11:00:00+01:00",
       "location": {
         "venue": "Monza",
         "address": "Monza, ITA"
@@ -546,31 +546,31 @@
         },
         {
           "name": "Qualifying - LMGT3 - 6 Hours of Monza",
-          "date": "2026-11-07T14:30:00+01:00",
+          "date": "2026-11-07T14:20:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Hyperpole - LMGT3 - 6 Hours of Monza",
-          "date": "2026-11-07T14:50:00+01:00",
+          "date": "2026-11-07T14:40:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Qualifying - HYPERCAR - 6 Hours of Monza",
-          "date": "2026-11-07T15:10:00+01:00",
+          "date": "2026-11-07T15:00:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Hyperpole - HYPERCAR - 6 Hours of Monza",
-          "date": "2026-11-07T15:30:00+01:00",
+          "date": "2026-11-07T15:20:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Race - 6 Hours of Monza",
-          "date": "2026-11-08T11:30:00+01:00",
+          "date": "2026-11-08T11:00:00+01:00",
           "status": "EventScheduled",
           "completed": false
         }
