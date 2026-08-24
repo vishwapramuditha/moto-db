@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_rounds": 23,
-  "updated_at": "2026-08-17T02:52:00.381009Z",
+  "updated_at": "2026-08-24T02:54:30.810612Z",
   "races": [
     {
       "season": "2026",
@@ -548,19 +548,19 @@
       "time": "07:00:00Z",
       "FirstPractice": {
         "date": "2026-10-02",
-        "time": "02:00:00Z"
+        "time": "04:30:00Z"
       },
       "SecondPractice": {
         "date": "2026-10-02",
-        "time": "06:00:00Z"
+        "time": "08:00:00Z"
       },
       "ThirdPractice": {
         "date": "2026-10-03",
-        "time": "06:00:00Z"
+        "time": "04:30:00Z"
       },
       "Qualifying": {
         "date": "2026-10-03",
-        "time": "09:00:00Z"
+        "time": "08:00:00Z"
       }
     },
     {

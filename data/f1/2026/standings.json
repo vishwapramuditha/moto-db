@@ -3,7 +3,7 @@
   "driverStandings": [
     {
       "position": 1,
-      "points": 198.0,
+      "points": 216.0,
       "wins": 6,
       "Driver": {
         "driverId": "antonelli",
@@ -32,12 +32,13 @@
         158.0,
         158.0,
         183.0,
-        198.0
+        198.0,
+        216.0
       ]
     },
     {
       "position": 2,
-      "points": 151.0,
+      "points": 163.0,
       "wins": 1,
       "Driver": {
         "driverId": "hamilton",
@@ -66,12 +67,13 @@
         114.0,
         129.0,
         141.0,
-        151.0
+        151.0,
+        163.0
       ]
     },
     {
       "position": 3,
-      "points": 134.0,
+      "points": 149.0,
       "wins": 2,
       "Driver": {
         "driverId": "russell",
@@ -100,12 +102,48 @@
         110.0,
         128.0,
         128.0,
-        134.0
+        134.0,
+        149.0
       ]
     },
     {
       "position": 4,
-      "points": 117.0,
+      "points": 127.0,
+      "wins": 2,
+      "Driver": {
+        "driverId": "norris",
+        "permanentNumber": "1",
+        "code": "NOR",
+        "url": "http://en.wikipedia.org/wiki/Lando_Norris",
+        "givenName": "Lando",
+        "familyName": "Norris",
+        "dateOfBirth": "1999-11-13",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "pointsProgression": [
+        10.0,
+        10.0,
+        20.0,
+        38.0,
+        38.0,
+        38.0,
+        53.0,
+        59.0,
+        71.0,
+        77.0,
+        102.0,
+        127.0
+      ]
+    },
+    {
+      "position": 5,
+      "points": 127.0,
       "wins": 1,
       "Driver": {
         "driverId": "leclerc",
@@ -134,41 +172,8 @@
         62.0,
         87.0,
         105.0,
-        117.0
-      ]
-    },
-    {
-      "position": 5,
-      "points": 102.0,
-      "wins": 1,
-      "Driver": {
-        "driverId": "norris",
-        "permanentNumber": "1",
-        "code": "NOR",
-        "url": "http://en.wikipedia.org/wiki/Lando_Norris",
-        "givenName": "Lando",
-        "familyName": "Norris",
-        "dateOfBirth": "1999-11-13",
-        "nationality": "British"
-      },
-      "Constructor": {
-        "constructorId": "mclaren",
-        "url": "https://en.wikipedia.org/wiki/McLaren",
-        "name": "McLaren",
-        "nationality": "British"
-      },
-      "pointsProgression": [
-        10.0,
-        10.0,
-        20.0,
-        38.0,
-        38.0,
-        38.0,
-        53.0,
-        59.0,
-        71.0,
-        77.0,
-        102.0
+        117.0,
+        127.0
       ]
     },
     {
@@ -202,12 +207,13 @@
         67.0,
         67.0,
         82.0,
+        100.0,
         100.0
       ]
     },
     {
       "position": 7,
-      "points": 75.0,
+      "points": 83.0,
       "wins": 0,
       "Driver": {
         "driverId": "piastri",
@@ -236,7 +242,8 @@
         65.0,
         65.0,
         75.0,
-        75.0
+        75.0,
+        83.0
       ]
     },
     {
@@ -270,46 +277,13 @@
         42.0,
         52.0,
         60.0,
+        68.0,
         68.0
       ]
     },
     {
       "position": 9,
-      "points": 41.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "gasly",
-        "permanentNumber": "10",
-        "code": "GAS",
-        "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
-        "givenName": "Pierre",
-        "familyName": "Gasly",
-        "dateOfBirth": "1996-02-07",
-        "nationality": "French"
-      },
-      "Constructor": {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      },
-      "pointsProgression": [
-        1.0,
-        9.0,
-        15.0,
-        15.0,
-        19.0,
-        34.0,
-        40.0,
-        40.0,
-        41.0,
-        41.0,
-        41.0
-      ]
-    },
-    {
-      "position": 10,
-      "points": 40.0,
+      "points": 46.0,
       "wins": 0,
       "Driver": {
         "driverId": "lawson",
@@ -338,7 +312,43 @@
         28.0,
         36.0,
         36.0,
-        40.0
+        40.0,
+        46.0
+      ]
+    },
+    {
+      "position": 10,
+      "points": 42.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "gasly",
+        "permanentNumber": "10",
+        "code": "GAS",
+        "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
+        "givenName": "Pierre",
+        "familyName": "Gasly",
+        "dateOfBirth": "1996-02-07",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      },
+      "pointsProgression": [
+        1.0,
+        9.0,
+        15.0,
+        15.0,
+        19.0,
+        34.0,
+        40.0,
+        40.0,
+        41.0,
+        41.0,
+        41.0,
+        42.0
       ]
     },
     {
@@ -372,6 +382,7 @@
         13.0,
         19.0,
         21.0,
+        22.0,
         22.0
       ]
     },
@@ -406,6 +417,7 @@
         16.0,
         18.0,
         19.0,
+        19.0,
         19.0
       ]
     },
@@ -434,6 +446,7 @@
         16.0,
         16.0,
         16.0,
+        17.0,
         17.0,
         17.0,
         17.0,
@@ -474,11 +487,47 @@
         2.0,
         6.0,
         10.0,
+        10.0,
         10.0
       ]
     },
     {
       "position": 15,
+      "points": 6.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "hulkenberg",
+        "permanentNumber": "27",
+        "code": "HUL",
+        "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
+        "givenName": "Nico",
+        "familyName": "Hülkenberg",
+        "dateOfBirth": "1987-08-19",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "audi",
+        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
+        "name": "Audi",
+        "nationality": "German"
+      },
+      "pointsProgression": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.0,
+        6.0
+      ]
+    },
+    {
+      "position": 16,
       "points": 6.0,
       "wins": 0,
       "Driver": {
@@ -508,11 +557,12 @@
         6.0,
         6.0,
         6.0,
+        6.0,
         6.0
       ]
     },
     {
-      "position": 16,
+      "position": 17,
       "points": 5.0,
       "wins": 0,
       "Driver": {
@@ -542,11 +592,12 @@
         5.0,
         5.0,
         5.0,
+        5.0,
         5.0
       ]
     },
     {
-      "position": 17,
+      "position": 18,
       "points": 3.0,
       "wins": 0,
       "Driver": {
@@ -576,46 +627,13 @@
         3.0,
         3.0,
         3.0,
+        3.0,
         3.0
       ]
     },
     {
-      "position": 18,
-      "points": 2.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "hulkenberg",
-        "permanentNumber": "27",
-        "code": "HUL",
-        "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
-        "givenName": "Nico",
-        "familyName": "Hülkenberg",
-        "dateOfBirth": "1987-08-19",
-        "nationality": "German"
-      },
-      "Constructor": {
-        "constructorId": "audi",
-        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-        "name": "Audi",
-        "nationality": "German"
-      },
-      "pointsProgression": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        2.0
-      ]
-    },
-    {
       "position": 19,
-      "points": 1.0,
+      "points": 3.0,
       "wins": 0,
       "Driver": {
         "driverId": "alonso",
@@ -644,11 +662,47 @@
         1.0,
         1.0,
         1.0,
-        1.0
+        1.0,
+        3.0
       ]
     },
     {
       "position": 20,
+      "points": 0.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "tsunoda",
+        "permanentNumber": "22",
+        "code": "TSU",
+        "url": "http://en.wikipedia.org/wiki/Yuki_Tsunoda",
+        "givenName": "Yuki",
+        "familyName": "Tsunoda",
+        "dateOfBirth": "2000-05-11",
+        "nationality": "Japanese"
+      },
+      "Constructor": {
+        "constructorId": "rb",
+        "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      },
+      "pointsProgression": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "position": 21,
       "points": 0.0,
       "wins": 0,
       "Driver": {
@@ -678,11 +732,12 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
     {
-      "position": 21,
+      "position": 22,
       "points": 0.0,
       "wins": 0,
       "Driver": {
@@ -712,11 +767,12 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
     {
-      "position": 22,
+      "position": 23,
       "points": 0.0,
       "wins": 0,
       "Driver": {
@@ -746,6 +802,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
@@ -753,7 +810,7 @@
   "constructorStandings": [
     {
       "position": 1,
-      "points": 332.0,
+      "points": 365.0,
       "wins": 8,
       "Constructor": {
         "constructorId": "mercedes",
@@ -772,12 +829,13 @@
         268.0,
         286.0,
         311.0,
-        332.0
+        332.0,
+        365.0
       ]
     },
     {
       "position": 2,
-      "points": 268.0,
+      "points": 290.0,
       "wins": 2,
       "Constructor": {
         "constructorId": "ferrari",
@@ -796,13 +854,14 @@
         176.0,
         216.0,
         246.0,
-        268.0
+        268.0,
+        290.0
       ]
     },
     {
       "position": 3,
-      "points": 177.0,
-      "wins": 1,
+      "points": 210.0,
+      "wins": 2,
       "Constructor": {
         "constructorId": "mclaren",
         "url": "https://en.wikipedia.org/wiki/McLaren",
@@ -820,12 +879,13 @@
         124.0,
         136.0,
         152.0,
-        177.0
+        177.0,
+        210.0
       ]
     },
     {
       "position": 4,
-      "points": 168.0,
+      "points": 174.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "red_bull",
@@ -844,7 +904,8 @@
         109.0,
         119.0,
         142.0,
-        168.0
+        168.0,
+        174.0
       ]
     },
     {
@@ -868,12 +929,13 @@
         41.0,
         55.0,
         57.0,
+        62.0,
         62.0
       ]
     },
     {
       "position": 6,
-      "points": 60.0,
+      "points": 61.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "alpine",
@@ -892,7 +954,8 @@
         56.0,
         59.0,
         60.0,
-        60.0
+        60.0,
+        61.0
       ]
     },
     {
@@ -916,12 +979,13 @@
         20.0,
         20.0,
         20.0,
+        20.0,
         20.0
       ]
     },
     {
       "position": 8,
-      "points": 12.0,
+      "points": 16.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "audi",
@@ -940,7 +1004,8 @@
         2.0,
         6.0,
         10.0,
-        12.0
+        12.0,
+        16.0
       ]
     },
     {
@@ -964,12 +1029,13 @@
         11.0,
         11.0,
         11.0,
+        11.0,
         11.0
       ]
     },
     {
       "position": 10,
-      "points": 1.0,
+      "points": 3.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "aston_martin",
@@ -988,7 +1054,8 @@
         1.0,
         1.0,
         1.0,
-        1.0
+        1.0,
+        3.0
       ]
     },
     {
@@ -1012,9 +1079,10 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
   ],
-  "updated_at": "2026-08-17T02:52:18.286843+00:00"
+  "updated_at": "2026-08-24T02:54:46.844525+00:00"
 }
