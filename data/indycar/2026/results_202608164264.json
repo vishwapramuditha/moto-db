@@ -5,11 +5,11 @@
   "date": "2026-08-16T16:00Z",
   "status": "STATUS_FINAL",
   "status_detail": "Final",
-  "updated_at": "2026-08-17T07:01:20.757780Z",
+  "updated_at": "2026-08-24T07:04:22.085399Z",
   "results": [
     {
       "position": 1,
-      "winner": false,
+      "winner": true,
       "driver_id": "4622",
       "driver_name": "Marcus Ericsson",
       "driver_short_name": "M. Ericsson",

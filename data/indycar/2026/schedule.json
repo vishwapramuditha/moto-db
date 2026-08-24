@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-08-17T07:01:20.752995Z",
+  "updated_at": "2026-08-24T07:04:22.077928Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -148,9 +148,9 @@
       "name": "Grand Prix of Washington, D.C.",
       "short_name": "Grand Prix of Washington, D.C.",
       "date": "2026-08-23T17:00Z",
-      "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, August 23rd at 1:00 PM EDT",
-      "completed": false,
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
       "broadcast": "FOX"
     },
     {
