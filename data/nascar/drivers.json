@@ -3938,7 +3938,7 @@
       "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2020/04/06/Toyota-180x180.png",
       "team": "Legacy Motor Club",
       "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/01/26/JHN-Helmet_resized.png",
-      "twitter": ""
+      "twitter": "@JHNemechek"
     },
     {
       "id": 3891,
@@ -4028,7 +4028,7 @@
       "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2026/06/10/Ford_Racing_Oval-330x124.png",
       "team": "",
       "image": "https://www.nascar.com/wp-includes/images/media/default.png",
-      "twitter": "@JohnnySauter"
+      "twitter": ""
     },
     {
       "id": 3637,
@@ -7732,5 +7732,5 @@
     }
   ],
   "total": 773,
-  "updated_at": "2026-08-17T05:27:56.347474Z"
+  "updated_at": "2026-08-24T05:31:21.011315Z"
 }
