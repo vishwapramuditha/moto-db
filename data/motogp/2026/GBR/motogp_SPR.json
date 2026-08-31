@@ -23,7 +23,7 @@
   "session": {
     "id": "65e6b54e-bd17-4a09-ac8d-848c2be654db",
     "type": "SPR",
-    "date": "2026-08-08T16:00:00+00:00",
+    "date": "2026-08-08T16:05:00+00:00",
     "condition": {
       "track": "Dry",
       "air": "26º",
@@ -32,7 +32,7 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-08-24T04:43:29.721183Z",
+  "updated_at": "2026-08-31T10:34:49.086955Z",
   "results": [
     {
       "id": "80f78ce4-01ec-45be-93d6-73c1d5cdbdb7",

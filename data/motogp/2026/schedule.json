@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-08-24T04:41:50.378710Z",
+  "updated_at": "2026-08-31T10:33:03.672540Z",
   "events": [
     {
       "country": {
@@ -804,23 +804,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/ARA/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/ARA/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/ARA/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/ARA/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/ARA/table4.pdf",
           "menu_position": 2
         }
       },
@@ -860,7 +860,7 @@
       },
       "short_name": "ARA",
       "id": "23b7a561-17e4-4aa6-9be3-2529a5b69938",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
