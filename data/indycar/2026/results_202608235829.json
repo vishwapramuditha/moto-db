@@ -5,11 +5,11 @@
   "date": "2026-08-23T17:00Z",
   "status": "STATUS_FINAL",
   "status_detail": "Final",
-  "updated_at": "2026-08-24T07:04:22.085893Z",
+  "updated_at": "2026-08-31T13:06:52.751385Z",
   "results": [
     {
       "position": 1,
-      "winner": false,
+      "winner": true,
       "driver_id": "5704",
       "driver_name": "Kyle Kirkwood",
       "driver_short_name": "K. Kirkwood",

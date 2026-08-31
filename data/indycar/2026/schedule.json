@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-08-24T07:04:22.077928Z",
+  "updated_at": "2026-08-31T13:06:52.747041Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -158,19 +158,19 @@
       "name": "Grand Prix of Milwaukee Race 1",
       "short_name": "Grand Prix of Milwaukee Race 1",
       "date": "2026-08-29T18:30Z",
-      "status": "STATUS_SCHEDULED",
-      "status_detail": "Sat, August 29th at 2:30 PM EDT",
-      "completed": false,
-      "broadcast": "FOX"
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
+      "broadcast": "FS1"
     },
     {
       "event_id": "202608304253",
       "name": "Grand Prix of Milwaukee Race 2",
       "short_name": "Grand Prix of Milwaukee Race 2",
       "date": "2026-08-30T17:00Z",
-      "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, August 30th at 1:00 PM EDT",
-      "completed": false,
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
       "broadcast": "FOX"
     },
     {
