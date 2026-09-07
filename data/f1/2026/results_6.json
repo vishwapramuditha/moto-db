@@ -15,7 +15,7 @@
   },
   "date": "2026-06-07",
   "time": "13:00:00Z",
-  "updated_at": "2026-08-31T07:50:02.757870Z",
+  "updated_at": "2026-09-07T06:44:54.667573Z",
   "results": [
     {
       "number": "12",
@@ -90,46 +90,10 @@
       }
     },
     {
-      "number": "10",
+      "number": "6",
       "position": "3",
       "positionText": "3",
       "points": "15",
-      "Driver": {
-        "driverId": "gasly",
-        "permanentNumber": "10",
-        "code": "GAS",
-        "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
-        "givenName": "Pierre",
-        "familyName": "Gasly",
-        "dateOfBirth": "1996-02-07",
-        "nationality": "French"
-      },
-      "Constructor": {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      },
-      "grid": "9",
-      "laps": "78",
-      "status": "Finished",
-      "Time": {
-        "millis": "8631612",
-        "time": "+20.369"
-      },
-      "FastestLap": {
-        "rank": "3",
-        "lap": "77",
-        "Time": {
-          "time": "1:15.497"
-        }
-      }
-    },
-    {
-      "number": "6",
-      "position": "4",
-      "positionText": "4",
-      "points": "12",
       "Driver": {
         "driverId": "hadjar",
         "permanentNumber": "6",
@@ -163,9 +127,9 @@
     },
     {
       "number": "81",
-      "position": "5",
-      "positionText": "5",
-      "points": "10",
+      "position": "4",
+      "positionText": "4",
+      "points": "12",
       "Driver": {
         "driverId": "piastri",
         "permanentNumber": "81",
@@ -199,9 +163,9 @@
     },
     {
       "number": "30",
-      "position": "6",
-      "positionText": "6",
-      "points": "8",
+      "position": "5",
+      "positionText": "5",
+      "points": "10",
       "Driver": {
         "driverId": "lawson",
         "permanentNumber": "30",
@@ -235,9 +199,9 @@
     },
     {
       "number": "41",
-      "position": "7",
-      "positionText": "7",
-      "points": "6",
+      "position": "6",
+      "positionText": "6",
+      "points": "8",
       "Driver": {
         "driverId": "arvid_lindblad",
         "permanentNumber": "41",
@@ -266,6 +230,42 @@
         "lap": "76",
         "Time": {
           "time": "1:15.908"
+        }
+      }
+    },
+    {
+      "number": "10",
+      "position": "7",
+      "positionText": "7",
+      "points": "6",
+      "Driver": {
+        "driverId": "gasly",
+        "permanentNumber": "10",
+        "code": "GAS",
+        "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
+        "givenName": "Pierre",
+        "familyName": "Gasly",
+        "dateOfBirth": "1996-02-07",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      },
+      "grid": "9",
+      "laps": "78",
+      "status": "Finished",
+      "Time": {
+        "millis": "8641612",
+        "time": "+30.369"
+      },
+      "FastestLap": {
+        "rank": "3",
+        "lap": "77",
+        "Time": {
+          "time": "1:15.497"
         }
       }
     },
