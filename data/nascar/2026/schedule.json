@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-08-31T11:15:39.882572Z",
+  "updated_at": "2026-09-07T09:51:43.957387Z",
   "series": {
     "cup": [
       {
@@ -3759,27 +3759,27 @@
         "track_name": "Darlington Raceway",
         "date_scheduled": "2026-09-06T17:00:00",
         "race_date": "2026-09-06T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-06T17:00:00",
         "tunein_date": "2026-09-06T17:00:00",
         "scheduled_distance": 501.32,
-        "actual_distance": 501.32,
+        "actual_distance": 501.322,
         "scheduled_laps": 367,
         "actual_laps": 367,
-        "stage_1_laps": 115,
-        "stage_2_laps": 115,
+        "stage_1_laps": 106,
+        "stage_2_laps": 124,
         "stage_3_laps": 137,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
+        "number_of_cars_in_field": 38,
+        "pole_winner_driver_id": 4065,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 29,
+        "number_of_leaders": 12,
+        "number_of_cautions": 6,
+        "number_of_caution_laps": 44,
+        "average_speed": 123.741,
+        "total_race_time": "4:03:05",
+        "margin_of_victory": "1.038",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Christopher Bell won the Cook Out Southern 500, his 14th NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3820,15 +3820,9 @@
             "run_type": 2
           },
           {
-            "event_name": "Team Access To Haulers Permitted",
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
             "notes": "",
             "start_time_utc": "2026-09-06T17:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
-            "notes": "",
-            "start_time_utc": "2026-09-06T17:30:00",
             "run_type": 0
           },
           {
@@ -3846,13 +3840,13 @@
           {
             "event_name": "The Drivers Meeting",
             "notes": "Cup Series Garage Area Tent",
-            "start_time_utc": "2026-09-06T19:55:00",
+            "start_time_utc": "2026-09-06T19:45:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
             "notes": " ",
-            "start_time_utc": "2026-09-06T20:20:00",
+            "start_time_utc": "2026-09-06T20:10:00",
             "run_type": 0
           },
           {
@@ -3866,13 +3860,13 @@
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 442,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4153,
         "pole_winner_laptime": null
       },
       {
@@ -3911,6 +3905,12 @@
         "infractions": [],
         "schedule": [
           {
+            "event_name": "Hauler Parade",
+            "notes": "",
+            "start_time_utc": "2026-09-11T19:50:00",
+            "run_type": 0
+          },
+          {
             "event_name": "Haulers Enter",
             "notes": "Equipment Unloading",
             "start_time_utc": "2026-09-11T21:00:00",
@@ -3941,15 +3941,9 @@
             "run_type": 2
           },
           {
-            "event_name": "Team Access To Haulers Permitted",
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
             "notes": " ",
             "start_time_utc": "2026-09-13T15:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
-            "notes": "",
-            "start_time_utc": "2026-09-13T15:30:00",
             "run_type": 0
           },
           {
@@ -4195,15 +4189,9 @@
             "run_type": 2
           },
           {
-            "event_name": "Team Access To Haulers Permitted",
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
             "notes": "",
             "start_time_utc": "2026-09-27T15:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
-            "notes": "",
-            "start_time_utc": "2026-09-27T15:30:00",
             "run_type": 0
           },
           {
@@ -7299,27 +7287,27 @@
         "track_name": "Darlington Raceway",
         "date_scheduled": "2026-09-05T19:30:00",
         "race_date": "2026-09-05T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-05T19:30:00",
         "tunein_date": "2026-09-05T19:30:00",
         "scheduled_distance": 200,
-        "actual_distance": 200,
+        "actual_distance": 200.802,
         "scheduled_laps": 147,
         "actual_laps": 147,
         "stage_1_laps": 45,
         "stage_2_laps": 45,
         "stage_3_laps": 57,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4467,
+        "pole_winner_speed": 161.636,
+        "number_of_lead_changes": 8,
+        "number_of_leaders": 7,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 38,
+        "average_speed": 102.045,
+        "total_race_time": "1:58:04",
+        "margin_of_victory": "2.961",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Sheldon Creed won the Fleetio 200 at Darlington Raceway, his second NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following cars dropped to the rear for the reasons indicated: Nos. 02, 19, 38, 51 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -7394,13 +7382,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5196,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4204,
         "pole_winner_laptime": null
       },
       {
