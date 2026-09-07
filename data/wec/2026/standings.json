@@ -24,6 +24,12 @@
       "wins": 1,
       "driver_name": "Kevin Magnussen Raffaele Marciello Dries Vanthoor",
       "team_name": "No. 15 BMW M Team WRT"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Antonio Fuoco Miguel Molina Nicklas Nielsen",
+      "team_name": "No. 50 Ferrari AF Corse"
     }
   ],
   "hypercarTeamStandings": [
@@ -46,6 +52,11 @@
       "position": 4,
       "wins": 1,
       "team_name": "No. 15 BMW M Team WRT"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "team_name": "No. 50 Ferrari AF Corse"
     }
   ],
   "lmgt3DriverStandings": [
@@ -72,6 +83,12 @@
       "wins": 1,
       "driver_name": "Peter Dempsey Charlie Eastwood Salih Yoluç",
       "team_name": "No. 34 Racing Team Turkey by TF"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Mattia Drudi Ian James Zacharie Robichon",
+      "team_name": "No. 27 Heart of Racing Team"
     }
   ],
   "lmgt3TeamStandings": [
@@ -94,7 +111,12 @@
       "position": 4,
       "wins": 1,
       "team_name": "No. 34 Racing Team Turkey by TF"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "team_name": "No. 27 Heart of Racing Team"
     }
   ],
-  "updated_at": "2026-08-31T14:47:48.292801+00:00"
+  "updated_at": "2026-09-07T13:14:40.832047+00:00"
 }

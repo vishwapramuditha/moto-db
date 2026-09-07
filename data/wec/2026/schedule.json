@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 9,
-  "updated_at": "2026-08-31T14:47:47.041486Z",
+  "updated_at": "2026-09-07T13:14:39.573550Z",
   "races": [
     {
       "race_id": "official-prologue-imola-2026",
@@ -321,7 +321,7 @@
       "name": "WEC Lone Star Le Mans 2026",
       "slug": "lone-star-le-mans-2026",
       "url": "https://www.fiawec.com/en/race/lone-star-le-mans-2026",
-      "status": "EventScheduled",
+      "status": "EventInProgress",
       "completed": false,
       "startDate": "2026-09-04T00:00:00+02:00",
       "endDate": "2026-09-06T00:00:00+02:00",
@@ -334,50 +334,50 @@
         {
           "name": "Free Practice 1 - Lone Star Le Mans",
           "date": "2026-09-04T11:30:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 2 - Lone Star Le Mans",
           "date": "2026-09-04T16:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 3 - Lone Star Le Mans",
           "date": "2026-09-05T11:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Qualifying - LMGT3 - Lone Star Le Mans",
           "date": "2026-09-05T15:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Hyperpole - LMGT3 - Lone Star Le Mans",
           "date": "2026-09-05T15:20:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Qualifying - HYPERCAR - Lone Star Le Mans",
           "date": "2026-09-05T15:40:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Hyperpole - HYPERCAR - Lone Star Le Mans",
           "date": "2026-09-05T16:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Race - Lone Star Le Mans",
           "date": "2026-09-06T13:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         }
       ]
     },
