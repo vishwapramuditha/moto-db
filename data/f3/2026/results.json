@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-08-31T16:31:58Z",
+  "updated_at": "2026-09-07T14:36:14Z",
   "results": [
     {
       "round": 1,
@@ -127,6 +127,24 @@
       "fastest_lap": "Tuukka Taponen",
       "winning_driver": "Freddie Slater",
       "winning_team": "Trident"
+    },
+    {
+      "round": 8,
+      "race_type": "Sprint Race",
+      "circuit": "Monza Circuit",
+      "pole_position": "",
+      "fastest_lap": "Tuukka Taponen",
+      "winning_driver": "Taito Kato",
+      "winning_team": "ART Grand Prix"
+    },
+    {
+      "round": 8,
+      "race_type": "Feature Race",
+      "circuit": "Monza Circuit",
+      "pole_position": "Bruno del Pino",
+      "fastest_lap": "Freddie Slater",
+      "winning_driver": "Nicola Lacorte",
+      "winning_team": "DAMS Lucas Oil"
     }
   ]
 }
