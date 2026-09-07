@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 18,
-  "updated_at": "2026-08-31T13:06:52.747041Z",
+  "updated_at": "2026-09-07T11:58:49.957986Z",
   "races": [
     {
       "event_id": "202603010104",
@@ -178,9 +178,9 @@
       "name": "Grand Prix of Monterey",
       "short_name": "Grand Prix of Monterey",
       "date": "2026-09-06T18:30Z",
-      "status": "STATUS_SCHEDULED",
-      "status_detail": "Sun, September 6th at 2:30 PM EDT",
-      "completed": false,
+      "status": "STATUS_FINAL",
+      "status_detail": "Final",
+      "completed": true,
       "broadcast": "FOX"
     }
   ]

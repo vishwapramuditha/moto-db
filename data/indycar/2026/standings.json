@@ -3,7 +3,7 @@
   "driverStandings": [
     {
       "position": 1,
-      "points": 567,
+      "points": 591,
       "wins": 6,
       "driver_id": "5632",
       "driver_name": "Álex Palou",
@@ -25,39 +25,13 @@
         507,
         517,
         537,
-        567
+        567,
+        591
       ]
     },
     {
       "position": 2,
-      "points": 498,
-      "wins": 2,
-      "driver_id": "5691",
-      "driver_name": "Christian Lundgaard",
-      "nationality": "Denmark",
-      "pointsProgression": [
-        35,
-        52,
-        78,
-        118,
-        128,
-        178,
-        191,
-        221,
-        241,
-        291,
-        331,
-        345,
-        367,
-        395,
-        435,
-        463,
-        498
-      ]
-    },
-    {
-      "position": 3,
-      "points": 495,
+      "points": 535,
       "wins": 2,
       "driver_id": "5704",
       "driver_name": "Kyle Kirkwood",
@@ -79,12 +53,41 @@
         402,
         452,
         467,
-        495
+        495,
+        535
+      ]
+    },
+    {
+      "position": 3,
+      "points": 526,
+      "wins": 2,
+      "driver_id": "5691",
+      "driver_name": "Christian Lundgaard",
+      "nationality": "Denmark",
+      "pointsProgression": [
+        35,
+        52,
+        78,
+        118,
+        128,
+        178,
+        191,
+        221,
+        241,
+        291,
+        331,
+        345,
+        367,
+        395,
+        435,
+        463,
+        498,
+        526
       ]
     },
     {
       "position": 4,
-      "points": 487,
+      "points": 506,
       "wins": 3,
       "driver_id": "5581",
       "driver_name": "Pato O'Ward",
@@ -106,12 +109,13 @@
         373,
         387,
         437,
-        487
+        487,
+        506
       ]
     },
     {
       "position": 5,
-      "points": 464,
+      "points": 494,
       "wins": 0,
       "driver_id": "5706",
       "driver_name": "David Malukas",
@@ -133,13 +137,14 @@
         386,
         392,
         432,
-        464
+        464,
+        494
       ]
     },
     {
       "position": 6,
-      "points": 417,
-      "wins": 0,
+      "points": 467,
+      "wins": 1,
       "driver_id": "5648",
       "driver_name": "Scott McLaughlin",
       "nationality": "New Zealand",
@@ -160,39 +165,13 @@
         337,
         345,
         377,
-        417
+        417,
+        467
       ]
     },
     {
       "position": 7,
-      "points": 400,
-      "wins": 2,
-      "driver_id": "4526",
-      "driver_name": "Josef Newgarden",
-      "nationality": "USA",
-      "pointsProgression": [
-        26,
-        76,
-        91,
-        111,
-        127,
-        159,
-        164,
-        184,
-        234,
-        242,
-        264,
-        304,
-        328,
-        345,
-        369,
-        395,
-        400
-      ]
-    },
-    {
-      "position": 8,
-      "points": 399,
+      "points": 421,
       "wins": 1,
       "driver_id": "4622",
       "driver_name": "Marcus Ericsson",
@@ -214,39 +193,41 @@
         321,
         353,
         377,
-        399
+        399,
+        421
+      ]
+    },
+    {
+      "position": 8,
+      "points": 415,
+      "wins": 2,
+      "driver_id": "4526",
+      "driver_name": "Josef Newgarden",
+      "nationality": "USA",
+      "pointsProgression": [
+        26,
+        76,
+        91,
+        111,
+        127,
+        159,
+        164,
+        184,
+        234,
+        242,
+        264,
+        304,
+        328,
+        345,
+        369,
+        395,
+        400,
+        415
       ]
     },
     {
       "position": 9,
-      "points": 360,
-      "wins": 0,
-      "driver_id": "5634",
-      "driver_name": "Rinus VeeKay",
-      "nationality": "Netherlands",
-      "pointsProgression": [
-        22,
-        30,
-        46,
-        62,
-        79,
-        94,
-        122,
-        140,
-        172,
-        184,
-        216,
-        234,
-        266,
-        292,
-        299,
-        334,
-        360
-      ]
-    },
-    {
-      "position": 10,
-      "points": 356,
+      "points": 388,
       "wins": 1,
       "driver_id": "5590",
       "driver_name": "Felix Rosenqvist",
@@ -268,12 +249,41 @@
         322,
         333,
         346,
-        356
+        356,
+        388
+      ]
+    },
+    {
+      "position": 10,
+      "points": 374,
+      "wins": 0,
+      "driver_id": "5634",
+      "driver_name": "Rinus VeeKay",
+      "nationality": "Netherlands",
+      "pointsProgression": [
+        22,
+        30,
+        46,
+        62,
+        79,
+        94,
+        122,
+        140,
+        172,
+        184,
+        216,
+        234,
+        266,
+        292,
+        299,
+        334,
+        360,
+        374
       ]
     },
     {
       "position": 11,
-      "points": 339,
+      "points": 356,
       "wins": 0,
       "driver_id": "810",
       "driver_name": "Will Power",
@@ -295,12 +305,13 @@
         283,
         318,
         323,
-        339
+        339,
+        356
       ]
     },
     {
       "position": 12,
-      "points": 310,
+      "points": 323,
       "wins": 0,
       "driver_id": "518",
       "driver_name": "Scott Dixon",
@@ -322,12 +333,13 @@
         257,
         283,
         295,
-        310
+        310,
+        323
       ]
     },
     {
       "position": 13,
-      "points": 300,
+      "points": 320,
       "wins": 0,
       "driver_id": "5798",
       "driver_name": "Kyffin Simpson",
@@ -349,39 +361,13 @@
         245,
         275,
         289,
-        300
+        300,
+        320
       ]
     },
     {
       "position": 14,
-      "points": 289,
-      "wins": 0,
-      "driver_id": "872",
-      "driver_name": "Graham Rahal",
-      "nationality": "USA",
-      "pointsProgression": [
-        12,
-        34,
-        46,
-        81,
-        105,
-        140,
-        150,
-        185,
-        192,
-        199,
-        217,
-        228,
-        235,
-        257,
-        274,
-        281,
-        289
-      ]
-    },
-    {
-      "position": 15,
-      "points": 289,
+      "points": 315,
       "wins": 0,
       "driver_id": "5753",
       "driver_name": "Marcus Armstrong",
@@ -403,12 +389,41 @@
         240,
         253,
         275,
-        289
+        289,
+        315
+      ]
+    },
+    {
+      "position": 15,
+      "points": 300,
+      "wins": 0,
+      "driver_id": "872",
+      "driver_name": "Graham Rahal",
+      "nationality": "USA",
+      "pointsProgression": [
+        12,
+        34,
+        46,
+        81,
+        105,
+        140,
+        150,
+        185,
+        192,
+        199,
+        217,
+        228,
+        235,
+        257,
+        274,
+        281,
+        289,
+        300
       ]
     },
     {
       "position": 16,
-      "points": 259,
+      "points": 294,
       "wins": 0,
       "driver_id": "4667",
       "driver_name": "Alexander Rossi",
@@ -430,12 +445,13 @@
         206,
         224,
         240,
-        259
+        259,
+        294
       ]
     },
     {
       "position": 17,
-      "points": 254,
+      "points": 272,
       "wins": 0,
       "driver_id": "5553",
       "driver_name": "Santino Ferrucci",
@@ -457,39 +473,13 @@
         217,
         226,
         236,
-        254
+        254,
+        272
       ]
     },
     {
       "position": 18,
-      "points": 252,
-      "wins": 0,
-      "driver_id": "5810",
-      "driver_name": "Nolan Siegel",
-      "nationality": "USA",
-      "pointsProgression": [
-        10,
-        20,
-        26,
-        38,
-        56,
-        76,
-        95,
-        110,
-        116,
-        125,
-        145,
-        164,
-        176,
-        194,
-        222,
-        239,
-        252
-      ]
-    },
-    {
-      "position": 19,
-      "points": 245,
+      "points": 261,
       "wins": 0,
       "driver_id": "5842",
       "driver_name": "Louis Foster",
@@ -511,12 +501,41 @@
         194,
         206,
         225,
-        245
+        245,
+        261
+      ]
+    },
+    {
+      "position": 19,
+      "points": 258,
+      "wins": 0,
+      "driver_id": "5810",
+      "driver_name": "Nolan Siegel",
+      "nationality": "USA",
+      "pointsProgression": [
+        10,
+        20,
+        26,
+        38,
+        56,
+        76,
+        95,
+        110,
+        116,
+        125,
+        145,
+        164,
+        176,
+        194,
+        222,
+        239,
+        252,
+        258
       ]
     },
     {
       "position": 20,
-      "points": 244,
+      "points": 256,
       "wins": 0,
       "driver_id": "4374",
       "driver_name": "Romain Grosjean",
@@ -538,12 +557,13 @@
         207,
         227,
         238,
-        244
+        244,
+        256
       ]
     },
     {
       "position": 21,
-      "points": 231,
+      "points": 240,
       "wins": 0,
       "driver_id": "5797",
       "driver_name": "Christian Rasmussen",
@@ -565,12 +585,13 @@
         161,
         177,
         207,
-        231
+        231,
+        240
       ]
     },
     {
       "position": 22,
-      "points": 221,
+      "points": 226,
       "wins": 0,
       "driver_id": "5766",
       "driver_name": "Dennis Hauger",
@@ -592,12 +613,13 @@
         188,
         203,
         212,
-        221
+        221,
+        226
       ]
     },
     {
       "position": 23,
-      "points": 205,
+      "points": 213,
       "wins": 0,
       "driver_id": "5654",
       "driver_name": "Mick Schumacher",
@@ -619,12 +641,13 @@
         151,
         170,
         188,
-        205
+        205,
+        213
       ]
     },
     {
       "position": 24,
-      "points": 191,
+      "points": 201,
       "wins": 0,
       "driver_id": "5880",
       "driver_name": "Caio Collet",
@@ -646,12 +669,13 @@
         156,
         178,
         184,
-        191
+        191,
+        201
       ]
     },
     {
       "position": 25,
-      "points": 175,
+      "points": 182,
       "wins": 0,
       "driver_id": "5750",
       "driver_name": "Sting Ray Robb",
@@ -673,7 +697,8 @@
         150,
         155,
         163,
-        175
+        175,
+        182
       ]
     },
     {
@@ -690,6 +715,7 @@
         0,
         0,
         0,
+        20,
         20,
         20,
         20,
@@ -727,6 +753,7 @@
         18,
         18,
         18,
+        18,
         18
       ]
     },
@@ -744,6 +771,7 @@
         0,
         0,
         0,
+        8,
         8,
         8,
         8,
@@ -781,6 +809,7 @@
         6,
         6,
         6,
+        6,
         6
       ]
     },
@@ -798,6 +827,7 @@
         0,
         0,
         0,
+        5,
         5,
         5,
         5,
@@ -835,6 +865,7 @@
         5,
         5,
         5,
+        5,
         5
       ]
     },
@@ -852,6 +883,7 @@
         0,
         0,
         0,
+        5,
         5,
         5,
         5,
@@ -889,9 +921,10 @@
         5,
         5,
         5,
+        5,
         5
       ]
     }
   ],
-  "updated_at": "2026-08-31T13:06:53.850827+00:00"
+  "updated_at": "2026-09-07T11:58:51.023353+00:00"
 }
