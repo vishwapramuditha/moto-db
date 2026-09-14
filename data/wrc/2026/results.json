@@ -86,5 +86,13 @@
     "winning_co_driver": "Marko Salminen",
     "winning_entrant": "Toyota Gazoo Racing WRT2",
     "winning_time": "3:13:28.5"
+  },
+  {
+    "round": "12",
+    "event": "Rally Chile",
+    "winning_driver": "Oliver Solberg",
+    "winning_co_driver": "Elliott Edmondson",
+    "winning_entrant": "Toyota Gazoo Racing WRT",
+    "winning_time": "2:57:08.2"
   }
 ]
