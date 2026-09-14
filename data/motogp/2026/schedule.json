@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-09-07T08:55:52.003189Z",
+  "updated_at": "2026-09-14T09:34:29.345158Z",
   "events": [
     {
       "country": {
@@ -870,23 +870,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/RSM/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/RSM/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/RSM/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/RSM/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/RSM/table4.pdf",
           "menu_position": 2
         }
       },
@@ -899,7 +899,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "Red Bull Grand Prix of San Marino and The Rimini Riviera",
+      "sponsored_name": "RED BULL GRAND PRIX OF SAN MARINO AND THE RIMINI RIVIERA ",
       "date_end": "2026-09-13",
       "toad_api_uuid": "537f71f7-25ea-4cb2-a259-70b0da576cc6",
       "date_start": "2026-09-11",
@@ -926,7 +926,7 @@
       },
       "short_name": "RSM",
       "id": "a5881826-ec88-4a41-8e4c-ba58709d4591",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
@@ -965,7 +965,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "GRAND PRIX OF AUSTRIA ",
+      "sponsored_name": "QATAR AIRWAYS GRAND PRIX OF AUSTRIA ",
       "date_end": "2026-09-20",
       "toad_api_uuid": "1d659e29-247a-402c-ba1e-33fa14670cbe",
       "date_start": "2026-09-18",
