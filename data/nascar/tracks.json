@@ -41,8 +41,8 @@
       "name": "Canadian Tire Motorsport Park",
       "type": "Intermediate",
       "length": 1.54,
-      "city": "Hampton",
-      "state": "GA",
+      "city": "Bowmanville",
+      "state": "Ontario",
       "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/111.png"
     },
     {
@@ -443,5 +443,5 @@
     }
   ],
   "total": 49,
-  "updated_at": "2026-09-07T09:51:42.646240Z"
+  "updated_at": "2026-09-14T10:13:54.056153Z"
 }
