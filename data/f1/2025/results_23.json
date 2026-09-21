@@ -5,7 +5,7 @@
   "circuit": {
     "circuitId": "losail",
     "url": "https://en.wikipedia.org/wiki/Lusail_International_Circuit",
-    "circuitName": "Losail International Circuit",
+    "circuitName": "Lusail International Circuit",
     "Location": {
       "lat": "25.49",
       "long": "51.4542",
@@ -15,7 +15,7 @@
   },
   "date": "2025-11-30",
   "time": "16:00:00Z",
-  "updated_at": "2026-09-14T07:18:51.545071Z",
+  "updated_at": "2026-09-21T07:22:46.916253Z",
   "results": [
     {
       "number": "1",

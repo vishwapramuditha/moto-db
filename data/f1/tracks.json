@@ -1,6 +1,6 @@
 {
   "total": 78,
-  "updated_at": "2026-09-14T07:18:15.276766Z",
+  "updated_at": "2026-09-21T07:22:07.583088Z",
   "tracks": [
     {
       "circuitId": "adelaide",
@@ -423,7 +423,7 @@
     {
       "circuitId": "losail",
       "url": "https://en.wikipedia.org/wiki/Lusail_International_Circuit",
-      "circuitName": "Losail International Circuit",
+      "circuitName": "Lusail International Circuit",
       "Location": {
         "lat": "25.49",
         "long": "51.4542",

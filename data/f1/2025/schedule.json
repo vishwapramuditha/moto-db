@@ -1,7 +1,7 @@
 {
   "season": "2025",
   "total_rounds": 24,
-  "updated_at": "2026-09-14T07:18:16.771510Z",
+  "updated_at": "2026-09-21T07:22:09.111419Z",
   "races": [
     {
       "season": "2025",
@@ -781,7 +781,7 @@
       "Circuit": {
         "circuitId": "losail",
         "url": "https://en.wikipedia.org/wiki/Lusail_International_Circuit",
-        "circuitName": "Losail International Circuit",
+        "circuitName": "Lusail International Circuit",
         "Location": {
           "lat": "25.49",
           "long": "51.4542",
