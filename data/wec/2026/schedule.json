@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 9,
-  "updated_at": "2026-09-14T13:35:35.586986Z",
+  "updated_at": "2026-09-21T13:34:38.338434Z",
   "races": [
     {
       "race_id": "official-prologue-imola-2026",
@@ -463,19 +463,19 @@
       "sessions": [
         {
           "name": "Free Practice 1 - 6 Hours of Barcelona",
-          "date": "2026-10-16T11:00:00+02:00",
+          "date": "2026-10-16T11:30:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Free Practice 2 - 6 Hours of Barcelona",
-          "date": "2026-10-16T15:50:00+02:00",
+          "date": "2026-10-16T16:30:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Free Practice 3 - 6 Hours of Barcelona",
-          "date": "2026-10-17T10:10:00+02:00",
+          "date": "2026-10-17T08:50:00+02:00",
           "status": "EventScheduled",
           "completed": false
         },
