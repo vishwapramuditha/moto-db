@@ -3,7 +3,7 @@
   "hypercarDriverStandings": [
     {
       "position": 1,
-      "wins": 1,
+      "wins": 2,
       "driver_name": "Sébastien Buemi Brendon Hartley Ryō Hirakawa",
       "team_name": "No. 8 Toyota Racing"
     },
@@ -35,7 +35,7 @@
   "hypercarTeamStandings": [
     {
       "position": 1,
-      "wins": 1,
+      "wins": 2,
       "team_name": "No. 8 Toyota Racing"
     },
     {
@@ -89,6 +89,12 @@
       "wins": 1,
       "driver_name": "Mattia Drudi Ian James Zacharie Robichon",
       "team_name": "No. 27 Heart of Racing Team"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Augusto Farfus Sean Gelael Darren Leung",
+      "team_name": "No. 32 Team WRT"
     }
   ],
   "lmgt3TeamStandings": [
@@ -116,7 +122,12 @@
       "position": 5,
       "wins": 1,
       "team_name": "No. 27 Heart of Racing Team"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "No. 32 Team WRT"
     }
   ],
-  "updated_at": "2026-09-21T13:34:39.713043+00:00"
+  "updated_at": "2026-09-28T14:54:07.840082+00:00"
 }
