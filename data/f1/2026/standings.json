@@ -3,7 +3,7 @@
   "driverStandings": [
     {
       "position": 1,
-      "points": 266.0,
+      "points": 276.0,
       "wins": 8,
       "Driver": {
         "driverId": "antonelli",
@@ -35,13 +35,14 @@
         198.0,
         216.0,
         241.0,
-        266.0
+        266.0,
+        276.0
       ]
     },
     {
       "position": 2,
-      "points": 177.0,
-      "wins": 2,
+      "points": 202.0,
+      "wins": 3,
       "Driver": {
         "driverId": "russell",
         "permanentNumber": "63",
@@ -72,12 +73,13 @@
         134.0,
         149.0,
         167.0,
-        177.0
+        177.0,
+        202.0
       ]
     },
     {
       "position": 3,
-      "points": 171.0,
+      "points": 179.0,
       "wins": 1,
       "Driver": {
         "driverId": "hamilton",
@@ -109,7 +111,8 @@
         151.0,
         163.0,
         171.0,
-        171.0
+        171.0,
+        179.0
       ]
     },
     {
@@ -146,12 +149,13 @@
         102.0,
         127.0,
         139.0,
+        154.0,
         154.0
       ]
     },
     {
       "position": 5,
-      "points": 139.0,
+      "points": 151.0,
       "wins": 1,
       "Driver": {
         "driverId": "leclerc",
@@ -183,12 +187,13 @@
         117.0,
         127.0,
         127.0,
-        139.0
+        139.0,
+        151.0
       ]
     },
     {
       "position": 6,
-      "points": 133.0,
+      "points": 151.0,
       "wins": 0,
       "Driver": {
         "driverId": "max_verstappen",
@@ -220,7 +225,8 @@
         100.0,
         100.0,
         115.0,
-        133.0
+        133.0,
+        151.0
       ]
     },
     {
@@ -257,12 +263,13 @@
         77.0,
         85.0,
         95.0,
+        99.0,
         99.0
       ]
     },
     {
       "position": 8,
-      "points": 71.0,
+      "points": 86.0,
       "wins": 0,
       "Driver": {
         "driverId": "hadjar",
@@ -294,7 +301,8 @@
         71.0,
         71.0,
         71.0,
-        71.0
+        71.0,
+        86.0
       ]
     },
     {
@@ -331,6 +339,7 @@
         42.0,
         48.0,
         48.0,
+        56.0,
         56.0
       ]
     },
@@ -368,12 +377,13 @@
         32.0,
         33.0,
         39.0,
+        39.0,
         39.0
       ]
     },
     {
       "position": 11,
-      "points": 30.0,
+      "points": 36.0,
       "wins": 0,
       "Driver": {
         "driverId": "arvid_lindblad",
@@ -405,7 +415,8 @@
         24.0,
         24.0,
         28.0,
-        30.0
+        30.0,
+        36.0
       ]
     },
     {
@@ -442,12 +453,13 @@
         19.0,
         19.0,
         21.0,
+        27.0,
         27.0
       ]
     },
     {
       "position": 13,
-      "points": 17.0,
+      "points": 19.0,
       "wins": 0,
       "Driver": {
         "driverId": "bearman",
@@ -479,7 +491,8 @@
         17.0,
         17.0,
         17.0,
-        17.0
+        17.0,
+        19.0
       ]
     },
     {
@@ -512,6 +525,7 @@
         2.0,
         2.0,
         6.0,
+        10.0,
         10.0,
         10.0,
         10.0,
@@ -553,12 +567,51 @@
         2.0,
         6.0,
         6.0,
+        7.0,
         7.0
       ]
     },
     {
       "position": 16,
-      "points": 6.0,
+      "points": 7.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "ocon",
+        "permanentNumber": "31",
+        "code": "OCO",
+        "url": "http://en.wikipedia.org/wiki/Esteban_Ocon",
+        "givenName": "Esteban",
+        "familyName": "Ocon",
+        "dateOfBirth": "1996-09-17",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "haas",
+        "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      },
+      "pointsProgression": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        7.0
+      ]
+    },
+    {
+      "position": 17,
+      "points": 7.0,
       "wins": 0,
       "Driver": {
         "driverId": "sainz",
@@ -590,11 +643,12 @@
         6.0,
         6.0,
         6.0,
-        6.0
+        6.0,
+        7.0
       ]
     },
     {
-      "position": 17,
+      "position": 18,
       "points": 5.0,
       "wins": 0,
       "Driver": {
@@ -627,44 +681,8 @@
         5.0,
         5.0,
         5.0,
+        5.0,
         5.0
-      ]
-    },
-    {
-      "position": 18,
-      "points": 3.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "ocon",
-        "permanentNumber": "31",
-        "code": "OCO",
-        "url": "http://en.wikipedia.org/wiki/Esteban_Ocon",
-        "givenName": "Esteban",
-        "familyName": "Ocon",
-        "dateOfBirth": "1996-09-17",
-        "nationality": "French"
-      },
-      "Constructor": {
-        "constructorId": "haas",
-        "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-        "name": "Haas F1 Team",
-        "nationality": "American"
-      },
-      "pointsProgression": [
-        0.0,
-        0.0,
-        1.0,
-        1.0,
-        1.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0
       ]
     },
     {
@@ -699,6 +717,7 @@
         1.0,
         1.0,
         1.0,
+        3.0,
         3.0,
         3.0,
         3.0
@@ -738,6 +757,7 @@
         0.0,
         0.0,
         1.0,
+        1.0,
         1.0
       ]
     },
@@ -762,6 +782,7 @@
         "nationality": "British"
       },
       "pointsProgression": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -812,6 +833,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
@@ -849,6 +871,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
@@ -856,8 +879,8 @@
   "constructorStandings": [
     {
       "position": 1,
-      "points": 443.0,
-      "wins": 10,
+      "points": 478.0,
+      "wins": 11,
       "Constructor": {
         "constructorId": "mercedes",
         "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
@@ -878,12 +901,13 @@
         332.0,
         365.0,
         408.0,
-        443.0
+        443.0,
+        478.0
       ]
     },
     {
       "position": 2,
-      "points": 310.0,
+      "points": 330.0,
       "wins": 2,
       "Constructor": {
         "constructorId": "ferrari",
@@ -905,7 +929,8 @@
         268.0,
         290.0,
         298.0,
-        310.0
+        310.0,
+        330.0
       ]
     },
     {
@@ -932,12 +957,13 @@
         179.0,
         212.0,
         234.0,
+        253.0,
         253.0
       ]
     },
     {
       "position": 4,
-      "points": 218.0,
+      "points": 251.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "red_bull",
@@ -959,12 +985,13 @@
         171.0,
         177.0,
         192.0,
-        218.0
+        218.0,
+        251.0
       ]
     },
     {
       "position": 5,
-      "points": 73.0,
+      "points": 79.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "rb",
@@ -986,7 +1013,8 @@
         66.0,
         66.0,
         71.0,
-        73.0
+        73.0,
+        79.0
       ]
     },
     {
@@ -1013,12 +1041,13 @@
         51.0,
         52.0,
         60.0,
+        66.0,
         66.0
       ]
     },
     {
       "position": 7,
-      "points": 20.0,
+      "points": 26.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "haas",
@@ -1040,7 +1069,8 @@
         20.0,
         20.0,
         20.0,
-        20.0
+        20.0,
+        26.0
       ]
     },
     {
@@ -1067,12 +1097,13 @@
         12.0,
         16.0,
         16.0,
+        17.0,
         17.0
       ]
     },
     {
       "position": 9,
-      "points": 11.0,
+      "points": 12.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "williams",
@@ -1094,7 +1125,8 @@
         11.0,
         11.0,
         11.0,
-        11.0
+        11.0,
+        12.0
       ]
     },
     {
@@ -1119,6 +1151,7 @@
         1.0,
         1.0,
         1.0,
+        3.0,
         3.0,
         3.0,
         3.0
@@ -1148,9 +1181,10 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
   ],
-  "updated_at": "2026-09-21T07:23:11.816201+00:00"
+  "updated_at": "2026-09-28T07:52:43.617616+00:00"
 }
