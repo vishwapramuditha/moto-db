@@ -56,12 +56,12 @@
     },
     {
       "id": 210,
-      "name": "Charlotte Motor Speedway Roval",
+      "name": "Charlotte Motor Speedway Road Course",
       "type": "Road Course",
-      "length": 2.32,
+      "length": 2.28,
       "city": "Concord",
-      "state": "NC",
-      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2021/06/24/210.png"
+      "state": "North Carolina",
+      "image": ""
     },
     {
       "id": 218,
@@ -443,5 +443,5 @@
     }
   ],
   "total": 49,
-  "updated_at": "2026-09-28T11:21:15.590909Z"
+  "updated_at": "2026-10-05T11:57:29.466112Z"
 }
