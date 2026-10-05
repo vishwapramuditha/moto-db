@@ -1,7 +1,7 @@
 {
   "season": "2026",
-  "total_races": 14,
-  "updated_at": "2026-09-28T16:11:19.169055Z",
+  "total_races": 13,
+  "updated_at": "2026-10-05T16:32:10.540611Z",
   "races": [
     {
       "round": "1",
@@ -92,13 +92,6 @@
       "name": "Rally Italia Sardegna",
       "start_date": "1 October",
       "finish_date": "4 October",
-      "surface": "Gravel"
-    },
-    {
-      "round": "14",
-      "name": "Rally Saudi Arabia",
-      "start_date": "11 November",
-      "finish_date": "14 November",
       "surface": "Gravel"
     }
   ]
