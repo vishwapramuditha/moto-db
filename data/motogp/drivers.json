@@ -1561,6 +1561,19 @@
       "riders_api_uuid": "821c7e78-24dd-4715-a7b6-966b6da2c4d8"
     },
     {
+      "id": "eb622674-1751-486a-b97f-e252353ed7a9",
+      "full_name": "Ryota Ogiwara",
+      "country": {
+        "iso": "JP",
+        "name": "Japan",
+        "region_iso": ""
+      },
+      "legacy_id": 10480,
+      "riders_id": "cf726ae9-7a34-44d4-b0d3-d18e47fbdc2b",
+      "number": 79,
+      "riders_api_uuid": "cf726ae9-7a34-44d4-b0d3-d18e47fbdc2b"
+    },
+    {
       "id": "9de28705-315e-4370-a304-308147bf8203",
       "full_name": "Ryusei Yamanaka",
       "country": {
@@ -1622,7 +1635,7 @@
       },
       "legacy_id": 8476,
       "riders_id": "fa8ac04c-8fa2-4c43-9aa5-cc79b1f35fb9",
-      "number": 35,
+      "number": 15,
       "riders_api_uuid": "fa8ac04c-8fa2-4c43-9aa5-cc79b1f35fb9"
     },
     {
@@ -1847,6 +1860,6 @@
       "riders_api_uuid": "206c1c78-6d79-4e13-9568-5a90138ece2b"
     }
   ],
-  "total": 142,
-  "updated_at": "2026-09-28T10:37:57.616982Z"
+  "total": 143,
+  "updated_at": "2026-10-05T11:13:41.441382Z"
 }

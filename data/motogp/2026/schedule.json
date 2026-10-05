@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-09-28T10:35:25.047187Z",
+  "updated_at": "2026-10-05T11:11:09.235334Z",
   "events": [
     {
       "country": {
@@ -1002,23 +1002,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/JPN/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/JPN/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/JPN/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/JPN/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/JPN/table4.pdf",
           "menu_position": 2
         }
       },
@@ -1031,7 +1031,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "Motul Grand Prix of Japan",
+      "sponsored_name": "MOTUL GRAND PRIX OF JAPAN ",
       "date_end": "2026-10-04",
       "toad_api_uuid": "a87453f0-3ed0-4469-993a-1486af92d879",
       "date_start": "2026-10-02",
@@ -1058,7 +1058,7 @@
       },
       "short_name": "JPN",
       "id": "5a671255-63ca-46e2-bd60-34134bb063b4",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
