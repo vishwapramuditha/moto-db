@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-10-05T11:11:09.235334Z",
+  "updated_at": "2026-10-12T11:39:53.558889Z",
   "events": [
     {
       "country": {
@@ -1068,23 +1068,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/INA/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/INA/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/INA/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/INA/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/INA/table4.pdf",
           "menu_position": 2
         }
       },
@@ -1097,7 +1097,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "Pertamina Grand Prix of Indonesia",
+      "sponsored_name": "PERTAMINA GRAND PRIX OF INDONESIA ",
       "date_end": "2026-10-11",
       "toad_api_uuid": "877c27e8-70e0-4847-bacf-2290d7cc903c",
       "date_start": "2026-10-09",
@@ -1124,7 +1124,7 @@
       },
       "short_name": "INA",
       "id": "275ca55d-45d3-440f-ad59-17d6b3e6b2d3",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
