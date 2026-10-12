@@ -3,7 +3,7 @@
   "driverStandings": [
     {
       "position": 1,
-      "points": 294.0,
+      "points": 309.0,
       "wins": 8,
       "Driver": {
         "driverId": "antonelli",
@@ -37,12 +37,13 @@
         241.0,
         266.0,
         276.0,
-        294.0
+        294.0,
+        309.0
       ]
     },
     {
       "position": 2,
-      "points": 202.0,
+      "points": 204.0,
       "wins": 3,
       "Driver": {
         "driverId": "russell",
@@ -76,12 +77,13 @@
         167.0,
         177.0,
         202.0,
-        202.0
+        202.0,
+        204.0
       ]
     },
     {
       "position": 3,
-      "points": 194.0,
+      "points": 202.0,
       "wins": 1,
       "Driver": {
         "driverId": "hamilton",
@@ -115,13 +117,14 @@
         171.0,
         171.0,
         179.0,
-        194.0
+        194.0,
+        202.0
       ]
     },
     {
       "position": 4,
-      "points": 176.0,
-      "wins": 1,
+      "points": 201.0,
+      "wins": 2,
       "Driver": {
         "driverId": "max_verstappen",
         "permanentNumber": "3",
@@ -154,12 +157,13 @@
         115.0,
         133.0,
         151.0,
-        176.0
+        176.0,
+        201.0
       ]
     },
     {
       "position": 5,
-      "points": 163.0,
+      "points": 181.0,
       "wins": 1,
       "Driver": {
         "driverId": "leclerc",
@@ -193,12 +197,13 @@
         127.0,
         139.0,
         151.0,
-        163.0
+        163.0,
+        181.0
       ]
     },
     {
       "position": 6,
-      "points": 156.0,
+      "points": 168.0,
       "wins": 2,
       "Driver": {
         "driverId": "norris",
@@ -232,12 +237,13 @@
         139.0,
         154.0,
         154.0,
-        156.0
+        156.0,
+        168.0
       ]
     },
     {
       "position": 7,
-      "points": 107.0,
+      "points": 117.0,
       "wins": 0,
       "Driver": {
         "driverId": "piastri",
@@ -271,12 +277,13 @@
         95.0,
         99.0,
         99.0,
-        107.0
+        107.0,
+        117.0
       ]
     },
     {
       "position": 8,
-      "points": 96.0,
+      "points": 97.0,
       "wins": 0,
       "Driver": {
         "driverId": "hadjar",
@@ -310,12 +317,13 @@
         71.0,
         71.0,
         86.0,
-        96.0
+        96.0,
+        97.0
       ]
     },
     {
       "position": 9,
-      "points": 62.0,
+      "points": 68.0,
       "wins": 0,
       "Driver": {
         "driverId": "lawson",
@@ -349,7 +357,8 @@
         48.0,
         56.0,
         56.0,
-        62.0
+        62.0,
+        68.0
       ]
     },
     {
@@ -385,6 +394,7 @@
         32.0,
         32.0,
         33.0,
+        39.0,
         39.0,
         39.0,
         39.0,
@@ -427,6 +437,7 @@
         28.0,
         30.0,
         36.0,
+        37.0,
         37.0
       ]
     },
@@ -464,6 +475,7 @@
         19.0,
         19.0,
         21.0,
+        27.0,
         27.0,
         27.0,
         27.0
@@ -505,11 +517,52 @@
         17.0,
         17.0,
         19.0,
+        19.0,
         19.0
       ]
     },
     {
       "position": 14,
+      "points": 11.0,
+      "wins": 0,
+      "Driver": {
+        "driverId": "hulkenberg",
+        "permanentNumber": "27",
+        "code": "HUL",
+        "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
+        "givenName": "Nico",
+        "familyName": "Hülkenberg",
+        "dateOfBirth": "1987-08-19",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "audi",
+        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
+        "name": "Audi",
+        "nationality": "German"
+      },
+      "pointsProgression": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.0,
+        6.0,
+        6.0,
+        7.0,
+        7.0,
+        7.0,
+        11.0
+      ]
+    },
+    {
+      "position": 15,
       "points": 10.0,
       "wins": 0,
       "Driver": {
@@ -544,46 +597,8 @@
         10.0,
         10.0,
         10.0,
+        10.0,
         10.0
-      ]
-    },
-    {
-      "position": 15,
-      "points": 7.0,
-      "wins": 0,
-      "Driver": {
-        "driverId": "hulkenberg",
-        "permanentNumber": "27",
-        "code": "HUL",
-        "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
-        "givenName": "Nico",
-        "familyName": "Hülkenberg",
-        "dateOfBirth": "1987-08-19",
-        "nationality": "German"
-      },
-      "Constructor": {
-        "constructorId": "audi",
-        "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-        "name": "Audi",
-        "nationality": "German"
-      },
-      "pointsProgression": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        2.0,
-        6.0,
-        6.0,
-        7.0,
-        7.0,
-        7.0
       ]
     },
     {
@@ -621,6 +636,7 @@
         3.0,
         3.0,
         3.0,
+        7.0,
         7.0,
         7.0
       ]
@@ -661,6 +677,7 @@
         3.0,
         3.0,
         3.0,
+        7.0,
         7.0
       ]
     },
@@ -700,6 +717,7 @@
         6.0,
         6.0,
         7.0,
+        7.0,
         7.0
       ]
     },
@@ -729,6 +747,7 @@
         0.0,
         1.0,
         1.0,
+        5.0,
         5.0,
         5.0,
         5.0,
@@ -778,6 +797,7 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         1.0
       ]
     },
@@ -802,6 +822,7 @@
         "nationality": "British"
       },
       "pointsProgression": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -856,6 +877,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     },
@@ -895,6 +917,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
@@ -902,7 +925,7 @@
   "constructorStandings": [
     {
       "position": 1,
-      "points": 496.0,
+      "points": 513.0,
       "wins": 11,
       "Constructor": {
         "constructorId": "mercedes",
@@ -926,12 +949,13 @@
         408.0,
         443.0,
         478.0,
-        496.0
+        496.0,
+        513.0
       ]
     },
     {
       "position": 2,
-      "points": 357.0,
+      "points": 383.0,
       "wins": 2,
       "Constructor": {
         "constructorId": "ferrari",
@@ -955,13 +979,14 @@
         298.0,
         310.0,
         330.0,
-        357.0
+        357.0,
+        383.0
       ]
     },
     {
       "position": 3,
-      "points": 286.0,
-      "wins": 1,
+      "points": 312.0,
+      "wins": 2,
       "Constructor": {
         "constructorId": "red_bull",
         "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
@@ -984,12 +1009,13 @@
         192.0,
         218.0,
         251.0,
-        286.0
+        286.0,
+        312.0
       ]
     },
     {
       "position": 4,
-      "points": 263.0,
+      "points": 285.0,
       "wins": 2,
       "Constructor": {
         "constructorId": "mclaren",
@@ -1013,12 +1039,13 @@
         234.0,
         253.0,
         253.0,
-        263.0
+        263.0,
+        285.0
       ]
     },
     {
       "position": 5,
-      "points": 86.0,
+      "points": 92.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "rb",
@@ -1042,7 +1069,8 @@
         71.0,
         73.0,
         79.0,
-        86.0
+        86.0,
+        92.0
       ]
     },
     {
@@ -1069,6 +1097,7 @@
         51.0,
         52.0,
         60.0,
+        66.0,
         66.0,
         66.0,
         66.0
@@ -1100,12 +1129,13 @@
         20.0,
         20.0,
         26.0,
+        26.0,
         26.0
       ]
     },
     {
       "position": 8,
-      "points": 17.0,
+      "points": 21.0,
       "wins": 0,
       "Constructor": {
         "constructorId": "audi",
@@ -1129,7 +1159,8 @@
         16.0,
         17.0,
         17.0,
-        17.0
+        17.0,
+        21.0
       ]
     },
     {
@@ -1157,6 +1188,7 @@
         11.0,
         11.0,
         11.0,
+        12.0,
         12.0,
         12.0
       ]
@@ -1187,6 +1219,7 @@
         3.0,
         3.0,
         3.0,
+        7.0,
         7.0
       ]
     },
@@ -1216,9 +1249,10 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ]
     }
   ],
-  "updated_at": "2026-10-05T07:51:24.872324+00:00"
+  "updated_at": "2026-10-12T08:14:03.926584+00:00"
 }
