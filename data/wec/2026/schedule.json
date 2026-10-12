@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 9,
-  "updated_at": "2026-10-05T15:30:43.666559Z",
+  "updated_at": "2026-10-12T16:26:27.822220Z",
   "races": [
     {
       "race_id": "official-prologue-imola-2026",
@@ -534,19 +534,19 @@
       "sessions": [
         {
           "name": "Free Practice 1 - 6 Hours of Monza",
-          "date": "2026-11-06T11:00:00+01:00",
+          "date": "2026-11-06T10:30:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Free Practice 2 - 6 Hours of Monza",
-          "date": "2026-11-06T15:50:00+01:00",
+          "date": "2026-11-06T14:30:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
         {
           "name": "Free Practice 3 - 6 Hours of Monza",
-          "date": "2026-11-07T10:10:00+01:00",
+          "date": "2026-11-07T10:30:00+01:00",
           "status": "EventScheduled",
           "completed": false
         },
