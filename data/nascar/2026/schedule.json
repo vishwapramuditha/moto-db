@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-10-05T11:57:30.524480Z",
+  "updated_at": "2026-10-12T12:37:55.579728Z",
   "series": {
     "cup": [
       {
@@ -4370,27 +4370,27 @@
         "track_name": "Charlotte Motor Speedway",
         "date_scheduled": "2026-10-11T15:00:00",
         "race_date": "2026-10-11T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-11T15:00:00",
         "tunein_date": "2026-10-11T15:00:00",
         "scheduled_distance": 400.5,
         "actual_distance": 400.5,
         "scheduled_laps": 267,
         "actual_laps": 267,
-        "stage_1_laps": 25,
-        "stage_2_laps": 25,
-        "stage_3_laps": 217,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
+        "stage_1_laps": 77,
+        "stage_2_laps": 88,
+        "stage_3_laps": 102,
+        "number_of_cars_in_field": 39,
+        "pole_winner_driver_id": 4030,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 11,
+        "number_of_leaders": 5,
+        "number_of_cautions": 6,
+        "number_of_caution_laps": 33,
+        "average_speed": 139.561,
+        "total_race_time": "2:52:11",
+        "margin_of_victory": ".029",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Chase Briscoe won the Bank of America 400 at Charlotte Motor Speedway, his eighth NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -4401,34 +4401,10 @@
             "run_type": 0
           },
           {
-            "event_name": "Haulers Enter",
-            "notes": "Equipment Unloading",
-            "start_time_utc": "2026-10-10T09:30:00",
-            "run_type": 0
-          },
-          {
             "event_name": "Garage Hours",
             "notes": "",
-            "start_time_utc": "2026-10-10T11:30:00",
+            "start_time_utc": "2026-10-10T09:00:00",
             "run_type": 0
-          },
-          {
-            "event_name": "Driver Competition Briefing (Full-Time Competitors)",
-            "notes": "Media Center Meeting Room",
-            "start_time_utc": "2026-10-10T14:00:00",
-            "run_type": 0
-          },
-          {
-            "event_name": "Practice (Impound)",
-            "notes": "All Entries",
-            "start_time_utc": "2026-10-10T17:00:00",
-            "run_type": 1
-          },
-          {
-            "event_name": "Qualifying (Impound)",
-            "notes": " ",
-            "start_time_utc": "2026-10-10T18:05:00",
-            "run_type": 2
           },
           {
             "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
@@ -4471,13 +4447,13 @@
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4707,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4228,
         "pole_winner_laptime": null
       },
       {
@@ -4566,7 +4542,13 @@
           {
             "event_name": "The Drivers Meeting",
             "notes": "Media Center Meeting Room",
-            "start_time_utc": "2026-10-18T17:50:00",
+            "start_time_utc": "2026-10-18T17:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Drivers Report For Pre-Race",
+            "notes": "O'Reilly Series Garage Area",
+            "start_time_utc": "2026-10-18T18:00:00",
             "run_type": 0
           },
           {
@@ -4934,7 +4916,7 @@
           },
           {
             "event_name": "Drivers Report For Pre-Race",
-            "notes": "NASCAR O'Reilly Auto Parts Series Garage Area",
+            "notes": "NASCAR Cup Series Garage Area",
             "start_time_utc": "2026-11-08T19:00:00",
             "run_type": 0
           },
@@ -8179,8 +8161,8 @@
         "track_name": "Charlotte Motor Speedway",
         "date_scheduled": "2026-10-10T16:00:00",
         "race_date": "2026-10-10T16:00:00",
-        "qualifying_date": "2026-10-10T00:00:00",
-        "tunein_date": "2026-10-10T16:00:00",
+        "qualifying_date": "2026-10-11T20:00:00",
+        "tunein_date": "2026-10-11T20:00:00",
         "scheduled_distance": 300,
         "actual_distance": 300,
         "scheduled_laps": 200,
@@ -8189,17 +8171,17 @@
         "stage_2_laps": 45,
         "stage_3_laps": 110,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
+        "pole_winner_driver_id": 4467,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 16,
+        "number_of_leaders": 7,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 38,
+        "average_speed": 121.471,
+        "total_race_time": "2:28:11",
+        "margin_of_victory": "0.728",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Corey Day won the Blue Cross NC 300 at Charlotte Motor Speedway, his fourth NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following driver dropped to the rear for the reason indicated: No. 38 (missed driver intros).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -8230,37 +8212,37 @@
           {
             "event_name": "Garage Hours",
             "notes": "",
-            "start_time_utc": "2026-10-10T13:00:00",
+            "start_time_utc": "2026-10-10T11:00:00",
             "run_type": 0
           },
           {
-            "event_name": "Practice",
-            "notes": " ",
-            "start_time_utc": "2026-10-10T14:30:00",
-            "run_type": 1
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-11T16:00:00",
+            "run_type": 0
           },
           {
-            "event_name": "Qualifying (Impound)",
-            "notes": " ",
-            "start_time_utc": "2026-10-10T15:35:00",
-            "run_type": 2
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-11T20:00:00",
+            "run_type": 0
           },
           {
             "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
             "notes": "Pit Road",
-            "start_time_utc": "2026-10-10T19:20:00",
+            "start_time_utc": "2026-10-11T23:20:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
             "notes": "  ",
-            "start_time_utc": "2026-10-10T19:25:00",
+            "start_time_utc": "2026-10-11T23:25:00",
             "run_type": 0
           },
           {
             "event_name": "Race",
             "notes": "Stages 45/90/200 Laps = 300 Miles",
-            "start_time_utc": "2026-10-10T20:00:00",
+            "start_time_utc": "2026-10-12T00:00:00",
             "run_type": 3
           }
         ],
@@ -8268,13 +8250,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4742,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4502,
         "pole_winner_laptime": null
       },
       {
@@ -8369,13 +8351,13 @@
           {
             "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
             "notes": "Pit Road",
-            "start_time_utc": "2026-10-17T22:55:00",
+            "start_time_utc": "2026-10-17T22:45:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
-            "notes": " ",
-            "start_time_utc": "2026-10-17T23:10:00",
+            "notes": "Ride-Around Vehicles / Garage Area",
+            "start_time_utc": "2026-10-17T22:55:00",
             "run_type": 0
           },
           {
@@ -11194,27 +11176,27 @@
         "track_name": "Charlotte Motor Speedway",
         "date_scheduled": "2026-10-09T17:00:00",
         "race_date": "2026-10-09T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-09T17:00:00",
         "tunein_date": "2026-10-09T17:00:00",
-        "scheduled_distance": 250.5,
-        "actual_distance": 250.5,
-        "scheduled_laps": 167,
-        "actual_laps": 167,
-        "stage_1_laps": 20,
-        "stage_2_laps": 20,
-        "stage_3_laps": 127,
+        "scheduled_distance": 201,
+        "actual_distance": 201,
+        "scheduled_laps": 134,
+        "actual_laps": 134,
+        "stage_1_laps": 30,
+        "stage_2_laps": 30,
+        "stage_3_laps": 74,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4433,
+        "pole_winner_speed": 180.234,
+        "number_of_lead_changes": 8,
+        "number_of_leaders": 3,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 28,
+        "average_speed": 116.804,
+        "total_race_time": "1:43:15",
+        "margin_of_victory": "0.596",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Layne Riggs won the Ecosave 200 at Charlotte Motor Speedway, his 12th NASCAR CRAFTSMAN Truck Series victory. Prior to the green flag to start the race, the following trucks dropped to the rear for the reason indicated: Nos. 52, 17, 25 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -11289,13 +11271,13 @@
         "television_broadcaster": "FOX",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5688,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4446,
         "pole_winner_laptime": null
       },
       {
@@ -11378,13 +11360,13 @@
           {
             "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
             "notes": "",
-            "start_time_utc": "2026-10-16T23:05:00",
+            "start_time_utc": "2026-10-16T22:45:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
-            "notes": "",
-            "start_time_utc": "2026-10-16T23:10:00",
+            "notes": "Ride-Around Vehicles / Garage Area",
+            "start_time_utc": "2026-10-16T22:55:00",
             "run_type": 0
           },
           {
