@@ -23,7 +23,7 @@
   "session": {
     "id": "f54af69d-54d7-4d36-8c99-dcb8352e8f99",
     "type": "RAC",
-    "date": "2026-10-11T13:15:00+00:00",
+    "date": "2026-10-11T13:34:00+00:00",
     "condition": {
       "track": "Dry",
       "air": "29º",
@@ -32,7 +32,7 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-10-12T11:42:42.836702Z",
+  "updated_at": "2026-10-19T09:38:53.245083Z",
   "results": [
     {
       "id": "faa67c1e-a4b5-4ddb-849b-6036ab5c1a95",

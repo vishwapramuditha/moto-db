@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-10-12T11:39:53.558889Z",
+  "updated_at": "2026-10-19T09:36:03.157853Z",
   "events": [
     {
       "country": {
@@ -1163,7 +1163,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "GRAND PRIX OF AUSTRALIA ",
+      "sponsored_name": "RED BULL GRAND PRIX OF AUSTRALIA",
       "date_end": "2026-10-25",
       "toad_api_uuid": "66961f05-2454-4455-9d65-f99c49d25b17",
       "date_start": "2026-10-23",
