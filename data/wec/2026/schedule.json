@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 9,
-  "updated_at": "2026-10-12T16:26:27.822220Z",
+  "updated_at": "2026-10-19T14:17:54.122565Z",
   "races": [
     {
       "race_id": "official-prologue-imola-2026",
@@ -451,8 +451,8 @@
       "name": "WEC 6 Hours of Barcelona 2026",
       "slug": "6-hours-of-barcelona-2026",
       "url": "https://www.fiawec.com/en/race/6-hours-of-barcelona-2026",
-      "status": "EventScheduled",
-      "completed": false,
+      "status": "EventCompleted",
+      "completed": true,
       "startDate": "2026-10-16T00:00:00+02:00",
       "endDate": "2026-10-18T23:59:00+02:00",
       "date": "2026-10-18T12:00:00+02:00",
@@ -464,56 +464,56 @@
         {
           "name": "Free Practice 1 - 6 Hours of Barcelona",
           "date": "2026-10-16T11:30:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 2 - 6 Hours of Barcelona",
           "date": "2026-10-16T16:30:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 3 - LMGT3 - 6 Hours of Barcelona",
           "date": "2026-10-17T08:50:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Qualifying - LMGT3 - 6 Hours of Barcelona",
           "date": "2026-10-17T11:50:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Hyperpole - LMGT3 - 6 Hours of Barcelona",
           "date": "2026-10-17T12:10:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Qualifying - HYPERCAR - 6 Hours of Barcelona",
           "date": "2026-10-17T15:40:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Hyperpole - HYPERCAR - 6 Hours of Barcelona",
           "date": "2026-10-17T16:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Race - 6 Hours of Barcelona",
           "date": "2026-10-18T12:00:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 3 - Hypercar - 6 Hours of Barcelona",
           "date": "2026-10-17T12:40:00+02:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         }
       ]
     },

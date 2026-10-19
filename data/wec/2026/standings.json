@@ -3,7 +3,7 @@
   "hypercarDriverStandings": [
     {
       "position": 1,
-      "wins": 2,
+      "wins": 3,
       "driver_name": "Sébastien Buemi Brendon Hartley Ryō Hirakawa",
       "team_name": "No. 8 Toyota Racing"
     },
@@ -35,7 +35,7 @@
   "hypercarTeamStandings": [
     {
       "position": 1,
-      "wins": 2,
+      "wins": 3,
       "team_name": "No. 8 Toyota Racing"
     },
     {
@@ -95,6 +95,12 @@
       "wins": 1,
       "driver_name": "Augusto Farfus Sean Gelael Darren Leung",
       "team_name": "No. 32 Team WRT"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "driver_name": "Richard Lietz Riccardo Pera Yasser Shahin",
+      "team_name": "No. 92 The Bend Manthey"
     }
   ],
   "lmgt3TeamStandings": [
@@ -127,7 +133,12 @@
       "position": 6,
       "wins": 1,
       "team_name": "No. 32 Team WRT"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "team_name": "No. 92 The Bend Manthey"
     }
   ],
-  "updated_at": "2026-10-12T16:26:29.084877+00:00"
+  "updated_at": "2026-10-19T14:17:55.492393+00:00"
 }
