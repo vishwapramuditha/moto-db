@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-10-19T09:36:03.157853Z",
+  "updated_at": "2026-10-26T09:43:28.884059Z",
   "events": [
     {
       "country": {
@@ -1134,7 +1134,7 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/AUS/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
@@ -1142,7 +1142,7 @@
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/AUS/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
@@ -1190,7 +1190,7 @@
       },
       "short_name": "AUS",
       "id": "c1dea7a7-e35e-4363-9e28-7997e3bc6fbf",
-      "status": "NOT-STARTED"
+      "status": "CURRENT"
     },
     {
       "country": {

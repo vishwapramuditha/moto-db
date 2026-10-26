@@ -32,10 +32,10 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-10-19T09:38:55.642652Z",
+  "updated_at": "2026-10-26T09:46:23.157036Z",
   "results": [
     {
-      "id": "ec27fafb-05a1-4626-9ac9-b9d5f3391fa2",
+      "id": "42c5fe68-ad30-4348-beb2-07f62f874a21",
       "position": 1,
       "rider": {
         "id": "e6532a75-fac6-4d72-a03d-26904d3298af",
@@ -76,7 +76,7 @@
       "status": "INSTND"
     },
     {
-      "id": "c25af033-b18b-4f0c-a33f-bee56bc26326",
+      "id": "2fb48134-f512-4eb5-8edb-6c3525602359",
       "position": 2,
       "rider": {
         "id": "0bfba4d0-4af8-4174-a566-8236e75a3b08",
@@ -117,7 +117,7 @@
       "status": "INSTND"
     },
     {
-      "id": "975ff834-f086-4d4e-866e-cac73aeb5f7a",
+      "id": "dcea1fae-bc3f-4b33-b8ed-510c17386f63",
       "position": 3,
       "rider": {
         "id": "ebbcbb0f-0692-4963-9a8b-7efb7bd91d9e",
@@ -158,7 +158,7 @@
       "status": "INSTND"
     },
     {
-      "id": "81996ca9-c63f-4f8c-8582-0a580ab9424e",
+      "id": "46c277e5-eff6-4735-9bf3-4932705388fb",
       "position": 4,
       "rider": {
         "id": "760c8192-f5d5-4f96-a032-36dde524ea62",
@@ -199,7 +199,7 @@
       "status": "INSTND"
     },
     {
-      "id": "9d924801-af06-48ce-90a5-e303201d04fa",
+      "id": "3b816e67-0151-4fac-a3e2-5e907e2f2151",
       "position": 5,
       "rider": {
         "id": "f3dd914c-72cf-446a-a135-12c05a0eebde",
@@ -240,7 +240,7 @@
       "status": "INSTND"
     },
     {
-      "id": "db35258f-1e7d-470b-97f6-fa1383645d2a",
+      "id": "a38ce40c-4a53-4ef1-8f5d-7d49f351f413",
       "position": 6,
       "rider": {
         "id": "4540b4b4-43ca-46a9-bbca-68ade8c5ced2",
@@ -281,7 +281,7 @@
       "status": "INSTND"
     },
     {
-      "id": "86a57949-a6af-465a-980a-d72a07d8480c",
+      "id": "5708dc80-7021-4c64-8ddc-3e6402604564",
       "position": 7,
       "rider": {
         "id": "16332a3a-5c77-4f28-b58f-1381711cd452",
@@ -322,7 +322,7 @@
       "status": "INSTND"
     },
     {
-      "id": "5e330c65-b959-4cae-906d-eb10ba779b76",
+      "id": "2c25ab0c-90cf-4c8a-9776-e88c4f95011d",
       "position": 8,
       "rider": {
         "id": "bc85adec-2833-4acb-8f42-0d1b7b3839e8",
@@ -363,7 +363,7 @@
       "status": "INSTND"
     },
     {
-      "id": "ee3cb84f-3d27-497b-9cf8-dbd9a47d8adc",
+      "id": "4e4f8bfe-f350-45d3-84ae-f430c8c1dd0b",
       "position": 9,
       "rider": {
         "id": "dd9a6ca6-8bb0-4d66-ad73-86092335975f",
@@ -404,7 +404,7 @@
       "status": "INSTND"
     },
     {
-      "id": "b0f3478a-3801-42ba-9720-fd6569e0410a",
+      "id": "959fcdae-4ce1-4733-97f7-7d36e0f867a8",
       "position": 10,
       "rider": {
         "id": "4331b1bc-b5f4-4649-b787-485f762639cb",
@@ -445,7 +445,7 @@
       "status": "INSTND"
     },
     {
-      "id": "1547301f-4ce0-40d2-b279-0a33eeed49fa",
+      "id": "93d0e3e0-4604-4a75-82b5-0181ee7f5c43",
       "position": 11,
       "rider": {
         "id": "9de28705-315e-4370-a304-308147bf8203",
@@ -486,7 +486,7 @@
       "status": "INSTND"
     },
     {
-      "id": "73b9b41f-154c-4b6e-88bf-7b1da52f7e12",
+      "id": "737703cc-2fa2-4900-ae0f-a2d7fab7c1a9",
       "position": 12,
       "rider": {
         "id": "aa5b1925-1b45-4cf1-8b0d-7d2726e99415",
@@ -527,7 +527,7 @@
       "status": "INSTND"
     },
     {
-      "id": "911ef73d-a66a-437e-98a3-90e73891e9a8",
+      "id": "fc030fa9-9458-402c-abad-ed8c3f113ffd",
       "position": 13,
       "rider": {
         "id": "f69ef365-138a-4727-a992-b8857bc5bb52",
@@ -568,7 +568,7 @@
       "status": "INSTND"
     },
     {
-      "id": "dc2bae47-8b5e-48f6-b134-8a191d018812",
+      "id": "692e0e7d-1303-4cd2-8219-0730b04fec2e",
       "position": 14,
       "rider": {
         "id": "b187512c-fb56-46b1-b00d-62b46a7c65aa",
@@ -609,7 +609,7 @@
       "status": "INSTND"
     },
     {
-      "id": "9a36eb11-6cbf-41f3-9a20-0e745360fc29",
+      "id": "2f0a1e4a-8921-4dd7-bb1c-9c032dd788b7",
       "position": 15,
       "rider": {
         "id": "f7138283-ea5f-475a-bd40-cb1fcb02c6aa",
@@ -650,7 +650,7 @@
       "status": "INSTND"
     },
     {
-      "id": "84846eab-0439-4da6-8fa4-9a7dc6d0055d",
+      "id": "62dfa053-e17f-4ac3-9ee8-c57fd90608f2",
       "position": 16,
       "rider": {
         "id": "9aad8146-4002-4852-9857-e1edb47543ea",
@@ -691,7 +691,7 @@
       "status": "INSTND"
     },
     {
-      "id": "a0ee9fd2-c1c3-4185-aced-c1335a93e827",
+      "id": "53b5ad0c-0268-4a86-99f6-beb3d25babc4",
       "position": 17,
       "rider": {
         "id": "055c69fa-ccac-4086-9ba8-28de9fb3e59f",
@@ -732,7 +732,7 @@
       "status": "INSTND"
     },
     {
-      "id": "925eead3-1ca6-47bf-bd53-839e9f849579",
+      "id": "5bb8e602-3b6f-4064-bb4f-faafca1fe589",
       "position": 18,
       "rider": {
         "id": "eff84411-d39e-49c1-8447-a42160daf173",
@@ -773,7 +773,7 @@
       "status": "INSTND"
     },
     {
-      "id": "faea3072-4a68-4e58-8b1e-57177b7f0b27",
+      "id": "6bff882c-aa5d-451e-9daf-02d4de51996c",
       "position": 19,
       "rider": {
         "id": "39bd22aa-4179-411f-bebb-c8bb3c0c8620",
@@ -814,7 +814,7 @@
       "status": "INSTND"
     },
     {
-      "id": "4c1dc40c-f83e-411f-82e4-5533224b52e8",
+      "id": "81f7f262-85b2-43f3-a1c3-e7c1637050bc",
       "position": 20,
       "rider": {
         "id": "39a2c75d-08af-4d3f-89ae-0a38ae2affb9",
@@ -855,7 +855,7 @@
       "status": "INSTND"
     },
     {
-      "id": "024c55e8-080a-4440-bebc-da1c57f39bd8",
+      "id": "715a9086-3dbb-4a1d-876f-61933e976ae5",
       "position": null,
       "rider": {
         "id": "8d4c8c88-f989-4d86-8cfd-702237b8083b",
@@ -896,7 +896,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "4cd5fec1-d9f6-49f8-b7f6-f14bb8bfd08b",
+      "id": "3753088f-7115-467b-be24-8ceecfa53e3c",
       "position": null,
       "rider": {
         "id": "ed6ebad8-3f85-48db-8539-5cf755de6c30",
@@ -937,7 +937,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "d3d58bcc-7594-48d7-8e39-703089dd3256",
+      "id": "f52f8cbe-8124-45ad-8aef-83f35510ad43",
       "position": null,
       "rider": {
         "id": "8c6da2df-4891-41f1-a703-8d51dc51c284",
@@ -978,7 +978,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "05274fa9-78c1-4080-a8bb-90a3fd94723c",
+      "id": "e5e3a7de-12c6-4369-b9be-93fcb9053279",
       "position": null,
       "rider": {
         "id": "23269713-f105-44db-9f83-7d10c1c1c058",
@@ -1019,7 +1019,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "6ce5a063-a5fc-48ed-9004-daa88e37a418",
+      "id": "84ddd5cc-d49c-4080-9c27-9951279a10f6",
       "position": null,
       "rider": {
         "id": "eb622674-1751-486a-b97f-e252353ed7a9",
@@ -1060,7 +1060,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "9e56109a-fe4c-40a6-b592-0dcaeab2a6f0",
+      "id": "8a6a0e7e-32ee-484a-9cd7-a5824d0ef98e",
       "position": null,
       "rider": {
         "id": "b2ad206f-7eb7-4ecf-b53f-8be998663b23",

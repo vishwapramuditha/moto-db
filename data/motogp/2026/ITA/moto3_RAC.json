@@ -32,10 +32,10 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-10-19T09:37:19.632454Z",
+  "updated_at": "2026-10-26T09:44:45.317183Z",
   "results": [
     {
-      "id": "c71217bc-0323-44b6-9fa3-7a344fc104a1",
+      "id": "98761653-c1b0-4b97-b689-930bb047f345",
       "position": 1,
       "rider": {
         "id": "ebbcbb0f-0692-4963-9a8b-7efb7bd91d9e",
@@ -76,7 +76,7 @@
       "status": "INSTND"
     },
     {
-      "id": "22fb1463-07fb-4bd8-9e8d-2526be1c2f70",
+      "id": "8c054627-a909-44b6-97e0-58d57ae50f47",
       "position": 2,
       "rider": {
         "id": "8c6da2df-4891-41f1-a703-8d51dc51c284",
@@ -117,7 +117,7 @@
       "status": "INSTND"
     },
     {
-      "id": "8ab64ff9-d263-449f-8a01-c3b08cac2b96",
+      "id": "ffb547c9-6cd2-4296-a68e-ede14d860d1b",
       "position": 3,
       "rider": {
         "id": "b187512c-fb56-46b1-b00d-62b46a7c65aa",
@@ -158,7 +158,7 @@
       "status": "INSTND"
     },
     {
-      "id": "12fd0411-05b5-4627-b4a7-d28f64999302",
+      "id": "e00b14b6-bfd1-4b8e-bbaa-a3d1e6eec4c6",
       "position": 4,
       "rider": {
         "id": "16332a3a-5c77-4f28-b58f-1381711cd452",
@@ -199,7 +199,7 @@
       "status": "INSTND"
     },
     {
-      "id": "14b13f99-2078-4a5a-a1da-8bc8e2f3e07c",
+      "id": "c4df67e1-6a56-47f9-b906-42b998b3b9a5",
       "position": 5,
       "rider": {
         "id": "dd9a6ca6-8bb0-4d66-ad73-86092335975f",
@@ -240,7 +240,7 @@
       "status": "INSTND"
     },
     {
-      "id": "b9dd5127-3464-4833-891e-f9e9385a218a",
+      "id": "fd47785e-bf07-4dc0-8b27-24bfc4c58403",
       "position": 6,
       "rider": {
         "id": "39bd22aa-4179-411f-bebb-c8bb3c0c8620",
@@ -257,7 +257,7 @@
       },
       "team": {
         "id": "03f705b9-05e8-4733-99aa-475ca4c4a166",
-        "name": "GRYD - MLav Racing",
+        "name": "GRYD Racing",
         "legacy_id": 560,
         "season": {
           "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
@@ -281,7 +281,7 @@
       "status": "INSTND"
     },
     {
-      "id": "28a5ff83-f0f8-4540-84bf-67896709fc95",
+      "id": "b9c2c961-b573-4257-a3a1-928cf849b87e",
       "position": 7,
       "rider": {
         "id": "ed6ebad8-3f85-48db-8539-5cf755de6c30",
@@ -322,7 +322,7 @@
       "status": "INSTND"
     },
     {
-      "id": "c1483423-ca1c-4a96-b523-e24e6d0105c8",
+      "id": "91d79478-b8d7-467e-95a0-79d7cfb71d1f",
       "position": 8,
       "rider": {
         "id": "4540b4b4-43ca-46a9-bbca-68ade8c5ced2",
@@ -363,7 +363,7 @@
       "status": "INSTND"
     },
     {
-      "id": "ff35ff2e-6530-4583-b9f5-396ef1987438",
+      "id": "172ce03a-64ef-433d-883f-77487f9ba302",
       "position": 9,
       "rider": {
         "id": "8d4c8c88-f989-4d86-8cfd-702237b8083b",
@@ -380,7 +380,7 @@
       },
       "team": {
         "id": "543a1d67-f449-40af-8ae1-dc517d2e0194",
-        "name": "GRYD - MLav Racing",
+        "name": "GRYD Racing",
         "legacy_id": 577,
         "season": {
           "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
@@ -404,7 +404,7 @@
       "status": "INSTND"
     },
     {
-      "id": "0c7d2a63-4a02-493e-87f7-67c133c9066d",
+      "id": "50a0e593-8c2b-4b52-8d26-8ed5ea74b651",
       "position": 10,
       "rider": {
         "id": "f7138283-ea5f-475a-bd40-cb1fcb02c6aa",
@@ -445,7 +445,7 @@
       "status": "INSTND"
     },
     {
-      "id": "eca303c0-268c-48e3-bd40-88a0fa47b676",
+      "id": "820c1697-dfcb-49c8-977f-b9f8e1f8f300",
       "position": 11,
       "rider": {
         "id": "e6532a75-fac6-4d72-a03d-26904d3298af",
@@ -462,7 +462,7 @@
       },
       "team": {
         "id": "a9acac7c-b5c0-4c57-b2d8-60f799ae8e6c",
-        "name": "CFMOTO Valresa Aspar Team",
+        "name": "CFMOTO Gaviota Aspar Team",
         "legacy_id": 571,
         "season": {
           "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
@@ -486,7 +486,7 @@
       "status": "INSTND"
     },
     {
-      "id": "3c156dec-c3fa-42f2-89ad-a00e0d6e670b",
+      "id": "c5630616-9277-4547-8f40-fb1b9a0163d7",
       "position": 12,
       "rider": {
         "id": "760c8192-f5d5-4f96-a032-36dde524ea62",
@@ -527,7 +527,7 @@
       "status": "INSTND"
     },
     {
-      "id": "4d513001-7af5-4d73-b0bc-96c30d70bfd9",
+      "id": "09cb8559-8d1e-432c-9eb2-e6728ce6d733",
       "position": 13,
       "rider": {
         "id": "eff84411-d39e-49c1-8447-a42160daf173",
@@ -544,7 +544,7 @@
       },
       "team": {
         "id": "7a01bb08-59fb-461f-a3e6-e5d2c6530ec8",
-        "name": "CFMOTO Valresa Aspar Team",
+        "name": "CFMOTO Gaviota Aspar Team",
         "legacy_id": 582,
         "season": {
           "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
@@ -568,7 +568,7 @@
       "status": "INSTND"
     },
     {
-      "id": "f92883e4-589f-415b-aa59-71d1a6d9198b",
+      "id": "8db1f383-8714-4b99-861b-f0251c6a92b6",
       "position": 14,
       "rider": {
         "id": "4331b1bc-b5f4-4649-b787-485f762639cb",
@@ -609,7 +609,7 @@
       "status": "INSTND"
     },
     {
-      "id": "6c30e156-28e3-4575-8a15-64ca09abfb5e",
+      "id": "a01a38f3-e9e8-486a-b5cc-a2251c5f8675",
       "position": 15,
       "rider": {
         "id": "bc85adec-2833-4acb-8f42-0d1b7b3839e8",
@@ -650,7 +650,7 @@
       "status": "INSTND"
     },
     {
-      "id": "980f644a-b206-4679-9fbb-11d501b4fa4f",
+      "id": "cc06387d-defe-4808-a800-b6e3719fc51c",
       "position": 16,
       "rider": {
         "id": "9de28705-315e-4370-a304-308147bf8203",
@@ -691,7 +691,7 @@
       "status": "INSTND"
     },
     {
-      "id": "dc7f60a0-3abf-42c9-b720-4e8406924f93",
+      "id": "54ed22b3-5af5-494f-9265-1093cf1142c5",
       "position": 17,
       "rider": {
         "id": "aa5b1925-1b45-4cf1-8b0d-7d2726e99415",
@@ -732,7 +732,7 @@
       "status": "INSTND"
     },
     {
-      "id": "0b4ff5eb-fdb7-4f7b-86b4-df93cad5cb57",
+      "id": "2d910d53-8ace-4a2f-b115-17eedc2b0ff3",
       "position": 18,
       "rider": {
         "id": "f69ef365-138a-4727-a992-b8857bc5bb52",
@@ -773,7 +773,7 @@
       "status": "INSTND"
     },
     {
-      "id": "6bee0ec3-b502-4bfc-b2a6-9a664eccd5d4",
+      "id": "6a84589c-481d-4983-b879-b077aaeca127",
       "position": 19,
       "rider": {
         "id": "cb4628b6-3af2-4b76-bd84-aa9d195876f4",
@@ -814,7 +814,7 @@
       "status": "INSTND"
     },
     {
-      "id": "d8b32c16-06f1-4199-8c31-4a57a54fbfe4",
+      "id": "86d007ce-831a-44c9-b49e-00f749166df0",
       "position": 20,
       "rider": {
         "id": "a14ea48a-578d-45a6-9e95-1007032024e9",
@@ -855,7 +855,7 @@
       "status": "INSTND"
     },
     {
-      "id": "df7fefd5-0736-42f3-bf35-8bcf614b39e8",
+      "id": "ad8ae86d-b2c7-4daf-9442-1cb784312286",
       "position": 21,
       "rider": {
         "id": "39a2c75d-08af-4d3f-89ae-0a38ae2affb9",
@@ -896,7 +896,7 @@
       "status": "INSTND"
     },
     {
-      "id": "65789576-cf89-4cf1-a73c-60f7b904947e",
+      "id": "2d6a261e-f2b7-469d-868c-bb05133c57ec",
       "position": 22,
       "rider": {
         "id": "9aad8146-4002-4852-9857-e1edb47543ea",
@@ -937,7 +937,7 @@
       "status": "INSTND"
     },
     {
-      "id": "f3781ea4-2daa-4f49-b929-05098342b318",
+      "id": "8b8b0850-dd90-4bb6-8b6a-876db21a5942",
       "position": 23,
       "rider": {
         "id": "23269713-f105-44db-9f83-7d10c1c1c058",
@@ -978,7 +978,7 @@
       "status": "INSTND"
     },
     {
-      "id": "b86b05f9-67ee-4f1e-8ebb-fc99d73db807",
+      "id": "ca8f58a5-1843-4ad2-96cf-f6df10eed697",
       "position": null,
       "rider": {
         "id": "f3dd914c-72cf-446a-a135-12c05a0eebde",
@@ -1019,7 +1019,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "71f5114c-99f4-4e93-b06f-3f6cd23019ad",
+      "id": "c132e0ed-7545-4d41-854c-b443dbd6ed8a",
       "position": null,
       "rider": {
         "id": "b2ad206f-7eb7-4ecf-b53f-8be998663b23",

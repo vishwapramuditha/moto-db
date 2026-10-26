@@ -32,10 +32,10 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-10-19T09:37:10.505529Z",
+  "updated_at": "2026-10-26T09:44:35.236096Z",
   "results": [
     {
-      "id": "ea854d96-57ce-494b-8cb0-31e7c6a02ea3",
+      "id": "cb17da1f-35b5-4a91-8a71-d08705029d69",
       "position": 1,
       "rider": {
         "id": "e6532a75-fac6-4d72-a03d-26904d3298af",
@@ -76,7 +76,7 @@
       "status": "INSTND"
     },
     {
-      "id": "1d01c196-8b78-4515-ac4b-e16a4b9c6f9f",
+      "id": "b2607b18-85da-4a9e-b436-76ab0219f772",
       "position": 2,
       "rider": {
         "id": "8c6da2df-4891-41f1-a703-8d51dc51c284",
@@ -117,7 +117,7 @@
       "status": "INSTND"
     },
     {
-      "id": "41701da4-a845-4c9f-9674-6b700416435b",
+      "id": "8b6829c3-78ac-4f67-80bc-db9901e334a2",
       "position": 3,
       "rider": {
         "id": "ed6ebad8-3f85-48db-8539-5cf755de6c30",
@@ -158,7 +158,7 @@
       "status": "INSTND"
     },
     {
-      "id": "06d62a69-b8c0-4061-97ea-6eb47df3c14e",
+      "id": "8aa8ba2d-5855-4d89-8b61-ce092731ec4b",
       "position": 4,
       "rider": {
         "id": "0bfba4d0-4af8-4174-a566-8236e75a3b08",
@@ -199,7 +199,7 @@
       "status": "INSTND"
     },
     {
-      "id": "3fb71718-3e8e-40cc-8318-a7f0e3757a59",
+      "id": "a0e4d453-20e1-4507-883a-794dcf974351",
       "position": 5,
       "rider": {
         "id": "eff84411-d39e-49c1-8447-a42160daf173",
@@ -240,7 +240,7 @@
       "status": "INSTND"
     },
     {
-      "id": "638662bc-b221-4c0d-b487-25693314c4b4",
+      "id": "e6eae229-ed1b-4c81-811c-33116d2e4d28",
       "position": 6,
       "rider": {
         "id": "b187512c-fb56-46b1-b00d-62b46a7c65aa",
@@ -281,7 +281,7 @@
       "status": "INSTND"
     },
     {
-      "id": "ede88ae6-fa1e-40f9-96fa-41ead70125cb",
+      "id": "51a8a2f8-d422-4dd1-af40-6e0a1dec11c6",
       "position": 7,
       "rider": {
         "id": "4540b4b4-43ca-46a9-bbca-68ade8c5ced2",
@@ -322,8 +322,49 @@
       "status": "INSTND"
     },
     {
-      "id": "4630a430-ba13-441e-9c5d-bec24110cb58",
+      "id": "fff2dacd-9db4-427d-bd54-843bfdde7c33",
       "position": 8,
+      "rider": {
+        "id": "16332a3a-5c77-4f28-b58f-1381711cd452",
+        "full_name": "Adrian Fernandez",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8649,
+        "riders_id": "587e8e1a-43c4-4372-bde7-34da0b19e0e6",
+        "number": 31,
+        "riders_api_uuid": "587e8e1a-43c4-4372-bde7-34da0b19e0e6"
+      },
+      "team": {
+        "id": "93c0173b-bdfd-4b7d-9c42-62b84087aadf",
+        "name": "Leopard Racing",
+        "legacy_id": 572,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 154.7,
+      "gap": {
+        "first": "1.011",
+        "lap": "0"
+      },
+      "total_laps": 18,
+      "time": "32:29.975",
+      "points": 8,
+      "status": "INSTND"
+    },
+    {
+      "id": "5f9f7bd4-fc97-4d9f-ae77-ad8e123c8524",
+      "position": 9,
       "rider": {
         "id": "b2ad206f-7eb7-4ecf-b53f-8be998663b23",
         "full_name": "Casey O'gorman",
@@ -359,12 +400,12 @@
       },
       "total_laps": 18,
       "time": "32:30.115",
-      "points": 8,
+      "points": 7,
       "status": "INSTND"
     },
     {
-      "id": "6d437bab-ac2b-4f78-9d4d-58283523b8ac",
-      "position": 9,
+      "id": "a599f6ae-d1fd-4ac8-a92d-7bc8db246e3d",
+      "position": 10,
       "rider": {
         "id": "39bd22aa-4179-411f-bebb-c8bb3c0c8620",
         "full_name": "Eddie O'shea",
@@ -380,7 +421,7 @@
       },
       "team": {
         "id": "03f705b9-05e8-4733-99aa-475ca4c4a166",
-        "name": "GRYD - MLav Racing",
+        "name": "GRYD Racing",
         "legacy_id": 560,
         "season": {
           "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
@@ -400,12 +441,12 @@
       },
       "total_laps": 18,
       "time": "32:34.200",
-      "points": 7,
+      "points": 6,
       "status": "INSTND"
     },
     {
-      "id": "94085df8-3210-4181-80fa-278e11c6016e",
-      "position": 10,
+      "id": "62b6a830-a246-4674-9ece-71a470f013c5",
+      "position": 11,
       "rider": {
         "id": "f69ef365-138a-4727-a992-b8857bc5bb52",
         "full_name": "Valentin Perrone",
@@ -441,12 +482,12 @@
       },
       "total_laps": 18,
       "time": "32:38.769",
-      "points": 6,
+      "points": 5,
       "status": "INSTND"
     },
     {
-      "id": "41791744-b7bc-41ab-a2fa-2f161db6924e",
-      "position": 11,
+      "id": "5ecb973a-c57f-4e0d-ace5-3804490ea201",
+      "position": 12,
       "rider": {
         "id": "aa5b1925-1b45-4cf1-8b0d-7d2726e99415",
         "full_name": "Adrian Cruces",
@@ -482,12 +523,12 @@
       },
       "total_laps": 18,
       "time": "32:38.817",
-      "points": 5,
+      "points": 4,
       "status": "INSTND"
     },
     {
-      "id": "c572bf9e-18a6-4695-8c54-2212655673a9",
-      "position": 12,
+      "id": "bb65a4ab-26a9-4cb5-b426-00fb9bfc588b",
+      "position": 13,
       "rider": {
         "id": "760c8192-f5d5-4f96-a032-36dde524ea62",
         "full_name": "Matteo Bertelle",
@@ -523,12 +564,12 @@
       },
       "total_laps": 18,
       "time": "32:38.873",
-      "points": 4,
+      "points": 3,
       "status": "INSTND"
     },
     {
-      "id": "110dc47e-6d4c-49a0-82ea-9a0771d7e807",
-      "position": 13,
+      "id": "a73d99b5-f556-4937-9472-d1a078a06415",
+      "position": 14,
       "rider": {
         "id": "9de28705-315e-4370-a304-308147bf8203",
         "full_name": "Ryusei Yamanaka",
@@ -564,12 +605,12 @@
       },
       "total_laps": 18,
       "time": "32:38.915",
-      "points": 3,
+      "points": 2,
       "status": "INSTND"
     },
     {
-      "id": "01ddef35-6a51-4f28-b4ab-d286f817fe34",
-      "position": 14,
+      "id": "d44d6b0c-c414-4472-ad3a-263a0af7a8b1",
+      "position": 15,
       "rider": {
         "id": "dd9a6ca6-8bb0-4d66-ad73-86092335975f",
         "full_name": "Joel Esteban",
@@ -605,12 +646,12 @@
       },
       "total_laps": 18,
       "time": "32:38.972",
-      "points": 2,
+      "points": 1,
       "status": "INSTND"
     },
     {
-      "id": "21b07eb9-484e-43d0-8d53-deeb5e0d4c1e",
-      "position": 15,
+      "id": "239c33ab-f190-4eb5-a9b8-9e6ce0eed244",
+      "position": 16,
       "rider": {
         "id": "f3dd914c-72cf-446a-a135-12c05a0eebde",
         "full_name": "Rico Salmela",
@@ -646,12 +687,12 @@
       },
       "total_laps": 18,
       "time": "32:39.038",
-      "points": 1,
+      "points": 0,
       "status": "INSTND"
     },
     {
-      "id": "24e4cedb-d091-401b-9f1a-b21d788c8b92",
-      "position": 16,
+      "id": "5f1e3c1f-0a45-454e-8b4e-d288de8c446e",
+      "position": 17,
       "rider": {
         "id": "8d4c8c88-f989-4d86-8cfd-702237b8083b",
         "full_name": "Joel Kelso",
@@ -667,7 +708,7 @@
       },
       "team": {
         "id": "543a1d67-f449-40af-8ae1-dc517d2e0194",
-        "name": "GRYD - MLav Racing",
+        "name": "GRYD Racing",
         "legacy_id": 577,
         "season": {
           "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
@@ -691,8 +732,8 @@
       "status": "INSTND"
     },
     {
-      "id": "482da8f4-fd19-4396-919e-5db01f9bee66",
-      "position": 17,
+      "id": "8e0a380f-4cfc-49fb-bd6b-5e9b37e864a9",
+      "position": 18,
       "rider": {
         "id": "4331b1bc-b5f4-4649-b787-485f762639cb",
         "full_name": "Scott Ogden",
@@ -732,8 +773,8 @@
       "status": "INSTND"
     },
     {
-      "id": "c566a3f9-745c-4b93-bc17-23592d0eba74",
-      "position": 18,
+      "id": "17bd0e9c-2ad4-40ca-a2ac-43838c6a8e7c",
+      "position": 19,
       "rider": {
         "id": "39a2c75d-08af-4d3f-89ae-0a38ae2affb9",
         "full_name": "Ruche Moodley",
@@ -773,8 +814,8 @@
       "status": "INSTND"
     },
     {
-      "id": "bc6f335d-0ac0-4595-9907-05a4cf9ac6ed",
-      "position": 19,
+      "id": "223cd0df-4bb3-4d3b-8409-f5b4889107b3",
+      "position": 20,
       "rider": {
         "id": "bc85adec-2833-4acb-8f42-0d1b7b3839e8",
         "full_name": "Guido Pini",
@@ -814,8 +855,8 @@
       "status": "INSTND"
     },
     {
-      "id": "7a39adb7-b1c4-420a-bbbb-92ef6344a44b",
-      "position": 20,
+      "id": "338476d2-0e3a-4830-a9c3-f2a5f4c68b38",
+      "position": 21,
       "rider": {
         "id": "9aad8146-4002-4852-9857-e1edb47543ea",
         "full_name": "Zen Mitani",
@@ -855,8 +896,8 @@
       "status": "INSTND"
     },
     {
-      "id": "5a26ef28-d93f-482b-8ef2-06c164fc5c09",
-      "position": 21,
+      "id": "aff5a8e3-db5c-47e4-a36f-ce120c3621c4",
+      "position": 22,
       "rider": {
         "id": "23269713-f105-44db-9f83-7d10c1c1c058",
         "full_name": "Leo Rammerstorfer",
@@ -896,8 +937,8 @@
       "status": "INSTND"
     },
     {
-      "id": "c9412059-6612-4a80-bb07-05a52a9d16be",
-      "position": 22,
+      "id": "1f4e4ec0-ae04-4b42-b8d6-8fcb1eef41d0",
+      "position": 23,
       "rider": {
         "id": "cb4628b6-3af2-4b76-bd84-aa9d195876f4",
         "full_name": "Cormac Buchanan",
@@ -937,7 +978,7 @@
       "status": "INSTND"
     },
     {
-      "id": "719b4eb2-8ab3-484f-8221-d7c074eb0a41",
+      "id": "2494be63-e43b-404e-9f98-7284149cba23",
       "position": null,
       "rider": {
         "id": "f7138283-ea5f-475a-bd40-cb1fcb02c6aa",
@@ -978,7 +1019,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "9ca0b4dd-aea9-4130-b7d5-920df552be5a",
+      "id": "e1da779a-3dd9-4fd2-96c9-44e816b68115",
       "position": null,
       "rider": {
         "id": "a14ea48a-578d-45a6-9e95-1007032024e9",
@@ -1019,7 +1060,7 @@
       "status": "OUTSTND"
     },
     {
-      "id": "7f84783b-5e92-44c3-8efb-bcdb8ae33f6f",
+      "id": "b91b8c4b-855e-44c4-ae50-f639b34de69c",
       "position": null,
       "rider": {
         "id": "ebbcbb0f-0692-4963-9a8b-7efb7bd91d9e",
@@ -1048,47 +1089,6 @@
         "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
         "name": "KTM",
         "legacy_id": 298
-      },
-      "average_speed": 0,
-      "gap": {
-        "first": "0.000",
-        "lap": "0"
-      },
-      "total_laps": 18,
-      "time": "",
-      "points": 0,
-      "status": "DISQUALIFIED"
-    },
-    {
-      "id": "c3038b9e-0faf-4a0d-8555-4b8a46d2abef",
-      "position": null,
-      "rider": {
-        "id": "16332a3a-5c77-4f28-b58f-1381711cd452",
-        "full_name": "Adrian Fernandez",
-        "country": {
-          "iso": "ES",
-          "name": "Spain",
-          "region_iso": ""
-        },
-        "legacy_id": 8649,
-        "riders_id": "587e8e1a-43c4-4372-bde7-34da0b19e0e6",
-        "number": 31,
-        "riders_api_uuid": "587e8e1a-43c4-4372-bde7-34da0b19e0e6"
-      },
-      "team": {
-        "id": "93c0173b-bdfd-4b7d-9c42-62b84087aadf",
-        "name": "Leopard Racing",
-        "legacy_id": 572,
-        "season": {
-          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
-          "year": 2026,
-          "current": true
-        }
-      },
-      "constructor": {
-        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
-        "name": "Honda",
-        "legacy_id": 1
       },
       "average_speed": 0,
       "gap": {
