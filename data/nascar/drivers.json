@@ -1271,16 +1271,6 @@
       "twitter": ""
     },
     {
-      "id": 4316,
-      "first_name": "CJ",
-      "last_name": "McLaughlin",
-      "full_name": "CJ McLaughlin",
-      "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2026/06/10/Ford_Racing_Oval-330x124.png",
-      "team": "RSS Racing",
-      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2024/02/26/cj-mclaughlin-hero-24.png",
-      "twitter": ""
-    },
-    {
       "id": 4259,
       "first_name": "Caesar",
       "last_name": "Bacarella",
@@ -1851,6 +1841,16 @@
       "twitter": ""
     },
     {
+      "id": 4316,
+      "first_name": "Cj",
+      "last_name": "McLaughlin",
+      "full_name": "Cj McLaughlin",
+      "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2025/03/04/Chevrolet_2025-330x140.png",
+      "team": "4316",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2020/02/24/2_2020_CJMcLaughlin_550x440.png",
+      "twitter": ""
+    },
+    {
       "id": 4195,
       "first_name": "Claire",
       "last_name": "Decker",
@@ -2055,9 +2055,9 @@
       "first_name": "Connor",
       "last_name": "Mosack",
       "full_name": "Connor Mosack",
-      "manufacturer": "",
-      "team": "4433",
-      "image": "https://www.nascar.com/wp-includes/images/media/default.png",
+      "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2020/04/06/Toyota-180x180.png",
+      "team": "Sam Hunt Racing",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2017/01/Silhouette.png",
       "twitter": ""
     },
     {
@@ -7481,6 +7481,16 @@
       "twitter": ""
     },
     {
+      "id": 4552,
+      "first_name": "Tristan",
+      "last_name": "McKee",
+      "full_name": "Tristan McKee",
+      "manufacturer": "https://www.nascar.com/wp-content/uploads/sites/7/2025/03/04/Chevrolet_2025-330x140.png",
+      "team": "",
+      "image": "https://www.nascar.com/wp-content/uploads/sites/7/2026/10/31/tristan-mckee-firesuit.png",
+      "twitter": ""
+    },
+    {
       "id": 4013,
       "first_name": "Ty",
       "last_name": "Dillon",
@@ -7731,6 +7741,6 @@
       "twitter": ""
     }
   ],
-  "total": 773,
-  "updated_at": "2026-10-26T10:40:18.030722Z"
+  "total": 774,
+  "updated_at": "2026-11-02T12:58:53.961911Z"
 }
