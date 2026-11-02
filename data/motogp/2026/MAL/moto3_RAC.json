@@ -1,0 +1,1063 @@
+{
+  "season": "2026",
+  "event": {
+    "id": "ea2ba334-b943-462f-aedb-084ac38408d1",
+    "name": "GRAND PRIX OF MALAYSIA",
+    "short_name": "MAL",
+    "circuit": {
+      "id": "f5a7f3f8-0097-4810-a2da-eee749aedc77",
+      "name": "Petronas Sepang International Circuit",
+      "legacy_id": 75,
+      "place": "Sepang",
+      "nation": "MAL",
+      "events_id": null
+    },
+    "date_start": "2026-10-30",
+    "date_end": "2026-11-01"
+  },
+  "category": {
+    "id": "954f7e65-2ef2-4423-b949-4961cc603e45",
+    "name": "Moto3™",
+    "legacy_id": 1
+  },
+  "session": {
+    "id": "968c8825-afb9-4a0a-b8e1-475d399357fc",
+    "type": "RAC",
+    "date": "2026-10-29T15:30:00+00:00",
+    "condition": {
+      "track": "Dry",
+      "air": "34º",
+      "humidity": "55%",
+      "ground": "46º",
+      "weather": "Clear"
+    }
+  },
+  "updated_at": "2026-11-02T12:02:25.740678Z",
+  "results": [
+    {
+      "id": "41c4907a-2d0f-4252-8fb3-9c10a129ce7a",
+      "position": 1,
+      "rider": {
+        "id": "e6532a75-fac6-4d72-a03d-26904d3298af",
+        "full_name": "Maximo Quiles",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10392,
+        "riders_id": "01f85422-d97e-4901-9492-1be9694a4cc2",
+        "number": 28,
+        "riders_api_uuid": "01f85422-d97e-4901-9492-1be9694a4cc2"
+      },
+      "team": {
+        "id": "a9acac7c-b5c0-4c57-b2d8-60f799ae8e6c",
+        "name": "CFMOTO Gaviota Aspar Team",
+        "legacy_id": 571,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 150.5,
+      "gap": {
+        "first": "0.000",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:07.634",
+      "points": 25,
+      "status": "INSTND"
+    },
+    {
+      "id": "ed1d1152-02d4-405d-b413-ddb97f6ce189",
+      "position": 2,
+      "rider": {
+        "id": "4540b4b4-43ca-46a9-bbca-68ade8c5ced2",
+        "full_name": "Veda Pratama",
+        "country": {
+          "iso": "ID",
+          "name": "Indonesia",
+          "region_iso": ""
+        },
+        "legacy_id": 10352,
+        "riders_id": "73085df9-f749-42c4-90b6-6d9863c0f6f4",
+        "number": 9,
+        "riders_api_uuid": "73085df9-f749-42c4-90b6-6d9863c0f6f4"
+      },
+      "team": {
+        "id": "d0a4d903-a501-49a2-b394-68aa4426fdd6",
+        "name": "Honda Team Asia",
+        "legacy_id": 561,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 150.3,
+      "gap": {
+        "first": "3.734",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:11.368",
+      "points": 20,
+      "status": "INSTND"
+    },
+    {
+      "id": "0a37079d-cc95-44a2-b6db-371703e3fe72",
+      "position": 3,
+      "rider": {
+        "id": "8c6da2df-4891-41f1-a703-8d51dc51c284",
+        "full_name": "Alvaro Carpe",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10445,
+        "riders_id": "992cadcb-08e5-47cf-8b29-cf28d3e941ca",
+        "number": 83,
+        "riders_api_uuid": "992cadcb-08e5-47cf-8b29-cf28d3e941ca"
+      },
+      "team": {
+        "id": "61576267-346c-4d31-b5a2-14340299924d",
+        "name": "Red Bull KTM Ajo",
+        "legacy_id": 580,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 150.2,
+      "gap": {
+        "first": "4.184",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:11.818",
+      "points": 16,
+      "status": "INSTND"
+    },
+    {
+      "id": "fda0984f-bca0-45bc-a880-edade7e7978b",
+      "position": 4,
+      "rider": {
+        "id": "b187512c-fb56-46b1-b00d-62b46a7c65aa",
+        "full_name": "Hakim Danish",
+        "country": {
+          "iso": "MY",
+          "name": "Malaysia",
+          "region_iso": ""
+        },
+        "legacy_id": 10239,
+        "riders_id": "5d81cf1f-1708-47a9-984e-9430afd4a814",
+        "number": 13,
+        "riders_api_uuid": "5d81cf1f-1708-47a9-984e-9430afd4a814"
+      },
+      "team": {
+        "id": "7c1180c9-bc25-4456-8f9b-bfc5c0694554",
+        "name": "AEON Credit - MT Helmets - MSI",
+        "legacy_id": 564,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 150.2,
+      "gap": {
+        "first": "4.410",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:12.044",
+      "points": 13,
+      "status": "INSTND"
+    },
+    {
+      "id": "e5b77d9e-6eae-4740-9c39-468627395b5f",
+      "position": 5,
+      "rider": {
+        "id": "0bfba4d0-4af8-4174-a566-8236e75a3b08",
+        "full_name": "David Almansa",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10424,
+        "riders_id": "ed2d5631-8fe0-4a21-8449-463657eb7901",
+        "number": 22,
+        "riders_api_uuid": "ed2d5631-8fe0-4a21-8449-463657eb7901"
+      },
+      "team": {
+        "id": "1864ba8e-0ad4-4b7a-a25a-6ce847802ab7",
+        "name": "Liqui Moly Dynavolt Intact GP",
+        "legacy_id": 569,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 150.2,
+      "gap": {
+        "first": "4.914",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:12.548",
+      "points": 11,
+      "status": "INSTND"
+    },
+    {
+      "id": "75a4cd0d-45e6-4d44-845b-3a04a9011b07",
+      "position": 6,
+      "rider": {
+        "id": "dd9a6ca6-8bb0-4d66-ad73-86092335975f",
+        "full_name": "Joel Esteban",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10041,
+        "riders_id": "15049794-9e9a-45da-a2d5-a52d684914a7",
+        "number": 78,
+        "riders_api_uuid": "15049794-9e9a-45da-a2d5-a52d684914a7"
+      },
+      "team": {
+        "id": "03782bdf-5759-40ea-862b-44d52bdd2de5",
+        "name": "LEVEL UP - MTA",
+        "legacy_id": 585,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 149.8,
+      "gap": {
+        "first": "9.403",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:17.037",
+      "points": 10,
+      "status": "INSTND"
+    },
+    {
+      "id": "d0f2b363-7c0f-4126-8bf1-85e598b247db",
+      "position": 7,
+      "rider": {
+        "id": "16332a3a-5c77-4f28-b58f-1381711cd452",
+        "full_name": "Adrian Fernandez",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 8649,
+        "riders_id": "587e8e1a-43c4-4372-bde7-34da0b19e0e6",
+        "number": 31,
+        "riders_api_uuid": "587e8e1a-43c4-4372-bde7-34da0b19e0e6"
+      },
+      "team": {
+        "id": "93c0173b-bdfd-4b7d-9c42-62b84087aadf",
+        "name": "Leopard Racing",
+        "legacy_id": 572,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 149.8,
+      "gap": {
+        "first": "9.514",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:17.148",
+      "points": 9,
+      "status": "INSTND"
+    },
+    {
+      "id": "29615d30-a833-4148-b5c4-5d0883a25f44",
+      "position": 8,
+      "rider": {
+        "id": "ed6ebad8-3f85-48db-8539-5cf755de6c30",
+        "full_name": "David Muñoz",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 9869,
+        "riders_id": "3061875e-1a3f-4b9d-a974-603becd903a7",
+        "number": 64,
+        "riders_api_uuid": "3061875e-1a3f-4b9d-a974-603becd903a7"
+      },
+      "team": {
+        "id": "61e6bdab-3946-4346-b532-a820d0480df5",
+        "name": "Liqui Moly Dynavolt Intact GP",
+        "legacy_id": 576,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 149.8,
+      "gap": {
+        "first": "9.533",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:17.167",
+      "points": 8,
+      "status": "INSTND"
+    },
+    {
+      "id": "5f48b3c2-d1ab-4d0e-aa92-d9e5b5ad24b2",
+      "position": 9,
+      "rider": {
+        "id": "ebbcbb0f-0692-4963-9a8b-7efb7bd91d9e",
+        "full_name": "Brian Uriarte",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10506,
+        "riders_id": "6052c038-a2a3-4eab-9ee0-79bd5f5be209",
+        "number": 51,
+        "riders_api_uuid": "6052c038-a2a3-4eab-9ee0-79bd5f5be209"
+      },
+      "team": {
+        "id": "b39364d8-7d57-480f-a51d-438902c4e4c0",
+        "name": "Red Bull KTM Ajo",
+        "legacy_id": 574,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 149.8,
+      "gap": {
+        "first": "9.650",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:17.284",
+      "points": 7,
+      "status": "INSTND"
+    },
+    {
+      "id": "f0f94226-ae7a-43ff-b948-ba4c409432cb",
+      "position": 10,
+      "rider": {
+        "id": "39bd22aa-4179-411f-bebb-c8bb3c0c8620",
+        "full_name": "Eddie O'shea",
+        "country": {
+          "iso": "GB",
+          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "region_iso": ""
+        },
+        "legacy_id": 10193,
+        "riders_id": "99fb2930-285a-4300-a251-ccabc60e9af3",
+        "number": 8,
+        "riders_api_uuid": "99fb2930-285a-4300-a251-ccabc60e9af3"
+      },
+      "team": {
+        "id": "03f705b9-05e8-4733-99aa-475ca4c4a166",
+        "name": "GRYD Racing",
+        "legacy_id": 560,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 149.6,
+      "gap": {
+        "first": "12.064",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:19.698",
+      "points": 6,
+      "status": "INSTND"
+    },
+    {
+      "id": "521bded3-bfaf-4bec-9ba7-848d85624f6b",
+      "position": 11,
+      "rider": {
+        "id": "9de28705-315e-4370-a304-308147bf8203",
+        "full_name": "Ryusei Yamanaka",
+        "country": {
+          "iso": "JP",
+          "name": "Japan",
+          "region_iso": ""
+        },
+        "legacy_id": 8681,
+        "riders_id": "b2570616-5431-4eb3-be49-d79fd4ff86e2",
+        "number": 6,
+        "riders_api_uuid": "b2570616-5431-4eb3-be49-d79fd4ff86e2"
+      },
+      "team": {
+        "id": "8fb3a857-d3f3-4193-b613-82eb9fab595a",
+        "name": "AEON Credit - MT Helmets - MSI",
+        "legacy_id": 559,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 149.4,
+      "gap": {
+        "first": "14.640",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:22.274",
+      "points": 5,
+      "status": "INSTND"
+    },
+    {
+      "id": "3b526d22-f3b9-43e8-8ea4-7085a9268878",
+      "position": 12,
+      "rider": {
+        "id": "bc85adec-2833-4acb-8f42-0d1b7b3839e8",
+        "full_name": "Guido Pini",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10441,
+        "riders_id": "808ef2f0-0eb5-4940-be83-41834720c890",
+        "number": 94,
+        "riders_api_uuid": "808ef2f0-0eb5-4940-be83-41834720c890"
+      },
+      "team": {
+        "id": "80f14556-f650-423d-8ebb-ef3f716af5ee",
+        "name": "Leopard Racing",
+        "legacy_id": 581,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 149.3,
+      "gap": {
+        "first": "17.110",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:24.744",
+      "points": 4,
+      "status": "INSTND"
+    },
+    {
+      "id": "5bcf50ae-091b-4662-b63a-089c3edfad9f",
+      "position": 13,
+      "rider": {
+        "id": "9aad8146-4002-4852-9857-e1edb47543ea",
+        "full_name": "Zen Mitani",
+        "country": {
+          "iso": "JP",
+          "name": "Japan",
+          "region_iso": ""
+        },
+        "legacy_id": 10473,
+        "riders_id": "11af471d-9074-4d43-8b5e-f33957486f08",
+        "number": 32,
+        "riders_api_uuid": "11af471d-9074-4d43-8b5e-f33957486f08"
+      },
+      "team": {
+        "id": "7fab2a64-6b94-4a59-9d0d-aa47c571bb09",
+        "name": "Honda Team Asia",
+        "legacy_id": 573,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 149,
+      "gap": {
+        "first": "20.678",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:28.312",
+      "points": 3,
+      "status": "INSTND"
+    },
+    {
+      "id": "c6991499-d5c6-46b5-82a1-1d01430de43e",
+      "position": 14,
+      "rider": {
+        "id": "aa5b1925-1b45-4cf1-8b0d-7d2726e99415",
+        "full_name": "Adrian Cruces",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10337,
+        "riders_id": "769510fc-e823-4bf1-8cda-08c1873935e6",
+        "number": 11,
+        "riders_api_uuid": "769510fc-e823-4bf1-8cda-08c1873935e6"
+      },
+      "team": {
+        "id": "829117b0-6e65-420f-b57a-910f8413eece",
+        "name": "CIP Green Power",
+        "legacy_id": 563,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 148.5,
+      "gap": {
+        "first": "27.274",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:34.908",
+      "points": 2,
+      "status": "INSTND"
+    },
+    {
+      "id": "da55cb8d-4a78-4e10-9df0-215497a17c3f",
+      "position": 15,
+      "rider": {
+        "id": "f69ef365-138a-4727-a992-b8857bc5bb52",
+        "full_name": "Valentin Perrone",
+        "country": {
+          "iso": "AR",
+          "name": "Argentina",
+          "region_iso": ""
+        },
+        "legacy_id": 10509,
+        "riders_id": "c1dbeba7-8a56-40fd-ab57-cd6eb37e63f3",
+        "number": 73,
+        "riders_api_uuid": "c1dbeba7-8a56-40fd-ab57-cd6eb37e63f3"
+      },
+      "team": {
+        "id": "6d219865-5377-48b7-a50d-595175870fe3",
+        "name": "Red Bull KTM Tech3",
+        "legacy_id": 579,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 148.5,
+      "gap": {
+        "first": "27.382",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:35.016",
+      "points": 1,
+      "status": "INSTND"
+    },
+    {
+      "id": "04b9331e-df74-4ba7-a981-7d172d9ed057",
+      "position": 16,
+      "rider": {
+        "id": "b2ad206f-7eb7-4ecf-b53f-8be998663b23",
+        "full_name": "Casey O'gorman",
+        "country": {
+          "iso": "IE",
+          "name": "Ireland",
+          "region_iso": ""
+        },
+        "legacy_id": 10335,
+        "riders_id": "b909706a-1f29-4f38-8a76-40b1fe651d9c",
+        "number": 67,
+        "riders_api_uuid": "b909706a-1f29-4f38-8a76-40b1fe651d9c"
+      },
+      "team": {
+        "id": "73e5a842-3c50-4ef0-93f1-4c92e39eed58",
+        "name": "SIC58 Squadra Corse",
+        "legacy_id": 578,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 148.5,
+      "gap": {
+        "first": "27.562",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:35.196",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "39a131a6-a145-4f4d-b668-f2aa7b382cc4",
+      "position": 17,
+      "rider": {
+        "id": "055c69fa-ccac-4086-9ba8-28de9fb3e59f",
+        "full_name": "Kiattisak Singhapong",
+        "country": {
+          "iso": "TH",
+          "name": "Thailand",
+          "region_iso": ""
+        },
+        "legacy_id": 10488,
+        "riders_id": "d0314e82-c2fc-4e5d-9237-c3b2b65273f2",
+        "number": 85,
+        "riders_api_uuid": "d0314e82-c2fc-4e5d-9237-c3b2b65273f2"
+      },
+      "team": {
+        "id": "2ecc2ca1-6313-48aa-92da-3170c4d2544a",
+        "name": "Rivacold Snipers Team",
+        "legacy_id": 562,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 148.5,
+      "gap": {
+        "first": "27.823",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:35.457",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "a92857f5-c127-43b8-ae07-adf8f13ac23a",
+      "position": 18,
+      "rider": {
+        "id": "23269713-f105-44db-9f83-7d10c1c1c058",
+        "full_name": "Leo Rammerstorfer",
+        "country": {
+          "iso": "AT",
+          "name": "Austria",
+          "region_iso": ""
+        },
+        "legacy_id": 10291,
+        "riders_id": "8aef18e2-3cb9-4321-ba88-2eeac2b7a7f3",
+        "number": 5,
+        "riders_api_uuid": "8aef18e2-3cb9-4321-ba88-2eeac2b7a7f3"
+      },
+      "team": {
+        "id": "1113accc-ba97-48b6-9867-3ba22a2b9278",
+        "name": "SIC58 Squadra Corse",
+        "legacy_id": 558,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 148.5,
+      "gap": {
+        "first": "27.983",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:35.617",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "71b4f246-89b4-4ade-b67c-bb5a7bd6763d",
+      "position": 19,
+      "rider": {
+        "id": "39a2c75d-08af-4d3f-89ae-0a38ae2affb9",
+        "full_name": "Ruche Moodley",
+        "country": {
+          "iso": "ZA",
+          "name": "South Africa",
+          "region_iso": ""
+        },
+        "legacy_id": 10390,
+        "riders_id": "821c7e78-24dd-4715-a7b6-966b6da2c4d8",
+        "number": 21,
+        "riders_api_uuid": "821c7e78-24dd-4715-a7b6-966b6da2c4d8"
+      },
+      "team": {
+        "id": "f46eee1d-4871-4293-b323-7a62cc5d3816",
+        "name": "CODE Motorsports",
+        "legacy_id": 568,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 147.9,
+      "gap": {
+        "first": "35.243",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:42.877",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "259a03e5-2c89-46bc-92a1-42dc2bb2f5e5",
+      "position": 20,
+      "rider": {
+        "id": "eff84411-d39e-49c1-8447-a42160daf173",
+        "full_name": "Marco Morelli",
+        "country": {
+          "iso": "AR",
+          "name": "Argentina",
+          "region_iso": ""
+        },
+        "legacy_id": 10442,
+        "riders_id": "101ad37a-28d8-4bcc-bf16-dffdd51f1375",
+        "number": 97,
+        "riders_api_uuid": "101ad37a-28d8-4bcc-bf16-dffdd51f1375"
+      },
+      "team": {
+        "id": "7a01bb08-59fb-461f-a3e6-e5d2c6530ec8",
+        "name": "CFMOTO Gaviota Aspar Team",
+        "legacy_id": 582,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 147.7,
+      "gap": {
+        "first": "38.537",
+        "lap": "0"
+      },
+      "total_laps": 15,
+      "time": "33:46.171",
+      "points": 0,
+      "status": "INSTND"
+    },
+    {
+      "id": "94729a9e-7f06-4270-8ba8-1b8d86b15fb1",
+      "position": null,
+      "rider": {
+        "id": "f7138283-ea5f-475a-bd40-cb1fcb02c6aa",
+        "full_name": "Jesus Rios",
+        "country": {
+          "iso": "ES",
+          "name": "Spain",
+          "region_iso": ""
+        },
+        "legacy_id": 10537,
+        "riders_id": "db613c78-69b0-46b4-98aa-20924c32cfba",
+        "number": 54,
+        "riders_api_uuid": "db613c78-69b0-46b4-98aa-20924c32cfba"
+      },
+      "team": {
+        "id": "dada8a9e-66ec-4be0-a7cd-de853ab8728d",
+        "name": "Rivacold Snipers Team",
+        "legacy_id": 575,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 88.6,
+      "gap": {
+        "first": "0.000",
+        "lap": "6"
+      },
+      "total_laps": 9,
+      "time": "33:45.507",
+      "points": 0,
+      "status": "OUTOFLAPS"
+    },
+    {
+      "id": "987548c8-cb89-46b2-833b-66dd72764889",
+      "position": null,
+      "rider": {
+        "id": "8d4c8c88-f989-4d86-8cfd-702237b8083b",
+        "full_name": "Joel Kelso",
+        "country": {
+          "iso": "AU",
+          "name": "Australia",
+          "region_iso": ""
+        },
+        "legacy_id": 10284,
+        "riders_id": "5b5fb07a-f0b6-4f7f-9533-18cad7f0c8f2",
+        "number": 66,
+        "riders_api_uuid": "5b5fb07a-f0b6-4f7f-9533-18cad7f0c8f2"
+      },
+      "team": {
+        "id": "543a1d67-f449-40af-8ae1-dc517d2e0194",
+        "name": "GRYD Racing",
+        "legacy_id": 577,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "3a036648-7b14-4257-8c62-245e47e4d42b",
+        "name": "Honda",
+        "legacy_id": 1
+      },
+      "average_speed": 150.2,
+      "gap": {
+        "first": "0.000",
+        "lap": "4"
+      },
+      "total_laps": 11,
+      "time": "24:21.362",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "3ae5c9c4-bf31-4eee-9d4e-fe9b90c19619",
+      "position": null,
+      "rider": {
+        "id": "4331b1bc-b5f4-4649-b787-485f762639cb",
+        "full_name": "Scott Ogden",
+        "country": {
+          "iso": "GB",
+          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "region_iso": ""
+        },
+        "legacy_id": 10114,
+        "riders_id": "f261e368-80bd-4830-9a2e-1cee3e6b0be4",
+        "number": 19,
+        "riders_api_uuid": "f261e368-80bd-4830-9a2e-1cee3e6b0be4"
+      },
+      "team": {
+        "id": "490ba146-0d21-4975-8d52-c8ad69514dbf",
+        "name": "CIP Green Power",
+        "legacy_id": 567,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 146.6,
+      "gap": {
+        "first": "0.000",
+        "lap": "6"
+      },
+      "total_laps": 9,
+      "time": "20:24.400",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "e724c065-a63a-4f78-a88b-e4cc2d55c1af",
+      "position": null,
+      "rider": {
+        "id": "f3dd914c-72cf-446a-a135-12c05a0eebde",
+        "full_name": "Rico Salmela",
+        "country": {
+          "iso": "FI",
+          "name": "Finland",
+          "region_iso": ""
+        },
+        "legacy_id": 10391,
+        "riders_id": "a259beac-40f5-4105-acf7-8f7fb3bd9ea0",
+        "number": 27,
+        "riders_api_uuid": "a259beac-40f5-4105-acf7-8f7fb3bd9ea0"
+      },
+      "team": {
+        "id": "8707cf6e-3527-48de-bea6-f62b3360610f",
+        "name": "Red Bull KTM Tech3",
+        "legacy_id": 570,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 149.6,
+      "gap": {
+        "first": "0.000",
+        "lap": "8"
+      },
+      "total_laps": 7,
+      "time": "15:33.695",
+      "points": 0,
+      "status": "OUTSTND"
+    },
+    {
+      "id": "ac89a04a-a2dd-4bea-925a-9788f58cb0e2",
+      "position": null,
+      "rider": {
+        "id": "760c8192-f5d5-4f96-a032-36dde524ea62",
+        "full_name": "Matteo Bertelle",
+        "country": {
+          "iso": "IT",
+          "name": "Italy",
+          "region_iso": ""
+        },
+        "legacy_id": 10154,
+        "riders_id": "fb584b95-a9ed-4d23-8db3-4a946db60fe8",
+        "number": 18,
+        "riders_api_uuid": "fb584b95-a9ed-4d23-8db3-4a946db60fe8"
+      },
+      "team": {
+        "id": "a46ba9da-003c-4312-9565-84d9be17b817",
+        "name": "LEVEL UP - MTA",
+        "legacy_id": 566,
+        "season": {
+          "id": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
+          "year": 2026,
+          "current": true
+        }
+      },
+      "constructor": {
+        "id": "be77c017-cc37-41eb-aa09-2977f1789b0f",
+        "name": "KTM",
+        "legacy_id": 298
+      },
+      "average_speed": 146.7,
+      "gap": {
+        "first": "0.000",
+        "lap": "13"
+      },
+      "total_laps": 2,
+      "time": "04:31.959",
+      "points": 0,
+      "status": "OUTSTND"
+    }
+  ]
+}

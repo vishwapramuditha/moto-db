@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-10-26T09:43:28.884059Z",
+  "updated_at": "2026-11-02T11:59:41.841398Z",
   "events": [
     {
       "country": {
@@ -1200,23 +1200,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/MAL/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/MAL/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/MAL/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/MAL/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/MAL/table4.pdf",
           "menu_position": 2
         }
       },
@@ -1229,7 +1229,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "Petronas Grand Prix of Malaysia",
+      "sponsored_name": "PETRONAS GRAND PRIX OF MALAYSIA ",
       "date_end": "2026-11-01",
       "toad_api_uuid": "d1aedfce-d7c8-4d4a-9532-99c82547baad",
       "date_start": "2026-10-30",
@@ -1256,7 +1256,7 @@
       },
       "short_name": "MAL",
       "id": "ea2ba334-b943-462f-aedb-084ac38408d1",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
