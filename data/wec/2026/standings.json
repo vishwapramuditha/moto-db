@@ -57,6 +57,11 @@
       "position": 5,
       "wins": 1,
       "team_name": "No. 50 Ferrari AF Corse"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "No. 38 Cadillac Hertz Team Jota"
     }
   ],
   "lmgt3DriverStandings": [
@@ -106,39 +111,39 @@
   "lmgt3TeamStandings": [
     {
       "position": 1,
-      "wins": 1,
-      "team_name": "No. 69 Team WRT"
+      "wins": 2,
+      "team_name": "No. 92 The Bend Manthey"
     },
     {
       "position": 2,
       "wins": 1,
-      "team_name": "No. 10 Garage 59"
+      "team_name": "No. 69 Team WRT"
     },
     {
       "position": 3,
       "wins": 1,
-      "team_name": "No. 33 TF Sport"
+      "team_name": "No. 10 Garage 59"
     },
     {
       "position": 4,
       "wins": 1,
-      "team_name": "No. 34 Racing Team Turkey by TF"
+      "team_name": "No. 33 TF Sport"
     },
     {
       "position": 5,
       "wins": 1,
-      "team_name": "No. 27 Heart of Racing Team"
+      "team_name": "No. 34 Racing Team Turkey by TF"
     },
     {
       "position": 6,
       "wins": 1,
-      "team_name": "No. 32 Team WRT"
+      "team_name": "No. 27 Heart of Racing Team"
     },
     {
       "position": 7,
       "wins": 1,
-      "team_name": "No. 92 The Bend Manthey"
+      "team_name": "No. 32 Team WRT"
     }
   ],
-  "updated_at": "2026-11-02T16:47:11.784536+00:00"
+  "updated_at": "2026-11-09T17:06:19.334748+00:00"
 }

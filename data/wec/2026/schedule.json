@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 9,
-  "updated_at": "2026-11-02T16:47:10.297763Z",
+  "updated_at": "2026-11-09T17:06:17.739403Z",
   "races": [
     {
       "race_id": "official-prologue-imola-2026",
@@ -522,8 +522,8 @@
       "name": "WEC 6 Hours of Monza 2026",
       "slug": "6-hours-of-monza-2026",
       "url": "https://www.fiawec.com/en/race/6-hours-of-monza-2026",
-      "status": "EventScheduled",
-      "completed": false,
+      "status": "EventCompleted",
+      "completed": true,
       "startDate": "2026-11-06T00:00:00+01:00",
       "endDate": "2026-11-08T23:59:00+01:00",
       "date": "2026-11-08T11:00:00+01:00",
@@ -535,50 +535,50 @@
         {
           "name": "Free Practice 1 - 6 Hours of Monza",
           "date": "2026-11-06T10:30:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 2 - 6 Hours of Monza",
           "date": "2026-11-06T14:30:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Free Practice 3 - 6 Hours of Monza",
           "date": "2026-11-07T10:30:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Qualifying - LMGT3 - 6 Hours of Monza",
           "date": "2026-11-07T14:20:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Hyperpole - LMGT3 - 6 Hours of Monza",
           "date": "2026-11-07T14:40:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Qualifying - HYPERCAR - 6 Hours of Monza",
           "date": "2026-11-07T15:00:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Hyperpole - HYPERCAR - 6 Hours of Monza",
           "date": "2026-11-07T15:20:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         },
         {
           "name": "Race - 6 Hours of Monza",
           "date": "2026-11-08T11:00:00+01:00",
-          "status": "EventScheduled",
-          "completed": false
+          "status": "EventCompleted",
+          "completed": true
         }
       ]
     }
