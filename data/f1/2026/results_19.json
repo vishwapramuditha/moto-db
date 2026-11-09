@@ -15,7 +15,7 @@
   },
   "date": "2026-11-01",
   "time": "20:00:00Z",
-  "updated_at": "2026-11-02T08:34:16.361872Z",
+  "updated_at": "2026-11-09T08:49:45.098435Z",
   "results": [
     {
       "number": "3",
@@ -234,82 +234,10 @@
       }
     },
     {
-      "number": "81",
+      "number": "30",
       "position": "7",
       "positionText": "7",
       "points": "6",
-      "Driver": {
-        "driverId": "piastri",
-        "permanentNumber": "81",
-        "code": "PIA",
-        "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
-        "givenName": "Oscar",
-        "familyName": "Piastri",
-        "dateOfBirth": "2001-04-06",
-        "nationality": "Australian"
-      },
-      "Constructor": {
-        "constructorId": "mclaren",
-        "url": "https://en.wikipedia.org/wiki/McLaren",
-        "name": "McLaren",
-        "nationality": "British"
-      },
-      "grid": "12",
-      "laps": "71",
-      "status": "Finished",
-      "Time": {
-        "millis": "8448247",
-        "time": "+19.475"
-      },
-      "FastestLap": {
-        "rank": "9",
-        "lap": "52",
-        "Time": {
-          "time": "1:20.690"
-        }
-      }
-    },
-    {
-      "number": "43",
-      "position": "8",
-      "positionText": "8",
-      "points": "4",
-      "Driver": {
-        "driverId": "colapinto",
-        "permanentNumber": "43",
-        "code": "COL",
-        "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
-        "givenName": "Franco",
-        "familyName": "Colapinto",
-        "dateOfBirth": "2003-05-27",
-        "nationality": "Argentine"
-      },
-      "Constructor": {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      },
-      "grid": "11",
-      "laps": "71",
-      "status": "Finished",
-      "Time": {
-        "millis": "8448976",
-        "time": "+20.204"
-      },
-      "FastestLap": {
-        "rank": "12",
-        "lap": "50",
-        "Time": {
-          "time": "1:20.750"
-        }
-      }
-    },
-    {
-      "number": "30",
-      "position": "9",
-      "positionText": "9",
-      "points": "2",
       "Driver": {
         "driverId": "lawson",
         "permanentNumber": "30",
@@ -342,46 +270,10 @@
       }
     },
     {
-      "number": "10",
-      "position": "10",
-      "positionText": "10",
-      "points": "1",
-      "Driver": {
-        "driverId": "gasly",
-        "permanentNumber": "10",
-        "code": "GAS",
-        "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
-        "givenName": "Pierre",
-        "familyName": "Gasly",
-        "dateOfBirth": "1996-02-07",
-        "nationality": "French"
-      },
-      "Constructor": {
-        "constructorId": "alpine",
-        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      },
-      "grid": "9",
-      "laps": "71",
-      "status": "Finished",
-      "Time": {
-        "millis": "8450255",
-        "time": "+21.483"
-      },
-      "FastestLap": {
-        "rank": "13",
-        "lap": "50",
-        "Time": {
-          "time": "1:20.754"
-        }
-      }
-    },
-    {
       "number": "5",
-      "position": "11",
-      "positionText": "11",
-      "points": "0",
+      "position": "8",
+      "positionText": "8",
+      "points": "4",
       "Driver": {
         "driverId": "bortoleto",
         "permanentNumber": "5",
@@ -415,9 +307,9 @@
     },
     {
       "number": "6",
-      "position": "12",
-      "positionText": "12",
-      "points": "0",
+      "position": "9",
+      "positionText": "9",
+      "points": "2",
       "Driver": {
         "driverId": "hadjar",
         "permanentNumber": "6",
@@ -451,9 +343,9 @@
     },
     {
       "number": "50",
-      "position": "13",
-      "positionText": "13",
-      "points": "0",
+      "position": "10",
+      "positionText": "10",
+      "points": "1",
       "Driver": {
         "driverId": "ryo_hirakawa",
         "permanentNumber": "50",
@@ -487,8 +379,8 @@
     },
     {
       "number": "23",
-      "position": "14",
-      "positionText": "14",
+      "position": "11",
+      "positionText": "11",
       "points": "0",
       "Driver": {
         "driverId": "albon",
@@ -523,8 +415,8 @@
     },
     {
       "number": "55",
-      "position": "15",
-      "positionText": "15",
+      "position": "12",
+      "positionText": "12",
       "points": "0",
       "Driver": {
         "driverId": "sainz",
@@ -558,9 +450,45 @@
       }
     },
     {
+      "number": "81",
+      "position": "13",
+      "positionText": "13",
+      "points": "0",
+      "Driver": {
+        "driverId": "piastri",
+        "permanentNumber": "81",
+        "code": "PIA",
+        "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
+        "givenName": "Oscar",
+        "familyName": "Piastri",
+        "dateOfBirth": "2001-04-06",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "71",
+      "status": "Finished",
+      "Time": {
+        "millis": "8458247",
+        "time": "+29.475"
+      },
+      "FastestLap": {
+        "rank": "9",
+        "lap": "52",
+        "Time": {
+          "time": "1:20.690"
+        }
+      }
+    },
+    {
       "number": "27",
-      "position": "16",
-      "positionText": "16",
+      "position": "14",
+      "positionText": "14",
       "points": "0",
       "Driver": {
         "driverId": "hulkenberg",
@@ -594,9 +522,45 @@
       }
     },
     {
+      "number": "43",
+      "position": "15",
+      "positionText": "15",
+      "points": "0",
+      "Driver": {
+        "driverId": "colapinto",
+        "permanentNumber": "43",
+        "code": "COL",
+        "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
+        "givenName": "Franco",
+        "familyName": "Colapinto",
+        "dateOfBirth": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      },
+      "grid": "11",
+      "laps": "71",
+      "status": "Finished",
+      "Time": {
+        "millis": "8458976",
+        "time": "+30.204"
+      },
+      "FastestLap": {
+        "rank": "12",
+        "lap": "50",
+        "Time": {
+          "time": "1:20.750"
+        }
+      }
+    },
+    {
       "number": "11",
-      "position": "17",
-      "positionText": "17",
+      "position": "16",
+      "positionText": "16",
       "points": "0",
       "Driver": {
         "driverId": "perez",
@@ -626,6 +590,42 @@
         "lap": "50",
         "Time": {
           "time": "1:21.256"
+        }
+      }
+    },
+    {
+      "number": "10",
+      "position": "17",
+      "positionText": "17",
+      "points": "0",
+      "Driver": {
+        "driverId": "gasly",
+        "permanentNumber": "10",
+        "code": "GAS",
+        "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
+        "givenName": "Pierre",
+        "familyName": "Gasly",
+        "dateOfBirth": "1996-02-07",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "alpine",
+        "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      },
+      "grid": "9",
+      "laps": "71",
+      "status": "Finished",
+      "Time": {
+        "millis": "8480255",
+        "time": "+51.483"
+      },
+      "FastestLap": {
+        "rank": "13",
+        "lap": "50",
+        "Time": {
+          "time": "1:20.754"
         }
       }
     },
