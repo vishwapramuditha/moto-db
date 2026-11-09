@@ -496,7 +496,7 @@
     },
     {
       "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-      "full_name": "Deniz öncü",
+      "full_name": "Deniz Öncü",
       "country": {
         "iso": "TR",
         "name": "Türkiye",
@@ -1026,6 +1026,19 @@
       "riders_id": "562b1364-6251-4e41-8842-b43ba200b488",
       "number": 21,
       "riders_api_uuid": "562b1364-6251-4e41-8842-b43ba200b488"
+    },
+    {
+      "id": "c2936a6a-4718-4dbd-ba8f-7132b654a495",
+      "full_name": "Kgopotso Mononyane",
+      "country": {
+        "iso": "ZA",
+        "name": "South Africa",
+        "region_iso": ""
+      },
+      "legacy_id": 10505,
+      "riders_id": "710de739-eff1-4f3d-af88-3192aabd4d5e",
+      "number": 45,
+      "riders_api_uuid": "710de739-eff1-4f3d-af88-3192aabd4d5e"
     },
     {
       "id": "055c69fa-ccac-4086-9ba8-28de9fb3e59f",
@@ -1860,6 +1873,6 @@
       "riders_api_uuid": "206c1c78-6d79-4e13-9568-5a90138ece2b"
     }
   ],
-  "total": 143,
-  "updated_at": "2026-11-02T12:02:25.744079Z"
+  "total": 144,
+  "updated_at": "2026-11-09T12:34:22.097737Z"
 }

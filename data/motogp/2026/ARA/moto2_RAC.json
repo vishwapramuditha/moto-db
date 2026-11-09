@@ -32,7 +32,7 @@
       "weather": "Clear"
     }
   },
-  "updated_at": "2026-11-02T12:01:39.360868Z",
+  "updated_at": "2026-11-09T12:33:25.592058Z",
   "results": [
     {
       "id": "89334ad4-a7d5-445d-b25d-56f3258d03a3",
@@ -326,7 +326,7 @@
       "position": 8,
       "rider": {
         "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-        "full_name": "Deniz öncü",
+        "full_name": "Deniz Öncü",
         "country": {
           "iso": "TR",
           "name": "Türkiye",

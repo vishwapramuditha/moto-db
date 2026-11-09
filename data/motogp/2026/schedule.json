@@ -2,7 +2,7 @@
   "season": "2026",
   "season_uuid": "e88b4e43-2209-47aa-8e83-0e0b1cedde6e",
   "total_events": 29,
-  "updated_at": "2026-11-02T11:59:41.841398Z",
+  "updated_at": "2026-11-09T12:31:34.878337Z",
   "events": [
     {
       "country": {
@@ -1190,7 +1190,7 @@
       },
       "short_name": "AUS",
       "id": "c1dea7a7-e35e-4363-9e28-7997e3bc6fbf",
-      "status": "CURRENT"
+      "status": "FINISHED"
     },
     {
       "country": {
@@ -1266,23 +1266,23 @@
       },
       "event_files": {
         "circuit_information": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/QAT/CircuitInformation.pdf",
           "menu_position": 1
         },
         "podiums": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/QAT/Podiums.pdf",
           "menu_position": 2
         },
         "pole_positions": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/QAT/PolePositions.pdf",
           "menu_position": 2
         },
         "nations_statistics": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/QAT/table2.pdf",
           "menu_position": 2
         },
         "riders_all_time": {
-          "url": "",
+          "url": "https://resources.motogp.com/files/results/2026/QAT/table4.pdf",
           "menu_position": 2
         }
       },
@@ -1295,7 +1295,7 @@
         "events_id": null
       },
       "test": false,
-      "sponsored_name": "Qatar Airways Grand Prix of Qatar",
+      "sponsored_name": "QATAR AIRWAYS GRAND PRIX OF QATAR ",
       "date_end": "2026-11-08",
       "toad_api_uuid": "3f3d3f5e-851c-42d2-887a-8ce8b41fa908",
       "date_start": "2026-11-06",
@@ -1322,7 +1322,7 @@
       },
       "short_name": "QAT",
       "id": "5a880aba-62c4-413c-bb2d-b721683dd064",
-      "status": "NOT-STARTED"
+      "status": "FINISHED"
     },
     {
       "country": {
