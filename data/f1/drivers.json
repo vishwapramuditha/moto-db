@@ -1,6 +1,6 @@
 {
   "total": 100,
-  "updated_at": "2026-11-09T08:48:37.015452Z",
+  "updated_at": "2026-11-16T08:43:51.033460Z",
   "drivers": [
     {
       "driverId": "abate",
@@ -262,8 +262,12 @@
     },
     {
       "driverId": "paul_aron",
+      "code": "ARO",
+      "url": "https://en.wikipedia.org/wiki/Paul_Aron",
       "givenName": "Paul",
-      "familyName": "Aron"
+      "familyName": "Aron",
+      "dateOfBirth": "2004-02-04",
+      "nationality": "Estonian"
     },
     {
       "driverId": "arundell",
@@ -511,8 +515,13 @@
     },
     {
       "driverId": "dino_beganovic",
+      "permanentNumber": "38",
+      "code": "BEG",
+      "url": "https://en.wikipedia.org/wiki/Dino_Beganovic",
       "givenName": "Dino",
-      "familyName": "Beganovic"
+      "familyName": "Beganovic",
+      "dateOfBirth": "2004-01-19",
+      "nationality": "Swedish"
     },
     {
       "driverId": "behra",

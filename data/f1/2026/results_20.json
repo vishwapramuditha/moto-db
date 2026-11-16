@@ -15,7 +15,7 @@
   },
   "date": "2026-11-08",
   "time": "17:00:00Z",
-  "updated_at": "2026-11-09T08:49:46.433023Z",
+  "updated_at": "2026-11-16T08:44:59.634900Z",
   "results": [
     {
       "number": "1",
@@ -708,8 +708,13 @@
       "points": "0",
       "Driver": {
         "driverId": "rafael_camara",
+        "permanentNumber": "51",
+        "code": "CAM",
+        "url": "https://en.wikipedia.org/wiki/Rafael_C%C3%A2mara",
         "givenName": "Rafael",
-        "familyName": "Camara"
+        "familyName": "Camara",
+        "dateOfBirth": "2005-05-05",
+        "nationality": "Brazilian"
       },
       "Constructor": {
         "constructorId": "haas",
