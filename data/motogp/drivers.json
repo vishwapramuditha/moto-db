@@ -313,6 +313,19 @@
       "riders_api_uuid": "31d9d715-4dbc-4d12-8a21-f2daffb62d7f"
     },
     {
+      "id": "3aee0e36-f53b-476f-ac70-b6eab2eabf30",
+      "full_name": "Beñat Fernandez",
+      "country": {
+        "iso": "ES",
+        "name": "Spain",
+        "region_iso": ""
+      },
+      "legacy_id": 10724,
+      "riders_id": "bfcd17e6-e9af-47c7-aeeb-9787bae55081",
+      "number": 7,
+      "riders_api_uuid": "bfcd17e6-e9af-47c7-aeeb-9787bae55081"
+    },
+    {
       "id": "ba579548-f026-402b-a607-38db5317d33f",
       "full_name": "Brad Binder",
       "country": {
@@ -496,7 +509,7 @@
     },
     {
       "id": "b31fb050-e422-4aec-bca3-10988f9ca858",
-      "full_name": "Deniz Öncü",
+      "full_name": "Deniz öncü",
       "country": {
         "iso": "TR",
         "name": "Türkiye",
@@ -1873,6 +1886,6 @@
       "riders_api_uuid": "206c1c78-6d79-4e13-9568-5a90138ece2b"
     }
   ],
-  "total": 144,
-  "updated_at": "2026-11-16T12:28:50.544871Z"
+  "total": 145,
+  "updated_at": "2026-11-23T14:04:27.483819Z"
 }
