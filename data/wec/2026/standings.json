@@ -3,7 +3,7 @@
   "hypercarDriverStandings": [
     {
       "position": 1,
-      "wins": 1,
+      "wins": 3,
       "driver_name": "Sébastien Buemi Brendon Hartley Ryō Hirakawa",
       "team_name": "No. 8 Toyota Racing"
     },
@@ -24,12 +24,18 @@
       "wins": 1,
       "driver_name": "Kevin Magnussen Raffaele Marciello Dries Vanthoor",
       "team_name": "No. 15 BMW M Team WRT"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Antonio Fuoco Miguel Molina Nicklas Nielsen",
+      "team_name": "No. 50 Ferrari AF Corse"
     }
   ],
   "hypercarTeamStandings": [
     {
       "position": 1,
-      "wins": 1,
+      "wins": 3,
       "team_name": "No. 8 Toyota Racing"
     },
     {
@@ -46,6 +52,16 @@
       "position": 4,
       "wins": 1,
       "team_name": "No. 15 BMW M Team WRT"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "team_name": "No. 50 Ferrari AF Corse"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "No. 38 Cadillac Hertz Team Jota"
     }
   ],
   "lmgt3DriverStandings": [
@@ -72,29 +88,62 @@
       "wins": 1,
       "driver_name": "Peter Dempsey Charlie Eastwood Salih Yoluç",
       "team_name": "No. 34 Racing Team Turkey by TF"
+    },
+    {
+      "position": 5,
+      "wins": 1,
+      "driver_name": "Mattia Drudi Ian James Zacharie Robichon",
+      "team_name": "No. 27 Heart of Racing Team"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "driver_name": "Augusto Farfus Sean Gelael Darren Leung",
+      "team_name": "No. 32 Team WRT"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "driver_name": "Richard Lietz Riccardo Pera Yasser Shahin",
+      "team_name": "No. 92 The Bend Manthey"
     }
   ],
   "lmgt3TeamStandings": [
     {
       "position": 1,
-      "wins": 1,
-      "team_name": "No. 69 Team WRT"
+      "wins": 2,
+      "team_name": "No. 92 The Bend Manthey"
     },
     {
       "position": 2,
       "wins": 1,
-      "team_name": "No. 10 Garage 59"
+      "team_name": "No. 69 Team WRT"
     },
     {
       "position": 3,
       "wins": 1,
-      "team_name": "No. 33 TF Sport"
+      "team_name": "No. 10 Garage 59"
     },
     {
       "position": 4,
       "wins": 1,
+      "team_name": "No. 33 TF Sport"
+    },
+    {
+      "position": 5,
+      "wins": 1,
       "team_name": "No. 34 Racing Team Turkey by TF"
+    },
+    {
+      "position": 6,
+      "wins": 1,
+      "team_name": "No. 27 Heart of Racing Team"
+    },
+    {
+      "position": 7,
+      "wins": 1,
+      "team_name": "No. 32 Team WRT"
     }
   ],
-  "updated_at": "2026-08-03T10:46:57.454718+00:00"
+  "updated_at": "2026-11-23T18:56:13.640224+00:00"
 }

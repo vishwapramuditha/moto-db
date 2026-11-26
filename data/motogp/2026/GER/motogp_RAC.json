@@ -9,7 +9,8 @@
       "name": "Sachsenring",
       "legacy_id": 51,
       "place": "Sachsenring",
-      "nation": "GER"
+      "nation": "GER",
+      "events_id": null
     },
     "date_start": "2026-07-10",
     "date_end": "2026-07-12"
@@ -31,7 +32,7 @@
       "weather": "Partly-Cloudy"
     }
   },
-  "updated_at": "2026-08-03T07:28:57.544624Z",
+  "updated_at": "2026-11-23T14:03:04.092340Z",
   "results": [
     {
       "id": "7934fe82-a960-4a77-8191-0becb1b191f7",

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at": "2026-08-03T15:04:24Z",
+  "updated_at": "2026-11-23T20:43:16Z",
   "results": [
     {
       "round": 1,
@@ -127,6 +127,51 @@
       "fastest_lap": "Tuukka Taponen",
       "winning_driver": "Freddie Slater",
       "winning_team": "Trident"
+    },
+    {
+      "round": 8,
+      "race_type": "Sprint Race",
+      "circuit": "Monza Circuit",
+      "pole_position": "",
+      "fastest_lap": "Tuukka Taponen",
+      "winning_driver": "Taito Kato",
+      "winning_team": "ART Grand Prix"
+    },
+    {
+      "round": 8,
+      "race_type": "Feature Race",
+      "circuit": "Monza Circuit",
+      "pole_position": "Bruno del Pino",
+      "fastest_lap": "Freddie Slater",
+      "winning_driver": "Nicola Lacorte",
+      "winning_team": "DAMS Lucas Oil"
+    },
+    {
+      "round": 9,
+      "race_type": "Sprint Race",
+      "circuit": "Madring",
+      "pole_position": "",
+      "fastest_lap": "Théophile Naël",
+      "winning_driver": "Théophile Naël",
+      "winning_team": "Campos Racing"
+    },
+    {
+      "round": 9,
+      "race_type": "Feature Race",
+      "circuit": "Madring",
+      "pole_position": "Tuukka Taponen",
+      "fastest_lap": "Taito Kato",
+      "winning_driver": "Pedro Clerot",
+      "winning_team": "Rodin Motorsport"
+    },
+    {
+      "round": 9,
+      "race_type": "Feature Race",
+      "circuit": "Madring",
+      "pole_position": "Nicola Lacorte",
+      "fastest_lap": "Tuukka Taponen",
+      "winning_driver": "Tuukka Taponen",
+      "winning_team": "MP Motorsport"
     }
   ]
 }

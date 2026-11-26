@@ -1,7 +1,7 @@
 {
   "season": "2026",
   "total_races": 98,
-  "updated_at": "2026-08-03T08:33:50.719947Z",
+  "updated_at": "2026-11-23T15:33:52.441669Z",
   "series": {
     "cup": [
       {
@@ -95,7 +95,7 @@
           },
           {
             "event_name": "Practice / Qualifying ",
-            "notes": "Group 1 / 2 / 3 | Three Timed Sessions Per Group",
+            "notes": "3 Groups | 3 Timed Sessions Per Group",
             "start_time_utc": "2026-02-04T18:30:00",
             "run_type": 1
           },
@@ -1455,7 +1455,7 @@
         "track_name": "Talladega Superspeedway",
         "date_scheduled": "2026-04-26T15:00:00",
         "race_date": "2026-04-26T15:00:00",
-        "qualifying_date": "2026-04-26T14:00:00",
+        "qualifying_date": "2026-04-25T00:00:00",
         "tunein_date": "2026-04-26T15:00:00",
         "scheduled_distance": 500.08,
         "actual_distance": 500.08,
@@ -1465,7 +1465,7 @@
         "stage_2_laps": 45,
         "stage_3_laps": 45,
         "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 4065,
+        "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
         "number_of_lead_changes": 52,
         "number_of_leaders": 16,
@@ -3263,7 +3263,7 @@
         "track_name": "Iowa Speedway",
         "date_scheduled": "2026-08-09T15:30:00",
         "race_date": "2026-08-09T15:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-09T14:30:00",
         "tunein_date": "2026-08-09T15:30:00",
         "scheduled_distance": 306.25,
         "actual_distance": 306.25,
@@ -3272,18 +3272,18 @@
         "stage_1_laps": 70,
         "stage_2_laps": 140,
         "stage_3_laps": 140,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 4023,
+        "pole_winner_speed": 134.191,
+        "number_of_lead_changes": 9,
+        "number_of_leaders": 6,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 45,
+        "average_speed": 103.337,
+        "total_race_time": "2:57:49",
+        "margin_of_victory": ".253",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Ty Gibbs has won the Iowa Corn 350 Powered by Ethanol, his second victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty:  Nos. 6, 9, 11 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3370,13 +3370,13 @@
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5386,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4368,
         "pole_winner_laptime": null
       },
       {
@@ -3390,7 +3390,7 @@
         "track_name": "Richmond Raceway",
         "date_scheduled": "2026-08-15T19:00:00",
         "race_date": "2026-08-15T19:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-15T19:00:00",
         "tunein_date": "2026-08-15T19:00:00",
         "scheduled_distance": 300,
         "actual_distance": 300,
@@ -3399,18 +3399,18 @@
         "stage_1_laps": 70,
         "stage_2_laps": 160,
         "stage_3_laps": 170,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 4023,
+        "pole_winner_speed": 121.485,
+        "number_of_lead_changes": 29,
+        "number_of_leaders": 10,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 31,
+        "average_speed": 98.343,
+        "total_race_time": "3:03:02",
+        "margin_of_victory": ".392",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Joey Logano won the Cook Out 400 at Richmond Raceway, his 39th career NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 51 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3497,13 +3497,13 @@
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 1544,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 3859,
         "pole_winner_laptime": null
       },
       {
@@ -3515,43 +3515,122 @@
         "restrictor_plate": false,
         "track_id": 138,
         "track_name": "New Hampshire Motor Speedway",
-        "date_scheduled": "2026-08-23T15:00:00",
+        "date_scheduled": "2026-08-23T14:00:00",
         "race_date": "2026-08-23T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
-        "tunein_date": "2026-08-23T15:00:00",
+        "qualifying_date": "2026-08-23T15:00:00",
+        "tunein_date": "2026-08-23T14:00:00",
         "scheduled_distance": 318.46,
-        "actual_distance": 318.46,
+        "actual_distance": 318.458,
         "scheduled_laps": 301,
         "actual_laps": 301,
         "stage_1_laps": 70,
         "stage_2_laps": 115,
         "stage_3_laps": 116,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 4065,
+        "pole_winner_speed": 131.094,
+        "number_of_lead_changes": 15,
+        "number_of_leaders": 7,
+        "number_of_cautions": 9,
+        "number_of_caution_laps": 51,
+        "average_speed": 94.133,
+        "total_race_time": "3:22:59",
+        "margin_of_victory": ".586",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Ryan Blaney has won the Dollar Tree 301 at New Hampshire Motor Speedway, his 20th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty:  Nos. 10, 51 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-20T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-21T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-21T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-22T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-08-22T14:35:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T15:40:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-23T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage & Pit Pass Holder - Garage Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-23T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-23T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-23T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Infield Hospitality Tent",
+            "start_time_utc": "2026-08-23T17:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-23T17:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 70/185/301 Laps = 318.46 Miles",
+            "start_time_utc": "2026-08-23T18:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 1683,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4023,
         "pole_winner_laptime": null
       },
       {
@@ -3565,27 +3644,27 @@
         "track_name": "Daytona International Speedway",
         "date_scheduled": "2026-08-29T19:30:00",
         "race_date": "2026-08-29T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-29T19:30:00",
         "tunein_date": "2026-08-29T19:30:00",
         "scheduled_distance": 400,
-        "actual_distance": 400,
+        "actual_distance": 415,
         "scheduled_laps": 160,
-        "actual_laps": 160,
+        "actual_laps": 166,
         "stage_1_laps": 35,
         "stage_2_laps": 60,
-        "stage_3_laps": 65,
+        "stage_3_laps": 71,
         "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4001,
+        "pole_winner_speed": 184.396,
+        "number_of_lead_changes": 41,
+        "number_of_leaders": 22,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 23,
+        "average_speed": 154.69,
+        "total_race_time": "2:40:58",
+        "margin_of_victory": "Under Caution",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Ryan Preece has won the Coke Zero Sugar 400 at Daytona International Speedway, his first victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty:  No. 62 (Unapproved Adjustments) and No. 35 (Driver Change).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -3640,13 +3719,13 @@
           {
             "event_name": "The Drivers Meeting",
             "notes": "The Drivers Meeting Room",
-            "start_time_utc": "2026-08-29T22:30:00",
+            "start_time_utc": "2026-08-29T22:20:00",
             "run_type": 0
           },
           {
             "event_name": "Driver Introductions",
             "notes": " ",
-            "start_time_utc": "2026-08-29T22:55:00",
+            "start_time_utc": "2026-08-29T22:50:00",
             "run_type": 0
           },
           {
@@ -3660,13 +3739,13 @@
         "television_broadcaster": "NBC",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 408,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4070,
         "pole_winner_laptime": null
       },
       {
@@ -3680,41 +3759,114 @@
         "track_name": "Darlington Raceway",
         "date_scheduled": "2026-09-06T17:00:00",
         "race_date": "2026-09-06T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-05T00:00:00",
         "tunein_date": "2026-09-06T17:00:00",
         "scheduled_distance": 501.32,
         "actual_distance": 501.32,
         "scheduled_laps": 367,
         "actual_laps": 367,
-        "stage_1_laps": 115,
-        "stage_2_laps": 115,
+        "stage_1_laps": 106,
+        "stage_2_laps": 124,
         "stage_3_laps": 137,
-        "number_of_cars_in_field": 40,
+        "number_of_cars_in_field": 38,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 29,
+        "number_of_leaders": 12,
+        "number_of_cautions": 6,
+        "number_of_caution_laps": 44,
+        "average_speed": 123.741,
+        "total_race_time": "4:03:05",
+        "margin_of_victory": "1.038",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Christopher Bell won the Cook Out Southern 500, his 14th NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-04T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Hauler Parade",
+            "notes": "",
+            "start_time_utc": "2026-09-04T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-04T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-05T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-05T20:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "",
+            "start_time_utc": "2026-09-05T21:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-06T17:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-06T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-06T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Cup Series Garage Area Tent",
+            "start_time_utc": "2026-09-06T19:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-06T20:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 115/230/367 Laps =  501.32 Miles ",
+            "start_time_utc": "2026-09-06T21:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 442,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4153,
         "pole_winner_laptime": null
       },
       {
@@ -3728,41 +3880,114 @@
         "track_name": "World Wide Technology Raceway",
         "date_scheduled": "2026-09-13T15:00:00",
         "race_date": "2026-09-13T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-13T15:00:00",
         "tunein_date": "2026-09-13T15:00:00",
         "scheduled_distance": 300,
-        "actual_distance": 300,
+        "actual_distance": 308.75,
         "scheduled_laps": 240,
-        "actual_laps": 240,
+        "actual_laps": 247,
         "stage_1_laps": 45,
-        "stage_2_laps": 95,
-        "stage_3_laps": 100,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "stage_2_laps": 86,
+        "stage_3_laps": 116,
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 3859,
+        "pole_winner_speed": 137.124,
+        "number_of_lead_changes": 11,
+        "number_of_leaders": 5,
+        "number_of_cautions": 18,
+        "number_of_caution_laps": 87,
+        "average_speed": 81.47,
+        "total_race_time": "3:47:23",
+        "margin_of_victory": ".333",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kyle Larson won the Enjoy Illinois 300 at World Wide Technology Raceway at Gateway, his 33rd NASCAR Cup Series victory. Prior to the green flag to start the race, the following car dropped to the rear for the reason indicated: No. 42 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Hauler Parade",
+            "notes": "",
+            "start_time_utc": "2026-09-11T19:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-11T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-11T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-12T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-12T19:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-12T20:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": " ",
+            "start_time_utc": "2026-09-13T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-13T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-13T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "The Drivers Meeting Room",
+            "start_time_utc": "2026-09-13T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Fan Zone Stage",
+            "start_time_utc": "2026-09-13T18:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/140/240 Laps = 300 Miles",
+            "start_time_utc": "2026-09-13T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5162,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4030,
         "pole_winner_laptime": null
       },
       {
@@ -3776,41 +4001,120 @@
         "track_name": "Bristol Motor Speedway",
         "date_scheduled": "2026-09-19T19:30:00",
         "race_date": "2026-09-19T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-18T00:00:00",
         "tunein_date": "2026-09-19T19:30:00",
         "scheduled_distance": 266.5,
         "actual_distance": 266.5,
         "scheduled_laps": 500,
         "actual_laps": 500,
         "stage_1_laps": 125,
-        "stage_2_laps": 125,
-        "stage_3_laps": 250,
-        "number_of_cars_in_field": 40,
+        "stage_2_laps": 123,
+        "stage_3_laps": 252,
+        "number_of_cars_in_field": 37,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 13,
+        "number_of_leaders": 6,
+        "number_of_cautions": 10,
+        "number_of_caution_laps": 78,
+        "average_speed": 87.697,
+        "total_race_time": "3:02:20",
+        "margin_of_victory": "1.248",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Joey Logano won the Bass Pro Shops Night Race at Bristol Motor Speedway, his 40th career NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: n/a",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-18T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-18T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-09-18T20:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T21:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Cars & Equipment Behind Haulers",
+            "notes": "",
+            "start_time_utc": "2026-09-18T22:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-19T18:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-19T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "VIP GARAGE ACCESS PERMITTED",
+            "notes": "Infield",
+            "start_time_utc": "2026-09-19T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-19T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Garage Bar",
+            "start_time_utc": "2026-09-19T22:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-19T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 125/250/500 Laps = 266.5 Miles",
+            "start_time_utc": "2026-09-19T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 612,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 3859,
         "pole_winner_laptime": null
       },
       {
@@ -3824,7 +4128,7 @@
         "track_name": "Kansas Speedway",
         "date_scheduled": "2026-09-27T15:00:00",
         "race_date": "2026-09-27T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-26T00:00:00",
         "tunein_date": "2026-09-27T15:00:00",
         "scheduled_distance": 400.5,
         "actual_distance": 400.5,
@@ -3833,32 +4137,105 @@
         "stage_1_laps": 80,
         "stage_2_laps": 85,
         "stage_3_laps": 102,
-        "number_of_cars_in_field": 40,
+        "number_of_cars_in_field": 36,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 13,
+        "number_of_leaders": 7,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 26,
+        "average_speed": 139.156,
+        "total_race_time": "2:52:41",
+        "margin_of_victory": ".565",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kyle Larson has won the Hollywood Casino 400 at Kansas Speedway, his 34th victory in the NASCAR Cup Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty.",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-24T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-25T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-25T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-26T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "Canceled",
+            "start_time_utc": "2026-09-26T14:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "Canceled - Line Up Set Per Rule Book",
+            "start_time_utc": "2026-09-26T15:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-27T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-27T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-27T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Tent Behind Media Center",
+            "start_time_utc": "2026-09-27T17:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-27T18:15:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 80/165/267 Laps = 400.5 Miles",
+            "start_time_utc": "2026-09-27T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 1950,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4030,
         "pole_winner_laptime": null
       },
       {
@@ -3872,7 +4249,7 @@
         "track_name": "Las Vegas Motor Speedway",
         "date_scheduled": "2026-10-04T17:30:00",
         "race_date": "2026-10-04T17:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-04T14:30:00",
         "tunein_date": "2026-10-04T17:30:00",
         "scheduled_distance": 400.5,
         "actual_distance": 400.5,
@@ -3881,32 +4258,105 @@
         "stage_1_laps": 80,
         "stage_2_laps": 85,
         "stage_3_laps": 102,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 1361,
+        "pole_winner_speed": 186.787,
+        "number_of_lead_changes": 12,
+        "number_of_leaders": 7,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 21,
+        "average_speed": 147.363,
+        "total_race_time": "2:43:04",
+        "margin_of_victory": "1.376",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Chase Briscoe has won the South Point 400 at Las Vegas Motor Speedway, his seventh victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 21 (Backup car) and No. 4 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Hauler Parade",
+            "notes": "",
+            "start_time_utc": "2026-10-02T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-02T21:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-03T00:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-03T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-10-03T20:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "  ",
+            "start_time_utc": "2026-10-03T21:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-04T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-04T18:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-04T20:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "NEON Garage",
+            "start_time_utc": "2026-10-04T20:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-10-04T20:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 80/165/267 Laps = 400.5 Miles",
+            "start_time_utc": "2026-10-04T21:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4705,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4228,
         "pole_winner_laptime": null
       },
       {
@@ -3920,41 +4370,102 @@
         "track_name": "Charlotte Motor Speedway",
         "date_scheduled": "2026-10-11T15:00:00",
         "race_date": "2026-10-11T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-10T00:00:00",
         "tunein_date": "2026-10-11T15:00:00",
         "scheduled_distance": 400.5,
         "actual_distance": 400.5,
         "scheduled_laps": 267,
         "actual_laps": 267,
-        "stage_1_laps": 25,
-        "stage_2_laps": 25,
-        "stage_3_laps": 217,
-        "number_of_cars_in_field": 40,
+        "stage_1_laps": 77,
+        "stage_2_laps": 88,
+        "stage_3_laps": 102,
+        "number_of_cars_in_field": 39,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 11,
+        "number_of_leaders": 5,
+        "number_of_cautions": 6,
+        "number_of_caution_laps": 33,
+        "average_speed": 139.561,
+        "total_race_time": "2:52:11",
+        "margin_of_victory": ".029",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Chase Briscoe won the Bank of America 400 at Charlotte Motor Speedway, his eighth NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-08T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-10T09:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "Canceled",
+            "start_time_utc": "2026-10-10T15:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "Canceled - Line Up Set Per Rule Book",
+            "start_time_utc": "2026-10-10T16:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-11T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Ten Tenths Motor Club",
+            "start_time_utc": "2026-10-11T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-11T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-11T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Pit Road Stage",
+            "start_time_utc": "2026-10-11T18:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 80/165/267 Laps = 400.5 Miles",
+            "start_time_utc": "2026-10-11T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4707,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4228,
         "pole_winner_laptime": null
       },
       {
@@ -3968,7 +4479,7 @@
         "track_name": "Phoenix Raceway",
         "date_scheduled": "2026-10-18T15:00:00",
         "race_date": "2026-10-18T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-18T12:00:00",
         "tunein_date": "2026-10-18T15:00:00",
         "scheduled_distance": 312,
         "actual_distance": 312,
@@ -3977,32 +4488,105 @@
         "stage_1_laps": 60,
         "stage_2_laps": 125,
         "stage_3_laps": 127,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 4023,
+        "pole_winner_speed": 137.143,
+        "number_of_lead_changes": 21,
+        "number_of_leaders": 10,
+        "number_of_cautions": 6,
+        "number_of_caution_laps": 43,
+        "average_speed": 103.207,
+        "total_race_time": "3:01:23",
+        "margin_of_victory": ".801",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Tyler Reddick has won the Freeway Insurance 500 at Phoenix Raceway, his 14th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 54 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-16T00:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-17T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-17T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-10-17T20:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-17T21:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-18T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-18T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-18T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Media Center Meeting Room",
+            "start_time_utc": "2026-10-18T17:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Drivers Report For Pre-Race",
+            "notes": "O'Reilly Series Garage Area",
+            "start_time_utc": "2026-10-18T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Staging in Crescent",
+            "start_time_utc": "2026-10-18T18:15:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 60/185/312 Laps = 312 Miles",
+            "start_time_utc": "2026-10-18T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "USA",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 1550,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4065,
         "pole_winner_laptime": null
       },
       {
@@ -4016,41 +4600,108 @@
         "track_name": "Talladega Superspeedway",
         "date_scheduled": "2026-10-25T14:00:00",
         "race_date": "2026-10-25T14:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-25T13:00:00",
         "tunein_date": "2026-10-25T14:00:00",
         "scheduled_distance": 500.08,
-        "actual_distance": 500.08,
+        "actual_distance": 502.74,
         "scheduled_laps": 188,
-        "actual_laps": 188,
-        "stage_1_laps": 60,
-        "stage_2_laps": 60,
-        "stage_3_laps": 68,
+        "actual_laps": 189,
+        "stage_1_laps": 98,
+        "stage_2_laps": 45,
+        "stage_3_laps": 46,
         "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4228,
+        "pole_winner_speed": 186.065,
+        "number_of_lead_changes": 41,
+        "number_of_leaders": 15,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 18,
+        "average_speed": 160.534,
+        "total_race_time": "3:07:54",
+        "margin_of_victory": "0.041",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kyle Larson won the YellaWood 500 at Talladega Superspeedway, his 35th NASCAR Cup Series victory. Prior to the green flag to start the race, the following cars dropped to the rear of the field for the reasons indicated: Nos. 41, 47 (unapproved adjustments); No. 10 (inspection penalty).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-22T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "",
+            "start_time_utc": "2026-10-23T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-23T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-24T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "  ",
+            "start_time_utc": "2026-10-24T17:00:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-25T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-25T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-25T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "O'Reilly Series Garage Meeting Room",
+            "start_time_utc": "2026-10-25T17:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-10-25T17:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 98/143/188 Laps = 500.08 Miles",
+            "start_time_utc": "2026-10-25T18:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "NBC",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 937,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4030,
         "pole_winner_laptime": null
       },
       {
@@ -4064,89 +4715,241 @@
         "track_name": "Martinsville Speedway",
         "date_scheduled": "2026-11-01T14:00:00",
         "race_date": "2026-11-01T14:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-11-01T14:00:00",
         "tunein_date": "2026-11-01T14:00:00",
         "scheduled_distance": 263,
         "actual_distance": 263,
         "scheduled_laps": 500,
         "actual_laps": 500,
         "stage_1_laps": 130,
-        "stage_2_laps": 130,
-        "stage_3_laps": 240,
-        "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "stage_2_laps": 123,
+        "stage_3_laps": 247,
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 1361,
+        "pole_winner_speed": 98.492,
+        "number_of_lead_changes": 11,
+        "number_of_leaders": 6,
+        "number_of_cautions": 6,
+        "number_of_caution_laps": 47,
+        "average_speed": 79.257,
+        "total_race_time": "3:19:06",
+        "margin_of_victory": "2.049",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "William Byron won the Xfinity 500 at Martinsville Speedway, his 17th NASCAR Cup Series victory. Prior to the green flag to start the race, the following cars dropped to the rear of the field for the reasons indicated: No. 51 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-29T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-31T09:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-31T11:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "All Entries",
+            "start_time_utc": "2026-10-31T17:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-31T18:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-11-01T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-01T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-11-01T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "Driver/Owner Lot Hospitality Tent",
+            "start_time_utc": "2026-11-01T17:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-11-01T18:15:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 130/260/500 Laps = 263 Miles",
+            "start_time_utc": "2026-11-01T19:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "NBC",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 6,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4184,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5601,
         "series_id": 1,
         "race_season": 2026,
-        "race_name": "NASCAR Championship Race",
+        "race_name": "NASCAR Cup Series Championship Race",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 40,
         "track_name": "Homestead-Miami Speedway",
         "date_scheduled": "2026-11-08T15:00:00",
         "race_date": "2026-11-08T15:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-11-08T15:00:00",
         "tunein_date": "2026-11-08T15:00:00",
         "scheduled_distance": 400.5,
         "actual_distance": 400.5,
         "scheduled_laps": 267,
         "actual_laps": 267,
-        "stage_1_laps": 80,
-        "stage_2_laps": 85,
+        "stage_1_laps": 78,
+        "stage_2_laps": 87,
         "stage_3_laps": 102,
         "number_of_cars_in_field": 40,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4228,
+        "pole_winner_speed": 166.687,
+        "number_of_lead_changes": 18,
+        "number_of_leaders": 8,
+        "number_of_cautions": 3,
+        "number_of_caution_laps": 23,
+        "average_speed": 133.5,
+        "total_race_time": "3:00:00",
+        "margin_of_victory": ".314",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Ryan Blaney has won the NASCAR Cup Series Championship Race at Homestead-Miami Speeway, his 21st victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 6 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-11-04T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-11-06T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-06T18:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-11-06T22:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-07T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Competition Briefing (Full-Time Competitors)",
+            "notes": "Media Center Meeting Room",
+            "start_time_utc": "2026-11-07T17:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-11-07T19:30:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access / Garage and Pit Pass Pass Holder Access Permitted",
+            "notes": "",
+            "start_time_utc": "2026-11-08T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-08T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-11-08T18:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "The Drivers Meeting",
+            "notes": "The Drivers Meeting Room",
+            "start_time_utc": "2026-11-08T18:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Drivers Report For Pre-Race",
+            "notes": "NASCAR Cup Series Garage Area",
+            "start_time_utc": "2026-11-08T19:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-11-08T19:15:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 80/165/267 Laps = 400.5 Miles",
+            "start_time_utc": "2026-11-08T20:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "NBC",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 1887,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4023,
         "pole_winner_laptime": null
       }
     ],
@@ -6698,27 +7501,27 @@
         "track_name": "Iowa Speedway",
         "date_scheduled": "2026-08-08T17:00:00",
         "race_date": "2026-08-08T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-08T16:00:00",
         "tunein_date": "2026-08-08T17:00:00",
         "scheduled_distance": 218.75,
-        "actual_distance": 218.75,
+        "actual_distance": 227.5,
         "scheduled_laps": 250,
-        "actual_laps": 250,
+        "actual_laps": 260,
         "stage_1_laps": 60,
         "stage_2_laps": 60,
-        "stage_3_laps": 130,
-        "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "stage_3_laps": 140,
+        "number_of_cars_in_field": 37,
+        "pole_winner_driver_id": 3884,
+        "pole_winner_speed": 131.436,
+        "number_of_lead_changes": 7,
+        "number_of_leaders": 7,
+        "number_of_cautions": 12,
+        "number_of_caution_laps": 72,
+        "average_speed": 83.418,
+        "total_race_time": "2:43:38",
+        "margin_of_victory": "0.343",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Carson Kvapil has won the HyVee Perks 250 at Iowa Speedway, his second victory in the NASCAR O'Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 02, 28 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -6787,13 +7590,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5430,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4467,
         "pole_winner_laptime": null
       },
       {
@@ -6807,27 +7610,27 @@
         "track_name": "Daytona International Speedway",
         "date_scheduled": "2026-08-28T19:30:00",
         "race_date": "2026-08-28T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-28T19:30:00",
         "tunein_date": "2026-08-28T19:30:00",
         "scheduled_distance": 250,
-        "actual_distance": 250,
+        "actual_distance": 262.5,
         "scheduled_laps": 100,
-        "actual_laps": 100,
-        "stage_1_laps": 30,
-        "stage_2_laps": 30,
-        "stage_3_laps": 40,
+        "actual_laps": 105,
+        "stage_1_laps": 28,
+        "stage_2_laps": 28,
+        "stage_3_laps": 49,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4422,
+        "pole_winner_speed": 183.232,
+        "number_of_lead_changes": 21,
+        "number_of_leaders": 11,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 25,
+        "average_speed": 132.52,
+        "total_race_time": "1:58:51",
+        "margin_of_victory": "0.149",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Ryan Sieg has won the Winn Dixie 250 Powerd by Coca-Cola, his first victory in the NASCAR O'Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 26, 39 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -6890,13 +7693,13 @@
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2744,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 3884,
         "pole_winner_laptime": null
       },
       {
@@ -6910,41 +7713,108 @@
         "track_name": "Darlington Raceway",
         "date_scheduled": "2026-09-05T19:30:00",
         "race_date": "2026-09-05T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-05T19:30:00",
         "tunein_date": "2026-09-05T19:30:00",
         "scheduled_distance": 200,
-        "actual_distance": 200,
+        "actual_distance": 200.802,
         "scheduled_laps": 147,
         "actual_laps": 147,
         "stage_1_laps": 45,
         "stage_2_laps": 45,
         "stage_3_laps": 57,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4467,
+        "pole_winner_speed": 161.636,
+        "number_of_lead_changes": 8,
+        "number_of_leaders": 7,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 38,
+        "average_speed": 102.045,
+        "total_race_time": "1:58:04",
+        "margin_of_victory": "2.961",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Sheldon Creed won the Fleetio 200 at Darlington Raceway, his second NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following cars dropped to the rear for the reasons indicated: Nos. 02, 19, 38, 51 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-04T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-09-04T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-04T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-04T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-05T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-09-05T17:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-05T18:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Move Vehicles to Pit Road",
+            "notes": "",
+            "start_time_utc": "2026-09-05T22:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-05T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-05T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/147 Laps = 200.8 Miles",
+            "start_time_utc": "2026-09-05T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5196,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4204,
         "pole_winner_laptime": null
       },
       {
@@ -6958,7 +7828,7 @@
         "track_name": "World Wide Technology Raceway",
         "date_scheduled": "2026-09-12T19:30:00",
         "race_date": "2026-09-12T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-12T18:30:00",
         "tunein_date": "2026-09-12T19:30:00",
         "scheduled_distance": 225,
         "actual_distance": 225,
@@ -6967,32 +7837,99 @@
         "stage_1_laps": 45,
         "stage_2_laps": 45,
         "stage_3_laps": 90,
-        "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 4467,
+        "pole_winner_speed": 133.825,
+        "number_of_lead_changes": 8,
+        "number_of_leaders": 4,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 37,
+        "average_speed": 92.965,
+        "total_race_time": "2:25:13",
+        "margin_of_victory": ".896",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Jesse Love has won the Nu Way 225 Powered by Bobcat and Sauced by Blues Hog at World Wide Technology Raceway, his fourth career victory in the NASCAR O’Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason indicated: Nos. 45 & 92 (unapproved adjustments). ",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-11T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-11T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-11T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-11T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-12T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Cup Series Garage - Fan Walk Side",
+            "start_time_utc": "2026-09-12T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-09-12T17:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "",
+            "start_time_utc": "2026-09-12T18:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-12T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Fan Zone Stage",
+            "start_time_utc": "2026-09-12T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/180 Laps = 225 Miles",
+            "start_time_utc": "2026-09-12T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2200,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4463,
         "pole_winner_laptime": null
       },
       {
@@ -7006,41 +7943,96 @@
         "track_name": "Bristol Motor Speedway",
         "date_scheduled": "2026-09-18T19:30:00",
         "race_date": "2026-09-18T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-18T00:00:00",
         "tunein_date": "2026-09-18T19:30:00",
         "scheduled_distance": 159.9,
-        "actual_distance": 159.9,
+        "actual_distance": 162.56,
         "scheduled_laps": 300,
-        "actual_laps": 300,
+        "actual_laps": 305,
         "stage_1_laps": 85,
         "stage_2_laps": 85,
-        "stage_3_laps": 130,
+        "stage_3_laps": 135,
         "number_of_cars_in_field": 38,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 8,
+        "number_of_leaders": 5,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 47,
+        "average_speed": 86.229,
+        "total_race_time": "1:53:07",
+        "margin_of_victory": "0.253",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Sheldon Creed won the Food City 300 at Bristol Motor Speedway, his 3rd career NASCAR O'Reilly Auto Parts Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 45 (engine).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-18T11:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area / Pit Road",
+            "start_time_utc": "2026-09-18T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-18T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T18:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "Canceled - Line Up Set Per Rule Book",
+            "start_time_utc": "2026-09-18T19:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-18T22:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-18T23:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 85/170/300 Laps = 159.9 Miles",
+            "start_time_utc": "2026-09-18T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2153,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4204,
         "pole_winner_laptime": null
       },
       {
@@ -7054,7 +8046,7 @@
         "track_name": "Las Vegas Motor Speedway",
         "date_scheduled": "2026-10-03T19:30:00",
         "race_date": "2026-10-03T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-03T16:30:00",
         "tunein_date": "2026-10-03T19:30:00",
         "scheduled_distance": 301.5,
         "actual_distance": 301.5,
@@ -7063,94 +8055,240 @@
         "stage_1_laps": 45,
         "stage_2_laps": 45,
         "stage_3_laps": 111,
-        "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 4502,
+        "pole_winner_speed": 180.856,
+        "number_of_lead_changes": 15,
+        "number_of_leaders": 9,
+        "number_of_cautions": 3,
+        "number_of_caution_laps": 21,
+        "average_speed": 135.37,
+        "total_race_time": "2:13:38",
+        "margin_of_victory": "0.287",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Corey Day has won the Focused Health 302 at Las Vegas Motor Speedway, his third victory in the NASCAR O'Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 0, 18 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-02T19:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-10-02T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-02T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-03T00:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-03T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-03T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "  ",
+            "start_time_utc": "2026-10-03T18:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "  ",
+            "start_time_utc": "2026-10-03T19:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "NEON Garage",
+            "start_time_utc": "2026-10-03T20:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-03T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-10-03T23:05:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/201 Laps = 301.5 Miles",
+            "start_time_utc": "2026-10-03T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4082,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4502,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5662,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "Blue Cross NC 250",
+        "race_name": "Blue Cross NC 300",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 162,
         "track_name": "Charlotte Motor Speedway",
         "date_scheduled": "2026-10-10T16:00:00",
-        "race_date": "2026-10-10T16:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
-        "tunein_date": "2026-10-10T16:00:00",
-        "scheduled_distance": 250.5,
-        "actual_distance": 250.5,
-        "scheduled_laps": 167,
-        "actual_laps": 167,
-        "stage_1_laps": 20,
-        "stage_2_laps": 25,
-        "stage_3_laps": 122,
+        "race_date": "2026-10-11T20:00:00",
+        "qualifying_date": "2026-10-10T00:00:00",
+        "tunein_date": "2026-10-11T20:00:00",
+        "scheduled_distance": 300,
+        "actual_distance": 300,
+        "scheduled_laps": 200,
+        "actual_laps": 200,
+        "stage_1_laps": 45,
+        "stage_2_laps": 45,
+        "stage_3_laps": 110,
         "number_of_cars_in_field": 38,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 16,
+        "number_of_leaders": 7,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 38,
+        "average_speed": 121.471,
+        "total_race_time": "2:28:11",
+        "margin_of_victory": "0.728",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Corey Day won the Blue Cross NC 300 at Charlotte Motor Speedway, his fourth NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following driver dropped to the rear for the reason indicated: No. 38 (missed driver intros).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-08T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-09T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-10-09T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-09T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-10T11:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice (Impound)",
+            "notes": "Canceled",
+            "start_time_utc": "2026-10-10T12:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "Canceled - Line Up Set Per Rule Book",
+            "start_time_utc": "2026-10-10T13:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-11T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-11T20:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-11T23:20:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "  ",
+            "start_time_utc": "2026-10-11T23:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/200 Laps = 300 Miles",
+            "start_time_utc": "2026-10-12T00:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "PRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4742,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4502,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5666,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "NASCAR O'Reilly Auto Parts Series Race at Phoenix",
+        "race_name": "Timberland PRO 200",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 84,
         "track_name": "Phoenix Raceway",
         "date_scheduled": "2026-10-17T19:30:00",
         "race_date": "2026-10-17T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-17T16:30:00",
         "tunein_date": "2026-10-17T19:30:00",
         "scheduled_distance": 200,
         "actual_distance": 200,
@@ -7160,31 +8298,104 @@
         "stage_2_laps": 45,
         "stage_3_laps": 110,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4463,
+        "pole_winner_speed": 131.694,
+        "number_of_lead_changes": 18,
+        "number_of_leaders": 7,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 35,
+        "average_speed": 96.373,
+        "total_race_time": "2:04:31",
+        "margin_of_victory": "0.128",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Jesse Love has won the Timberland PRO 200 at Phoenix Raceway, his fifth victory in the NASCAR O'Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 0, 42 (Unapproved Adjustments), Nos. 41, 55 (Engine), No. 24 (Backup Car).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-16T00:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-16T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-10-16T20:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-16T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-17T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-10-17T18:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-17T19:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Victory Lane",
+            "start_time_utc": "2026-10-17T20:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Move Vehicles to Pit Road",
+            "notes": "",
+            "start_time_utc": "2026-10-17T22:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-17T22:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Ride-Around Vehicles / Garage Area",
+            "start_time_utc": "2026-10-17T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/200 Laps = 200 Miles",
+            "start_time_utc": "2026-10-17T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2860,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4463,
         "pole_winner_laptime": null
       },
       {
@@ -7198,7 +8409,7 @@
         "track_name": "Talladega Superspeedway",
         "date_scheduled": "2026-10-24T15:30:00",
         "race_date": "2026-10-24T15:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-24T14:30:00",
         "tunein_date": "2026-10-24T15:30:00",
         "scheduled_distance": 250.04,
         "actual_distance": 250.04,
@@ -7208,79 +8419,213 @@
         "stage_2_laps": 25,
         "stage_3_laps": 44,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4463,
+        "pole_winner_speed": 182.626,
+        "number_of_lead_changes": 11,
+        "number_of_leaders": 8,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 20,
+        "average_speed": 139.557,
+        "total_race_time": "1:47:30",
+        "margin_of_victory": "0.084",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Sammy Smith won The Progress Group 250 at Talladega Superspeedway, his fourth NASCAR O'Reilly Auto Parts Series victory. Prior to the green flag to start the race, the following cars dropped to the rear of the field for the reasons indicated: No. 87 (unapproved adjustments); No. 17 (engine change)..",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-22T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-23T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-10-23T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-23T13:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-24T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "  ",
+            "start_time_utc": "2026-10-24T15:00:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-24T18:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-10-24T19:05:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 25/50/94 Laps = 250.04 Miles",
+            "start_time_utc": "2026-10-24T19:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2447,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4441,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5665,
         "series_id": 2,
         "race_season": 2026,
-        "race_name": "NASCAR O'Reilly Auto Parts Series Race at Martinsville",
+        "race_name": "National Debt Relief 250",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 22,
         "track_name": "Martinsville Speedway",
         "date_scheduled": "2026-10-31T16:00:00",
         "race_date": "2026-10-31T16:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-31T16:00:00",
         "tunein_date": "2026-10-31T16:00:00",
         "scheduled_distance": 131.5,
         "actual_distance": 131.5,
         "scheduled_laps": 250,
         "actual_laps": 250,
-        "stage_1_laps": 60,
-        "stage_2_laps": 60,
+        "stage_1_laps": 57,
+        "stage_2_laps": 63,
         "stage_3_laps": 130,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4467,
+        "pole_winner_speed": 95.371,
+        "number_of_lead_changes": 9,
+        "number_of_leaders": 5,
+        "number_of_cautions": 12,
+        "number_of_caution_laps": 90,
+        "average_speed": 57.084,
+        "total_race_time": "2:18:13",
+        "margin_of_victory": "0.434",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Carson Kvapil has won the National Debt Relief 250 at Martinsville Speedway, his third career victory in the NASCAR O’Reilly Auto Parts Series. Prior to the start of the race no vehicles dropped to the rear of the field. ",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-29T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-30T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-30T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-30T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Exit",
+            "notes": "",
+            "start_time_utc": "2026-10-30T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-10-30T19:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-30T20:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-31T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Move Vehicles to Pit Road",
+            "notes": "",
+            "start_time_utc": "2026-10-31T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-31T19:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-10-31T19:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 60/120/250 Laps = 131.5 Miles",
+            "start_time_utc": "2026-10-31T20:00:00",
+            "run_type": 3
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Loading",
+            "start_time_utc": "2026-10-31T23:00:00",
+            "run_type": 0
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 4916,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4467,
         "pole_winner_laptime": null
       },
       {
@@ -7294,41 +8639,108 @@
         "track_name": "Homestead-Miami Speedway",
         "date_scheduled": "2026-11-07T17:00:00",
         "race_date": "2026-11-07T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-11-07T17:00:00",
         "tunein_date": "2026-11-07T17:00:00",
         "scheduled_distance": 300,
         "actual_distance": 300,
         "scheduled_laps": 200,
         "actual_laps": 200,
         "stage_1_laps": 45,
-        "stage_2_laps": 45,
-        "stage_3_laps": 110,
+        "stage_2_laps": 44,
+        "stage_3_laps": 111,
         "number_of_cars_in_field": 38,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4204,
+        "pole_winner_speed": 160.82,
+        "number_of_lead_changes": 12,
+        "number_of_leaders": 5,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 27,
+        "average_speed": 121.457,
+        "total_race_time": "2:28:12",
+        "margin_of_victory": "3.937",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Brandon Jones has won the NASCAR O'Reilly Auto Parts Series at Homestead-Miami Speedway, his ninth victory in the NASCAR O'Reilly Auto Parts Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 96 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-11-04T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-11-06T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-11-06T17:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-06T18:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-11-06T21:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-07T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-11-07T18:00:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Drivers Report For Pre-Race",
+            "notes": "NASCAR O'Reilly Auto Parts Series Garage Area",
+            "start_time_utc": "2026-11-07T21:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-11-07T21:15:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-11-07T21:25:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/200 Laps = 300 Miles",
+            "start_time_utc": "2026-11-07T22:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "MRN",
         "television_broadcaster": "CW",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2861,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4085,
         "pole_winner_laptime": null
       }
     ],
@@ -9303,15 +10715,15 @@
         "race_id": 5684,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "Black's Tire 250 presented by BTS Rewards at Richmond Raceway",
+        "race_name": "Black's Tire 250 presented by BTS Rewards",
         "race_type_id": 1,
         "restrictor_plate": true,
         "track_id": 26,
         "track_name": "Richmond Raceway",
         "date_scheduled": "2026-08-14T19:30:00",
         "race_date": "2026-08-14T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
-        "tunein_date": "2026-08-14T19:30:00",
+        "qualifying_date": "2026-08-15T12:00:00",
+        "tunein_date": "2026-08-15T12:00:00",
         "scheduled_distance": 187.5,
         "actual_distance": 187.5,
         "scheduled_laps": 250,
@@ -9320,17 +10732,17 @@
         "stage_2_laps": 70,
         "stage_3_laps": 110,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4469,
+        "pole_winner_speed": 116.54,
+        "number_of_lead_changes": 6,
+        "number_of_leaders": 4,
+        "number_of_cautions": 3,
+        "number_of_caution_laps": 24,
+        "average_speed": 93.155,
+        "total_race_time": "2:00:46",
+        "margin_of_victory": "1.313",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kaden Honeycutt won the Black's Tire 250 presented by BTS Rewards at Richmond Raceway, his second career NASCAR CRAFTSMAN Truck Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 62 (driver change).",
         "attendance": 0,
         "infractions": [],
         "schedule": [
@@ -9395,23 +10807,29 @@
             "run_type": 0
           },
           {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-15T14:00:00",
+            "run_type": 0
+          },
+          {
             "event_name": "Race",
             "notes": "Stages 70/140/250 Laps = 187.5 Miles",
-            "start_time_utc": "2026-08-14T23:30:00",
+            "start_time_utc": "2026-08-15T16:00:00",
             "run_type": 3
           }
         ],
         "radio_broadcaster": "NRN",
-        "television_broadcaster": "FS1",
+        "television_broadcaster": "FS2",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5004,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4427,
         "pole_winner_laptime": null
       },
       {
@@ -9425,41 +10843,120 @@
         "track_name": "New Hampshire Motor Speedway",
         "date_scheduled": "2026-08-22T13:30:00",
         "race_date": "2026-08-22T13:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-08-22T13:30:00",
         "tunein_date": "2026-08-22T13:30:00",
         "scheduled_distance": 185.15,
-        "actual_distance": 185.15,
+        "actual_distance": 199.962,
         "scheduled_laps": 175,
-        "actual_laps": 175,
+        "actual_laps": 189,
         "stage_1_laps": 55,
         "stage_2_laps": 55,
-        "stage_3_laps": 65,
+        "stage_3_laps": 79,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4446,
+        "pole_winner_speed": 129.789,
+        "number_of_lead_changes": 6,
+        "number_of_leaders": 5,
+        "number_of_cautions": 9,
+        "number_of_caution_laps": 56,
+        "average_speed": 86.325,
+        "total_race_time": "2:18:59",
+        "margin_of_victory": "0.293",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Layne Riggs has won the Team EJP 175 at New Hampshire Motor Speedway, his 11th victory in the NASCAR CRAFTSMAN Truck Series. Prior to the start of the race, the vehicle(s) dropped to the rear of the field under penalty: Nos. 26, 33 (driver change) and Nos. 76, 81 (unapproved adjustments). ",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-08-20T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-08-21T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-21T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-21T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-08-21T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-08-21T20:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-08-21T21:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Team Access To Haulers Permitted",
+            "notes": "",
+            "start_time_utc": "2026-08-22T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Autograph Session",
+            "notes": "Fan Zone",
+            "start_time_utc": "2026-08-22T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-08-22T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-08-22T16:50:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-08-22T17:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 55/110/175 = 185.15 Miles",
+            "start_time_utc": "2026-08-22T17:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5508,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 0,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4446,
         "pole_winner_laptime": null
       },
       {
@@ -9473,7 +10970,7 @@
         "track_name": "Bristol Motor Speedway",
         "date_scheduled": "2026-09-17T20:00:00",
         "race_date": "2026-09-17T20:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-17T00:00:00",
         "tunein_date": "2026-09-17T20:00:00",
         "scheduled_distance": 133.25,
         "actual_distance": 133.25,
@@ -9485,29 +10982,90 @@
         "number_of_cars_in_field": 36,
         "pole_winner_driver_id": 0,
         "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_lead_changes": 5,
+        "number_of_leaders": 4,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 38,
+        "average_speed": 85.295,
+        "total_race_time": "1:33:44",
+        "margin_of_victory": "1.305",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Jake Garcia won the UNOH 250 Presented by Ohio Logistics at Bristol Motor Speedway, his 1st career NASCAR CRAFTSMAN Truck Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: Nos. 4, 76 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-16T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-17T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-09-17T13:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-17T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-09-17T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-09-17T19:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-09-17T20:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-17T23:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-17T23:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 65/130/250 Laps = 133.25 Miles",
+            "start_time_utc": "2026-09-18T00:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 3105,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4423,
         "pole_winner_laptime": null
       },
       {
@@ -9521,8 +11079,123 @@
         "track_name": "Kansas Speedway",
         "date_scheduled": "2026-09-26T13:00:00",
         "race_date": "2026-09-26T13:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-09-26T00:00:00",
         "tunein_date": "2026-09-26T13:00:00",
+        "scheduled_distance": 201,
+        "actual_distance": 201,
+        "scheduled_laps": 134,
+        "actual_laps": 134,
+        "stage_1_laps": 30,
+        "stage_2_laps": 24,
+        "stage_3_laps": 80,
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 0,
+        "pole_winner_speed": 0,
+        "number_of_lead_changes": 9,
+        "number_of_leaders": 5,
+        "number_of_cautions": 7,
+        "number_of_caution_laps": 47,
+        "average_speed": 92.996,
+        "total_race_time": "2:09:41",
+        "margin_of_victory": "1.358",
+        "race_purse": 0,
+        "race_comments": "Kaden Honeycutt has won the Race To End Suicide 200 at Kansas Speedway, his third victory in the NASCAR CRAFTSMAN Truck Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty. ",
+        "attendance": 0,
+        "infractions": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-09-24T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-09-25T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-09-25T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-25T16:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-09-25T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "Canceled",
+            "start_time_utc": "2026-09-25T21:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": "Canceled - Line Up Set Per Rule Book",
+            "start_time_utc": "2026-09-25T22:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-09-26T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-09-26T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-09-26T16:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 30/60/134 Laps = 201 Miles",
+            "start_time_utc": "2026-09-26T17:00:00",
+            "run_type": 3
+          }
+        ],
+        "radio_broadcaster": "NRN",
+        "television_broadcaster": "FS1",
+        "satellite_radio_broadcaster": "SIRIUSXM",
+        "master_race_id": 3055,
+        "inspection_complete": true,
+        "playoff_round": 1,
+        "is_qualifying_race": false,
+        "qualifying_race_no": 0,
+        "qualifying_race_id": -1,
+        "has_qualifying": false,
+        "winner_driver_id": 4427,
+        "pole_winner_laptime": null
+      },
+      {
+        "race_id": 5688,
+        "series_id": 3,
+        "race_season": 2026,
+        "race_name": "Ecosave 200",
+        "race_type_id": 1,
+        "restrictor_plate": false,
+        "track_id": 162,
+        "track_name": "Charlotte Motor Speedway",
+        "date_scheduled": "2026-10-09T17:00:00",
+        "race_date": "2026-10-09T17:00:00",
+        "qualifying_date": "2026-10-09T17:00:00",
+        "tunein_date": "2026-10-09T17:00:00",
         "scheduled_distance": 201,
         "actual_distance": 201,
         "scheduled_laps": 134,
@@ -9531,93 +11204,112 @@
         "stage_2_laps": 30,
         "stage_3_laps": 74,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4433,
+        "pole_winner_speed": 180.234,
+        "number_of_lead_changes": 8,
+        "number_of_leaders": 3,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 28,
+        "average_speed": 116.804,
+        "total_race_time": "1:43:15",
+        "margin_of_victory": "0.596",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Layne Riggs won the Ecosave 200 at Charlotte Motor Speedway, his 12th NASCAR CRAFTSMAN Truck Series victory. Prior to the green flag to start the race, the following trucks dropped to the rear for the reason indicated: Nos. 52, 17, 25 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
-        "radio_broadcaster": "NRN",
-        "television_broadcaster": "FS1",
-        "satellite_radio_broadcaster": "SIRIUSXM",
-        "master_race_id": 3055,
-        "inspection_complete": false,
-        "playoff_round": 1,
-        "is_qualifying_race": false,
-        "qualifying_race_no": 0,
-        "qualifying_race_id": -1,
-        "has_qualifying": false,
-        "winner_driver_id": null,
-        "pole_winner_laptime": null
-      },
-      {
-        "race_id": 5688,
-        "series_id": 3,
-        "race_season": 2026,
-        "race_name": "Ecosave 250",
-        "race_type_id": 1,
-        "restrictor_plate": false,
-        "track_id": 162,
-        "track_name": "Charlotte Motor Speedway",
-        "date_scheduled": "2026-10-09T17:00:00",
-        "race_date": "2026-10-09T17:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
-        "tunein_date": "2026-10-09T17:00:00",
-        "scheduled_distance": 250.5,
-        "actual_distance": 250.5,
-        "scheduled_laps": 167,
-        "actual_laps": 167,
-        "stage_1_laps": 20,
-        "stage_2_laps": 20,
-        "stage_3_laps": 127,
-        "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
-        "race_purse": 0,
-        "race_comments": "",
-        "attendance": 0,
-        "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-08T12:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-08T13:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-08T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-08T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-09T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-10-09T15:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-10-09T17:00:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-09T18:05:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "",
+            "start_time_utc": "2026-10-09T20:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "",
+            "start_time_utc": "2026-10-09T20:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 30/60/134 Laps = 201 Miles",
+            "start_time_utc": "2026-10-09T21:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FOX",
         "satellite_radio_broadcaster": "SIRIUSXM",
-        "master_race_id": 0,
-        "inspection_complete": false,
+        "master_race_id": 5688,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4446,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5691,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "NASCAR CRAFTSMAN Truck Series Race at Phoenix",
+        "race_name": "Zero Carbon Bioethanol 150 Powered by POET ",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 84,
         "track_name": "Phoenix Raceway",
         "date_scheduled": "2026-10-16T19:30:00",
         "race_date": "2026-10-16T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-16T16:30:00",
         "tunein_date": "2026-10-16T19:30:00",
         "scheduled_distance": 150,
         "actual_distance": 150,
@@ -9627,31 +11319,92 @@
         "stage_2_laps": 45,
         "stage_3_laps": 60,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4446,
+        "pole_winner_speed": 133.141,
+        "number_of_lead_changes": 6,
+        "number_of_leaders": 5,
+        "number_of_cautions": 2,
+        "number_of_caution_laps": 16,
+        "average_speed": 106.572,
+        "total_race_time": "1:24:27",
+        "margin_of_victory": "1.556",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kaden Honeycutt has won the Zero Carbon Bioethanol 150 Powered by POET at Phoenix Raceway, his fourth victory in the NASCAR CRAFTSMAN Truck Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 33, 76 (Unapproved Adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-16T00:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-16T12:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-10-16T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-16T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-10-16T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-10-16T19:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying",
+            "notes": " ",
+            "start_time_utc": "2026-10-16T20:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "",
+            "start_time_utc": "2026-10-16T22:45:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "Ride-Around Vehicles / Garage Area",
+            "start_time_utc": "2026-10-16T22:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 45/90/150 Laps = 150 Miles",
+            "start_time_utc": "2026-10-16T23:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 2898,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4427,
         "pole_winner_laptime": null
       },
       {
@@ -9665,55 +11418,116 @@
         "track_name": "Talladega Superspeedway",
         "date_scheduled": "2026-10-23T16:00:00",
         "race_date": "2026-10-23T16:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-23T16:00:00",
         "tunein_date": "2026-10-23T16:00:00",
         "scheduled_distance": 226.1,
-        "actual_distance": 226.1,
+        "actual_distance": 228.76,
         "scheduled_laps": 85,
-        "actual_laps": 85,
-        "stage_1_laps": 20,
-        "stage_2_laps": 20,
-        "stage_3_laps": 45,
+        "actual_laps": 86,
+        "stage_1_laps": 17,
+        "stage_2_laps": 22,
+        "stage_3_laps": 47,
         "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "pole_winner_driver_id": 4235,
+        "pole_winner_speed": 177.389,
+        "number_of_lead_changes": 32,
+        "number_of_leaders": 15,
+        "number_of_cautions": 5,
+        "number_of_caution_laps": 26,
+        "average_speed": 120.224,
+        "total_race_time": "1:54:10",
+        "margin_of_victory": "0.091",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Sammy Smith won the Love's RV Stop 225 at Talladega Superspeedway, his first NASCAR CRAFTSMAN Truck Series victory. Prior to the green flag to start the race, the following truck dropped to the rear of the field for the reason indicated: No. 5 (unapproved adjustments).",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-22T13:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-22T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-22T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-22T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-23T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-10-23T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-23T16:30:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-23T19:35:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": "",
+            "start_time_utc": "2026-10-23T19:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 20/40/85 Laps = 226.1 Miles",
+            "start_time_utc": "2026-10-23T20:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 3198,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4441,
         "pole_winner_laptime": null
       },
       {
         "race_id": 5671,
         "series_id": 3,
         "race_season": 2026,
-        "race_name": "NASCAR CRAFTSMAN Truck Series Race at Martinsville",
+        "race_name": "Black's Tire 200 presented by Down East Heating & Air Conditioning",
         "race_type_id": 1,
         "restrictor_plate": false,
         "track_id": 22,
         "track_name": "Martinsville Speedway",
         "date_scheduled": "2026-10-30T18:00:00",
         "race_date": "2026-10-30T18:00:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-10-30T18:00:00",
         "tunein_date": "2026-10-30T18:00:00",
         "scheduled_distance": 105.2,
         "actual_distance": 105.2,
@@ -9722,32 +11536,99 @@
         "stage_1_laps": 50,
         "stage_2_laps": 50,
         "stage_3_laps": 100,
-        "number_of_cars_in_field": 35,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 36,
+        "pole_winner_driver_id": 4552,
+        "pole_winner_speed": 96.864,
+        "number_of_lead_changes": 7,
+        "number_of_leaders": 4,
+        "number_of_cautions": 9,
+        "number_of_caution_laps": 67,
+        "average_speed": 57.899,
+        "total_race_time": "1:49:01",
+        "margin_of_victory": "0.574",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Chandler Smith has won the Black’s Tire 200 at Martinsville Speedway, his 10th career victory in the NASCAR CRAFTSMAN Truck Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason indicated: No. 98 (backup truck), 1, 12 & 33 (unapproved adjustments). ",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-10-29T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-10-29T16:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-10-29T17:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-10-29T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": " ",
+            "start_time_utc": "2026-10-30T14:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-10-30T15:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": " ",
+            "start_time_utc": "2026-10-30T16:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-10-30T17:35:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-10-30T21:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-10-30T21:40:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 50/100/200 Laps = 105.2 Miles ",
+            "start_time_utc": "2026-10-30T22:00:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 3112,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4312,
         "pole_winner_laptime": null
       },
       {
@@ -9761,7 +11642,7 @@
         "track_name": "Homestead-Miami Speedway",
         "date_scheduled": "2026-11-06T19:30:00",
         "race_date": "2026-11-06T19:30:00",
-        "qualifying_date": "1900-01-01T00:00:00",
+        "qualifying_date": "2026-11-06T19:30:00",
         "tunein_date": "2026-11-06T19:30:00",
         "scheduled_distance": 201,
         "actual_distance": 201,
@@ -9770,32 +11651,105 @@
         "stage_1_laps": 30,
         "stage_2_laps": 30,
         "stage_3_laps": 74,
-        "number_of_cars_in_field": 36,
-        "pole_winner_driver_id": 0,
-        "pole_winner_speed": 0,
-        "number_of_lead_changes": 0,
-        "number_of_leaders": 0,
-        "number_of_cautions": 0,
-        "number_of_caution_laps": 0,
-        "average_speed": 0,
-        "total_race_time": "",
-        "margin_of_victory": "",
+        "number_of_cars_in_field": 35,
+        "pole_winner_driver_id": 4416,
+        "pole_winner_speed": 164.855,
+        "number_of_lead_changes": 20,
+        "number_of_leaders": 9,
+        "number_of_cautions": 4,
+        "number_of_caution_laps": 25,
+        "average_speed": 114.73,
+        "total_race_time": "1:45:07",
+        "margin_of_victory": "1.038",
         "race_purse": 0,
-        "race_comments": "",
+        "race_comments": "Kaden Honeycutt has won the NASCAR CRAFTSMAN Truck Series Championship Race at Homestead-Miami Speedway, his fifth victory in the NASCAR CRAFTSMAN Truck Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty.",
         "attendance": 0,
         "infractions": [],
-        "schedule": [],
+        "schedule": [
+          {
+            "event_name": "Driver / Crew Chief Meeting",
+            "notes": "Sent Electronically",
+            "start_time_utc": "2026-11-04T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Haulers Enter",
+            "notes": "Equipment Unloading",
+            "start_time_utc": "2026-11-05T19:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Team Access for Equipment Set Up Permitted",
+            "notes": "",
+            "start_time_utc": "2026-11-05T21:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-05T21:30:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Rookie Meeting",
+            "notes": "Series Inspection Trailer",
+            "start_time_utc": "2026-11-05T22:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Practice",
+            "notes": "",
+            "start_time_utc": "2026-11-05T23:30:00",
+            "run_type": 1
+          },
+          {
+            "event_name": "Garage Hours",
+            "notes": "",
+            "start_time_utc": "2026-11-06T14:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Qualifying (Impound)",
+            "notes": " ",
+            "start_time_utc": "2026-11-06T19:30:00",
+            "run_type": 2
+          },
+          {
+            "event_name": "Drivers Report For Pre-Race",
+            "notes": "Garage Area",
+            "start_time_utc": "2026-11-06T23:55:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Grid Access Open to Properly Credentialed Guests (Until End of Anthem)",
+            "notes": "Pit Road",
+            "start_time_utc": "2026-11-07T00:00:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Driver Introductions",
+            "notes": " ",
+            "start_time_utc": "2026-11-07T00:10:00",
+            "run_type": 0
+          },
+          {
+            "event_name": "Race",
+            "notes": "Stages 30/60/134 Laps = 201 Miles",
+            "start_time_utc": "2026-11-07T00:30:00",
+            "run_type": 3
+          }
+        ],
         "radio_broadcaster": "NRN",
         "television_broadcaster": "FS1",
         "satellite_radio_broadcaster": "SIRIUSXM",
         "master_race_id": 5129,
-        "inspection_complete": false,
+        "inspection_complete": true,
         "playoff_round": 1,
         "is_qualifying_race": false,
         "qualifying_race_no": 0,
         "qualifying_race_id": -1,
         "has_qualifying": false,
-        "winner_driver_id": null,
+        "winner_driver_id": 4427,
         "pole_winner_laptime": null
       }
     ]
