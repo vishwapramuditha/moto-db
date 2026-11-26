@@ -1,4 +1,4 @@
-﻿name: Scrape WRC Data
+name: Scrape WRC Data
 
 on:
   schedule:
@@ -57,5 +57,14 @@ jobs:
             echo "No new data changes to commit."
           else
             git commit -m "auto(data): update WRC data [skip ci]"
-            git push
+            for i in 1 2 3 4 5; do
+              if git pull --rebase && git push; then
+                exit 0
+              fi
+              echo "Push failed (attempt $i/5), retrying..."
+              git rebase --abort 2>/dev/null || true
+              sleep $((i * 2))
+            done
+            echo "Failed to push after 5 attempts."
+            exit 1
           fi
