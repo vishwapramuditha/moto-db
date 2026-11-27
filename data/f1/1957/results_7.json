@@ -1,0 +1,405 @@
+{
+  "season": "1957",
+  "round": "7",
+  "raceName": "Pescara Grand Prix",
+  "circuit": {
+    "circuitId": "pescara",
+    "url": "https://en.wikipedia.org/wiki/Pescara_Circuit",
+    "circuitName": "Pescara Circuit",
+    "Location": {
+      "lat": "42.475",
+      "long": "14.1508",
+      "locality": "Pescara",
+      "country": "Italy"
+    }
+  },
+  "date": "1957-08-18",
+  "time": null,
+  "updated_at": "2026-11-27T05:34:58.408721Z",
+  "results": [
+    {
+      "number": "26",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "moss",
+        "url": "http://en.wikipedia.org/wiki/Stirling_Moss",
+        "givenName": "Stirling",
+        "familyName": "Moss",
+        "dateOfBirth": "1929-09-17",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "vanwall",
+        "url": "https://en.wikipedia.org/wiki/Vanwall",
+        "name": "Vanwall",
+        "nationality": "British"
+      },
+      "grid": "2",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "10762700",
+        "time": "2:59:22.700"
+      }
+    },
+    {
+      "number": "2",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "fangio",
+        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+        "givenName": "Juan",
+        "familyName": "Fangio",
+        "dateOfBirth": "1911-06-24",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "1",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "10956600",
+        "time": "+3:13.900"
+      }
+    },
+    {
+      "number": "6",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "schell",
+        "url": "http://en.wikipedia.org/wiki/Harry_Schell",
+        "givenName": "Harry",
+        "familyName": "Schell",
+        "dateOfBirth": "1921-06-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "5",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "11169500",
+        "time": "+6:46.800"
+      }
+    },
+    {
+      "number": "14",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "gregory",
+        "url": "http://en.wikipedia.org/wiki/Masten_Gregory",
+        "givenName": "Masten",
+        "familyName": "Gregory",
+        "dateOfBirth": "1932-02-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "7",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "11259200",
+        "time": "+8:16.500"
+      }
+    },
+    {
+      "number": "30",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "lewis-evans",
+        "url": "http://en.wikipedia.org/wiki/Stuart_Lewis-Evans",
+        "givenName": "Stuart",
+        "familyName": "Lewis-Evans",
+        "dateOfBirth": "1930-04-20",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "vanwall",
+        "url": "https://en.wikipedia.org/wiki/Vanwall",
+        "name": "Vanwall",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "17",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "8",
+      "position": "6",
+      "positionText": "6",
+      "points": "0",
+      "Driver": {
+        "driverId": "scarlatti",
+        "url": "http://en.wikipedia.org/wiki/Giorgio_Scarlatti",
+        "givenName": "Giorgio",
+        "familyName": "Scarlatti",
+        "dateOfBirth": "1921-10-02",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "10",
+      "laps": "17",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "24",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "15",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "34",
+      "position": "8",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "musso",
+        "url": "http://en.wikipedia.org/wiki/Luigi_Musso",
+        "givenName": "Luigi",
+        "familyName": "Musso",
+        "dateOfBirth": "1924-07-28",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "3",
+      "laps": "9",
+      "status": "Oil leak"
+    },
+    {
+      "number": "10",
+      "position": "9",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "godia",
+        "url": "http://en.wikipedia.org/wiki/Paco_Godia",
+        "givenName": "Paco",
+        "familyName": "Godia",
+        "dateOfBirth": "1921-03-21",
+        "nationality": "Spanish"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "12",
+      "laps": "9",
+      "status": "Engine"
+    },
+    {
+      "number": "20",
+      "position": "10",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "halford",
+        "url": "http://en.wikipedia.org/wiki/Bruce_Halford",
+        "givenName": "Bruce",
+        "familyName": "Halford",
+        "dateOfBirth": "1931-05-18",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "14",
+      "laps": "9",
+      "status": "Transmission"
+    },
+    {
+      "number": "16",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonnier",
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "givenName": "Jo",
+        "familyName": "Bonnier",
+        "dateOfBirth": "1930-01-31",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "9",
+      "laps": "7",
+      "status": "Overheating"
+    },
+    {
+      "number": "4",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "behra",
+        "url": "http://en.wikipedia.org/wiki/Jean_Behra",
+        "givenName": "Jean",
+        "familyName": "Behra",
+        "dateOfBirth": "1921-02-16",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "4",
+      "laps": "3",
+      "status": "Oil leak"
+    },
+    {
+      "number": "22",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "salvadori",
+        "url": "http://en.wikipedia.org/wiki/Roy_Salvadori",
+        "givenName": "Roy",
+        "familyName": "Salvadori",
+        "dateOfBirth": "1922-05-12",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "3",
+      "status": "Accident"
+    },
+    {
+      "number": "28",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "brooks",
+        "url": "http://en.wikipedia.org/wiki/Tony_Brooks",
+        "givenName": "Tony",
+        "familyName": "Brooks",
+        "dateOfBirth": "1932-02-25",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "vanwall",
+        "url": "https://en.wikipedia.org/wiki/Vanwall",
+        "name": "Vanwall",
+        "nationality": "British"
+      },
+      "grid": "6",
+      "laps": "1",
+      "status": "Engine"
+    },
+    {
+      "number": "18",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gould",
+        "url": "http://en.wikipedia.org/wiki/Horace_Gould",
+        "givenName": "Horace",
+        "familyName": "Gould",
+        "dateOfBirth": "1918-09-20",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "11",
+      "laps": "0",
+      "status": "Accident"
+    },
+    {
+      "number": "12",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "piotti",
+        "url": "http://en.wikipedia.org/wiki/Luigi_Piotti",
+        "givenName": "Luigi",
+        "familyName": "Piotti",
+        "dateOfBirth": "1913-10-27",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "13",
+      "laps": "0",
+      "status": "Engine"
+    }
+  ]
+}

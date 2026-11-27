@@ -1,0 +1,169 @@
+{
+  "season": "1962",
+  "total_rounds": 9,
+  "updated_at": "2026-11-27T05:37:04.523712Z",
+  "races": [
+    {
+      "season": "1962",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1962_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1962-05-20"
+    },
+    {
+      "season": "1962",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1962_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1962-06-03"
+    },
+    {
+      "season": "1962",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1962_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "lat": "50.4372",
+          "long": "5.97139",
+          "locality": "Spa",
+          "country": "Belgium"
+        }
+      },
+      "date": "1962-06-17"
+    },
+    {
+      "season": "1962",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1962_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "essarts",
+        "url": "https://en.wikipedia.org/wiki/Rouen-Les-Essarts",
+        "circuitName": "Rouen-Les-Essarts",
+        "Location": {
+          "lat": "49.3306",
+          "long": "1.00458",
+          "locality": "Rouen",
+          "country": "France"
+        }
+      },
+      "date": "1962-07-08"
+    },
+    {
+      "season": "1962",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1962_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "aintree",
+        "url": "https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit",
+        "circuitName": "Aintree",
+        "Location": {
+          "lat": "53.4769",
+          "long": "-2.94056",
+          "locality": "Liverpool",
+          "country": "UK"
+        }
+      },
+      "date": "1962-07-21"
+    },
+    {
+      "season": "1962",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1962_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "1962-08-05"
+    },
+    {
+      "season": "1962",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1962_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1962-09-16"
+    },
+    {
+      "season": "1962",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1962_United_States_Grand_Prix",
+      "raceName": "United States Grand Prix",
+      "Circuit": {
+        "circuitId": "watkins_glen",
+        "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+        "circuitName": "Watkins Glen",
+        "Location": {
+          "lat": "42.3369",
+          "long": "-76.9272",
+          "locality": "New York State",
+          "country": "USA"
+        }
+      },
+      "date": "1962-10-07"
+    },
+    {
+      "season": "1962",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1962_South_African_Grand_Prix",
+      "raceName": "South African Grand Prix",
+      "Circuit": {
+        "circuitId": "george",
+        "url": "https://en.wikipedia.org/wiki/Prince_George_Circuit",
+        "circuitName": "Prince George Circuit",
+        "Location": {
+          "lat": "-33.0486",
+          "long": "27.8736",
+          "locality": "Eastern Cape Province",
+          "country": "South Africa"
+        }
+      },
+      "date": "1962-12-29"
+    }
+  ]
+}

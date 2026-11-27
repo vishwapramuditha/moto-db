@@ -1,0 +1,295 @@
+{
+  "season": "1984",
+  "total_rounds": 16,
+  "updated_at": "2026-11-27T05:52:13.855993Z",
+  "races": [
+    {
+      "season": "1984",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1984_Brazilian_Grand_Prix",
+      "raceName": "Brazilian Grand Prix",
+      "Circuit": {
+        "circuitId": "jacarepagua",
+        "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
+        "circuitName": "Autódromo Internacional Nelson Piquet",
+        "Location": {
+          "lat": "-22.9756",
+          "long": "-43.395",
+          "locality": "Rio de Janeiro",
+          "country": "Brazil"
+        }
+      },
+      "date": "1984-03-25"
+    },
+    {
+      "season": "1984",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1984_South_African_Grand_Prix",
+      "raceName": "South African Grand Prix",
+      "Circuit": {
+        "circuitId": "kyalami",
+        "url": "https://en.wikipedia.org/wiki/Kyalami",
+        "circuitName": "Kyalami",
+        "Location": {
+          "lat": "-25.9894",
+          "long": "28.0767",
+          "locality": "Midrand",
+          "country": "South Africa"
+        }
+      },
+      "date": "1984-04-07"
+    },
+    {
+      "season": "1984",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1984_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "zolder",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "circuitName": "Zolder",
+        "Location": {
+          "lat": "50.9894",
+          "long": "5.25694",
+          "locality": "Heusden-Zolder",
+          "country": "Belgium"
+        }
+      },
+      "date": "1984-04-29"
+    },
+    {
+      "season": "1984",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1984_San_Marino_Grand_Prix",
+      "raceName": "San Marino Grand Prix",
+      "Circuit": {
+        "circuitId": "imola",
+        "url": "https://en.wikipedia.org/wiki/Imola_Circuit",
+        "circuitName": "Autodromo Enzo e Dino Ferrari",
+        "Location": {
+          "lat": "44.3439",
+          "long": "11.7167",
+          "locality": "Imola",
+          "country": "Italy"
+        }
+      },
+      "date": "1984-05-06"
+    },
+    {
+      "season": "1984",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1984_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "dijon",
+        "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
+        "circuitName": "Dijon-Prenois",
+        "Location": {
+          "lat": "47.3625",
+          "long": "4.89913",
+          "locality": "Dijon",
+          "country": "France"
+        }
+      },
+      "date": "1984-05-20"
+    },
+    {
+      "season": "1984",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1984_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1984-06-03"
+    },
+    {
+      "season": "1984",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1984_Canadian_Grand_Prix",
+      "raceName": "Canadian Grand Prix",
+      "Circuit": {
+        "circuitId": "villeneuve",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+        "circuitName": "Circuit Gilles Villeneuve",
+        "Location": {
+          "lat": "45.5",
+          "long": "-73.5228",
+          "locality": "Montreal",
+          "country": "Canada"
+        }
+      },
+      "date": "1984-06-17"
+    },
+    {
+      "season": "1984",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1984_Detroit_Grand_Prix",
+      "raceName": "Detroit Grand Prix",
+      "Circuit": {
+        "circuitId": "detroit",
+        "url": "https://en.wikipedia.org/wiki/Detroit_street_circuit",
+        "circuitName": "Detroit Street Circuit",
+        "Location": {
+          "lat": "42.3298",
+          "long": "-83.0401",
+          "locality": "Detroit",
+          "country": "USA"
+        }
+      },
+      "date": "1984-06-24"
+    },
+    {
+      "season": "1984",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1984_Dallas_Grand_Prix",
+      "raceName": "Dallas Grand Prix",
+      "Circuit": {
+        "circuitId": "dallas",
+        "url": "https://en.wikipedia.org/wiki/Fair_Park",
+        "circuitName": "Fair Park",
+        "Location": {
+          "lat": "32.7774",
+          "long": "-96.7587",
+          "locality": "Dallas",
+          "country": "USA"
+        }
+      },
+      "date": "1984-07-08"
+    },
+    {
+      "season": "1984",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/1984_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "brands_hatch",
+        "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
+        "circuitName": "Brands Hatch",
+        "Location": {
+          "lat": "51.3569",
+          "long": "0.263056",
+          "locality": "Kent",
+          "country": "UK"
+        }
+      },
+      "date": "1984-07-22"
+    },
+    {
+      "season": "1984",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/1984_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "hockenheimring",
+        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "circuitName": "Hockenheimring",
+        "Location": {
+          "lat": "49.3278",
+          "long": "8.56583",
+          "locality": "Hockenheim",
+          "country": "Germany"
+        }
+      },
+      "date": "1984-08-05"
+    },
+    {
+      "season": "1984",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/1984_Austrian_Grand_Prix",
+      "raceName": "Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "lat": "47.2197",
+          "long": "14.7647",
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "date": "1984-08-19"
+    },
+    {
+      "season": "1984",
+      "round": "13",
+      "url": "https://en.wikipedia.org/wiki/1984_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1984-08-26"
+    },
+    {
+      "season": "1984",
+      "round": "14",
+      "url": "https://en.wikipedia.org/wiki/1984_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1984-09-09"
+    },
+    {
+      "season": "1984",
+      "round": "15",
+      "url": "https://en.wikipedia.org/wiki/1984_European_Grand_Prix",
+      "raceName": "European Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "1984-10-07"
+    },
+    {
+      "season": "1984",
+      "round": "16",
+      "url": "https://en.wikipedia.org/wiki/1984_Portuguese_Grand_Prix",
+      "raceName": "Portuguese Grand Prix",
+      "Circuit": {
+        "circuitId": "estoril",
+        "url": "https://en.wikipedia.org/wiki/Circuito_do_Estoril",
+        "circuitName": "Autódromo do Estoril",
+        "Location": {
+          "lat": "38.7506",
+          "long": "-9.39417",
+          "locality": "Estoril",
+          "country": "Portugal"
+        }
+      },
+      "date": "1984-10-21"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "season": "1957",
+  "total_rounds": 8,
+  "updated_at": "2026-11-27T05:34:48.148519Z",
+  "races": [
+    {
+      "season": "1957",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix",
+      "raceName": "Argentine Grand Prix",
+      "Circuit": {
+        "circuitId": "galvez",
+        "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+        "circuitName": "Autódromo Juan y Oscar Gálvez",
+        "Location": {
+          "lat": "-34.6943",
+          "long": "-58.4593",
+          "locality": "Buenos Aires",
+          "country": "Argentina"
+        }
+      },
+      "date": "1957-01-13"
+    },
+    {
+      "season": "1957",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1957-05-19"
+    },
+    {
+      "season": "1957",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1957_Indianapolis_500",
+      "raceName": "Indianapolis 500",
+      "Circuit": {
+        "circuitId": "indianapolis",
+        "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+        "circuitName": "Indianapolis Motor Speedway",
+        "Location": {
+          "lat": "39.795",
+          "long": "-86.2347",
+          "locality": "Indianapolis",
+          "country": "USA"
+        }
+      },
+      "date": "1957-05-30"
+    },
+    {
+      "season": "1957",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1957_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "essarts",
+        "url": "https://en.wikipedia.org/wiki/Rouen-Les-Essarts",
+        "circuitName": "Rouen-Les-Essarts",
+        "Location": {
+          "lat": "49.3306",
+          "long": "1.00458",
+          "locality": "Rouen",
+          "country": "France"
+        }
+      },
+      "date": "1957-07-07"
+    },
+    {
+      "season": "1957",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1957_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "aintree",
+        "url": "https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit",
+        "circuitName": "Aintree",
+        "Location": {
+          "lat": "53.4769",
+          "long": "-2.94056",
+          "locality": "Liverpool",
+          "country": "UK"
+        }
+      },
+      "date": "1957-07-20"
+    },
+    {
+      "season": "1957",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1957_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "1957-08-04"
+    },
+    {
+      "season": "1957",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1957_Pescara_Grand_Prix",
+      "raceName": "Pescara Grand Prix",
+      "Circuit": {
+        "circuitId": "pescara",
+        "url": "https://en.wikipedia.org/wiki/Pescara_Circuit",
+        "circuitName": "Pescara Circuit",
+        "Location": {
+          "lat": "42.475",
+          "long": "14.1508",
+          "locality": "Pescara",
+          "country": "Italy"
+        }
+      },
+      "date": "1957-08-18"
+    },
+    {
+      "season": "1957",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1957_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1957-09-08"
+    }
+  ]
+}

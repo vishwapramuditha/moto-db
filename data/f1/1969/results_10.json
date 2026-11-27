@@ -1,0 +1,443 @@
+{
+  "season": "1969",
+  "round": "10",
+  "raceName": "United States Grand Prix",
+  "circuit": {
+    "circuitId": "watkins_glen",
+    "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+    "circuitName": "Watkins Glen",
+    "Location": {
+      "lat": "42.3369",
+      "long": "-76.9272",
+      "locality": "New York State",
+      "country": "USA"
+    }
+  },
+  "date": "1969-10-05",
+  "time": null,
+  "updated_at": "2026-11-27T05:41:14.713309Z",
+  "results": [
+    {
+      "number": "2",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "rindt",
+        "url": "http://en.wikipedia.org/wiki/Jochen_Rindt",
+        "givenName": "Jochen",
+        "familyName": "Rindt",
+        "dateOfBirth": "1942-04-18",
+        "nationality": "Austrian"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "108",
+      "status": "Finished",
+      "Time": {
+        "millis": "7076840",
+        "time": "1:57:56.840"
+      }
+    },
+    {
+      "number": "18",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "courage",
+        "url": "http://en.wikipedia.org/wiki/Piers_Courage",
+        "givenName": "Piers",
+        "familyName": "Courage",
+        "dateOfBirth": "1942-05-27",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brabham-ford",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Ford",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "108",
+      "status": "Finished",
+      "Time": {
+        "millis": "7123830",
+        "time": "+46.990"
+      }
+    },
+    {
+      "number": "14",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "surtees",
+        "url": "http://en.wikipedia.org/wiki/John_Surtees",
+        "givenName": "John",
+        "familyName": "Surtees",
+        "dateOfBirth": "1934-02-11",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "106",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "8",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "brabham-ford",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Ford",
+        "nationality": "British"
+      },
+      "grid": "18",
+      "laps": "106",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "12",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "rodriguez",
+        "url": "http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)",
+        "givenName": "Pedro",
+        "familyName": "Rodríguez",
+        "dateOfBirth": "1940-01-18",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "12",
+      "laps": "101",
+      "status": "+7 Laps"
+    },
+    {
+      "number": "19",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "moser",
+        "url": "http://en.wikipedia.org/wiki/Silvio_Moser",
+        "givenName": "Silvio",
+        "familyName": "Moser",
+        "dateOfBirth": "1941-04-24",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "brabham-ford",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Ford",
+        "nationality": "British"
+      },
+      "grid": "17",
+      "laps": "98",
+      "status": "+10 Laps"
+    },
+    {
+      "number": "16",
+      "position": "7",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gavin",
+        "url": "http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin",
+        "givenName": "Johnny",
+        "familyName": "Servoz-Gavin",
+        "dateOfBirth": "1942-01-18",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "matra-ford",
+        "url": "https://en.wikipedia.org/wiki/Matra",
+        "name": "Matra-Ford",
+        "nationality": "French"
+      },
+      "grid": "15",
+      "laps": "92",
+      "status": "Not classified"
+    },
+    {
+      "number": "1",
+      "position": "8",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hill",
+        "url": "http://en.wikipedia.org/wiki/Graham_Hill",
+        "givenName": "Graham",
+        "familyName": "Hill",
+        "dateOfBirth": "1929-02-15",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "4",
+      "laps": "90",
+      "status": "Accident"
+    },
+    {
+      "number": "7",
+      "position": "9",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ickx",
+        "url": "http://en.wikipedia.org/wiki/Jacky_Ickx",
+        "givenName": "Jacky",
+        "familyName": "Ickx",
+        "dateOfBirth": "1945-01-01",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "brabham-ford",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Ford",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "77",
+      "status": "Engine"
+    },
+    {
+      "number": "22",
+      "position": "10",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "eaton",
+        "url": "http://en.wikipedia.org/wiki/George_Eaton",
+        "givenName": "George",
+        "familyName": "Eaton",
+        "dateOfBirth": "1945-11-12",
+        "nationality": "Canadian"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "76",
+      "status": "Engine"
+    },
+    {
+      "number": "4",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "beltoise",
+        "url": "http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise",
+        "givenName": "Jean-Pierre",
+        "familyName": "Beltoise",
+        "dateOfBirth": "1937-04-26",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "matra-ford",
+        "url": "https://en.wikipedia.org/wiki/Matra",
+        "name": "Matra-Ford",
+        "nationality": "French"
+      },
+      "grid": "7",
+      "laps": "72",
+      "status": "Engine"
+    },
+    {
+      "number": "5",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hulme",
+        "url": "http://en.wikipedia.org/wiki/Denny_Hulme",
+        "givenName": "Denny",
+        "familyName": "Hulme",
+        "dateOfBirth": "1936-06-18",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "mclaren-ford",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren-Ford",
+        "nationality": "British"
+      },
+      "grid": "2",
+      "laps": "52",
+      "status": "Gearbox"
+    },
+    {
+      "number": "3",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "stewart",
+        "url": "http://en.wikipedia.org/wiki/Jackie_Stewart",
+        "givenName": "Jackie",
+        "familyName": "Stewart",
+        "dateOfBirth": "1939-06-11",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "matra-ford",
+        "url": "https://en.wikipedia.org/wiki/Matra",
+        "name": "Matra-Ford",
+        "nationality": "French"
+      },
+      "grid": "3",
+      "laps": "35",
+      "status": "Engine"
+    },
+    {
+      "number": "21",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "lovely",
+        "url": "http://en.wikipedia.org/wiki/Pete_Lovely",
+        "givenName": "Pete",
+        "familyName": "Lovely",
+        "dateOfBirth": "1926-04-11",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "25",
+      "status": "Halfshaft"
+    },
+    {
+      "number": "15",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "oliver",
+        "url": "http://en.wikipedia.org/wiki/Jackie_Oliver",
+        "givenName": "Jackie",
+        "familyName": "Oliver",
+        "dateOfBirth": "1942-08-14",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "23",
+      "status": "Engine"
+    },
+    {
+      "number": "10",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "siffert",
+        "url": "http://en.wikipedia.org/wiki/Jo_Siffert",
+        "givenName": "Jo",
+        "familyName": "Siffert",
+        "dateOfBirth": "1936-07-07",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "3",
+      "status": "Fuel system"
+    },
+    {
+      "number": "9",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "mario_andretti",
+        "url": "http://en.wikipedia.org/wiki/Mario_Andretti",
+        "givenName": "Mario",
+        "familyName": "Andretti",
+        "dateOfBirth": "1940-02-28",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "5",
+      "laps": "3",
+      "status": "Suspension"
+    },
+    {
+      "number": "6",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "mclaren",
+        "url": "http://en.wikipedia.org/wiki/Bruce_McLaren",
+        "givenName": "Bruce",
+        "familyName": "McLaren",
+        "dateOfBirth": "1937-08-30",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "mclaren-ford",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren-Ford",
+        "nationality": "British"
+      },
+      "grid": "6",
+      "laps": "0",
+      "status": "Engine"
+    }
+  ]
+}

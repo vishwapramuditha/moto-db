@@ -1,0 +1,570 @@
+{
+  "season": "1960",
+  "round": "1",
+  "raceName": "Argentine Grand Prix",
+  "circuit": {
+    "circuitId": "galvez",
+    "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+    "circuitName": "Autódromo Juan y Oscar Gálvez",
+    "Location": {
+      "lat": "-34.6943",
+      "long": "-58.4593",
+      "locality": "Buenos Aires",
+      "country": "Argentina"
+    }
+  },
+  "date": "1960-02-07",
+  "time": null,
+  "updated_at": "2026-11-27T05:36:06.016968Z",
+  "results": [
+    {
+      "number": "16",
+      "position": "1",
+      "positionText": "1",
+      "points": "8",
+      "Driver": {
+        "driverId": "mclaren",
+        "url": "http://en.wikipedia.org/wiki/Bruce_McLaren",
+        "givenName": "Bruce",
+        "familyName": "McLaren",
+        "dateOfBirth": "1937-08-30",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "8269500",
+        "time": "2:17:49.500"
+      }
+    },
+    {
+      "number": "24",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "allison",
+        "url": "http://en.wikipedia.org/wiki/Cliff_Allison",
+        "givenName": "Cliff",
+        "familyName": "Allison",
+        "dateOfBirth": "1932-02-08",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "7",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "8295799",
+        "time": "+26.300"
+      }
+    },
+    {
+      "number": "38",
+      "position": "3",
+      "positionText": "3",
+      "points": "0",
+      "Driver": {
+        "driverId": "moss",
+        "url": "http://en.wikipedia.org/wiki/Stirling_Moss",
+        "givenName": "Stirling",
+        "familyName": "Moss",
+        "dateOfBirth": "1929-09-17",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "8306400",
+        "time": "+36.900"
+      }
+    },
+    {
+      "number": "38",
+      "position": "3",
+      "positionText": "3",
+      "points": "0",
+      "Driver": {
+        "driverId": "trintignant",
+        "url": "http://en.wikipedia.org/wiki/Maurice_Trintignant",
+        "givenName": "Maurice",
+        "familyName": "Trintignant",
+        "dateOfBirth": "1917-10-30",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "8306400",
+        "time": "+36.900"
+      }
+    },
+    {
+      "number": "6",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "menditeguy",
+        "url": "http://en.wikipedia.org/wiki/Carlos_Menditeguy",
+        "givenName": "Carlos",
+        "familyName": "Menditeguy",
+        "dateOfBirth": "1914-08-10",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "8322799",
+        "time": "+53.300"
+      }
+    },
+    {
+      "number": "30",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "trips",
+        "url": "http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips",
+        "givenName": "Wolfgang",
+        "familyName": "von Trips",
+        "dateOfBirth": "1928-05-04",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "5",
+      "laps": "79",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "20",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "ireland",
+        "url": "http://en.wikipedia.org/wiki/Innes_Ireland",
+        "givenName": "Innes",
+        "familyName": "Ireland",
+        "dateOfBirth": "1930-06-12",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "2",
+      "laps": "79",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "40",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonnier",
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "givenName": "Jo",
+        "familyName": "Bonnier",
+        "dateOfBirth": "1930-01-31",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "4",
+      "laps": "79",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "26",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "phil_hill",
+        "url": "http://en.wikipedia.org/wiki/Phil_Hill",
+        "givenName": "Phil",
+        "familyName": "Hill",
+        "dateOfBirth": "1927-04-20",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "77",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "46",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "larreta",
+        "url": "http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta",
+        "givenName": "Alberto Rodriguez",
+        "familyName": "Larreta",
+        "dateOfBirth": "1934-01-14",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "77",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "32",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "gonzalez",
+        "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez",
+        "givenName": "José Froilán",
+        "familyName": "González",
+        "dateOfBirth": "1922-10-05",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "11",
+      "laps": "77",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "4",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonomi",
+        "url": "http://en.wikipedia.org/wiki/Roberto_Bonomi",
+        "givenName": "Roberto",
+        "familyName": "Bonomi",
+        "dateOfBirth": "1919-09-30",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "17",
+      "laps": "76",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "2",
+      "position": "12",
+      "positionText": "12",
+      "points": "0",
+      "Driver": {
+        "driverId": "gregory",
+        "url": "http://en.wikipedia.org/wiki/Masten_Gregory",
+        "givenName": "Masten",
+        "familyName": "Gregory",
+        "dateOfBirth": "1932-02-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "behra-porsche",
+        "url": "https://en.wikipedia.org/wiki/Behra-Porsche",
+        "name": "Behra-Porsche",
+        "nationality": "Italian"
+      },
+      "grid": "16",
+      "laps": "76",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "14",
+      "position": "13",
+      "positionText": "13",
+      "points": "0",
+      "Driver": {
+        "driverId": "munaron",
+        "url": "http://en.wikipedia.org/wiki/Gino_Munaron",
+        "givenName": "Gino",
+        "familyName": "Munaron",
+        "dateOfBirth": "1928-04-02",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "19",
+      "laps": "72",
+      "status": "+8 Laps"
+    },
+    {
+      "number": "10",
+      "position": "14",
+      "positionText": "14",
+      "points": "0",
+      "Driver": {
+        "driverId": "estefano",
+        "url": "http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano",
+        "givenName": "Nasif",
+        "familyName": "Estéfano",
+        "dateOfBirth": "1932-11-18",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "20",
+      "laps": "70",
+      "status": "+10 Laps"
+    },
+    {
+      "number": "34",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "schell",
+        "url": "http://en.wikipedia.org/wiki/Harry_Schell",
+        "givenName": "Harry",
+        "familyName": "Schell",
+        "dateOfBirth": "1921-06-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "63",
+      "status": "Fuel pump"
+    },
+    {
+      "number": "18",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "10",
+      "laps": "42",
+      "status": "Gearbox"
+    },
+    {
+      "number": "36",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "moss",
+        "url": "http://en.wikipedia.org/wiki/Stirling_Moss",
+        "givenName": "Stirling",
+        "familyName": "Moss",
+        "dateOfBirth": "1929-09-17",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "40",
+      "status": "Suspension"
+    },
+    {
+      "number": "42",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hill",
+        "url": "http://en.wikipedia.org/wiki/Graham_Hill",
+        "givenName": "Graham",
+        "familyName": "Hill",
+        "dateOfBirth": "1929-02-15",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "3",
+      "laps": "37",
+      "status": "Overheating"
+    },
+    {
+      "number": "22",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "stacey",
+        "url": "http://en.wikipedia.org/wiki/Alan_Stacey",
+        "givenName": "Alan",
+        "familyName": "Stacey",
+        "dateOfBirth": "1933-08-29",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "24",
+      "status": "Physical"
+    },
+    {
+      "number": "44",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "chimeri",
+        "url": "http://en.wikipedia.org/wiki/Ettore_Chimeri",
+        "givenName": "Ettore",
+        "familyName": "Chimeri",
+        "dateOfBirth": "1921-06-04",
+        "nationality": "Venezuelan"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "21",
+      "laps": "23",
+      "status": "Physical"
+    },
+    {
+      "number": "12",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "creus",
+        "url": "http://en.wikipedia.org/wiki/Antonio_Creus",
+        "givenName": "Antonio",
+        "familyName": "Creus",
+        "dateOfBirth": "1924-10-28",
+        "nationality": "Spanish"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "22",
+      "laps": "16",
+      "status": "Physical"
+    },
+    {
+      "number": "8",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "scarlatti",
+        "url": "http://en.wikipedia.org/wiki/Giorgio_Scarlatti",
+        "givenName": "Giorgio",
+        "familyName": "Scarlatti",
+        "dateOfBirth": "1921-10-02",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "18",
+      "laps": "11",
+      "status": "Overheating"
+    }
+  ]
+}

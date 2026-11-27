@@ -1,0 +1,241 @@
+{
+  "season": "1970",
+  "total_rounds": 13,
+  "updated_at": "2026-11-27T05:41:17.581900Z",
+  "races": [
+    {
+      "season": "1970",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1970_South_African_Grand_Prix",
+      "raceName": "South African Grand Prix",
+      "Circuit": {
+        "circuitId": "kyalami",
+        "url": "https://en.wikipedia.org/wiki/Kyalami",
+        "circuitName": "Kyalami",
+        "Location": {
+          "lat": "-25.9894",
+          "long": "28.0767",
+          "locality": "Midrand",
+          "country": "South Africa"
+        }
+      },
+      "date": "1970-03-07"
+    },
+    {
+      "season": "1970",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1970_Spanish_Grand_Prix",
+      "raceName": "Spanish Grand Prix",
+      "Circuit": {
+        "circuitId": "jarama",
+        "url": "https://en.wikipedia.org/wiki/Circuito_del_Jarama",
+        "circuitName": "Jarama",
+        "Location": {
+          "lat": "40.6171",
+          "long": "-3.58558",
+          "locality": "Madrid",
+          "country": "Spain"
+        }
+      },
+      "date": "1970-04-19"
+    },
+    {
+      "season": "1970",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1970_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1970-05-10"
+    },
+    {
+      "season": "1970",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1970_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "lat": "50.4372",
+          "long": "5.97139",
+          "locality": "Spa",
+          "country": "Belgium"
+        }
+      },
+      "date": "1970-06-07"
+    },
+    {
+      "season": "1970",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1970_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1970-06-21"
+    },
+    {
+      "season": "1970",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1970_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "charade",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Charade",
+        "circuitName": "Charade Circuit",
+        "Location": {
+          "lat": "45.7472",
+          "long": "3.03889",
+          "locality": "Clermont-Ferrand",
+          "country": "France"
+        }
+      },
+      "date": "1970-07-05"
+    },
+    {
+      "season": "1970",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1970_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "brands_hatch",
+        "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
+        "circuitName": "Brands Hatch",
+        "Location": {
+          "lat": "51.3569",
+          "long": "0.263056",
+          "locality": "Kent",
+          "country": "UK"
+        }
+      },
+      "date": "1970-07-18"
+    },
+    {
+      "season": "1970",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1970_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "hockenheimring",
+        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "circuitName": "Hockenheimring",
+        "Location": {
+          "lat": "49.3278",
+          "long": "8.56583",
+          "locality": "Hockenheim",
+          "country": "Germany"
+        }
+      },
+      "date": "1970-08-02"
+    },
+    {
+      "season": "1970",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1970_Austrian_Grand_Prix",
+      "raceName": "Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "lat": "47.2197",
+          "long": "14.7647",
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "date": "1970-08-16"
+    },
+    {
+      "season": "1970",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/1970_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1970-09-06"
+    },
+    {
+      "season": "1970",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/1970_Canadian_Grand_Prix",
+      "raceName": "Canadian Grand Prix",
+      "Circuit": {
+        "circuitId": "tremblant",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Mont-Tremblant",
+        "circuitName": "Circuit Mont-Tremblant",
+        "Location": {
+          "lat": "46.1877",
+          "long": "-74.6099",
+          "locality": "Quebec",
+          "country": "Canada"
+        }
+      },
+      "date": "1970-09-20"
+    },
+    {
+      "season": "1970",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/1970_United_States_Grand_Prix",
+      "raceName": "United States Grand Prix",
+      "Circuit": {
+        "circuitId": "watkins_glen",
+        "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+        "circuitName": "Watkins Glen",
+        "Location": {
+          "lat": "42.3369",
+          "long": "-76.9272",
+          "locality": "New York State",
+          "country": "USA"
+        }
+      },
+      "date": "1970-10-04"
+    },
+    {
+      "season": "1970",
+      "round": "13",
+      "url": "https://en.wikipedia.org/wiki/1970_Mexican_Grand_Prix",
+      "raceName": "Mexican Grand Prix",
+      "Circuit": {
+        "circuitId": "rodriguez",
+        "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
+        "circuitName": "Autódromo Hermanos Rodríguez",
+        "Location": {
+          "lat": "19.4042",
+          "long": "-99.0907",
+          "locality": "Mexico City",
+          "country": "Mexico"
+        }
+      },
+      "date": "1970-10-25"
+    }
+  ]
+}

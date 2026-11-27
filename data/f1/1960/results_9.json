@@ -1,0 +1,420 @@
+{
+  "season": "1960",
+  "round": "9",
+  "raceName": "Italian Grand Prix",
+  "circuit": {
+    "circuitId": "monza",
+    "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+    "circuitName": "Autodromo Nazionale di Monza",
+    "Location": {
+      "lat": "45.6156",
+      "long": "9.28111",
+      "locality": "Monza",
+      "country": "Italy"
+    }
+  },
+  "date": "1960-09-04",
+  "time": null,
+  "updated_at": "2026-11-27T05:36:48.261242Z",
+  "results": [
+    {
+      "number": "20",
+      "position": "1",
+      "positionText": "1",
+      "points": "8",
+      "Driver": {
+        "driverId": "phil_hill",
+        "url": "http://en.wikipedia.org/wiki/Phil_Hill",
+        "givenName": "Phil",
+        "familyName": "Hill",
+        "dateOfBirth": "1927-04-20",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "1",
+      "laps": "50",
+      "status": "Finished",
+      "Time": {
+        "millis": "8469200",
+        "time": "2:21:09.200"
+      }
+    },
+    {
+      "number": "18",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "ginther",
+        "url": "http://en.wikipedia.org/wiki/Richie_Ginther",
+        "givenName": "Richie",
+        "familyName": "Ginther",
+        "dateOfBirth": "1930-08-05",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "50",
+      "status": "Finished",
+      "Time": {
+        "millis": "8616800",
+        "time": "+2:27.600"
+      }
+    },
+    {
+      "number": "16",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "mairesse",
+        "url": "http://en.wikipedia.org/wiki/Willy_Mairesse",
+        "givenName": "Willy",
+        "familyName": "Mairesse",
+        "dateOfBirth": "1928-10-01",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "3",
+      "laps": "49",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "2",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "cabianca",
+        "url": "http://en.wikipedia.org/wiki/Giulio_Cabianca",
+        "givenName": "Giulio",
+        "familyName": "Cabianca",
+        "dateOfBirth": "1923-02-19",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-castellotti",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Castellotti",
+        "nationality": "British"
+      },
+      "grid": "4",
+      "laps": "48",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "22",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "trips",
+        "url": "http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips",
+        "givenName": "Wolfgang",
+        "familyName": "von Trips",
+        "dateOfBirth": "1928-05-04",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "48",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "26",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "herrmann",
+        "url": "http://en.wikipedia.org/wiki/Hans_Herrmann",
+        "givenName": "Hans",
+        "familyName": "Herrmann",
+        "dateOfBirth": "1928-02-23",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "porsche",
+        "url": "https://en.wikipedia.org/wiki/Porsche_in_motorsport",
+        "name": "Porsche",
+        "nationality": "German"
+      },
+      "grid": "10",
+      "laps": "47",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "24",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "barth",
+        "url": "http://en.wikipedia.org/wiki/Edgar_Barth",
+        "givenName": "Edgar",
+        "familyName": "Barth",
+        "dateOfBirth": "1917-01-26",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "porsche",
+        "url": "https://en.wikipedia.org/wiki/Porsche_in_motorsport",
+        "name": "Porsche",
+        "nationality": "German"
+      },
+      "grid": "12",
+      "laps": "47",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "12",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "drogo",
+        "url": "http://en.wikipedia.org/wiki/Piero_Drogo",
+        "givenName": "Piero",
+        "familyName": "Drogo",
+        "dateOfBirth": "1926-08-08",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "45",
+      "status": "+5 Laps"
+    },
+    {
+      "number": "10",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "seidel",
+        "url": "http://en.wikipedia.org/wiki/Wolfgang_Seidel",
+        "givenName": "Wolfgang",
+        "familyName": "Seidel",
+        "dateOfBirth": "1926-07-04",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "44",
+      "status": "+6 Laps"
+    },
+    {
+      "number": "28",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "gamble",
+        "url": "http://en.wikipedia.org/wiki/Fred_Gamble_(racing_driver)",
+        "givenName": "Fred",
+        "familyName": "Gamble",
+        "dateOfBirth": "1932-03-17",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "behra-porsche",
+        "url": "https://en.wikipedia.org/wiki/Behra-Porsche",
+        "name": "Behra-Porsche",
+        "nationality": "Italian"
+      },
+      "grid": "14",
+      "laps": "41",
+      "status": "+9 Laps"
+    },
+    {
+      "number": "6",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "naylor",
+        "url": "http://en.wikipedia.org/wiki/Brian_Naylor",
+        "givenName": "Brian",
+        "familyName": "Naylor",
+        "dateOfBirth": "1923-03-24",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "jbw",
+        "url": "https://en.wikipedia.org/wiki/JBW",
+        "name": "JBW",
+        "nationality": "British"
+      },
+      "grid": "7",
+      "laps": "41",
+      "status": "Gearbox"
+    },
+    {
+      "number": "34",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "thiele",
+        "url": "http://en.wikipedia.org/wiki/Alfonso_Thiele",
+        "givenName": "Alfonso",
+        "familyName": "Thiele",
+        "dateOfBirth": "1920-04-05",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "32",
+      "status": "Gearbox"
+    },
+    {
+      "number": "4",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "munaron",
+        "url": "http://en.wikipedia.org/wiki/Gino_Munaron",
+        "givenName": "Gino",
+        "familyName": "Munaron",
+        "dateOfBirth": "1928-04-02",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-castellotti",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Castellotti",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "27",
+      "status": "Engine"
+    },
+    {
+      "number": "36",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "scarlatti",
+        "url": "http://en.wikipedia.org/wiki/Giorgio_Scarlatti",
+        "givenName": "Giorgio",
+        "familyName": "Scarlatti",
+        "dateOfBirth": "1921-10-02",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "5",
+      "laps": "26",
+      "status": "Engine"
+    },
+    {
+      "number": "30",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "vic_wilson",
+        "url": "http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver)",
+        "givenName": "Vic",
+        "familyName": "Wilson",
+        "dateOfBirth": "1931-04-14",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "23",
+      "status": "Engine"
+    },
+    {
+      "number": "8",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "owen",
+        "url": "http://en.wikipedia.org/wiki/Arthur_Owen",
+        "givenName": "Arthur",
+        "familyName": "Owen",
+        "dateOfBirth": "1915-03-23",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "0",
+      "status": "Accident"
+    },
+    {
+      "number": "14",
+      "position": "17",
+      "positionText": "W",
+      "points": "0",
+      "Driver": {
+        "driverId": "gould",
+        "url": "http://en.wikipedia.org/wiki/Horace_Gould",
+        "givenName": "Horace",
+        "familyName": "Gould",
+        "dateOfBirth": "1918-09-20",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "0",
+      "laps": "0",
+      "status": "Fuel system"
+    }
+  ]
+}

@@ -1,0 +1,827 @@
+{
+  "season": "2014",
+  "round": "9",
+  "raceName": "British Grand Prix",
+  "circuit": {
+    "circuitId": "silverstone",
+    "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+    "circuitName": "Silverstone Circuit",
+    "Location": {
+      "lat": "52.0786",
+      "long": "-1.01694",
+      "locality": "Silverstone",
+      "country": "UK"
+    }
+  },
+  "date": "2014-07-06",
+  "time": "12:00:00Z",
+  "updated_at": "2026-11-27T06:17:02.968788Z",
+  "results": [
+    {
+      "number": "44",
+      "position": "1",
+      "positionText": "1",
+      "points": "25",
+      "Driver": {
+        "driverId": "hamilton",
+        "permanentNumber": "44",
+        "code": "HAM",
+        "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+        "givenName": "Lewis",
+        "familyName": "Hamilton",
+        "dateOfBirth": "1985-01-07",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mercedes",
+        "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
+        "name": "Mercedes",
+        "nationality": "German"
+      },
+      "grid": "6",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8812094",
+        "time": "2:26:52.094"
+      },
+      "FastestLap": {
+        "rank": "1",
+        "lap": "26",
+        "Time": {
+          "time": "1:37.176"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "218.239"
+        }
+      }
+    },
+    {
+      "number": "77",
+      "position": "2",
+      "positionText": "2",
+      "points": "18",
+      "Driver": {
+        "driverId": "bottas",
+        "permanentNumber": "77",
+        "code": "BOT",
+        "url": "http://en.wikipedia.org/wiki/Valtteri_Bottas",
+        "givenName": "Valtteri",
+        "familyName": "Bottas",
+        "dateOfBirth": "1989-08-28",
+        "nationality": "Finnish"
+      },
+      "Constructor": {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8842229",
+        "time": "+30.135"
+      },
+      "FastestLap": {
+        "rank": "4",
+        "lap": "34",
+        "Time": {
+          "time": "1:38.264"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "215.822"
+        }
+      }
+    },
+    {
+      "number": "3",
+      "position": "3",
+      "positionText": "3",
+      "points": "15",
+      "Driver": {
+        "driverId": "ricciardo",
+        "permanentNumber": "3",
+        "code": "RIC",
+        "url": "http://en.wikipedia.org/wiki/Daniel_Ricciardo",
+        "givenName": "Daniel",
+        "familyName": "Ricciardo",
+        "dateOfBirth": "1989-07-01",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "red_bull",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
+        "name": "Red Bull",
+        "nationality": "Austrian"
+      },
+      "grid": "8",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8858589",
+        "time": "+46.495"
+      },
+      "FastestLap": {
+        "rank": "7",
+        "lap": "34",
+        "Time": {
+          "time": "1:38.459"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "215.395"
+        }
+      }
+    },
+    {
+      "number": "22",
+      "position": "4",
+      "positionText": "4",
+      "points": "12",
+      "Driver": {
+        "driverId": "button",
+        "permanentNumber": "22",
+        "code": "BUT",
+        "url": "http://en.wikipedia.org/wiki/Jenson_Button",
+        "givenName": "Jenson",
+        "familyName": "Button",
+        "dateOfBirth": "1980-01-19",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "3",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8859484",
+        "time": "+47.390"
+      },
+      "FastestLap": {
+        "rank": "5",
+        "lap": "52",
+        "Time": {
+          "time": "1:38.284"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "215.778"
+        }
+      }
+    },
+    {
+      "number": "1",
+      "position": "5",
+      "positionText": "5",
+      "points": "10",
+      "Driver": {
+        "driverId": "vettel",
+        "permanentNumber": "5",
+        "code": "VET",
+        "url": "http://en.wikipedia.org/wiki/Sebastian_Vettel",
+        "givenName": "Sebastian",
+        "familyName": "Vettel",
+        "dateOfBirth": "1987-07-03",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "red_bull",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
+        "name": "Red Bull",
+        "nationality": "Austrian"
+      },
+      "grid": "2",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8865958",
+        "time": "+53.864"
+      },
+      "FastestLap": {
+        "rank": "2",
+        "lap": "52",
+        "Time": {
+          "time": "1:37.481"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "217.556"
+        }
+      }
+    },
+    {
+      "number": "14",
+      "position": "6",
+      "positionText": "6",
+      "points": "8",
+      "Driver": {
+        "driverId": "alonso",
+        "permanentNumber": "14",
+        "code": "ALO",
+        "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+        "givenName": "Fernando",
+        "familyName": "Alonso",
+        "dateOfBirth": "1981-07-29",
+        "nationality": "Spanish"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "16",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8872040",
+        "time": "+59.946"
+      },
+      "FastestLap": {
+        "rank": "8",
+        "lap": "52",
+        "Time": {
+          "time": "1:38.587"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "215.115"
+        }
+      }
+    },
+    {
+      "number": "20",
+      "position": "7",
+      "positionText": "7",
+      "points": "6",
+      "Driver": {
+        "driverId": "kevin_magnussen",
+        "permanentNumber": "20",
+        "code": "MAG",
+        "url": "http://en.wikipedia.org/wiki/Kevin_Magnussen",
+        "givenName": "Kevin",
+        "familyName": "Magnussen",
+        "dateOfBirth": "1992-10-05",
+        "nationality": "Danish"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "5",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8874657",
+        "time": "+1:02.563"
+      },
+      "FastestLap": {
+        "rank": "10",
+        "lap": "32",
+        "Time": {
+          "time": "1:38.677"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "214.919"
+        }
+      }
+    },
+    {
+      "number": "27",
+      "position": "8",
+      "positionText": "8",
+      "points": "4",
+      "Driver": {
+        "driverId": "hulkenberg",
+        "permanentNumber": "27",
+        "code": "HUL",
+        "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
+        "givenName": "Nico",
+        "familyName": "Hülkenberg",
+        "dateOfBirth": "1987-08-19",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "force_india",
+        "url": "https://en.wikipedia.org/wiki/Racing_Point_Force_India",
+        "name": "Force India",
+        "nationality": "Indian"
+      },
+      "grid": "4",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8900786",
+        "time": "+1:28.692"
+      },
+      "FastestLap": {
+        "rank": "9",
+        "lap": "52",
+        "Time": {
+          "time": "1:38.625"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "215.032"
+        }
+      }
+    },
+    {
+      "number": "26",
+      "position": "9",
+      "positionText": "9",
+      "points": "2",
+      "Driver": {
+        "driverId": "kvyat",
+        "permanentNumber": "26",
+        "code": "KVY",
+        "url": "http://en.wikipedia.org/wiki/Daniil_Kvyat",
+        "givenName": "Daniil",
+        "familyName": "Kvyat",
+        "dateOfBirth": "1994-04-26",
+        "nationality": "Russian"
+      },
+      "Constructor": {
+        "constructorId": "toro_rosso",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso",
+        "name": "Toro Rosso",
+        "nationality": "Italian"
+      },
+      "grid": "9",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "8901434",
+        "time": "+1:29.340"
+      },
+      "FastestLap": {
+        "rank": "6",
+        "lap": "45",
+        "Time": {
+          "time": "1:38.407"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "215.509"
+        }
+      }
+    },
+    {
+      "number": "25",
+      "position": "10",
+      "positionText": "10",
+      "points": "1",
+      "Driver": {
+        "driverId": "vergne",
+        "permanentNumber": "25",
+        "code": "VER",
+        "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
+        "givenName": "Jean-Éric",
+        "familyName": "Vergne",
+        "dateOfBirth": "1990-04-25",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "toro_rosso",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso",
+        "name": "Toro Rosso",
+        "nationality": "Italian"
+      },
+      "grid": "10",
+      "laps": "51",
+      "status": "+1 Lap",
+      "FastestLap": {
+        "rank": "13",
+        "lap": "44",
+        "Time": {
+          "time": "1:39.261"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "213.654"
+        }
+      }
+    },
+    {
+      "number": "11",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "perez",
+        "permanentNumber": "11",
+        "code": "PER",
+        "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
+        "givenName": "Sergio",
+        "familyName": "Pérez",
+        "dateOfBirth": "1990-01-26",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "force_india",
+        "url": "https://en.wikipedia.org/wiki/Racing_Point_Force_India",
+        "name": "Force India",
+        "nationality": "Indian"
+      },
+      "grid": "7",
+      "laps": "51",
+      "status": "+1 Lap",
+      "FastestLap": {
+        "rank": "11",
+        "lap": "41",
+        "Time": {
+          "time": "1:38.716"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "214.834"
+        }
+      }
+    },
+    {
+      "number": "8",
+      "position": "12",
+      "positionText": "12",
+      "points": "0",
+      "Driver": {
+        "driverId": "grosjean",
+        "permanentNumber": "8",
+        "code": "GRO",
+        "url": "http://en.wikipedia.org/wiki/Romain_Grosjean",
+        "givenName": "Romain",
+        "familyName": "Grosjean",
+        "dateOfBirth": "1986-04-17",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lotus_f1",
+        "url": "https://en.wikipedia.org/wiki/Lotus_F1",
+        "name": "Lotus F1",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "51",
+      "status": "+1 Lap",
+      "FastestLap": {
+        "rank": "12",
+        "lap": "48",
+        "Time": {
+          "time": "1:38.919"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "214.393"
+        }
+      }
+    },
+    {
+      "number": "99",
+      "position": "13",
+      "positionText": "13",
+      "points": "0",
+      "Driver": {
+        "driverId": "sutil",
+        "permanentNumber": "99",
+        "code": "SUT",
+        "url": "http://en.wikipedia.org/wiki/Adrian_Sutil",
+        "givenName": "Adrian",
+        "familyName": "Sutil",
+        "dateOfBirth": "1983-01-11",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "sauber",
+        "url": "https://en.wikipedia.org/wiki/Sauber_Motorsport",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      },
+      "grid": "13",
+      "laps": "51",
+      "status": "+1 Lap",
+      "FastestLap": {
+        "rank": "15",
+        "lap": "34",
+        "Time": {
+          "time": "1:40.041"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "211.989"
+        }
+      }
+    },
+    {
+      "number": "17",
+      "position": "14",
+      "positionText": "14",
+      "points": "0",
+      "Driver": {
+        "driverId": "jules_bianchi",
+        "permanentNumber": "17",
+        "code": "BIA",
+        "url": "http://en.wikipedia.org/wiki/Jules_Bianchi",
+        "givenName": "Jules",
+        "familyName": "Bianchi",
+        "dateOfBirth": "1989-08-03",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "marussia",
+        "url": "https://en.wikipedia.org/wiki/Marussia_F1",
+        "name": "Marussia",
+        "nationality": "Russian"
+      },
+      "grid": "12",
+      "laps": "51",
+      "status": "+1 Lap",
+      "FastestLap": {
+        "rank": "14",
+        "lap": "51",
+        "Time": {
+          "time": "1:39.961"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "212.158"
+        }
+      }
+    },
+    {
+      "number": "10",
+      "position": "15",
+      "positionText": "15",
+      "points": "0",
+      "Driver": {
+        "driverId": "kobayashi",
+        "permanentNumber": "10",
+        "code": "KOB",
+        "url": "http://en.wikipedia.org/wiki/Kamui_Kobayashi",
+        "givenName": "Kamui",
+        "familyName": "Kobayashi",
+        "dateOfBirth": "1986-09-13",
+        "nationality": "Japanese"
+      },
+      "Constructor": {
+        "constructorId": "caterham",
+        "url": "https://en.wikipedia.org/wiki/Caterham_F1",
+        "name": "Caterham",
+        "nationality": "Malaysian"
+      },
+      "grid": "22",
+      "laps": "50",
+      "status": "+2 Laps",
+      "FastestLap": {
+        "rank": "18",
+        "lap": "31",
+        "Time": {
+          "time": "1:41.462"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "209.020"
+        }
+      }
+    },
+    {
+      "number": "4",
+      "position": "16",
+      "positionText": "16",
+      "points": "0",
+      "Driver": {
+        "driverId": "chilton",
+        "permanentNumber": "4",
+        "code": "CHI",
+        "url": "http://en.wikipedia.org/wiki/Max_Chilton",
+        "givenName": "Max",
+        "familyName": "Chilton",
+        "dateOfBirth": "1991-04-21",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "marussia",
+        "url": "https://en.wikipedia.org/wiki/Marussia_F1",
+        "name": "Marussia",
+        "nationality": "Russian"
+      },
+      "grid": "17",
+      "laps": "50",
+      "status": "+2 Laps",
+      "FastestLap": {
+        "rank": "17",
+        "lap": "50",
+        "Time": {
+          "time": "1:40.399"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "211.233"
+        }
+      }
+    },
+    {
+      "number": "13",
+      "position": "17",
+      "positionText": "17",
+      "points": "0",
+      "Driver": {
+        "driverId": "maldonado",
+        "permanentNumber": "13",
+        "code": "MAL",
+        "url": "http://en.wikipedia.org/wiki/Pastor_Maldonado",
+        "givenName": "Pastor",
+        "familyName": "Maldonado",
+        "dateOfBirth": "1985-03-09",
+        "nationality": "Venezuelan"
+      },
+      "Constructor": {
+        "constructorId": "lotus_f1",
+        "url": "https://en.wikipedia.org/wiki/Lotus_F1",
+        "name": "Lotus F1",
+        "nationality": "British"
+      },
+      "grid": "20",
+      "laps": "49",
+      "status": "+3 Laps",
+      "FastestLap": {
+        "rank": "16",
+        "lap": "48",
+        "Time": {
+          "time": "1:40.314"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "211.412"
+        }
+      }
+    },
+    {
+      "number": "6",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "rosberg",
+        "permanentNumber": "6",
+        "code": "ROS",
+        "url": "http://en.wikipedia.org/wiki/Nico_Rosberg",
+        "givenName": "Nico",
+        "familyName": "Rosberg",
+        "dateOfBirth": "1985-06-27",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "mercedes",
+        "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
+        "name": "Mercedes",
+        "nationality": "German"
+      },
+      "grid": "1",
+      "laps": "28",
+      "status": "Gearbox",
+      "FastestLap": {
+        "rank": "3",
+        "lap": "26",
+        "Time": {
+          "time": "1:38.091"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "216.203"
+        }
+      }
+    },
+    {
+      "number": "9",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ericsson",
+        "permanentNumber": "9",
+        "code": "ERI",
+        "url": "http://en.wikipedia.org/wiki/Marcus_Ericsson",
+        "givenName": "Marcus",
+        "familyName": "Ericsson",
+        "dateOfBirth": "1990-09-02",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "caterham",
+        "url": "https://en.wikipedia.org/wiki/Caterham_F1",
+        "name": "Caterham",
+        "nationality": "Malaysian"
+      },
+      "grid": "21",
+      "laps": "11",
+      "status": "Suspension",
+      "FastestLap": {
+        "rank": "20",
+        "lap": "7",
+        "Time": {
+          "time": "1:44.319"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "203.295"
+        }
+      }
+    },
+    {
+      "number": "21",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gutierrez",
+        "permanentNumber": "21",
+        "code": "GUT",
+        "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
+        "givenName": "Esteban",
+        "familyName": "Gutiérrez",
+        "dateOfBirth": "1991-08-05",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "sauber",
+        "url": "https://en.wikipedia.org/wiki/Sauber_Motorsport",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      },
+      "grid": "19",
+      "laps": "9",
+      "status": "Collision",
+      "FastestLap": {
+        "rank": "19",
+        "lap": "7",
+        "Time": {
+          "time": "1:42.566"
+        },
+        "AverageSpeed": {
+          "units": "kph",
+          "speed": "206.770"
+        }
+      }
+    },
+    {
+      "number": "19",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "massa",
+        "permanentNumber": "19",
+        "code": "MAS",
+        "url": "http://en.wikipedia.org/wiki/Felipe_Massa",
+        "givenName": "Felipe",
+        "familyName": "Massa",
+        "dateOfBirth": "1981-04-25",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "0",
+      "status": "Collision"
+    },
+    {
+      "number": "7",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "raikkonen",
+        "permanentNumber": "7",
+        "code": "RAI",
+        "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+        "givenName": "Kimi",
+        "familyName": "Räikkönen",
+        "dateOfBirth": "1979-10-17",
+        "nationality": "Finnish"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "18",
+      "laps": "0",
+      "status": "Collision"
+    }
+  ]
+}

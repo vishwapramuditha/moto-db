@@ -1,0 +1,133 @@
+{
+  "season": "1955",
+  "total_rounds": 7,
+  "updated_at": "2026-11-27T05:33:52.829128Z",
+  "races": [
+    {
+      "season": "1955",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix",
+      "raceName": "Argentine Grand Prix",
+      "Circuit": {
+        "circuitId": "galvez",
+        "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+        "circuitName": "Autódromo Juan y Oscar Gálvez",
+        "Location": {
+          "lat": "-34.6943",
+          "long": "-58.4593",
+          "locality": "Buenos Aires",
+          "country": "Argentina"
+        }
+      },
+      "date": "1955-01-16"
+    },
+    {
+      "season": "1955",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1955-05-22"
+    },
+    {
+      "season": "1955",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1955_Indianapolis_500",
+      "raceName": "Indianapolis 500",
+      "Circuit": {
+        "circuitId": "indianapolis",
+        "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+        "circuitName": "Indianapolis Motor Speedway",
+        "Location": {
+          "lat": "39.795",
+          "long": "-86.2347",
+          "locality": "Indianapolis",
+          "country": "USA"
+        }
+      },
+      "date": "1955-05-30"
+    },
+    {
+      "season": "1955",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "lat": "50.4372",
+          "long": "5.97139",
+          "locality": "Spa",
+          "country": "Belgium"
+        }
+      },
+      "date": "1955-06-05"
+    },
+    {
+      "season": "1955",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1955_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1955-06-19"
+    },
+    {
+      "season": "1955",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1955_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "aintree",
+        "url": "https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit",
+        "circuitName": "Aintree",
+        "Location": {
+          "lat": "53.4769",
+          "long": "-2.94056",
+          "locality": "Liverpool",
+          "country": "UK"
+        }
+      },
+      "date": "1955-07-16"
+    },
+    {
+      "season": "1955",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1955_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1955-09-11"
+    }
+  ]
+}

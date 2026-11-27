@@ -1,0 +1,474 @@
+{
+  "season": "1958",
+  "round": "5",
+  "raceName": "Belgian Grand Prix",
+  "circuit": {
+    "circuitId": "spa",
+    "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+    "circuitName": "Circuit de Spa-Francorchamps",
+    "Location": {
+      "lat": "50.4372",
+      "long": "5.97139",
+      "locality": "Spa",
+      "country": "Belgium"
+    }
+  },
+  "date": "1958-06-15",
+  "time": null,
+  "updated_at": "2026-11-27T05:35:08.879932Z",
+  "results": [
+    {
+      "number": "4",
+      "position": "1",
+      "positionText": "1",
+      "points": "8",
+      "Driver": {
+        "driverId": "brooks",
+        "url": "http://en.wikipedia.org/wiki/Tony_Brooks",
+        "givenName": "Tony",
+        "familyName": "Brooks",
+        "dateOfBirth": "1932-02-25",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "vanwall",
+        "url": "https://en.wikipedia.org/wiki/Vanwall",
+        "name": "Vanwall",
+        "nationality": "British"
+      },
+      "grid": "5",
+      "laps": "24",
+      "status": "Finished",
+      "Time": {
+        "millis": "5826300",
+        "time": "1:37:06.300"
+      }
+    },
+    {
+      "number": "16",
+      "position": "2",
+      "positionText": "2",
+      "points": "7",
+      "Driver": {
+        "driverId": "hawthorn",
+        "url": "http://en.wikipedia.org/wiki/Mike_Hawthorn",
+        "givenName": "Mike",
+        "familyName": "Hawthorn",
+        "dateOfBirth": "1929-04-10",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "1",
+      "laps": "24",
+      "status": "Finished",
+      "Time": {
+        "millis": "5847000",
+        "time": "+20.700"
+      }
+    },
+    {
+      "number": "6",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "lewis-evans",
+        "url": "http://en.wikipedia.org/wiki/Stuart_Lewis-Evans",
+        "givenName": "Stuart",
+        "familyName": "Lewis-Evans",
+        "dateOfBirth": "1930-04-20",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "vanwall",
+        "url": "https://en.wikipedia.org/wiki/Vanwall",
+        "name": "Vanwall",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "24",
+      "status": "Finished",
+      "Time": {
+        "millis": "6007200",
+        "time": "+3:00.900"
+      }
+    },
+    {
+      "number": "40",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "allison",
+        "url": "http://en.wikipedia.org/wiki/Cliff_Allison",
+        "givenName": "Cliff",
+        "familyName": "Allison",
+        "dateOfBirth": "1932-02-08",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "24",
+      "status": "Finished",
+      "Time": {
+        "millis": "6081800",
+        "time": "+4:15.500"
+      }
+    },
+    {
+      "number": "10",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "schell",
+        "url": "http://en.wikipedia.org/wiki/Harry_Schell",
+        "givenName": "Harry",
+        "familyName": "Schell",
+        "dateOfBirth": "1921-06-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "7",
+      "laps": "23",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "20",
+      "position": "6",
+      "positionText": "6",
+      "points": "0",
+      "Driver": {
+        "driverId": "gendebien",
+        "url": "http://en.wikipedia.org/wiki/Olivier_Gendebien",
+        "givenName": "Olivier",
+        "familyName": "Gendebien",
+        "dateOfBirth": "1924-01-12",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "23",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "28",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "trintignant",
+        "url": "http://en.wikipedia.org/wiki/Maurice_Trintignant",
+        "givenName": "Maurice",
+        "familyName": "Trintignant",
+        "dateOfBirth": "1917-10-30",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "16",
+      "laps": "23",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "24",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "salvadori",
+        "url": "http://en.wikipedia.org/wiki/Roy_Salvadori",
+        "givenName": "Roy",
+        "familyName": "Salvadori",
+        "dateOfBirth": "1922-05-12",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "23",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "36",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonnier",
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "givenName": "Jo",
+        "familyName": "Bonnier",
+        "dateOfBirth": "1930-01-31",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "14",
+      "laps": "22",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "26",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "filippis",
+        "url": "http://en.wikipedia.org/wiki/Maria_Teresa_de_Filippis",
+        "givenName": "Maria",
+        "familyName": "de Filippis",
+        "dateOfBirth": "1926-11-11",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "19",
+      "laps": "22",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "38",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "godia",
+        "url": "http://en.wikipedia.org/wiki/Paco_Godia",
+        "givenName": "Paco",
+        "familyName": "Godia",
+        "dateOfBirth": "1921-03-21",
+        "nationality": "Spanish"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "18",
+      "laps": "22",
+      "status": "Engine"
+    },
+    {
+      "number": "22",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "16",
+      "status": "Overheating"
+    },
+    {
+      "number": "42",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hill",
+        "url": "http://en.wikipedia.org/wiki/Graham_Hill",
+        "givenName": "Graham",
+        "familyName": "Hill",
+        "dateOfBirth": "1929-02-15",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "12",
+      "status": "Engine"
+    },
+    {
+      "number": "18",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "musso",
+        "url": "http://en.wikipedia.org/wiki/Luigi_Musso",
+        "givenName": "Luigi",
+        "familyName": "Musso",
+        "dateOfBirth": "1924-07-28",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "5",
+      "status": "Accident"
+    },
+    {
+      "number": "14",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "collins",
+        "url": "http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)",
+        "givenName": "Peter",
+        "familyName": "Collins",
+        "dateOfBirth": "1931-11-06",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "4",
+      "laps": "5",
+      "status": "Overheating"
+    },
+    {
+      "number": "8",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "behra",
+        "url": "http://en.wikipedia.org/wiki/Jean_Behra",
+        "givenName": "Jean",
+        "familyName": "Behra",
+        "dateOfBirth": "1921-02-16",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "10",
+      "laps": "5",
+      "status": "Oil pressure"
+    },
+    {
+      "number": "32",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "seidel",
+        "url": "http://en.wikipedia.org/wiki/Wolfgang_Seidel",
+        "givenName": "Wolfgang",
+        "familyName": "Seidel",
+        "dateOfBirth": "1926-07-04",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "17",
+      "laps": "4",
+      "status": "Halfshaft"
+    },
+    {
+      "number": "2",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "moss",
+        "url": "http://en.wikipedia.org/wiki/Stirling_Moss",
+        "givenName": "Stirling",
+        "familyName": "Moss",
+        "dateOfBirth": "1929-09-17",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "vanwall",
+        "url": "https://en.wikipedia.org/wiki/Vanwall",
+        "name": "Vanwall",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "0",
+      "status": "Engine"
+    },
+    {
+      "number": "30",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gregory",
+        "url": "http://en.wikipedia.org/wiki/Masten_Gregory",
+        "givenName": "Masten",
+        "familyName": "Gregory",
+        "dateOfBirth": "1932-02-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "3",
+      "laps": "0",
+      "status": "Engine"
+    }
+  ]
+}

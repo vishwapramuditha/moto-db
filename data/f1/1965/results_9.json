@@ -1,0 +1,447 @@
+{
+  "season": "1965",
+  "round": "9",
+  "raceName": "United States Grand Prix",
+  "circuit": {
+    "circuitId": "watkins_glen",
+    "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+    "circuitName": "Watkins Glen",
+    "Location": {
+      "lat": "42.3369",
+      "long": "-76.9272",
+      "locality": "New York State",
+      "country": "USA"
+    }
+  },
+  "date": "1965-10-03",
+  "time": null,
+  "updated_at": "2026-11-27T05:39:05.269039Z",
+  "results": [
+    {
+      "number": "3",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "hill",
+        "url": "http://en.wikipedia.org/wiki/Graham_Hill",
+        "givenName": "Graham",
+        "familyName": "Hill",
+        "dateOfBirth": "1929-02-15",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "110",
+      "status": "Finished",
+      "Time": {
+        "millis": "8436100",
+        "time": "2:20:36.100"
+      }
+    },
+    {
+      "number": "8",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "gurney",
+        "url": "http://en.wikipedia.org/wiki/Dan_Gurney",
+        "givenName": "Dan",
+        "familyName": "Gurney",
+        "dateOfBirth": "1931-04-13",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "brabham-climax",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Climax",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "110",
+      "status": "Finished",
+      "Time": {
+        "millis": "8448600",
+        "time": "+12.500"
+      }
+    },
+    {
+      "number": "7",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "brabham-climax",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Climax",
+        "nationality": "British"
+      },
+      "grid": "7",
+      "laps": "110",
+      "status": "Finished",
+      "Time": {
+        "millis": "8493600",
+        "time": "+57.500"
+      }
+    },
+    {
+      "number": "2",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "bandini",
+        "url": "http://en.wikipedia.org/wiki/Lorenzo_Bandini",
+        "givenName": "Lorenzo",
+        "familyName": "Bandini",
+        "dateOfBirth": "1935-12-21",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "5",
+      "laps": "109",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "14",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "rodriguez",
+        "url": "http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)",
+        "givenName": "Pedro",
+        "familyName": "Rodríguez",
+        "dateOfBirth": "1940-01-18",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "15",
+      "laps": "109",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "10",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "rindt",
+        "url": "http://en.wikipedia.org/wiki/Jochen_Rindt",
+        "givenName": "Jochen",
+        "familyName": "Rindt",
+        "dateOfBirth": "1942-04-18",
+        "nationality": "Austrian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "108",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "11",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "ginther",
+        "url": "http://en.wikipedia.org/wiki/Richie_Ginther",
+        "givenName": "Richie",
+        "familyName": "Ginther",
+        "dateOfBirth": "1930-08-05",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "honda",
+        "url": "https://en.wikipedia.org/wiki/Honda_in_Formula_One",
+        "name": "Honda",
+        "nationality": "Japanese"
+      },
+      "grid": "3",
+      "laps": "108",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "15",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonnier",
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "givenName": "Jo",
+        "familyName": "Bonnier",
+        "dateOfBirth": "1930-01-31",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "brabham-climax",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Climax",
+        "nationality": "British"
+      },
+      "grid": "10",
+      "laps": "107",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "24",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "bondurant",
+        "url": "http://en.wikipedia.org/wiki/Bob_Bondurant",
+        "givenName": "Bob",
+        "familyName": "Bondurant",
+        "dateOfBirth": "1933-04-27",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "14",
+      "laps": "106",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "21",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "attwood",
+        "url": "http://en.wikipedia.org/wiki/Richard_Attwood",
+        "givenName": "Richard",
+        "familyName": "Attwood",
+        "dateOfBirth": "1940-04-04",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "101",
+      "status": "+9 Laps"
+    },
+    {
+      "number": "16",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "siffert",
+        "url": "http://en.wikipedia.org/wiki/Jo_Siffert",
+        "givenName": "Jo",
+        "familyName": "Siffert",
+        "dateOfBirth": "1936-07-07",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "brabham-brm",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-BRM",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "99",
+      "status": "+11 Laps"
+    },
+    {
+      "number": "18",
+      "position": "12",
+      "positionText": "12",
+      "points": "0",
+      "Driver": {
+        "driverId": "solana",
+        "url": "http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana",
+        "givenName": "Moisés",
+        "familyName": "Solana",
+        "dateOfBirth": "1935-12-26",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "17",
+      "laps": "95",
+      "status": "+15 Laps"
+    },
+    {
+      "number": "12",
+      "position": "13",
+      "positionText": "13",
+      "points": "0",
+      "Driver": {
+        "driverId": "bucknum",
+        "url": "http://en.wikipedia.org/wiki/Ronnie_Bucknum",
+        "givenName": "Ronnie",
+        "familyName": "Bucknum",
+        "dateOfBirth": "1936-04-05",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "honda",
+        "url": "https://en.wikipedia.org/wiki/Honda_in_Formula_One",
+        "name": "Honda",
+        "nationality": "Japanese"
+      },
+      "grid": "12",
+      "laps": "92",
+      "status": "+18 Laps"
+    },
+    {
+      "number": "4",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "stewart",
+        "url": "http://en.wikipedia.org/wiki/Jackie_Stewart",
+        "givenName": "Jackie",
+        "familyName": "Stewart",
+        "dateOfBirth": "1939-06-11",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "6",
+      "laps": "12",
+      "status": "Suspension"
+    },
+    {
+      "number": "5",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "clark",
+        "url": "http://en.wikipedia.org/wiki/Jim_Clark",
+        "givenName": "Jim",
+        "familyName": "Clark",
+        "dateOfBirth": "1936-03-04",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "11",
+      "status": "Engine"
+    },
+    {
+      "number": "9",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "mclaren",
+        "url": "http://en.wikipedia.org/wiki/Bruce_McLaren",
+        "givenName": "Bruce",
+        "familyName": "McLaren",
+        "dateOfBirth": "1937-08-30",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "2",
+      "laps": "11",
+      "status": "Oil pressure"
+    },
+    {
+      "number": "6",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "spence",
+        "url": "http://en.wikipedia.org/wiki/Mike_Spence",
+        "givenName": "Mike",
+        "familyName": "Spence",
+        "dateOfBirth": "1936-12-30",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "4",
+      "laps": "9",
+      "status": "Engine"
+    },
+    {
+      "number": "22",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ireland",
+        "url": "http://en.wikipedia.org/wiki/Innes_Ireland",
+        "givenName": "Innes",
+        "familyName": "Ireland",
+        "dateOfBirth": "1930-06-12",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "18",
+      "laps": "9",
+      "status": "Driver unwell"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "season": "2003",
+  "total_rounds": 16,
+  "updated_at": "2026-11-27T06:06:33.536341Z",
+  "races": [
+    {
+      "season": "2003",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/2003_Australian_Grand_Prix",
+      "raceName": "Australian Grand Prix",
+      "Circuit": {
+        "circuitId": "albert_park",
+        "url": "https://en.wikipedia.org/wiki/Albert_Park_Circuit",
+        "circuitName": "Albert Park Grand Prix Circuit",
+        "Location": {
+          "lat": "-37.8497",
+          "long": "144.968",
+          "locality": "Melbourne",
+          "country": "Australia"
+        }
+      },
+      "date": "2003-03-09"
+    },
+    {
+      "season": "2003",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/2003_Malaysian_Grand_Prix",
+      "raceName": "Malaysian Grand Prix",
+      "Circuit": {
+        "circuitId": "sepang",
+        "url": "https://en.wikipedia.org/wiki/Sepang_International_Circuit",
+        "circuitName": "Sepang International Circuit",
+        "Location": {
+          "lat": "2.76083",
+          "long": "101.738",
+          "locality": "Kuala Lumpur",
+          "country": "Malaysia"
+        }
+      },
+      "date": "2003-03-23"
+    },
+    {
+      "season": "2003",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/2003_Brazilian_Grand_Prix",
+      "raceName": "Brazilian Grand Prix",
+      "Circuit": {
+        "circuitId": "interlagos",
+        "url": "https://en.wikipedia.org/wiki/Interlagos_Circuit",
+        "circuitName": "Autódromo José Carlos Pace",
+        "Location": {
+          "lat": "-23.7036",
+          "long": "-46.6997",
+          "locality": "São Paulo",
+          "country": "Brazil"
+        }
+      },
+      "date": "2003-04-06"
+    },
+    {
+      "season": "2003",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/2003_San_Marino_Grand_Prix",
+      "raceName": "San Marino Grand Prix",
+      "Circuit": {
+        "circuitId": "imola",
+        "url": "https://en.wikipedia.org/wiki/Imola_Circuit",
+        "circuitName": "Autodromo Enzo e Dino Ferrari",
+        "Location": {
+          "lat": "44.3439",
+          "long": "11.7167",
+          "locality": "Imola",
+          "country": "Italy"
+        }
+      },
+      "date": "2003-04-20"
+    },
+    {
+      "season": "2003",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/2003_Spanish_Grand_Prix",
+      "raceName": "Spanish Grand Prix",
+      "Circuit": {
+        "circuitId": "catalunya",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya",
+        "circuitName": "Circuit de Barcelona-Catalunya",
+        "Location": {
+          "lat": "41.57",
+          "long": "2.26111",
+          "locality": "Barcelona",
+          "country": "Spain"
+        }
+      },
+      "date": "2003-05-04"
+    },
+    {
+      "season": "2003",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/2003_Austrian_Grand_Prix",
+      "raceName": "Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "lat": "47.2197",
+          "long": "14.7647",
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "date": "2003-05-18"
+    },
+    {
+      "season": "2003",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/2003_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "2003-06-01"
+    },
+    {
+      "season": "2003",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/2003_Canadian_Grand_Prix",
+      "raceName": "Canadian Grand Prix",
+      "Circuit": {
+        "circuitId": "villeneuve",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+        "circuitName": "Circuit Gilles Villeneuve",
+        "Location": {
+          "lat": "45.5",
+          "long": "-73.5228",
+          "locality": "Montreal",
+          "country": "Canada"
+        }
+      },
+      "date": "2003-06-15"
+    },
+    {
+      "season": "2003",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/2003_European_Grand_Prix",
+      "raceName": "European Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "2003-06-29"
+    },
+    {
+      "season": "2003",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/2003_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "magny_cours",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours",
+        "circuitName": "Circuit de Nevers Magny-Cours",
+        "Location": {
+          "lat": "46.8642",
+          "long": "3.16361",
+          "locality": "Magny Cours",
+          "country": "France"
+        }
+      },
+      "date": "2003-07-06"
+    },
+    {
+      "season": "2003",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/2003_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "silverstone",
+        "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+        "circuitName": "Silverstone Circuit",
+        "Location": {
+          "lat": "52.0786",
+          "long": "-1.01694",
+          "locality": "Silverstone",
+          "country": "UK"
+        }
+      },
+      "date": "2003-07-20"
+    },
+    {
+      "season": "2003",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/2003_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "hockenheimring",
+        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "circuitName": "Hockenheimring",
+        "Location": {
+          "lat": "49.3278",
+          "long": "8.56583",
+          "locality": "Hockenheim",
+          "country": "Germany"
+        }
+      },
+      "date": "2003-08-03"
+    },
+    {
+      "season": "2003",
+      "round": "13",
+      "url": "https://en.wikipedia.org/wiki/2003_Hungarian_Grand_Prix",
+      "raceName": "Hungarian Grand Prix",
+      "Circuit": {
+        "circuitId": "hungaroring",
+        "url": "https://en.wikipedia.org/wiki/Hungaroring",
+        "circuitName": "Hungaroring",
+        "Location": {
+          "lat": "47.5789",
+          "long": "19.2486",
+          "locality": "Budapest",
+          "country": "Hungary"
+        }
+      },
+      "date": "2003-08-24"
+    },
+    {
+      "season": "2003",
+      "round": "14",
+      "url": "https://en.wikipedia.org/wiki/2003_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "2003-09-14"
+    },
+    {
+      "season": "2003",
+      "round": "15",
+      "url": "https://en.wikipedia.org/wiki/2003_United_States_Grand_Prix",
+      "raceName": "United States Grand Prix",
+      "Circuit": {
+        "circuitId": "indianapolis",
+        "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+        "circuitName": "Indianapolis Motor Speedway",
+        "Location": {
+          "lat": "39.795",
+          "long": "-86.2347",
+          "locality": "Indianapolis",
+          "country": "USA"
+        }
+      },
+      "date": "2003-09-28"
+    },
+    {
+      "season": "2003",
+      "round": "16",
+      "url": "https://en.wikipedia.org/wiki/2003_Japanese_Grand_Prix",
+      "raceName": "Japanese Grand Prix",
+      "Circuit": {
+        "circuitId": "suzuka",
+        "url": "https://en.wikipedia.org/wiki/Suzuka_International_Racing_Course",
+        "circuitName": "Suzuka Circuit",
+        "Location": {
+          "lat": "34.8431",
+          "long": "136.541",
+          "locality": "Suzuka",
+          "country": "Japan"
+        }
+      },
+      "date": "2003-10-12"
+    }
+  ]
+}

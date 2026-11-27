@@ -1,0 +1,723 @@
+{
+  "season": "1952",
+  "round": "6",
+  "raceName": "German Grand Prix",
+  "circuit": {
+    "circuitId": "nurburgring",
+    "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+    "circuitName": "Nürburgring",
+    "Location": {
+      "lat": "50.3356",
+      "long": "6.9475",
+      "locality": "Nürburg",
+      "country": "Germany"
+    }
+  },
+  "date": "1952-08-03",
+  "time": null,
+  "updated_at": "2026-11-27T05:32:48.980770Z",
+  "results": [
+    {
+      "number": "101",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "ascari",
+        "url": "http://en.wikipedia.org/wiki/Alberto_Ascari",
+        "givenName": "Alberto",
+        "familyName": "Ascari",
+        "dateOfBirth": "1918-07-13",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "1",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "11173300",
+        "time": "3:06:13.300"
+      }
+    },
+    {
+      "number": "102",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "farina",
+        "url": "http://en.wikipedia.org/wiki/Nino_Farina",
+        "givenName": "Nino",
+        "familyName": "Farina",
+        "dateOfBirth": "1906-10-30",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "11187400",
+        "time": "+14.100"
+      }
+    },
+    {
+      "number": "117",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "fischer",
+        "url": "http://en.wikipedia.org/wiki/Rudi_Fischer",
+        "givenName": "Rudi",
+        "familyName": "Fischer",
+        "dateOfBirth": "1912-04-19",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "18",
+      "status": "Finished",
+      "Time": {
+        "millis": "11603400",
+        "time": "+7:10.100"
+      }
+    },
+    {
+      "number": "103",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "taruffi",
+        "url": "http://en.wikipedia.org/wiki/Piero_Taruffi",
+        "givenName": "Piero",
+        "familyName": "Taruffi",
+        "dateOfBirth": "1906-10-12",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "5",
+      "laps": "17",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "108",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "behra",
+        "url": "http://en.wikipedia.org/wiki/Jean_Behra",
+        "givenName": "Jean",
+        "familyName": "Behra",
+        "dateOfBirth": "1921-02-16",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "11",
+      "laps": "17",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "119",
+      "position": "6",
+      "positionText": "6",
+      "points": "0",
+      "Driver": {
+        "driverId": "laurent",
+        "url": "http://en.wikipedia.org/wiki/Roger_Laurent",
+        "givenName": "Roger",
+        "familyName": "Laurent",
+        "dateOfBirth": "1913-02-21",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "17",
+      "laps": "16",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "121",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "riess",
+        "url": "http://en.wikipedia.org/wiki/Fritz_Riess",
+        "givenName": "Fritz",
+        "familyName": "Riess",
+        "dateOfBirth": "1922-07-11",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "12",
+      "laps": "16",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "125",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "ulmen",
+        "url": "http://en.wikipedia.org/wiki/Toni_Ulmen",
+        "givenName": "Toni",
+        "familyName": "Ulmen",
+        "dateOfBirth": "1906-01-25",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "15",
+      "laps": "16",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "124",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "niedermayr",
+        "url": "http://en.wikipedia.org/wiki/Helmut_Niedermayr",
+        "givenName": "Helmut",
+        "familyName": "Niedermayr",
+        "dateOfBirth": "1915-11-29",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "afm",
+        "url": "https://en.wikipedia.org/wiki/Alex_von_Falkenhausen_Motorenbau",
+        "name": "AFM",
+        "nationality": "German"
+      },
+      "grid": "22",
+      "laps": "15",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "113",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "claes",
+        "url": "http://en.wikipedia.org/wiki/Johnny_Claes",
+        "givenName": "Johnny",
+        "familyName": "Claes",
+        "dateOfBirth": "1916-08-11",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "hwm",
+        "url": "https://en.wikipedia.org/wiki/Hersham_and_Walton_Motors",
+        "name": "HWM",
+        "nationality": "British"
+      },
+      "grid": "32",
+      "laps": "15",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "128",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "klenk",
+        "url": "http://en.wikipedia.org/wiki/Hans_Klenk",
+        "givenName": "Hans",
+        "familyName": "Klenk",
+        "dateOfBirth": "1919-10-28",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "8",
+      "laps": "14",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "135",
+      "position": "12",
+      "positionText": "12",
+      "points": "0",
+      "Driver": {
+        "driverId": "klodwig",
+        "url": "http://en.wikipedia.org/wiki/Ernst_Klodwig",
+        "givenName": "Ernst",
+        "familyName": "Klodwig",
+        "dateOfBirth": "1903-05-23",
+        "nationality": "East German"
+      },
+      "Constructor": {
+        "constructorId": "bmw",
+        "url": "https://en.wikipedia.org/wiki/BMW",
+        "name": "BMW",
+        "nationality": "German"
+      },
+      "grid": "29",
+      "laps": "14",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "107",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "manzon",
+        "url": "http://en.wikipedia.org/wiki/Robert_Manzon",
+        "givenName": "Robert",
+        "familyName": "Manzon",
+        "dateOfBirth": "1917-04-12",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "4",
+      "laps": "8",
+      "status": "Accident"
+    },
+    {
+      "number": "123",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "heeks",
+        "url": "http://en.wikipedia.org/wiki/Willi_Heeks",
+        "givenName": "Willi",
+        "familyName": "Heeks",
+        "dateOfBirth": "1922-02-13",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "afm",
+        "url": "https://en.wikipedia.org/wiki/Alex_von_Falkenhausen_Motorenbau",
+        "name": "AFM",
+        "nationality": "German"
+      },
+      "grid": "9",
+      "laps": "7",
+      "status": "Retired"
+    },
+    {
+      "number": "120",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gaze",
+        "url": "http://en.wikipedia.org/wiki/Tony_Gaze",
+        "givenName": "Tony",
+        "familyName": "Gaze",
+        "dateOfBirth": "1920-02-03",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "hwm",
+        "url": "https://en.wikipedia.org/wiki/Hersham_and_Walton_Motors",
+        "name": "HWM",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "6",
+      "status": "Gearbox"
+    },
+    {
+      "number": "126",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "brudes",
+        "url": "http://en.wikipedia.org/wiki/Adolf_Brudes",
+        "givenName": "Adolf",
+        "familyName": "Brudes",
+        "dateOfBirth": "1899-10-15",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "19",
+      "laps": "5",
+      "status": "Engine"
+    },
+    {
+      "number": "110",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "balsa",
+        "url": "http://en.wikipedia.org/wiki/Marcel_Balsa",
+        "givenName": "Marcel",
+        "familyName": "Balsa",
+        "dateOfBirth": "1909-01-01",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "bmw",
+        "url": "https://en.wikipedia.org/wiki/BMW",
+        "name": "BMW",
+        "nationality": "German"
+      },
+      "grid": "25",
+      "laps": "5",
+      "status": "Retired"
+    },
+    {
+      "number": "130",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bechem",
+        "url": "http://en.wikipedia.org/wiki/G%C3%BCnther_Bechem",
+        "givenName": "Günther",
+        "familyName": "Bechem",
+        "dateOfBirth": "1921-12-21",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "bmw",
+        "url": "https://en.wikipedia.org/wiki/BMW",
+        "name": "BMW",
+        "nationality": "German"
+      },
+      "grid": "30",
+      "laps": "5",
+      "status": "Ignition"
+    },
+    {
+      "number": "116",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "cantoni",
+        "url": "http://en.wikipedia.org/wiki/Eitel_Cantoni",
+        "givenName": "Eitel",
+        "familyName": "Cantoni",
+        "dateOfBirth": "1906-10-04",
+        "nationality": "Uruguayan"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "26",
+      "laps": "4",
+      "status": "Axle"
+    },
+    {
+      "number": "136",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "krause",
+        "url": "http://en.wikipedia.org/wiki/Rudolf_Krause",
+        "givenName": "Rudolf",
+        "familyName": "Krause",
+        "dateOfBirth": "1907-03-30",
+        "nationality": "East German"
+      },
+      "Constructor": {
+        "constructorId": "bmw",
+        "url": "https://en.wikipedia.org/wiki/BMW",
+        "name": "BMW",
+        "nationality": "German"
+      },
+      "grid": "23",
+      "laps": "3",
+      "status": "Retired"
+    },
+    {
+      "number": "118",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "schoeller",
+        "url": "http://en.wikipedia.org/wiki/Rudolf_Schoeller",
+        "givenName": "Rudolf",
+        "familyName": "Schoeller",
+        "dateOfBirth": "1902-04-27",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "24",
+      "laps": "3",
+      "status": "Suspension"
+    },
+    {
+      "number": "114",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "aston",
+        "url": "http://en.wikipedia.org/wiki/Bill_Aston",
+        "givenName": "Bill",
+        "familyName": "Aston",
+        "dateOfBirth": "1900-03-29",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "butterworth",
+        "url": "https://en.wikipedia.org/wiki/Aston_Butterworth",
+        "name": "Aston Butterworth",
+        "nationality": "British"
+      },
+      "grid": "21",
+      "laps": "2",
+      "status": "Oil pressure"
+    },
+    {
+      "number": "109",
+      "position": "23",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "trintignant",
+        "url": "http://en.wikipedia.org/wiki/Maurice_Trintignant",
+        "givenName": "Maurice",
+        "familyName": "Trintignant",
+        "dateOfBirth": "1917-10-30",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "3",
+      "laps": "1",
+      "status": "Accident"
+    },
+    {
+      "number": "127",
+      "position": "24",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "pietsch",
+        "url": "http://en.wikipedia.org/wiki/Paul_Pietsch",
+        "givenName": "Paul",
+        "familyName": "Pietsch",
+        "dateOfBirth": "1911-06-20",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "7",
+      "laps": "1",
+      "status": "Gearbox"
+    },
+    {
+      "number": "105",
+      "position": "25",
+      "positionText": "D",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonetto",
+        "url": "http://en.wikipedia.org/wiki/Felice_Bonetto",
+        "givenName": "Felice",
+        "familyName": "Bonetto",
+        "dateOfBirth": "1903-06-09",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "10",
+      "laps": "1",
+      "status": "Disqualified"
+    },
+    {
+      "number": "112",
+      "position": "26",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "frere",
+        "url": "http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re",
+        "givenName": "Paul",
+        "familyName": "Frère",
+        "dateOfBirth": "1917-01-30",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "hwm",
+        "url": "https://en.wikipedia.org/wiki/Hersham_and_Walton_Motors",
+        "name": "HWM",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "1",
+      "status": "Gearbox"
+    },
+    {
+      "number": "122",
+      "position": "27",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "helfrich",
+        "url": "http://en.wikipedia.org/wiki/Theo_Helfrich",
+        "givenName": "Theo",
+        "familyName": "Helfrich",
+        "dateOfBirth": "1913-05-13",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "18",
+      "laps": "1",
+      "status": "Retired"
+    },
+    {
+      "number": "129",
+      "position": "28",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "peters",
+        "url": "http://en.wikipedia.org/wiki/Josef_Peters_(driver)",
+        "givenName": "Josef",
+        "familyName": "Peters",
+        "dateOfBirth": "1914-09-16",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "veritas",
+        "url": "https://en.wikipedia.org/wiki/Veritas_(automobile)",
+        "name": "Veritas",
+        "nationality": "German"
+      },
+      "grid": "20",
+      "laps": "1",
+      "status": "Retired"
+    },
+    {
+      "number": "104",
+      "position": "29",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "carini",
+        "url": "http://en.wikipedia.org/wiki/Piero_Carini",
+        "givenName": "Piero",
+        "familyName": "Carini",
+        "dateOfBirth": "1921-03-06",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "27",
+      "laps": "1",
+      "status": "Brakes"
+    },
+    {
+      "number": "115",
+      "position": "30",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bianco",
+        "url": "http://en.wikipedia.org/wiki/Gino_Bianco",
+        "givenName": "Gino",
+        "familyName": "Bianco",
+        "dateOfBirth": "1916-07-22",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "16",
+      "laps": "0",
+      "status": "Retired"
+    }
+  ]
+}

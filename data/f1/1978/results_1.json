@@ -1,0 +1,617 @@
+{
+  "season": "1978",
+  "round": "1",
+  "raceName": "Argentine Grand Prix",
+  "circuit": {
+    "circuitId": "galvez",
+    "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+    "circuitName": "Autódromo Juan y Oscar Gálvez",
+    "Location": {
+      "lat": "-34.6943",
+      "long": "-58.4593",
+      "locality": "Buenos Aires",
+      "country": "Argentina"
+    }
+  },
+  "date": "1978-01-15",
+  "time": null,
+  "updated_at": "2026-11-27T05:47:20.099168Z",
+  "results": [
+    {
+      "number": "5",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "mario_andretti",
+        "url": "http://en.wikipedia.org/wiki/Mario_Andretti",
+        "givenName": "Mario",
+        "familyName": "Andretti",
+        "dateOfBirth": "1940-02-28",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5824470",
+        "time": "1:37:04.470"
+      }
+    },
+    {
+      "number": "1",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "lauda",
+        "url": "http://en.wikipedia.org/wiki/Niki_Lauda",
+        "givenName": "Niki",
+        "familyName": "Lauda",
+        "dateOfBirth": "1949-02-22",
+        "nationality": "Austrian"
+      },
+      "Constructor": {
+        "constructorId": "brabham",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham",
+        "nationality": "British"
+      },
+      "grid": "5",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5837680",
+        "time": "+13.210"
+      }
+    },
+    {
+      "number": "4",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "depailler",
+        "url": "http://en.wikipedia.org/wiki/Patrick_Depailler",
+        "givenName": "Patrick",
+        "familyName": "Depailler",
+        "dateOfBirth": "1944-08-09",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "tyrrell",
+        "url": "https://en.wikipedia.org/wiki/Tyrrell_Racing",
+        "name": "Tyrrell",
+        "nationality": "British"
+      },
+      "grid": "10",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5838110",
+        "time": "+13.640"
+      }
+    },
+    {
+      "number": "7",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "hunt",
+        "url": "http://en.wikipedia.org/wiki/James_Hunt",
+        "givenName": "James",
+        "familyName": "Hunt",
+        "dateOfBirth": "1947-08-29",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "6",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5840520",
+        "time": "+16.050"
+      }
+    },
+    {
+      "number": "6",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "peterson",
+        "url": "http://en.wikipedia.org/wiki/Ronnie_Peterson",
+        "givenName": "Ronnie",
+        "familyName": "Peterson",
+        "dateOfBirth": "1944-02-14",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "team_lotus",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Team Lotus",
+        "nationality": "British"
+      },
+      "grid": "3",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5899320",
+        "time": "+1:14.850"
+      }
+    },
+    {
+      "number": "8",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "tambay",
+        "url": "http://en.wikipedia.org/wiki/Patrick_Tambay",
+        "givenName": "Patrick",
+        "familyName": "Tambay",
+        "dateOfBirth": "1949-06-25",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "9",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5904370",
+        "time": "+1:19.900"
+      }
+    },
+    {
+      "number": "11",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "reutemann",
+        "url": "http://en.wikipedia.org/wiki/Carlos_Reutemann",
+        "givenName": "Carlos",
+        "familyName": "Reutemann",
+        "dateOfBirth": "1942-04-12",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5907070",
+        "time": "+1:22.600"
+      }
+    },
+    {
+      "number": "12",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "gilles_villeneuve",
+        "url": "http://en.wikipedia.org/wiki/Gilles_Villeneuve",
+        "givenName": "Gilles",
+        "familyName": "Villeneuve",
+        "dateOfBirth": "1950-01-18",
+        "nationality": "Canadian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "7",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5923350",
+        "time": "+1:38.880"
+      }
+    },
+    {
+      "number": "14",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "emerson_fittipaldi",
+        "url": "http://en.wikipedia.org/wiki/Emerson_Fittipaldi",
+        "givenName": "Emerson",
+        "familyName": "Fittipaldi",
+        "dateOfBirth": "1946-12-12",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "fittipaldi",
+        "url": "https://en.wikipedia.org/wiki/Fittipaldi_Automotive",
+        "name": "Fittipaldi",
+        "nationality": "Brazilian"
+      },
+      "grid": "17",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5925070",
+        "time": "+1:40.600"
+      }
+    },
+    {
+      "number": "20",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "scheckter",
+        "url": "http://en.wikipedia.org/wiki/Jody_Scheckter",
+        "givenName": "Jody",
+        "familyName": "Scheckter",
+        "dateOfBirth": "1950-01-29",
+        "nationality": "South African"
+      },
+      "Constructor": {
+        "constructorId": "wolf",
+        "url": "https://en.wikipedia.org/wiki/Walter_Wolf_Racing",
+        "name": "Wolf",
+        "nationality": "Canadian"
+      },
+      "grid": "15",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5927970",
+        "time": "+1:43.500"
+      }
+    },
+    {
+      "number": "9",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "mass",
+        "url": "http://en.wikipedia.org/wiki/Jochen_Mass",
+        "givenName": "Jochen",
+        "familyName": "Mass",
+        "dateOfBirth": "1946-09-30",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "ats",
+        "url": "https://en.wikipedia.org/wiki/ATS_Wheels",
+        "name": "ATS",
+        "nationality": "Italian"
+      },
+      "grid": "13",
+      "laps": "52",
+      "status": "Finished",
+      "Time": {
+        "millis": "5933540",
+        "time": "+1:49.070"
+      }
+    },
+    {
+      "number": "10",
+      "position": "12",
+      "positionText": "12",
+      "points": "0",
+      "Driver": {
+        "driverId": "jarier",
+        "url": "http://en.wikipedia.org/wiki/Jean-Pierre_Jarier",
+        "givenName": "Jean-Pierre",
+        "familyName": "Jarier",
+        "dateOfBirth": "1946-07-10",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "ats",
+        "url": "https://en.wikipedia.org/wiki/ATS_Wheels",
+        "name": "ATS",
+        "nationality": "Italian"
+      },
+      "grid": "11",
+      "laps": "51",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "30",
+      "position": "13",
+      "positionText": "13",
+      "points": "0",
+      "Driver": {
+        "driverId": "lunger",
+        "url": "http://en.wikipedia.org/wiki/Brett_Lunger",
+        "givenName": "Brett",
+        "familyName": "Lunger",
+        "dateOfBirth": "1945-11-14",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "24",
+      "laps": "51",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "3",
+      "position": "14",
+      "positionText": "14",
+      "points": "0",
+      "Driver": {
+        "driverId": "pironi",
+        "url": "http://en.wikipedia.org/wiki/Didier_Pironi",
+        "givenName": "Didier",
+        "familyName": "Pironi",
+        "dateOfBirth": "1952-03-26",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "tyrrell",
+        "url": "https://en.wikipedia.org/wiki/Tyrrell_Racing",
+        "name": "Tyrrell",
+        "nationality": "British"
+      },
+      "grid": "23",
+      "laps": "51",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "17",
+      "position": "15",
+      "positionText": "15",
+      "points": "0",
+      "Driver": {
+        "driverId": "regazzoni",
+        "url": "http://en.wikipedia.org/wiki/Clay_Regazzoni",
+        "givenName": "Clay",
+        "familyName": "Regazzoni",
+        "dateOfBirth": "1939-09-05",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "shadow",
+        "url": "https://en.wikipedia.org/wiki/Shadow_Racing_Cars",
+        "name": "Shadow",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "51",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "26",
+      "position": "16",
+      "positionText": "16",
+      "points": "0",
+      "Driver": {
+        "driverId": "laffite",
+        "url": "http://en.wikipedia.org/wiki/Jacques_Laffite",
+        "givenName": "Jacques",
+        "familyName": "Laffite",
+        "dateOfBirth": "1943-11-21",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "ligier",
+        "url": "https://en.wikipedia.org/wiki/Ligier",
+        "name": "Ligier",
+        "nationality": "French"
+      },
+      "grid": "8",
+      "laps": "50",
+      "status": "Engine"
+    },
+    {
+      "number": "16",
+      "position": "17",
+      "positionText": "17",
+      "points": "0",
+      "Driver": {
+        "driverId": "stuck",
+        "url": "http://en.wikipedia.org/wiki/Hans_Joachim_Stuck",
+        "givenName": "Hans-Joachim",
+        "familyName": "Stuck",
+        "dateOfBirth": "1951-01-01",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "shadow",
+        "url": "https://en.wikipedia.org/wiki/Shadow_Racing_Cars",
+        "name": "Shadow",
+        "nationality": "British"
+      },
+      "grid": "18",
+      "laps": "50",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "19",
+      "position": "18",
+      "positionText": "18",
+      "points": "0",
+      "Driver": {
+        "driverId": "brambilla",
+        "url": "http://en.wikipedia.org/wiki/Vittorio_Brambilla",
+        "givenName": "Vittorio",
+        "familyName": "Brambilla",
+        "dateOfBirth": "1937-11-11",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "surtees",
+        "url": "https://en.wikipedia.org/wiki/Surtees",
+        "name": "Surtees",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "50",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "2",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "watson",
+        "url": "http://en.wikipedia.org/wiki/John_Watson_(racing_driver)",
+        "givenName": "John",
+        "familyName": "Watson",
+        "dateOfBirth": "1946-05-04",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brabham",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham",
+        "nationality": "British"
+      },
+      "grid": "4",
+      "laps": "41",
+      "status": "Engine"
+    },
+    {
+      "number": "27",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "jones",
+        "url": "http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)",
+        "givenName": "Alan",
+        "familyName": "Jones",
+        "dateOfBirth": "1946-11-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "36",
+      "status": "Fuel system"
+    },
+    {
+      "number": "22",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ongais",
+        "url": "http://en.wikipedia.org/wiki/Danny_Ongais",
+        "givenName": "Danny",
+        "familyName": "Ongais",
+        "dateOfBirth": "1942-05-21",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "ensign",
+        "url": "https://en.wikipedia.org/wiki/Ensign_Racing",
+        "name": "Ensign",
+        "nationality": "British"
+      },
+      "grid": "21",
+      "laps": "35",
+      "status": "Distributor"
+    },
+    {
+      "number": "23",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "leoni",
+        "url": "http://en.wikipedia.org/wiki/Lamberto_Leoni",
+        "givenName": "Lamberto",
+        "familyName": "Leoni",
+        "dateOfBirth": "1953-05-24",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ensign",
+        "url": "https://en.wikipedia.org/wiki/Ensign_Racing",
+        "name": "Ensign",
+        "nationality": "British"
+      },
+      "grid": "22",
+      "laps": "28",
+      "status": "Engine"
+    },
+    {
+      "number": "37",
+      "position": "23",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "merzario",
+        "url": "http://en.wikipedia.org/wiki/Arturo_Merzario",
+        "givenName": "Arturo",
+        "familyName": "Merzario",
+        "dateOfBirth": "1943-03-11",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "merzario",
+        "url": "https://en.wikipedia.org/wiki/Merzario",
+        "name": "Merzario",
+        "nationality": "Italian"
+      },
+      "grid": "20",
+      "laps": "9",
+      "status": "Differential"
+    },
+    {
+      "number": "18",
+      "position": "24",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "keegan",
+        "url": "http://en.wikipedia.org/wiki/Rupert_Keegan",
+        "givenName": "Rupert",
+        "familyName": "Keegan",
+        "dateOfBirth": "1955-02-26",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "surtees",
+        "url": "https://en.wikipedia.org/wiki/Surtees",
+        "name": "Surtees",
+        "nationality": "British"
+      },
+      "grid": "19",
+      "laps": "4",
+      "status": "Overheating"
+    }
+  ]
+}

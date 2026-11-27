@@ -1,0 +1,767 @@
+{
+  "season": "1952",
+  "round": "2",
+  "raceName": "Indianapolis 500",
+  "circuit": {
+    "circuitId": "indianapolis",
+    "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+    "circuitName": "Indianapolis Motor Speedway",
+    "Location": {
+      "lat": "39.795",
+      "long": "-86.2347",
+      "locality": "Indianapolis",
+      "country": "USA"
+    }
+  },
+  "date": "1952-05-30",
+  "time": null,
+  "updated_at": "2026-11-27T05:32:43.081555Z",
+  "results": [
+    {
+      "number": "98",
+      "position": "1",
+      "positionText": "1",
+      "points": "8",
+      "Driver": {
+        "driverId": "ruttman",
+        "url": "http://en.wikipedia.org/wiki/Troy_Ruttman",
+        "givenName": "Troy",
+        "familyName": "Ruttman",
+        "dateOfBirth": "1930-03-11",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kuzma",
+        "url": "https://en.wikipedia.org/wiki/Eddie_Kuzma",
+        "name": "Kuzma",
+        "nationality": "American"
+      },
+      "grid": "7",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "13961880",
+        "time": "3:52:41.880"
+      }
+    },
+    {
+      "number": "59",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "rathmann",
+        "url": "http://en.wikipedia.org/wiki/Jim_Rathmann",
+        "givenName": "Jim",
+        "familyName": "Rathmann",
+        "dateOfBirth": "1928-07-16",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "10",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14204210",
+        "time": "+4:02.330"
+      }
+    },
+    {
+      "number": "18",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "hanks",
+        "url": "http://en.wikipedia.org/wiki/Sam_Hanks",
+        "givenName": "Sam",
+        "familyName": "Hanks",
+        "dateOfBirth": "1914-07-13",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "5",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14333490",
+        "time": "+6:11.610"
+      }
+    },
+    {
+      "number": "1",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "darter",
+        "url": "http://en.wikipedia.org/wiki/Duane_Carter",
+        "givenName": "Duane",
+        "familyName": "Carter",
+        "dateOfBirth": "1913-05-05",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lesovsky",
+        "url": "https://en.wikipedia.org/wiki/Lesovsky",
+        "name": "Lesovsky",
+        "nationality": "American"
+      },
+      "grid": "6",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14370220",
+        "time": "+6:48.340"
+      }
+    },
+    {
+      "number": "33",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "cross",
+        "url": "http://en.wikipedia.org/wiki/Art_Cross",
+        "givenName": "Art",
+        "familyName": "Cross",
+        "dateOfBirth": "1918-01-24",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "20",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14482030",
+        "time": "+8:40.150"
+      }
+    },
+    {
+      "number": "77",
+      "position": "6",
+      "positionText": "6",
+      "points": "0",
+      "Driver": {
+        "driverId": "bryan",
+        "url": "http://en.wikipedia.org/wiki/Jimmy_Bryan",
+        "givenName": "Jimmy",
+        "familyName": "Bryan",
+        "dateOfBirth": "1926-01-28",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "21",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14526200",
+        "time": "+9:24.320"
+      }
+    },
+    {
+      "number": "37",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "reece",
+        "url": "http://en.wikipedia.org/wiki/Jimmy_Reece",
+        "givenName": "Jimmy",
+        "familyName": "Reece",
+        "dateOfBirth": "1929-11-17",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "23",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14597120",
+        "time": "+10:35.240"
+      }
+    },
+    {
+      "number": "54",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "george_connor",
+        "url": "http://en.wikipedia.org/wiki/George_Connor_(driver)",
+        "givenName": "George",
+        "familyName": "Connor",
+        "dateOfBirth": "1906-08-16",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "14",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14682490",
+        "time": "+12:00.610"
+      }
+    },
+    {
+      "number": "22",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "griffith",
+        "url": "http://en.wikipedia.org/wiki/Cliff_Griffith",
+        "givenName": "Cliff",
+        "familyName": "Griffith",
+        "dateOfBirth": "1916-02-06",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "9",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14705640",
+        "time": "+12:23.760"
+      }
+    },
+    {
+      "number": "5",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "parsons",
+        "url": "http://en.wikipedia.org/wiki/Johnnie_Parsons",
+        "givenName": "Johnnie",
+        "familyName": "Parsons",
+        "dateOfBirth": "1918-07-04",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "31",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14779660",
+        "time": "+13:37.780"
+      }
+    },
+    {
+      "number": "4",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "mcgrath",
+        "url": "http://en.wikipedia.org/wiki/Jack_McGrath_(racing_driver)",
+        "givenName": "Jack",
+        "familyName": "McGrath",
+        "dateOfBirth": "1919-10-08",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "3",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14823600",
+        "time": "+14:21.720"
+      }
+    },
+    {
+      "number": "29",
+      "position": "12",
+      "positionText": "12",
+      "points": "0",
+      "Driver": {
+        "driverId": "rigsby",
+        "url": "http://en.wikipedia.org/wiki/Jim_Rigsby",
+        "givenName": "Jim",
+        "familyName": "Rigsby",
+        "dateOfBirth": "1923-06-06",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "watson",
+        "url": "https://en.wikipedia.org/wiki/A._J._Watson",
+        "name": "Watson",
+        "nationality": "American"
+      },
+      "grid": "26",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14926980",
+        "time": "+16:05.100"
+      }
+    },
+    {
+      "number": "14",
+      "position": "13",
+      "positionText": "13",
+      "points": "0",
+      "Driver": {
+        "driverId": "james",
+        "url": "http://en.wikipedia.org/wiki/Joe_James_(racing_driver)",
+        "givenName": "Joe",
+        "familyName": "James",
+        "dateOfBirth": "1925-05-23",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "16",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "14977530",
+        "time": "+16:55.650"
+      }
+    },
+    {
+      "number": "7",
+      "position": "14",
+      "positionText": "14",
+      "points": "0",
+      "Driver": {
+        "driverId": "schindler",
+        "url": "http://en.wikipedia.org/wiki/Bill_Schindler",
+        "givenName": "Bill",
+        "familyName": "Schindler",
+        "dateOfBirth": "1909-03-06",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "stevens",
+        "url": "https://en.wikipedia.org/wiki/Myron_Stevens",
+        "name": "Stevens",
+        "nationality": "American"
+      },
+      "grid": "15",
+      "laps": "200",
+      "status": "Finished",
+      "Time": {
+        "millis": "15090540",
+        "time": "+18:48.660"
+      }
+    },
+    {
+      "number": "65",
+      "position": "15",
+      "positionText": "15",
+      "points": "0",
+      "Driver": {
+        "driverId": "fonder",
+        "url": "http://en.wikipedia.org/wiki/George_Fonder",
+        "givenName": "George",
+        "familyName": "Fonder",
+        "dateOfBirth": "1917-06-22",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "sherman",
+        "url": "https://en.wikipedia.org/wiki/Roy_Sherman",
+        "name": "Sherman",
+        "nationality": "American"
+      },
+      "grid": "13",
+      "laps": "197",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "81",
+      "position": "16",
+      "positionText": "16",
+      "points": "0",
+      "Driver": {
+        "driverId": "johnson",
+        "url": "http://en.wikipedia.org/wiki/Eddie_Johnson_(auto_racer)",
+        "givenName": "Eddie",
+        "familyName": "Johnson",
+        "dateOfBirth": "1919-02-10",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "trevis",
+        "url": "https://en.wikipedia.org/wiki/Trevis",
+        "name": "Trevis",
+        "nationality": "American"
+      },
+      "grid": "24",
+      "laps": "193",
+      "status": "+7 Laps"
+    },
+    {
+      "number": "26",
+      "position": "17",
+      "positionText": "17",
+      "points": "1",
+      "Driver": {
+        "driverId": "vukovich",
+        "url": "http://en.wikipedia.org/wiki/Bill_Vukovich",
+        "givenName": "Bill",
+        "familyName": "Vukovich",
+        "dateOfBirth": "1918-12-13",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "8",
+      "laps": "191",
+      "status": "Steering"
+    },
+    {
+      "number": "16",
+      "position": "18",
+      "positionText": "18",
+      "points": "0",
+      "Driver": {
+        "driverId": "stevenson",
+        "url": "http://en.wikipedia.org/wiki/Chuck_Stevenson",
+        "givenName": "Chuck",
+        "familyName": "Stevenson",
+        "dateOfBirth": "1919-10-15",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "11",
+      "laps": "187",
+      "status": "+13 Laps"
+    },
+    {
+      "number": "2",
+      "position": "19",
+      "positionText": "19",
+      "points": "0",
+      "Driver": {
+        "driverId": "banks",
+        "url": "http://en.wikipedia.org/wiki/Henry_Banks",
+        "givenName": "Henry",
+        "familyName": "Banks",
+        "dateOfBirth": "1913-06-14",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lesovsky",
+        "url": "https://en.wikipedia.org/wiki/Lesovsky",
+        "name": "Lesovsky",
+        "nationality": "American"
+      },
+      "grid": "12",
+      "laps": "184",
+      "status": "+16 Laps"
+    },
+    {
+      "number": "8",
+      "position": "20",
+      "positionText": "20",
+      "points": "0",
+      "Driver": {
+        "driverId": "ayulo",
+        "url": "http://en.wikipedia.org/wiki/Manny_Ayulo",
+        "givenName": "Manny",
+        "familyName": "Ayulo",
+        "dateOfBirth": "1921-10-20",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lesovsky",
+        "url": "https://en.wikipedia.org/wiki/Lesovsky",
+        "name": "Lesovsky",
+        "nationality": "American"
+      },
+      "grid": "28",
+      "laps": "184",
+      "status": "+16 Laps"
+    },
+    {
+      "number": "31",
+      "position": "21",
+      "positionText": "21",
+      "points": "0",
+      "Driver": {
+        "driverId": "mcdowell",
+        "url": "http://en.wikipedia.org/wiki/Johnny_McDowell",
+        "givenName": "Johnny",
+        "familyName": "McDowell",
+        "dateOfBirth": "1915-01-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "33",
+      "laps": "182",
+      "status": "+18 Laps"
+    },
+    {
+      "number": "48",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "webb",
+        "url": "http://en.wikipedia.org/wiki/Travis_Webb",
+        "givenName": "Travis",
+        "familyName": "Webb",
+        "dateOfBirth": "1910-10-08",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "bromme",
+        "url": "https://en.wikipedia.org/wiki/Bromme",
+        "name": "Bromme",
+        "nationality": "American"
+      },
+      "grid": "29",
+      "laps": "162",
+      "status": "Oil leak"
+    },
+    {
+      "number": "34",
+      "position": "23",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ward",
+        "url": "http://en.wikipedia.org/wiki/Rodger_Ward",
+        "givenName": "Rodger",
+        "familyName": "Ward",
+        "dateOfBirth": "1921-01-10",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "22",
+      "laps": "130",
+      "status": "Oil pressure"
+    },
+    {
+      "number": "27",
+      "position": "24",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bettenhausen",
+        "url": "http://en.wikipedia.org/wiki/Tony_Bettenhausen",
+        "givenName": "Tony",
+        "familyName": "Bettenhausen",
+        "dateOfBirth": "1916-09-12",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "deidt",
+        "url": "https://en.wikipedia.org/wiki/Emil_Diedt",
+        "name": "Deidt",
+        "nationality": "American"
+      },
+      "grid": "30",
+      "laps": "93",
+      "status": "Oil pressure"
+    },
+    {
+      "number": "36",
+      "position": "25",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "nalon",
+        "url": "http://en.wikipedia.org/wiki/Duke_Nalon",
+        "givenName": "Duke",
+        "familyName": "Nalon",
+        "dateOfBirth": "1913-03-02",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "4",
+      "laps": "84",
+      "status": "Supercharger"
+    },
+    {
+      "number": "73",
+      "position": "26",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "sweikert",
+        "url": "http://en.wikipedia.org/wiki/Bob_Sweikert",
+        "givenName": "Bob",
+        "familyName": "Sweikert",
+        "dateOfBirth": "1926-05-20",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "32",
+      "laps": "77",
+      "status": "Differential"
+    },
+    {
+      "number": "28",
+      "position": "27",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "agabashian",
+        "url": "http://en.wikipedia.org/wiki/Fred_Agabashian",
+        "givenName": "Fred",
+        "familyName": "Agabashian",
+        "dateOfBirth": "1913-08-21",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "1",
+      "laps": "71",
+      "status": "Turbo"
+    },
+    {
+      "number": "67",
+      "position": "28",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hartley",
+        "url": "http://en.wikipedia.org/wiki/Gene_Hartley",
+        "givenName": "Gene",
+        "familyName": "Hartley",
+        "dateOfBirth": "1926-01-28",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "18",
+      "laps": "65",
+      "status": "Exhaust"
+    },
+    {
+      "number": "93",
+      "position": "29",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bob_scott",
+        "url": "http://en.wikipedia.org/wiki/Bob_Scott_(auto_racer)",
+        "givenName": "Bob",
+        "familyName": "Scott",
+        "dateOfBirth": "1928-10-04",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "25",
+      "laps": "49",
+      "status": "Transmission"
+    },
+    {
+      "number": "21",
+      "position": "30",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "miller",
+        "url": "http://en.wikipedia.org/wiki/Chet_Miller",
+        "givenName": "Chet",
+        "familyName": "Miller",
+        "dateOfBirth": "1902-07-19",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "kurtis_kraft",
+        "url": "https://en.wikipedia.org/wiki/Kurtis_Kraft",
+        "name": "Kurtis Kraft",
+        "nationality": "American"
+      },
+      "grid": "27",
+      "laps": "41",
+      "status": "Supercharger"
+    }
+  ]
+}

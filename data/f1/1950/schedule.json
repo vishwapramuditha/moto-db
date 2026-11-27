@@ -1,0 +1,133 @@
+{
+  "season": "1950",
+  "total_rounds": 7,
+  "updated_at": "2026-11-27T05:31:44.952180Z",
+  "races": [
+    {
+      "season": "1950",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1950_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "silverstone",
+        "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+        "circuitName": "Silverstone Circuit",
+        "Location": {
+          "lat": "52.0786",
+          "long": "-1.01694",
+          "locality": "Silverstone",
+          "country": "UK"
+        }
+      },
+      "date": "1950-05-13"
+    },
+    {
+      "season": "1950",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1950_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1950-05-21"
+    },
+    {
+      "season": "1950",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1950_Indianapolis_500",
+      "raceName": "Indianapolis 500",
+      "Circuit": {
+        "circuitId": "indianapolis",
+        "url": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+        "circuitName": "Indianapolis Motor Speedway",
+        "Location": {
+          "lat": "39.795",
+          "long": "-86.2347",
+          "locality": "Indianapolis",
+          "country": "USA"
+        }
+      },
+      "date": "1950-05-30"
+    },
+    {
+      "season": "1950",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix",
+      "raceName": "Swiss Grand Prix",
+      "Circuit": {
+        "circuitId": "bremgarten",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Bremgarten",
+        "circuitName": "Circuit Bremgarten",
+        "Location": {
+          "lat": "46.9589",
+          "long": "7.40194",
+          "locality": "Bern",
+          "country": "Switzerland"
+        }
+      },
+      "date": "1950-06-04"
+    },
+    {
+      "season": "1950",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1950_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "lat": "50.4372",
+          "long": "5.97139",
+          "locality": "Spa",
+          "country": "Belgium"
+        }
+      },
+      "date": "1950-06-18"
+    },
+    {
+      "season": "1950",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1950_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "reims",
+        "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
+        "circuitName": "Reims-Gueux",
+        "Location": {
+          "lat": "49.2542",
+          "long": "3.93083",
+          "locality": "Reims",
+          "country": "France"
+        }
+      },
+      "date": "1950-07-02"
+    },
+    {
+      "season": "1950",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1950_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1950-09-03"
+    }
+  ]
+}

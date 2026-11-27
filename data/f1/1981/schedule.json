@@ -1,0 +1,277 @@
+{
+  "season": "1981",
+  "total_rounds": 15,
+  "updated_at": "2026-11-27T05:49:30.115820Z",
+  "races": [
+    {
+      "season": "1981",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1981_United_States_Grand_Prix_West",
+      "raceName": "United States Grand Prix West",
+      "Circuit": {
+        "circuitId": "long_beach",
+        "url": "https://en.wikipedia.org/wiki/Long_Beach,_California",
+        "circuitName": "Long Beach",
+        "Location": {
+          "lat": "33.7651",
+          "long": "-118.189",
+          "locality": "California",
+          "country": "USA"
+        }
+      },
+      "date": "1981-03-15"
+    },
+    {
+      "season": "1981",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1981_Brazilian_Grand_Prix",
+      "raceName": "Brazilian Grand Prix",
+      "Circuit": {
+        "circuitId": "jacarepagua",
+        "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
+        "circuitName": "Autódromo Internacional Nelson Piquet",
+        "Location": {
+          "lat": "-22.9756",
+          "long": "-43.395",
+          "locality": "Rio de Janeiro",
+          "country": "Brazil"
+        }
+      },
+      "date": "1981-03-29"
+    },
+    {
+      "season": "1981",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1981_Argentine_Grand_Prix",
+      "raceName": "Argentine Grand Prix",
+      "Circuit": {
+        "circuitId": "galvez",
+        "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+        "circuitName": "Autódromo Juan y Oscar Gálvez",
+        "Location": {
+          "lat": "-34.6943",
+          "long": "-58.4593",
+          "locality": "Buenos Aires",
+          "country": "Argentina"
+        }
+      },
+      "date": "1981-04-12"
+    },
+    {
+      "season": "1981",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1981_San_Marino_Grand_Prix",
+      "raceName": "San Marino Grand Prix",
+      "Circuit": {
+        "circuitId": "imola",
+        "url": "https://en.wikipedia.org/wiki/Imola_Circuit",
+        "circuitName": "Autodromo Enzo e Dino Ferrari",
+        "Location": {
+          "lat": "44.3439",
+          "long": "11.7167",
+          "locality": "Imola",
+          "country": "Italy"
+        }
+      },
+      "date": "1981-05-03"
+    },
+    {
+      "season": "1981",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1981_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "zolder",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "circuitName": "Zolder",
+        "Location": {
+          "lat": "50.9894",
+          "long": "5.25694",
+          "locality": "Heusden-Zolder",
+          "country": "Belgium"
+        }
+      },
+      "date": "1981-05-17"
+    },
+    {
+      "season": "1981",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1981_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1981-05-31"
+    },
+    {
+      "season": "1981",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1981_Spanish_Grand_Prix",
+      "raceName": "Spanish Grand Prix",
+      "Circuit": {
+        "circuitId": "jarama",
+        "url": "https://en.wikipedia.org/wiki/Circuito_del_Jarama",
+        "circuitName": "Jarama",
+        "Location": {
+          "lat": "40.6171",
+          "long": "-3.58558",
+          "locality": "Madrid",
+          "country": "Spain"
+        }
+      },
+      "date": "1981-06-21"
+    },
+    {
+      "season": "1981",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1981_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "dijon",
+        "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
+        "circuitName": "Dijon-Prenois",
+        "Location": {
+          "lat": "47.3625",
+          "long": "4.89913",
+          "locality": "Dijon",
+          "country": "France"
+        }
+      },
+      "date": "1981-07-05"
+    },
+    {
+      "season": "1981",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1981_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "silverstone",
+        "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+        "circuitName": "Silverstone Circuit",
+        "Location": {
+          "lat": "52.0786",
+          "long": "-1.01694",
+          "locality": "Silverstone",
+          "country": "UK"
+        }
+      },
+      "date": "1981-07-18"
+    },
+    {
+      "season": "1981",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/1981_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "hockenheimring",
+        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "circuitName": "Hockenheimring",
+        "Location": {
+          "lat": "49.3278",
+          "long": "8.56583",
+          "locality": "Hockenheim",
+          "country": "Germany"
+        }
+      },
+      "date": "1981-08-02"
+    },
+    {
+      "season": "1981",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/1981_Austrian_Grand_Prix",
+      "raceName": "Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "lat": "47.2197",
+          "long": "14.7647",
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "date": "1981-08-16"
+    },
+    {
+      "season": "1981",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/1981_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1981-08-30"
+    },
+    {
+      "season": "1981",
+      "round": "13",
+      "url": "https://en.wikipedia.org/wiki/1981_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1981-09-13"
+    },
+    {
+      "season": "1981",
+      "round": "14",
+      "url": "https://en.wikipedia.org/wiki/1981_Canadian_Grand_Prix",
+      "raceName": "Canadian Grand Prix",
+      "Circuit": {
+        "circuitId": "villeneuve",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+        "circuitName": "Circuit Gilles Villeneuve",
+        "Location": {
+          "lat": "45.5",
+          "long": "-73.5228",
+          "locality": "Montreal",
+          "country": "Canada"
+        }
+      },
+      "date": "1981-09-27"
+    },
+    {
+      "season": "1981",
+      "round": "15",
+      "url": "https://en.wikipedia.org/wiki/1981_Caesars_Palace_Grand_Prix",
+      "raceName": "Caesars Palace Grand Prix",
+      "Circuit": {
+        "circuitId": "las_vegas",
+        "url": "https://en.wikipedia.org/wiki/Las_Vegas_Strip_Circuit",
+        "circuitName": "Las Vegas Street Circuit",
+        "Location": {
+          "lat": "36.1162",
+          "long": "-115.174",
+          "locality": "Nevada",
+          "country": "USA"
+        }
+      },
+      "date": "1981-10-17"
+    }
+  ]
+}

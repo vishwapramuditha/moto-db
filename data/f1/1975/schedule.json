@@ -1,0 +1,259 @@
+{
+  "season": "1975",
+  "total_rounds": 14,
+  "updated_at": "2026-11-27T05:45:03.689101Z",
+  "races": [
+    {
+      "season": "1975",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1975_Argentine_Grand_Prix",
+      "raceName": "Argentine Grand Prix",
+      "Circuit": {
+        "circuitId": "galvez",
+        "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+        "circuitName": "Autódromo Juan y Oscar Gálvez",
+        "Location": {
+          "lat": "-34.6943",
+          "long": "-58.4593",
+          "locality": "Buenos Aires",
+          "country": "Argentina"
+        }
+      },
+      "date": "1975-01-12"
+    },
+    {
+      "season": "1975",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1975_Brazilian_Grand_Prix",
+      "raceName": "Brazilian Grand Prix",
+      "Circuit": {
+        "circuitId": "interlagos",
+        "url": "https://en.wikipedia.org/wiki/Interlagos_Circuit",
+        "circuitName": "Autódromo José Carlos Pace",
+        "Location": {
+          "lat": "-23.7036",
+          "long": "-46.6997",
+          "locality": "São Paulo",
+          "country": "Brazil"
+        }
+      },
+      "date": "1975-01-26"
+    },
+    {
+      "season": "1975",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1975_South_African_Grand_Prix",
+      "raceName": "South African Grand Prix",
+      "Circuit": {
+        "circuitId": "kyalami",
+        "url": "https://en.wikipedia.org/wiki/Kyalami",
+        "circuitName": "Kyalami",
+        "Location": {
+          "lat": "-25.9894",
+          "long": "28.0767",
+          "locality": "Midrand",
+          "country": "South Africa"
+        }
+      },
+      "date": "1975-03-01"
+    },
+    {
+      "season": "1975",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1975_Spanish_Grand_Prix",
+      "raceName": "Spanish Grand Prix",
+      "Circuit": {
+        "circuitId": "montjuic",
+        "url": "https://en.wikipedia.org/wiki/Montju%C3%AFc_circuit",
+        "circuitName": "Montjuïc",
+        "Location": {
+          "lat": "41.3664",
+          "long": "2.15167",
+          "locality": "Barcelona",
+          "country": "Spain"
+        }
+      },
+      "date": "1975-04-27"
+    },
+    {
+      "season": "1975",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1975_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1975-05-11"
+    },
+    {
+      "season": "1975",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1975_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "zolder",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "circuitName": "Zolder",
+        "Location": {
+          "lat": "50.9894",
+          "long": "5.25694",
+          "locality": "Heusden-Zolder",
+          "country": "Belgium"
+        }
+      },
+      "date": "1975-05-25"
+    },
+    {
+      "season": "1975",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1975_Swedish_Grand_Prix",
+      "raceName": "Swedish Grand Prix",
+      "Circuit": {
+        "circuitId": "anderstorp",
+        "url": "https://en.wikipedia.org/wiki/Anderstorp_Raceway",
+        "circuitName": "Scandinavian Raceway",
+        "Location": {
+          "lat": "57.2653",
+          "long": "13.6042",
+          "locality": "Anderstorp",
+          "country": "Sweden"
+        }
+      },
+      "date": "1975-06-08"
+    },
+    {
+      "season": "1975",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1975_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1975-06-22"
+    },
+    {
+      "season": "1975",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1975_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "ricard",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Ricard",
+        "circuitName": "Circuit Paul Ricard",
+        "Location": {
+          "lat": "43.2506",
+          "long": "5.79167",
+          "locality": "Le Castellet",
+          "country": "France"
+        }
+      },
+      "date": "1975-07-06"
+    },
+    {
+      "season": "1975",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/1975_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "silverstone",
+        "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+        "circuitName": "Silverstone Circuit",
+        "Location": {
+          "lat": "52.0786",
+          "long": "-1.01694",
+          "locality": "Silverstone",
+          "country": "UK"
+        }
+      },
+      "date": "1975-07-19"
+    },
+    {
+      "season": "1975",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/1975_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "1975-08-03"
+    },
+    {
+      "season": "1975",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/1975_Austrian_Grand_Prix",
+      "raceName": "Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "lat": "47.2197",
+          "long": "14.7647",
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "date": "1975-08-17"
+    },
+    {
+      "season": "1975",
+      "round": "13",
+      "url": "https://en.wikipedia.org/wiki/1975_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1975-09-07"
+    },
+    {
+      "season": "1975",
+      "round": "14",
+      "url": "https://en.wikipedia.org/wiki/1975_United_States_Grand_Prix",
+      "raceName": "United States Grand Prix",
+      "Circuit": {
+        "circuitId": "watkins_glen",
+        "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+        "circuitName": "Watkins Glen",
+        "Location": {
+          "lat": "42.3369",
+          "long": "-76.9272",
+          "locality": "New York State",
+          "country": "USA"
+        }
+      },
+      "date": "1975-10-05"
+    }
+  ]
+}

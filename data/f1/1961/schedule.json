@@ -1,0 +1,151 @@
+{
+  "season": "1961",
+  "total_rounds": 8,
+  "updated_at": "2026-11-27T05:36:51.117313Z",
+  "races": [
+    {
+      "season": "1961",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1961_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1961-05-14"
+    },
+    {
+      "season": "1961",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1961_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1961-05-22"
+    },
+    {
+      "season": "1961",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1961_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "lat": "50.4372",
+          "long": "5.97139",
+          "locality": "Spa",
+          "country": "Belgium"
+        }
+      },
+      "date": "1961-06-18"
+    },
+    {
+      "season": "1961",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1961_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "reims",
+        "url": "https://en.wikipedia.org/wiki/Reims-Gueux",
+        "circuitName": "Reims-Gueux",
+        "Location": {
+          "lat": "49.2542",
+          "long": "3.93083",
+          "locality": "Reims",
+          "country": "France"
+        }
+      },
+      "date": "1961-07-02"
+    },
+    {
+      "season": "1961",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1961_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "aintree",
+        "url": "https://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit",
+        "circuitName": "Aintree",
+        "Location": {
+          "lat": "53.4769",
+          "long": "-2.94056",
+          "locality": "Liverpool",
+          "country": "UK"
+        }
+      },
+      "date": "1961-07-15"
+    },
+    {
+      "season": "1961",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1961_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "1961-08-06"
+    },
+    {
+      "season": "1961",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1961_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1961-09-10"
+    },
+    {
+      "season": "1961",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1961_United_States_Grand_Prix",
+      "raceName": "United States Grand Prix",
+      "Circuit": {
+        "circuitId": "watkins_glen",
+        "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+        "circuitName": "Watkins Glen",
+        "Location": {
+          "lat": "42.3369",
+          "long": "-76.9272",
+          "locality": "New York State",
+          "country": "USA"
+        }
+      },
+      "date": "1961-10-08"
+    }
+  ]
+}

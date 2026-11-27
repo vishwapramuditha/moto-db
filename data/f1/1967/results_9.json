@@ -1,0 +1,451 @@
+{
+  "season": "1967",
+  "round": "9",
+  "raceName": "Italian Grand Prix",
+  "circuit": {
+    "circuitId": "monza",
+    "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+    "circuitName": "Autodromo Nazionale di Monza",
+    "Location": {
+      "lat": "45.6156",
+      "long": "9.28111",
+      "locality": "Monza",
+      "country": "Italy"
+    }
+  },
+  "date": "1967-09-10",
+  "time": null,
+  "updated_at": "2026-11-27T05:40:06.839113Z",
+  "results": [
+    {
+      "number": "14",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "surtees",
+        "url": "http://en.wikipedia.org/wiki/John_Surtees",
+        "givenName": "John",
+        "familyName": "Surtees",
+        "dateOfBirth": "1934-02-11",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "honda",
+        "url": "https://en.wikipedia.org/wiki/Honda_in_Formula_One",
+        "name": "Honda",
+        "nationality": "Japanese"
+      },
+      "grid": "9",
+      "laps": "68",
+      "status": "Finished",
+      "Time": {
+        "millis": "6225000",
+        "time": "1:43"
+      }
+    },
+    {
+      "number": "16",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "brabham-repco",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Repco",
+        "nationality": "British"
+      },
+      "grid": "2",
+      "laps": "68",
+      "status": "Finished",
+      "Time": {
+        "millis": "6225200",
+        "time": "+0.200"
+      }
+    },
+    {
+      "number": "20",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "clark",
+        "url": "http://en.wikipedia.org/wiki/Jim_Clark",
+        "givenName": "Jim",
+        "familyName": "Clark",
+        "dateOfBirth": "1936-03-04",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "68",
+      "status": "Finished",
+      "Time": {
+        "millis": "6248100",
+        "time": "+23.100"
+      }
+    },
+    {
+      "number": "30",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "rindt",
+        "url": "http://en.wikipedia.org/wiki/Jochen_Rindt",
+        "givenName": "Jochen",
+        "familyName": "Rindt",
+        "dateOfBirth": "1942-04-18",
+        "nationality": "Austrian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "68",
+      "status": "Finished",
+      "Time": {
+        "millis": "6281600",
+        "time": "+56.600"
+      }
+    },
+    {
+      "number": "36",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "spence",
+        "url": "http://en.wikipedia.org/wiki/Mike_Spence",
+        "givenName": "Mike",
+        "familyName": "Spence",
+        "dateOfBirth": "1936-12-30",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "67",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "32",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "ickx",
+        "url": "http://en.wikipedia.org/wiki/Jacky_Ickx",
+        "givenName": "Jacky",
+        "familyName": "Ickx",
+        "dateOfBirth": "1945-01-01",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "66",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "2",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "amon",
+        "url": "http://en.wikipedia.org/wiki/Chris_Amon",
+        "givenName": "Chris",
+        "familyName": "Amon",
+        "dateOfBirth": "1943-07-20",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "4",
+      "laps": "64",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "22",
+      "position": "8",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hill",
+        "url": "http://en.wikipedia.org/wiki/Graham_Hill",
+        "givenName": "Graham",
+        "familyName": "Hill",
+        "dateOfBirth": "1929-02-15",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "58",
+      "status": "Engine"
+    },
+    {
+      "number": "6",
+      "position": "9",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "siffert",
+        "url": "http://en.wikipedia.org/wiki/Jo_Siffert",
+        "givenName": "Jo",
+        "familyName": "Siffert",
+        "dateOfBirth": "1936-07-07",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "50",
+      "status": "Accident"
+    },
+    {
+      "number": "24",
+      "position": "10",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "baghetti",
+        "url": "http://en.wikipedia.org/wiki/Giancarlo_Baghetti",
+        "givenName": "Giancarlo",
+        "familyName": "Baghetti",
+        "dateOfBirth": "1934-12-25",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      },
+      "grid": "17",
+      "laps": "50",
+      "status": "Engine"
+    },
+    {
+      "number": "4",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "mclaren",
+        "url": "http://en.wikipedia.org/wiki/Bruce_McLaren",
+        "givenName": "Bruce",
+        "familyName": "McLaren",
+        "dateOfBirth": "1937-08-30",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "mclaren-brm",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren-BRM",
+        "nationality": "British"
+      },
+      "grid": "3",
+      "laps": "46",
+      "status": "Engine"
+    },
+    {
+      "number": "26",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonnier",
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "givenName": "Jo",
+        "familyName": "Bonnier",
+        "dateOfBirth": "1930-01-31",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "46",
+      "status": "Overheating"
+    },
+    {
+      "number": "34",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "stewart",
+        "url": "http://en.wikipedia.org/wiki/Jackie_Stewart",
+        "givenName": "Jackie",
+        "familyName": "Stewart",
+        "dateOfBirth": "1939-06-11",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "7",
+      "laps": "45",
+      "status": "Engine"
+    },
+    {
+      "number": "18",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hulme",
+        "url": "http://en.wikipedia.org/wiki/Denny_Hulme",
+        "givenName": "Denny",
+        "familyName": "Hulme",
+        "dateOfBirth": "1936-06-18",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "brabham-repco",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Repco",
+        "nationality": "British"
+      },
+      "grid": "6",
+      "laps": "30",
+      "status": "Overheating"
+    },
+    {
+      "number": "12",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ligier",
+        "url": "http://en.wikipedia.org/wiki/Guy_Ligier",
+        "givenName": "Guy",
+        "familyName": "Ligier",
+        "dateOfBirth": "1930-07-12",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "brabham-repco",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Repco",
+        "nationality": "British"
+      },
+      "grid": "18",
+      "laps": "26",
+      "status": "Engine"
+    },
+    {
+      "number": "38",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "irwin",
+        "url": "http://en.wikipedia.org/wiki/Chris_Irwin",
+        "givenName": "Chris",
+        "familyName": "Irwin",
+        "dateOfBirth": "1942-06-27",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "16",
+      "status": "Injection"
+    },
+    {
+      "number": "10",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "scarfiotti",
+        "url": "http://en.wikipedia.org/wiki/Ludovico_Scarfiotti",
+        "givenName": "Ludovico",
+        "familyName": "Scarfiotti",
+        "dateOfBirth": "1933-10-18",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "eagle-weslake",
+        "url": "https://en.wikipedia.org/wiki/All_American_Racers",
+        "name": "Eagle-Weslake",
+        "nationality": "American"
+      },
+      "grid": "10",
+      "laps": "5",
+      "status": "Engine"
+    },
+    {
+      "number": "8",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gurney",
+        "url": "http://en.wikipedia.org/wiki/Dan_Gurney",
+        "givenName": "Dan",
+        "familyName": "Gurney",
+        "dateOfBirth": "1931-04-13",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "eagle-weslake",
+        "url": "https://en.wikipedia.org/wiki/All_American_Racers",
+        "name": "Eagle-Weslake",
+        "nationality": "American"
+      },
+      "grid": "5",
+      "laps": "4",
+      "status": "Engine"
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "season": "1950",
+  "round": "7",
+  "raceName": "Italian Grand Prix",
+  "circuit": {
+    "circuitId": "monza",
+    "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+    "circuitName": "Autodromo Nazionale di Monza",
+    "Location": {
+      "lat": "45.6156",
+      "long": "9.28111",
+      "locality": "Monza",
+      "country": "Italy"
+    }
+  },
+  "date": "1950-09-03",
+  "time": null,
+  "updated_at": "2026-11-27T05:31:55.307389Z",
+  "results": [
+    {
+      "number": "10",
+      "position": "1",
+      "positionText": "1",
+      "points": "8",
+      "Driver": {
+        "driverId": "farina",
+        "url": "http://en.wikipedia.org/wiki/Nino_Farina",
+        "givenName": "Nino",
+        "familyName": "Farina",
+        "dateOfBirth": "1906-10-30",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "alfa",
+        "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One",
+        "name": "Alfa Romeo",
+        "nationality": "Swiss"
+      },
+      "grid": "3",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "10277400",
+        "time": "2:51:17.400"
+      }
+    },
+    {
+      "number": "48",
+      "position": "2",
+      "positionText": "2",
+      "points": "3",
+      "Driver": {
+        "driverId": "serafini",
+        "url": "http://en.wikipedia.org/wiki/Dorino_Serafini",
+        "givenName": "Dorino",
+        "familyName": "Serafini",
+        "dateOfBirth": "1909-07-22",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "10356000",
+        "time": "+1:18.600"
+      }
+    },
+    {
+      "number": "48",
+      "position": "2",
+      "positionText": "2",
+      "points": "3",
+      "Driver": {
+        "driverId": "ascari",
+        "url": "http://en.wikipedia.org/wiki/Alberto_Ascari",
+        "givenName": "Alberto",
+        "familyName": "Ascari",
+        "dateOfBirth": "1918-07-13",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "80",
+      "status": "Finished"
+    },
+    {
+      "number": "36",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "fagioli",
+        "url": "http://en.wikipedia.org/wiki/Luigi_Fagioli",
+        "givenName": "Luigi",
+        "familyName": "Fagioli",
+        "dateOfBirth": "1898-06-09",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "alfa",
+        "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One",
+        "name": "Alfa Romeo",
+        "nationality": "Swiss"
+      },
+      "grid": "5",
+      "laps": "80",
+      "status": "Finished",
+      "Time": {
+        "millis": "10373000",
+        "time": "+1:35.600"
+      }
+    },
+    {
+      "number": "58",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "rosier",
+        "url": "http://en.wikipedia.org/wiki/Louis_Rosier",
+        "givenName": "Louis",
+        "familyName": "Rosier",
+        "dateOfBirth": "1905-11-05",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "13",
+      "laps": "75",
+      "status": "+5 Laps"
+    },
+    {
+      "number": "24",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "etancelin",
+        "url": "http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin",
+        "givenName": "Philippe",
+        "familyName": "Étancelin",
+        "dateOfBirth": "1896-12-28",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "16",
+      "laps": "75",
+      "status": "+5 Laps"
+    },
+    {
+      "number": "38",
+      "position": "6",
+      "positionText": "6",
+      "points": "0",
+      "Driver": {
+        "driverId": "graffenried",
+        "url": "http://en.wikipedia.org/wiki/Toulo_de_Graffenried",
+        "givenName": "Toulo",
+        "familyName": "de Graffenried",
+        "dateOfBirth": "1914-05-18",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "17",
+      "laps": "72",
+      "status": "+8 Laps"
+    },
+    {
+      "number": "8",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "whitehead",
+        "url": "http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver)",
+        "givenName": "Peter",
+        "familyName": "Whitehead",
+        "dateOfBirth": "1914-11-12",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "18",
+      "laps": "72",
+      "status": "+8 Laps"
+    },
+    {
+      "number": "50",
+      "position": "8",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "murray",
+        "url": "http://en.wikipedia.org/wiki/David_Murray_(driver)",
+        "givenName": "David",
+        "familyName": "Murray",
+        "dateOfBirth": "1909-12-28",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "24",
+      "laps": "56",
+      "status": "Gearbox"
+    },
+    {
+      "number": "32",
+      "position": "9",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "harrison",
+        "url": "http://en.wikipedia.org/wiki/Cuth_Harrison",
+        "givenName": "Cuth",
+        "familyName": "Harrison",
+        "dateOfBirth": "1906-07-06",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "era",
+        "url": "https://en.wikipedia.org/wiki/English_Racing_Automobiles",
+        "name": "ERA",
+        "nationality": "British"
+      },
+      "grid": "21",
+      "laps": "51",
+      "status": "Radiator"
+    },
+    {
+      "number": "12",
+      "position": "10",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "sommer",
+        "url": "http://en.wikipedia.org/wiki/Raymond_Sommer",
+        "givenName": "Raymond",
+        "familyName": "Sommer",
+        "dateOfBirth": "1906-08-31",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "8",
+      "laps": "48",
+      "status": "Gearbox"
+    },
+    {
+      "number": "40",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "guy_mairesse",
+        "url": "http://en.wikipedia.org/wiki/Guy_Mairesse",
+        "givenName": "Guy",
+        "familyName": "Mairesse",
+        "dateOfBirth": "1910-08-10",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "11",
+      "laps": "42",
+      "status": "Oil pipe"
+    },
+    {
+      "number": "4",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "rol",
+        "url": "http://en.wikipedia.org/wiki/Franco_Rol",
+        "givenName": "Franco",
+        "familyName": "Rol",
+        "dateOfBirth": "1908-06-05",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "9",
+      "laps": "39",
+      "status": "Retired"
+    },
+    {
+      "number": "60",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "fangio",
+        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+        "givenName": "Juan",
+        "familyName": "Fangio",
+        "dateOfBirth": "1911-06-24",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "alfa",
+        "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One",
+        "name": "Alfa Romeo",
+        "nationality": "Swiss"
+      },
+      "grid": "7",
+      "laps": "34",
+      "status": "Engine"
+    },
+    {
+      "number": "60",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "taruffi",
+        "url": "http://en.wikipedia.org/wiki/Piero_Taruffi",
+        "givenName": "Piero",
+        "familyName": "Taruffi",
+        "dateOfBirth": "1906-10-12",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "alfa",
+        "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One",
+        "name": "Alfa Romeo",
+        "nationality": "Swiss"
+      },
+      "grid": "7",
+      "laps": "34",
+      "status": "Engine"
+    },
+    {
+      "number": "56",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "levegh",
+        "url": "http://en.wikipedia.org/wiki/Pierre_Levegh",
+        "givenName": "Pierre",
+        "familyName": "Levegh",
+        "dateOfBirth": "1905-12-22",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "20",
+      "laps": "29",
+      "status": "Gearbox"
+    },
+    {
+      "number": "18",
+      "position": "15",
+      "positionText": "R",
+      "points": "1",
+      "Driver": {
+        "driverId": "fangio",
+        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+        "givenName": "Juan",
+        "familyName": "Fangio",
+        "dateOfBirth": "1911-06-24",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "alfa",
+        "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One",
+        "name": "Alfa Romeo",
+        "nationality": "Swiss"
+      },
+      "grid": "1",
+      "laps": "23",
+      "status": "Gearbox"
+    },
+    {
+      "number": "2",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "claes",
+        "url": "http://en.wikipedia.org/wiki/Johnny_Claes",
+        "givenName": "Johnny",
+        "familyName": "Claes",
+        "dateOfBirth": "1916-08-11",
+        "nationality": "Belgian"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "22",
+      "laps": "22",
+      "status": "Overheating"
+    },
+    {
+      "number": "16",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ascari",
+        "url": "http://en.wikipedia.org/wiki/Alberto_Ascari",
+        "givenName": "Alberto",
+        "familyName": "Ascari",
+        "dateOfBirth": "1918-07-13",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "21",
+      "status": "Engine"
+    },
+    {
+      "number": "22",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "biondetti",
+        "url": "http://en.wikipedia.org/wiki/Clemente_Biondetti",
+        "givenName": "Clemente",
+        "familyName": "Biondetti",
+        "dateOfBirth": "1898-08-18",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "25",
+      "laps": "17",
+      "status": "Engine"
+    },
+    {
+      "number": "64",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "louveau",
+        "url": "http://en.wikipedia.org/wiki/Henri_Louveau",
+        "givenName": "Henri",
+        "familyName": "Louveau",
+        "dateOfBirth": "1910-01-25",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "lago",
+        "url": "https://en.wikipedia.org/wiki/Talbot-Lago",
+        "name": "Talbot-Lago",
+        "nationality": "French"
+      },
+      "grid": "16",
+      "laps": "16",
+      "status": "Brakes"
+    },
+    {
+      "number": "62",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "comotti",
+        "url": "http://en.wikipedia.org/wiki/Franco_Comotti",
+        "givenName": "Franco",
+        "familyName": "Comotti",
+        "dateOfBirth": "1906-07-24",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "26",
+      "laps": "15",
+      "status": "Retired"
+    },
+    {
+      "number": "42",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "trintignant",
+        "url": "http://en.wikipedia.org/wiki/Maurice_Trintignant",
+        "givenName": "Maurice",
+        "familyName": "Trintignant",
+        "dateOfBirth": "1917-10-30",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "simca",
+        "url": "https://en.wikipedia.org/wiki/Simca",
+        "name": "Simca",
+        "nationality": "French"
+      },
+      "grid": "12",
+      "laps": "13",
+      "status": "Water pipe"
+    },
+    {
+      "number": "6",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "chiron",
+        "url": "http://en.wikipedia.org/wiki/Louis_Chiron",
+        "givenName": "Louis",
+        "familyName": "Chiron",
+        "dateOfBirth": "1899-08-03",
+        "nationality": "Monegasque"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "19",
+      "laps": "13",
+      "status": "Oil pressure"
+    },
+    {
+      "number": "46",
+      "position": "23",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "sanesi",
+        "url": "http://en.wikipedia.org/wiki/Consalvo_Sanesi",
+        "givenName": "Consalvo",
+        "familyName": "Sanesi",
+        "dateOfBirth": "1911-03-28",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "alfa",
+        "url": "https://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One",
+        "name": "Alfa Romeo",
+        "nationality": "Swiss"
+      },
+      "grid": "4",
+      "laps": "11",
+      "status": "Engine"
+    },
+    {
+      "number": "44",
+      "position": "24",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "manzon",
+        "url": "http://en.wikipedia.org/wiki/Robert_Manzon",
+        "givenName": "Robert",
+        "familyName": "Manzon",
+        "dateOfBirth": "1917-04-12",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "simca",
+        "url": "https://en.wikipedia.org/wiki/Simca",
+        "name": "Simca",
+        "nationality": "French"
+      },
+      "grid": "10",
+      "laps": "7",
+      "status": "Transmission"
+    },
+    {
+      "number": "30",
+      "position": "25",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bira",
+        "url": "http://en.wikipedia.org/wiki/Prince_Bira",
+        "givenName": "Prince",
+        "familyName": "Bira",
+        "dateOfBirth": "1914-07-15",
+        "nationality": "Thai"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "15",
+      "laps": "1",
+      "status": "Engine"
+    },
+    {
+      "number": "28",
+      "position": "26",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "pietsch",
+        "url": "http://en.wikipedia.org/wiki/Paul_Pietsch",
+        "givenName": "Paul",
+        "familyName": "Pietsch",
+        "dateOfBirth": "1911-06-20",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "27",
+      "laps": "0",
+      "status": "Engine"
+    },
+    {
+      "number": "52",
+      "position": "27",
+      "positionText": "W",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonetto",
+        "url": "http://en.wikipedia.org/wiki/Felice_Bonetto",
+        "givenName": "Felice",
+        "familyName": "Bonetto",
+        "dateOfBirth": "1903-06-09",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "milano",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Milano",
+        "name": "Milano",
+        "nationality": "Italian"
+      },
+      "grid": "23",
+      "laps": "0",
+      "status": "Withdrew"
+    }
+  ]
+}

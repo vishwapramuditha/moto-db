@@ -1,0 +1,581 @@
+{
+  "season": "1963",
+  "round": "8",
+  "raceName": "United States Grand Prix",
+  "circuit": {
+    "circuitId": "watkins_glen",
+    "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+    "circuitName": "Watkins Glen",
+    "Location": {
+      "lat": "42.3369",
+      "long": "-76.9272",
+      "locality": "New York State",
+      "country": "USA"
+    }
+  },
+  "date": "1963-10-06",
+  "time": null,
+  "updated_at": "2026-11-27T05:38:01.150271Z",
+  "results": [
+    {
+      "number": "1",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "hill",
+        "url": "http://en.wikipedia.org/wiki/Graham_Hill",
+        "givenName": "Graham",
+        "familyName": "Hill",
+        "dateOfBirth": "1929-02-15",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "110",
+      "status": "Finished",
+      "Time": {
+        "millis": "8362100",
+        "time": "2:19:22.100"
+      }
+    },
+    {
+      "number": "2",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "ginther",
+        "url": "http://en.wikipedia.org/wiki/Richie_Ginther",
+        "givenName": "Richie",
+        "familyName": "Ginther",
+        "dateOfBirth": "1930-08-05",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      },
+      "grid": "4",
+      "laps": "110",
+      "status": "Finished",
+      "Time": {
+        "millis": "8396400",
+        "time": "+34.300"
+      }
+    },
+    {
+      "number": "8",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "clark",
+        "url": "http://en.wikipedia.org/wiki/Jim_Clark",
+        "givenName": "Jim",
+        "familyName": "Clark",
+        "dateOfBirth": "1936-03-04",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "2",
+      "laps": "109",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "5",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "jack_brabham",
+        "url": "http://en.wikipedia.org/wiki/Jack_Brabham",
+        "givenName": "Jack",
+        "familyName": "Brabham",
+        "dateOfBirth": "1926-04-02",
+        "nationality": "Australian"
+      },
+      "Constructor": {
+        "constructorId": "brabham",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham",
+        "nationality": "British"
+      },
+      "grid": "5",
+      "laps": "108",
+      "status": "+2 Laps"
+    },
+    {
+      "number": "24",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "bandini",
+        "url": "http://en.wikipedia.org/wiki/Lorenzo_Bandini",
+        "givenName": "Lorenzo",
+        "familyName": "Bandini",
+        "dateOfBirth": "1935-12-21",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "9",
+      "laps": "106",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "12",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "beaufort",
+        "url": "http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort",
+        "givenName": "Carel Godin",
+        "familyName": "de Beaufort",
+        "dateOfBirth": "1934-04-10",
+        "nationality": "Dutch"
+      },
+      "Constructor": {
+        "constructorId": "porsche",
+        "url": "https://en.wikipedia.org/wiki/Porsche_in_motorsport",
+        "name": "Porsche",
+        "nationality": "German"
+      },
+      "grid": "19",
+      "laps": "99",
+      "status": "+11 Laps"
+    },
+    {
+      "number": "21",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "broeker",
+        "url": "http://en.wikipedia.org/wiki/Peter_Broeker",
+        "givenName": "Peter",
+        "familyName": "Broeker",
+        "dateOfBirth": "1926-05-15",
+        "nationality": "Canadian"
+      },
+      "Constructor": {
+        "constructorId": "stebro",
+        "url": "https://en.wikipedia.org/wiki/Stebro",
+        "name": "Stebro",
+        "nationality": "Canadian"
+      },
+      "grid": "21",
+      "laps": "88",
+      "status": "+22 Laps"
+    },
+    {
+      "number": "11",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonnier",
+        "url": "http://en.wikipedia.org/wiki/Joakim_Bonnier",
+        "givenName": "Jo",
+        "familyName": "Bonnier",
+        "dateOfBirth": "1930-01-31",
+        "nationality": "Swedish"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "85",
+      "status": "+25 Laps"
+    },
+    {
+      "number": "23",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "surtees",
+        "url": "http://en.wikipedia.org/wiki/John_Surtees",
+        "givenName": "John",
+        "familyName": "Surtees",
+        "dateOfBirth": "1934-02-11",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "3",
+      "laps": "82",
+      "status": "Engine"
+    },
+    {
+      "number": "16",
+      "position": "10",
+      "positionText": "10",
+      "points": "0",
+      "Driver": {
+        "driverId": "hall",
+        "url": "http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver)",
+        "givenName": "Jim",
+        "familyName": "Hall",
+        "dateOfBirth": "1935-07-23",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "76",
+      "status": "Gearbox"
+    },
+    {
+      "number": "3",
+      "position": "11",
+      "positionText": "11",
+      "points": "0",
+      "Driver": {
+        "driverId": "mclaren",
+        "url": "http://en.wikipedia.org/wiki/Bruce_McLaren",
+        "givenName": "Bruce",
+        "familyName": "McLaren",
+        "dateOfBirth": "1937-08-30",
+        "nationality": "New Zealander"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "11",
+      "laps": "74",
+      "status": "Fuel pump"
+    },
+    {
+      "number": "14",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "siffert",
+        "url": "http://en.wikipedia.org/wiki/Jo_Siffert",
+        "givenName": "Jo",
+        "familyName": "Siffert",
+        "dateOfBirth": "1936-07-07",
+        "nationality": "Swiss"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "14",
+      "laps": "56",
+      "status": "Gearbox"
+    },
+    {
+      "number": "4",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "maggs",
+        "url": "http://en.wikipedia.org/wiki/Tony_Maggs",
+        "givenName": "Tony",
+        "familyName": "Maggs",
+        "dateOfBirth": "1937-02-09",
+        "nationality": "South African"
+      },
+      "Constructor": {
+        "constructorId": "cooper-climax",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Climax",
+        "nationality": "British"
+      },
+      "grid": "10",
+      "laps": "44",
+      "status": "Ignition"
+    },
+    {
+      "number": "18",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "ward",
+        "url": "http://en.wikipedia.org/wiki/Rodger_Ward",
+        "givenName": "Rodger",
+        "familyName": "Ward",
+        "dateOfBirth": "1921-01-10",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "17",
+      "laps": "44",
+      "status": "Gearbox"
+    },
+    {
+      "number": "6",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gurney",
+        "url": "http://en.wikipedia.org/wiki/Dan_Gurney",
+        "givenName": "Dan",
+        "familyName": "Gurney",
+        "dateOfBirth": "1931-04-13",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "brabham",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham",
+        "nationality": "British"
+      },
+      "grid": "6",
+      "laps": "42",
+      "status": "Chassis"
+    },
+    {
+      "number": "10",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "rodriguez",
+        "url": "http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver)",
+        "givenName": "Pedro",
+        "familyName": "Rodríguez",
+        "dateOfBirth": "1940-01-18",
+        "nationality": "Mexican"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "36",
+      "status": "Engine"
+    },
+    {
+      "number": "9",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "trevor_taylor",
+        "url": "http://en.wikipedia.org/wiki/Trevor_Taylor",
+        "givenName": "Trevor",
+        "familyName": "Taylor",
+        "dateOfBirth": "1936-12-26",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "7",
+      "laps": "24",
+      "status": "Electrical"
+    },
+    {
+      "number": "17",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "gregory",
+        "url": "http://en.wikipedia.org/wiki/Masten_Gregory",
+        "givenName": "Masten",
+        "familyName": "Gregory",
+        "dateOfBirth": "1932-02-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lola",
+        "url": "https://en.wikipedia.org/wiki/MasterCard_Lola",
+        "name": "Lola",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "14",
+      "status": "Engine"
+    },
+    {
+      "number": "22",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "sharp",
+        "url": "http://en.wikipedia.org/wiki/Hap_Sharp",
+        "givenName": "Hap",
+        "familyName": "Sharp",
+        "dateOfBirth": "1928-01-01",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "18",
+      "laps": "6",
+      "status": "Retired"
+    },
+    {
+      "number": "25",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "phil_hill",
+        "url": "http://en.wikipedia.org/wiki/Phil_Hill",
+        "givenName": "Phil",
+        "familyName": "Hill",
+        "dateOfBirth": "1927-04-20",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "ats",
+        "url": "https://en.wikipedia.org/wiki/ATS_Wheels",
+        "name": "ATS",
+        "nationality": "Italian"
+      },
+      "grid": "15",
+      "laps": "4",
+      "status": "Oil pump"
+    },
+    {
+      "number": "26",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "baghetti",
+        "url": "http://en.wikipedia.org/wiki/Giancarlo_Baghetti",
+        "givenName": "Giancarlo",
+        "familyName": "Baghetti",
+        "dateOfBirth": "1934-12-25",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ats",
+        "url": "https://en.wikipedia.org/wiki/ATS_Wheels",
+        "name": "ATS",
+        "nationality": "Italian"
+      },
+      "grid": "20",
+      "laps": "0",
+      "status": "Oil pump"
+    },
+    {
+      "number": "7",
+      "position": "22",
+      "positionText": "W",
+      "points": "0",
+      "Driver": {
+        "driverId": "hansgen",
+        "url": "http://en.wikipedia.org/wiki/Walt_Hansgen",
+        "givenName": "Walt",
+        "familyName": "Hansgen",
+        "dateOfBirth": "1919-10-28",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "lotus-climax",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Climax",
+        "nationality": "British"
+      },
+      "grid": "0",
+      "laps": "0",
+      "status": "Withdrew"
+    },
+    {
+      "number": "15",
+      "position": "23",
+      "positionText": "W",
+      "points": "0",
+      "Driver": {
+        "driverId": "ireland",
+        "url": "http://en.wikipedia.org/wiki/Innes_Ireland",
+        "givenName": "Innes",
+        "familyName": "Ireland",
+        "dateOfBirth": "1930-06-12",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "lotus-brm",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-BRM",
+        "nationality": "British"
+      },
+      "grid": "0",
+      "laps": "0",
+      "status": "Withdrew"
+    },
+    {
+      "number": "19",
+      "position": "24",
+      "positionText": "W",
+      "points": "0",
+      "Driver": {
+        "driverId": "vos",
+        "url": "http://en.wikipedia.org/wiki/Ernie_de_Vos",
+        "givenName": "Ernie",
+        "familyName": "de Vos",
+        "dateOfBirth": "1941-07-01",
+        "nationality": "Dutch"
+      },
+      "Constructor": {
+        "constructorId": "stebro",
+        "url": "https://en.wikipedia.org/wiki/Stebro",
+        "name": "Stebro",
+        "nationality": "Canadian"
+      },
+      "grid": "0",
+      "laps": "0",
+      "status": "Withdrew"
+    }
+  ]
+}

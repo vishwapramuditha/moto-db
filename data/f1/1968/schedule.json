@@ -1,0 +1,223 @@
+{
+  "season": "1968",
+  "total_rounds": 12,
+  "updated_at": "2026-11-27T05:40:11.164594Z",
+  "races": [
+    {
+      "season": "1968",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1968_South_African_Grand_Prix",
+      "raceName": "South African Grand Prix",
+      "Circuit": {
+        "circuitId": "kyalami",
+        "url": "https://en.wikipedia.org/wiki/Kyalami",
+        "circuitName": "Kyalami",
+        "Location": {
+          "lat": "-25.9894",
+          "long": "28.0767",
+          "locality": "Midrand",
+          "country": "South Africa"
+        }
+      },
+      "date": "1968-01-01"
+    },
+    {
+      "season": "1968",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1968_Spanish_Grand_Prix",
+      "raceName": "Spanish Grand Prix",
+      "Circuit": {
+        "circuitId": "jarama",
+        "url": "https://en.wikipedia.org/wiki/Circuito_del_Jarama",
+        "circuitName": "Jarama",
+        "Location": {
+          "lat": "40.6171",
+          "long": "-3.58558",
+          "locality": "Madrid",
+          "country": "Spain"
+        }
+      },
+      "date": "1968-05-12"
+    },
+    {
+      "season": "1968",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1968_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1968-05-26"
+    },
+    {
+      "season": "1968",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1968_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "spa",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "Location": {
+          "lat": "50.4372",
+          "long": "5.97139",
+          "locality": "Spa",
+          "country": "Belgium"
+        }
+      },
+      "date": "1968-06-09"
+    },
+    {
+      "season": "1968",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1968_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1968-06-23"
+    },
+    {
+      "season": "1968",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1968_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "essarts",
+        "url": "https://en.wikipedia.org/wiki/Rouen-Les-Essarts",
+        "circuitName": "Rouen-Les-Essarts",
+        "Location": {
+          "lat": "49.3306",
+          "long": "1.00458",
+          "locality": "Rouen",
+          "country": "France"
+        }
+      },
+      "date": "1968-07-07"
+    },
+    {
+      "season": "1968",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1968_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "brands_hatch",
+        "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
+        "circuitName": "Brands Hatch",
+        "Location": {
+          "lat": "51.3569",
+          "long": "0.263056",
+          "locality": "Kent",
+          "country": "UK"
+        }
+      },
+      "date": "1968-07-20"
+    },
+    {
+      "season": "1968",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1968_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "nurburgring",
+        "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
+        "circuitName": "Nürburgring",
+        "Location": {
+          "lat": "50.3356",
+          "long": "6.9475",
+          "locality": "Nürburg",
+          "country": "Germany"
+        }
+      },
+      "date": "1968-08-04"
+    },
+    {
+      "season": "1968",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1968_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1968-09-08"
+    },
+    {
+      "season": "1968",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/1968_Canadian_Grand_Prix",
+      "raceName": "Canadian Grand Prix",
+      "Circuit": {
+        "circuitId": "tremblant",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Mont-Tremblant",
+        "circuitName": "Circuit Mont-Tremblant",
+        "Location": {
+          "lat": "46.1877",
+          "long": "-74.6099",
+          "locality": "Quebec",
+          "country": "Canada"
+        }
+      },
+      "date": "1968-09-22"
+    },
+    {
+      "season": "1968",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/1968_United_States_Grand_Prix",
+      "raceName": "United States Grand Prix",
+      "Circuit": {
+        "circuitId": "watkins_glen",
+        "url": "https://en.wikipedia.org/wiki/Watkins_Glen_International",
+        "circuitName": "Watkins Glen",
+        "Location": {
+          "lat": "42.3369",
+          "long": "-76.9272",
+          "locality": "New York State",
+          "country": "USA"
+        }
+      },
+      "date": "1968-10-06"
+    },
+    {
+      "season": "1968",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/1968_Mexican_Grand_Prix",
+      "raceName": "Mexican Grand Prix",
+      "Circuit": {
+        "circuitId": "rodriguez",
+        "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
+        "circuitName": "Autódromo Hermanos Rodríguez",
+        "Location": {
+          "lat": "19.4042",
+          "long": "-99.0907",
+          "locality": "Mexico City",
+          "country": "Mexico"
+        }
+      },
+      "date": "1968-11-03"
+    }
+  ]
+}

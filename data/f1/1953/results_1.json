@@ -1,0 +1,416 @@
+{
+  "season": "1953",
+  "round": "1",
+  "raceName": "Argentine Grand Prix",
+  "circuit": {
+    "circuitId": "galvez",
+    "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+    "circuitName": "Autódromo Juan y Oscar Gálvez",
+    "Location": {
+      "lat": "-34.6943",
+      "long": "-58.4593",
+      "locality": "Buenos Aires",
+      "country": "Argentina"
+    }
+  },
+  "date": "1953-01-18",
+  "time": null,
+  "updated_at": "2026-11-27T05:32:54.826824Z",
+  "results": [
+    {
+      "number": "10",
+      "position": "1",
+      "positionText": "1",
+      "points": "9",
+      "Driver": {
+        "driverId": "ascari",
+        "url": "http://en.wikipedia.org/wiki/Alberto_Ascari",
+        "givenName": "Alberto",
+        "familyName": "Ascari",
+        "dateOfBirth": "1918-07-13",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "1",
+      "laps": "97",
+      "status": "Finished",
+      "Time": {
+        "millis": "10864600",
+        "time": "3:01:04.600"
+      }
+    },
+    {
+      "number": "14",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "villoresi",
+        "url": "http://en.wikipedia.org/wiki/Luigi_Villoresi",
+        "givenName": "Luigi",
+        "familyName": "Villoresi",
+        "dateOfBirth": "1909-05-16",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "3",
+      "laps": "96",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "4",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "gonzalez",
+        "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez",
+        "givenName": "José Froilán",
+        "familyName": "González",
+        "dateOfBirth": "1922-10-05",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "5",
+      "laps": "96",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "16",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "hawthorn",
+        "url": "http://en.wikipedia.org/wiki/Mike_Hawthorn",
+        "givenName": "Mike",
+        "familyName": "Hawthorn",
+        "dateOfBirth": "1929-04-10",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "6",
+      "laps": "96",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "8",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "galvez",
+        "url": "http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez",
+        "givenName": "Oscar",
+        "familyName": "Gálvez",
+        "dateOfBirth": "1913-08-17",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "9",
+      "laps": "96",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "30",
+      "position": "6",
+      "positionText": "6",
+      "points": "0",
+      "Driver": {
+        "driverId": "behra",
+        "url": "http://en.wikipedia.org/wiki/Jean_Behra",
+        "givenName": "Jean",
+        "familyName": "Behra",
+        "dateOfBirth": "1921-02-16",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "11",
+      "laps": "94",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "28",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "schell",
+        "url": "http://en.wikipedia.org/wiki/Harry_Schell",
+        "givenName": "Harry",
+        "familyName": "Schell",
+        "dateOfBirth": "1921-06-29",
+        "nationality": "American"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "7",
+      "laps": "91",
+      "status": "+6 Laps"
+    },
+    {
+      "number": "28",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "trintignant",
+        "url": "http://en.wikipedia.org/wiki/Maurice_Trintignant",
+        "givenName": "Maurice",
+        "familyName": "Trintignant",
+        "dateOfBirth": "1917-10-30",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "7",
+      "laps": "91",
+      "status": "+6 Laps"
+    },
+    {
+      "number": "22",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "john_barber",
+        "url": "http://en.wikipedia.org/wiki/John_Barber_(racing_driver)",
+        "givenName": "John",
+        "familyName": "Barber",
+        "dateOfBirth": "1929-07-22",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "16",
+      "laps": "90",
+      "status": "+7 Laps"
+    },
+    {
+      "number": "20",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "alan_brown",
+        "url": "http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver)",
+        "givenName": "Alan",
+        "familyName": "Brown",
+        "dateOfBirth": "1919-11-20",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "12",
+      "laps": "87",
+      "status": "+10 Laps"
+    },
+    {
+      "number": "26",
+      "position": "10",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "manzon",
+        "url": "http://en.wikipedia.org/wiki/Robert_Manzon",
+        "givenName": "Robert",
+        "familyName": "Manzon",
+        "dateOfBirth": "1917-04-12",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "8",
+      "laps": "67",
+      "status": "Wheel"
+    },
+    {
+      "number": "2",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "fangio",
+        "url": "http://en.wikipedia.org/wiki/Juan_Manuel_Fangio",
+        "givenName": "Juan",
+        "familyName": "Fangio",
+        "dateOfBirth": "1911-06-24",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "36",
+      "status": "Transmission"
+    },
+    {
+      "number": "6",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "bonetto",
+        "url": "http://en.wikipedia.org/wiki/Felice_Bonetto",
+        "givenName": "Felice",
+        "familyName": "Bonetto",
+        "dateOfBirth": "1903-06-09",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "maserati",
+        "url": "https://en.wikipedia.org/wiki/Maserati",
+        "name": "Maserati",
+        "nationality": "Italian"
+      },
+      "grid": "15",
+      "laps": "32",
+      "status": "Transmission"
+    },
+    {
+      "number": "12",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "farina",
+        "url": "http://en.wikipedia.org/wiki/Nino_Farina",
+        "givenName": "Nino",
+        "familyName": "Farina",
+        "dateOfBirth": "1906-10-30",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "4",
+      "laps": "31",
+      "status": "Accident"
+    },
+    {
+      "number": "32",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "menditeguy",
+        "url": "http://en.wikipedia.org/wiki/Carlos_Menditeguy",
+        "givenName": "Carlos",
+        "familyName": "Menditeguy",
+        "dateOfBirth": "1914-08-10",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "gordini",
+        "url": "https://en.wikipedia.org/wiki/Gordini",
+        "name": "Gordini",
+        "nationality": "French"
+      },
+      "grid": "10",
+      "laps": "24",
+      "status": "Gearbox"
+    },
+    {
+      "number": "34",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "birger",
+        "url": "http://en.wikipedia.org/wiki/Pablo_Birger",
+        "givenName": "Pablo",
+        "familyName": "Birger",
+        "dateOfBirth": "1924-01-07",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "simca",
+        "url": "https://en.wikipedia.org/wiki/Simca",
+        "name": "Simca",
+        "nationality": "French"
+      },
+      "grid": "14",
+      "laps": "21",
+      "status": "Differential"
+    },
+    {
+      "number": "24",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "cruz",
+        "url": "http://en.wikipedia.org/wiki/Adolfo_Schewelm_Cruz",
+        "givenName": "Adolfo",
+        "familyName": "Cruz",
+        "dateOfBirth": "1923-06-28",
+        "nationality": "Argentine"
+      },
+      "Constructor": {
+        "constructorId": "cooper",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "20",
+      "status": "Wheel"
+    }
+  ]
+}

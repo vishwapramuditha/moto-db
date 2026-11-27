@@ -1,0 +1,295 @@
+{
+  "season": "1982",
+  "total_rounds": 16,
+  "updated_at": "2026-11-27T05:50:24.449817Z",
+  "races": [
+    {
+      "season": "1982",
+      "round": "1",
+      "url": "https://en.wikipedia.org/wiki/1982_South_African_Grand_Prix",
+      "raceName": "South African Grand Prix",
+      "Circuit": {
+        "circuitId": "kyalami",
+        "url": "https://en.wikipedia.org/wiki/Kyalami",
+        "circuitName": "Kyalami",
+        "Location": {
+          "lat": "-25.9894",
+          "long": "28.0767",
+          "locality": "Midrand",
+          "country": "South Africa"
+        }
+      },
+      "date": "1982-01-23"
+    },
+    {
+      "season": "1982",
+      "round": "2",
+      "url": "https://en.wikipedia.org/wiki/1982_Brazilian_Grand_Prix",
+      "raceName": "Brazilian Grand Prix",
+      "Circuit": {
+        "circuitId": "jacarepagua",
+        "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
+        "circuitName": "Autódromo Internacional Nelson Piquet",
+        "Location": {
+          "lat": "-22.9756",
+          "long": "-43.395",
+          "locality": "Rio de Janeiro",
+          "country": "Brazil"
+        }
+      },
+      "date": "1982-03-21"
+    },
+    {
+      "season": "1982",
+      "round": "3",
+      "url": "https://en.wikipedia.org/wiki/1982_United_States_Grand_Prix_West",
+      "raceName": "United States Grand Prix West",
+      "Circuit": {
+        "circuitId": "long_beach",
+        "url": "https://en.wikipedia.org/wiki/Long_Beach,_California",
+        "circuitName": "Long Beach",
+        "Location": {
+          "lat": "33.7651",
+          "long": "-118.189",
+          "locality": "California",
+          "country": "USA"
+        }
+      },
+      "date": "1982-04-04"
+    },
+    {
+      "season": "1982",
+      "round": "4",
+      "url": "https://en.wikipedia.org/wiki/1982_San_Marino_Grand_Prix",
+      "raceName": "San Marino Grand Prix",
+      "Circuit": {
+        "circuitId": "imola",
+        "url": "https://en.wikipedia.org/wiki/Imola_Circuit",
+        "circuitName": "Autodromo Enzo e Dino Ferrari",
+        "Location": {
+          "lat": "44.3439",
+          "long": "11.7167",
+          "locality": "Imola",
+          "country": "Italy"
+        }
+      },
+      "date": "1982-04-25"
+    },
+    {
+      "season": "1982",
+      "round": "5",
+      "url": "https://en.wikipedia.org/wiki/1982_Belgian_Grand_Prix",
+      "raceName": "Belgian Grand Prix",
+      "Circuit": {
+        "circuitId": "zolder",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zolder",
+        "circuitName": "Zolder",
+        "Location": {
+          "lat": "50.9894",
+          "long": "5.25694",
+          "locality": "Heusden-Zolder",
+          "country": "Belgium"
+        }
+      },
+      "date": "1982-05-09"
+    },
+    {
+      "season": "1982",
+      "round": "6",
+      "url": "https://en.wikipedia.org/wiki/1982_Monaco_Grand_Prix",
+      "raceName": "Monaco Grand Prix",
+      "Circuit": {
+        "circuitId": "monaco",
+        "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
+        "circuitName": "Circuit de Monaco",
+        "Location": {
+          "lat": "43.7347",
+          "long": "7.42056",
+          "locality": "Monte Carlo",
+          "country": "Monaco"
+        }
+      },
+      "date": "1982-05-23"
+    },
+    {
+      "season": "1982",
+      "round": "7",
+      "url": "https://en.wikipedia.org/wiki/1982_Detroit_Grand_Prix",
+      "raceName": "Detroit Grand Prix",
+      "Circuit": {
+        "circuitId": "detroit",
+        "url": "https://en.wikipedia.org/wiki/Detroit_street_circuit",
+        "circuitName": "Detroit Street Circuit",
+        "Location": {
+          "lat": "42.3298",
+          "long": "-83.0401",
+          "locality": "Detroit",
+          "country": "USA"
+        }
+      },
+      "date": "1982-06-06"
+    },
+    {
+      "season": "1982",
+      "round": "8",
+      "url": "https://en.wikipedia.org/wiki/1982_Canadian_Grand_Prix",
+      "raceName": "Canadian Grand Prix",
+      "Circuit": {
+        "circuitId": "villeneuve",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+        "circuitName": "Circuit Gilles Villeneuve",
+        "Location": {
+          "lat": "45.5",
+          "long": "-73.5228",
+          "locality": "Montreal",
+          "country": "Canada"
+        }
+      },
+      "date": "1982-06-13"
+    },
+    {
+      "season": "1982",
+      "round": "9",
+      "url": "https://en.wikipedia.org/wiki/1982_Dutch_Grand_Prix",
+      "raceName": "Dutch Grand Prix",
+      "Circuit": {
+        "circuitId": "zandvoort",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "Location": {
+          "lat": "52.3888",
+          "long": "4.54092",
+          "locality": "Zandvoort",
+          "country": "Netherlands"
+        }
+      },
+      "date": "1982-07-03"
+    },
+    {
+      "season": "1982",
+      "round": "10",
+      "url": "https://en.wikipedia.org/wiki/1982_British_Grand_Prix",
+      "raceName": "British Grand Prix",
+      "Circuit": {
+        "circuitId": "brands_hatch",
+        "url": "https://en.wikipedia.org/wiki/Brands_Hatch",
+        "circuitName": "Brands Hatch",
+        "Location": {
+          "lat": "51.3569",
+          "long": "0.263056",
+          "locality": "Kent",
+          "country": "UK"
+        }
+      },
+      "date": "1982-07-18"
+    },
+    {
+      "season": "1982",
+      "round": "11",
+      "url": "https://en.wikipedia.org/wiki/1982_French_Grand_Prix",
+      "raceName": "French Grand Prix",
+      "Circuit": {
+        "circuitId": "ricard",
+        "url": "https://en.wikipedia.org/wiki/Circuit_Paul_Ricard",
+        "circuitName": "Circuit Paul Ricard",
+        "Location": {
+          "lat": "43.2506",
+          "long": "5.79167",
+          "locality": "Le Castellet",
+          "country": "France"
+        }
+      },
+      "date": "1982-07-25"
+    },
+    {
+      "season": "1982",
+      "round": "12",
+      "url": "https://en.wikipedia.org/wiki/1982_German_Grand_Prix",
+      "raceName": "German Grand Prix",
+      "Circuit": {
+        "circuitId": "hockenheimring",
+        "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+        "circuitName": "Hockenheimring",
+        "Location": {
+          "lat": "49.3278",
+          "long": "8.56583",
+          "locality": "Hockenheim",
+          "country": "Germany"
+        }
+      },
+      "date": "1982-08-08"
+    },
+    {
+      "season": "1982",
+      "round": "13",
+      "url": "https://en.wikipedia.org/wiki/1982_Austrian_Grand_Prix",
+      "raceName": "Austrian Grand Prix",
+      "Circuit": {
+        "circuitId": "red_bull_ring",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
+        "circuitName": "Red Bull Ring",
+        "Location": {
+          "lat": "47.2197",
+          "long": "14.7647",
+          "locality": "Spielberg",
+          "country": "Austria"
+        }
+      },
+      "date": "1982-08-15"
+    },
+    {
+      "season": "1982",
+      "round": "14",
+      "url": "https://en.wikipedia.org/wiki/1982_Swiss_Grand_Prix",
+      "raceName": "Swiss Grand Prix",
+      "Circuit": {
+        "circuitId": "dijon",
+        "url": "https://en.wikipedia.org/wiki/Dijon-Prenois",
+        "circuitName": "Dijon-Prenois",
+        "Location": {
+          "lat": "47.3625",
+          "long": "4.89913",
+          "locality": "Dijon",
+          "country": "France"
+        }
+      },
+      "date": "1982-08-29"
+    },
+    {
+      "season": "1982",
+      "round": "15",
+      "url": "https://en.wikipedia.org/wiki/1982_Italian_Grand_Prix",
+      "raceName": "Italian Grand Prix",
+      "Circuit": {
+        "circuitId": "monza",
+        "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "Location": {
+          "lat": "45.6156",
+          "long": "9.28111",
+          "locality": "Monza",
+          "country": "Italy"
+        }
+      },
+      "date": "1982-09-12"
+    },
+    {
+      "season": "1982",
+      "round": "16",
+      "url": "https://en.wikipedia.org/wiki/1982_Caesars_Palace_Grand_Prix",
+      "raceName": "Caesars Palace Grand Prix",
+      "Circuit": {
+        "circuitId": "las_vegas",
+        "url": "https://en.wikipedia.org/wiki/Las_Vegas_Strip_Circuit",
+        "circuitName": "Las Vegas Street Circuit",
+        "Location": {
+          "lat": "36.1162",
+          "long": "-115.174",
+          "locality": "Nevada",
+          "country": "USA"
+        }
+      },
+      "date": "1982-09-25"
+    }
+  ]
+}

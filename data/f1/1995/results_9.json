@@ -1,0 +1,593 @@
+{
+  "season": "1995",
+  "round": "9",
+  "raceName": "German Grand Prix",
+  "circuit": {
+    "circuitId": "hockenheimring",
+    "url": "https://en.wikipedia.org/wiki/Hockenheimring",
+    "circuitName": "Hockenheimring",
+    "Location": {
+      "lat": "49.3278",
+      "long": "8.56583",
+      "locality": "Hockenheim",
+      "country": "Germany"
+    }
+  },
+  "date": "1995-07-30",
+  "time": null,
+  "updated_at": "2026-11-27T06:00:42.516842Z",
+  "results": [
+    {
+      "number": "1",
+      "position": "1",
+      "positionText": "1",
+      "points": "10",
+      "Driver": {
+        "driverId": "michael_schumacher",
+        "code": "MSC",
+        "url": "http://en.wikipedia.org/wiki/Michael_Schumacher",
+        "givenName": "Michael",
+        "familyName": "Schumacher",
+        "dateOfBirth": "1969-01-03",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "benetton",
+        "url": "https://en.wikipedia.org/wiki/Benetton_Formula",
+        "name": "Benetton",
+        "nationality": "Italian"
+      },
+      "grid": "2",
+      "laps": "45",
+      "status": "Finished",
+      "Time": {
+        "millis": "4976043",
+        "time": "1:22:56.043"
+      }
+    },
+    {
+      "number": "6",
+      "position": "2",
+      "positionText": "2",
+      "points": "6",
+      "Driver": {
+        "driverId": "coulthard",
+        "code": "COU",
+        "url": "http://en.wikipedia.org/wiki/David_Coulthard",
+        "givenName": "David",
+        "familyName": "Coulthard",
+        "dateOfBirth": "1971-03-27",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      },
+      "grid": "3",
+      "laps": "45",
+      "status": "Finished",
+      "Time": {
+        "millis": "4982031",
+        "time": "+5.988"
+      }
+    },
+    {
+      "number": "28",
+      "position": "3",
+      "positionText": "3",
+      "points": "4",
+      "Driver": {
+        "driverId": "berger",
+        "url": "http://en.wikipedia.org/wiki/Gerhard_Berger",
+        "givenName": "Gerhard",
+        "familyName": "Berger",
+        "dateOfBirth": "1959-08-27",
+        "nationality": "Austrian"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "4",
+      "laps": "45",
+      "status": "Finished",
+      "Time": {
+        "millis": "5044140",
+        "time": "+1:08.097"
+      }
+    },
+    {
+      "number": "2",
+      "position": "4",
+      "positionText": "4",
+      "points": "3",
+      "Driver": {
+        "driverId": "herbert",
+        "url": "http://en.wikipedia.org/wiki/Johnny_Herbert",
+        "givenName": "Johnny",
+        "familyName": "Herbert",
+        "dateOfBirth": "1964-06-25",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "benetton",
+        "url": "https://en.wikipedia.org/wiki/Benetton_Formula",
+        "name": "Benetton",
+        "nationality": "Italian"
+      },
+      "grid": "9",
+      "laps": "45",
+      "status": "Finished",
+      "Time": {
+        "millis": "5059479",
+        "time": "+1:23.436"
+      }
+    },
+    {
+      "number": "29",
+      "position": "5",
+      "positionText": "5",
+      "points": "2",
+      "Driver": {
+        "driverId": "boullion",
+        "url": "http://en.wikipedia.org/wiki/Jean-Christophe_Boullion",
+        "givenName": "Jean-Christophe",
+        "familyName": "Boullion",
+        "dateOfBirth": "1969-12-27",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "sauber",
+        "url": "https://en.wikipedia.org/wiki/Sauber_Motorsport",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      },
+      "grid": "14",
+      "laps": "44",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "25",
+      "position": "6",
+      "positionText": "6",
+      "points": "1",
+      "Driver": {
+        "driverId": "suzuki",
+        "url": "http://en.wikipedia.org/wiki/Aguri_Suzuki",
+        "givenName": "Aguri",
+        "familyName": "Suzuki",
+        "dateOfBirth": "1960-09-08",
+        "nationality": "Japanese"
+      },
+      "Constructor": {
+        "constructorId": "ligier",
+        "url": "https://en.wikipedia.org/wiki/Ligier",
+        "name": "Ligier",
+        "nationality": "French"
+      },
+      "grid": "18",
+      "laps": "44",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "3",
+      "position": "7",
+      "positionText": "7",
+      "points": "0",
+      "Driver": {
+        "driverId": "katayama",
+        "url": "http://en.wikipedia.org/wiki/Ukyo_Katayama",
+        "givenName": "Ukyo",
+        "familyName": "Katayama",
+        "dateOfBirth": "1963-05-29",
+        "nationality": "Japanese"
+      },
+      "Constructor": {
+        "constructorId": "tyrrell",
+        "url": "https://en.wikipedia.org/wiki/Tyrrell_Racing",
+        "name": "Tyrrell",
+        "nationality": "British"
+      },
+      "grid": "17",
+      "laps": "44",
+      "status": "+1 Lap"
+    },
+    {
+      "number": "17",
+      "position": "8",
+      "positionText": "8",
+      "points": "0",
+      "Driver": {
+        "driverId": "montermini",
+        "url": "http://en.wikipedia.org/wiki/Andrea_Montermini",
+        "givenName": "Andrea",
+        "familyName": "Montermini",
+        "dateOfBirth": "1964-05-30",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "pacific",
+        "url": "https://en.wikipedia.org/wiki/Pacific_Racing",
+        "name": "Pacific",
+        "nationality": "British"
+      },
+      "grid": "23",
+      "laps": "42",
+      "status": "+3 Laps"
+    },
+    {
+      "number": "15",
+      "position": "9",
+      "positionText": "9",
+      "points": "0",
+      "Driver": {
+        "driverId": "irvine",
+        "url": "http://en.wikipedia.org/wiki/Eddie_Irvine",
+        "givenName": "Eddie",
+        "familyName": "Irvine",
+        "dateOfBirth": "1965-11-10",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "jordan",
+        "url": "https://en.wikipedia.org/wiki/Jordan_Grand_Prix",
+        "name": "Jordan",
+        "nationality": "Irish"
+      },
+      "grid": "6",
+      "laps": "41",
+      "status": "+4 Laps"
+    },
+    {
+      "number": "8",
+      "position": "10",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "hakkinen",
+        "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
+        "givenName": "Mika",
+        "familyName": "Häkkinen",
+        "dateOfBirth": "1968-09-28",
+        "nationality": "Finnish"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "7",
+      "laps": "33",
+      "status": "Engine"
+    },
+    {
+      "number": "30",
+      "position": "11",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "frentzen",
+        "url": "http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen",
+        "givenName": "Heinz-Harald",
+        "familyName": "Frentzen",
+        "dateOfBirth": "1967-05-18",
+        "nationality": "German"
+      },
+      "Constructor": {
+        "constructorId": "sauber",
+        "url": "https://en.wikipedia.org/wiki/Sauber_Motorsport",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      },
+      "grid": "11",
+      "laps": "32",
+      "status": "Engine"
+    },
+    {
+      "number": "24",
+      "position": "12",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "badoer",
+        "code": "BAD",
+        "url": "http://en.wikipedia.org/wiki/Luca_Badoer",
+        "givenName": "Luca",
+        "familyName": "Badoer",
+        "dateOfBirth": "1971-01-25",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "minardi",
+        "url": "https://en.wikipedia.org/wiki/Minardi",
+        "name": "Minardi",
+        "nationality": "Italian"
+      },
+      "grid": "16",
+      "laps": "28",
+      "status": "Oil leak"
+    },
+    {
+      "number": "16",
+      "position": "13",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "lavaggi",
+        "url": "http://en.wikipedia.org/wiki/Giovanni_Lavaggi",
+        "givenName": "Giovanni",
+        "familyName": "Lavaggi",
+        "dateOfBirth": "1958-02-18",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "pacific",
+        "url": "https://en.wikipedia.org/wiki/Pacific_Racing",
+        "name": "Pacific",
+        "nationality": "British"
+      },
+      "grid": "24",
+      "laps": "27",
+      "status": "Gearbox"
+    },
+    {
+      "number": "22",
+      "position": "14",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "moreno",
+        "url": "http://en.wikipedia.org/wiki/Roberto_Moreno",
+        "givenName": "Roberto",
+        "familyName": "Moreno",
+        "dateOfBirth": "1959-02-11",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "forti",
+        "url": "https://en.wikipedia.org/wiki/Forti",
+        "name": "Forti",
+        "nationality": "Italian"
+      },
+      "grid": "22",
+      "laps": "27",
+      "status": "Halfshaft"
+    },
+    {
+      "number": "14",
+      "position": "15",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "barrichello",
+        "code": "BAR",
+        "url": "http://en.wikipedia.org/wiki/Rubens_Barrichello",
+        "givenName": "Rubens",
+        "familyName": "Barrichello",
+        "dateOfBirth": "1972-05-23",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "jordan",
+        "url": "https://en.wikipedia.org/wiki/Jordan_Grand_Prix",
+        "name": "Jordan",
+        "nationality": "Irish"
+      },
+      "grid": "5",
+      "laps": "20",
+      "status": "Engine"
+    },
+    {
+      "number": "7",
+      "position": "16",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "blundell",
+        "url": "http://en.wikipedia.org/wiki/Mark_Blundell",
+        "givenName": "Mark",
+        "familyName": "Blundell",
+        "dateOfBirth": "1966-04-08",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "mclaren",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren",
+        "nationality": "British"
+      },
+      "grid": "8",
+      "laps": "17",
+      "status": "Engine"
+    },
+    {
+      "number": "26",
+      "position": "17",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "panis",
+        "url": "http://en.wikipedia.org/wiki/Olivier_Panis",
+        "givenName": "Olivier",
+        "familyName": "Panis",
+        "dateOfBirth": "1966-09-02",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "ligier",
+        "url": "https://en.wikipedia.org/wiki/Ligier",
+        "name": "Ligier",
+        "nationality": "French"
+      },
+      "grid": "12",
+      "laps": "13",
+      "status": "Water leak"
+    },
+    {
+      "number": "27",
+      "position": "18",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "alesi",
+        "url": "http://en.wikipedia.org/wiki/Jean_Alesi",
+        "givenName": "Jean",
+        "familyName": "Alesi",
+        "dateOfBirth": "1964-06-11",
+        "nationality": "French"
+      },
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      },
+      "grid": "10",
+      "laps": "12",
+      "status": "Engine"
+    },
+    {
+      "number": "23",
+      "position": "19",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "martini",
+        "url": "http://en.wikipedia.org/wiki/Pierluigi_Martini",
+        "givenName": "Pierluigi",
+        "familyName": "Martini",
+        "dateOfBirth": "1961-04-23",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "minardi",
+        "url": "https://en.wikipedia.org/wiki/Minardi",
+        "name": "Minardi",
+        "nationality": "Italian"
+      },
+      "grid": "20",
+      "laps": "11",
+      "status": "Engine"
+    },
+    {
+      "number": "10",
+      "position": "20",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "inoue",
+        "url": "http://en.wikipedia.org/wiki/Taki_Inoue",
+        "givenName": "Taki",
+        "familyName": "Inoue",
+        "dateOfBirth": "1963-09-05",
+        "nationality": "Japanese"
+      },
+      "Constructor": {
+        "constructorId": "footwork",
+        "url": "https://en.wikipedia.org/wiki/Footwork_Arrows",
+        "name": "Footwork",
+        "nationality": "British"
+      },
+      "grid": "19",
+      "laps": "9",
+      "status": "Gearbox"
+    },
+    {
+      "number": "21",
+      "position": "21",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "diniz",
+        "url": "http://en.wikipedia.org/wiki/Pedro_Diniz",
+        "givenName": "Pedro",
+        "familyName": "Diniz",
+        "dateOfBirth": "1970-05-22",
+        "nationality": "Brazilian"
+      },
+      "Constructor": {
+        "constructorId": "forti",
+        "url": "https://en.wikipedia.org/wiki/Forti",
+        "name": "Forti",
+        "nationality": "Italian"
+      },
+      "grid": "21",
+      "laps": "8",
+      "status": "Brakes"
+    },
+    {
+      "number": "5",
+      "position": "22",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "damon_hill",
+        "url": "http://en.wikipedia.org/wiki/Damon_Hill",
+        "givenName": "Damon",
+        "familyName": "Hill",
+        "dateOfBirth": "1960-09-17",
+        "nationality": "British"
+      },
+      "Constructor": {
+        "constructorId": "williams",
+        "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+        "name": "Williams",
+        "nationality": "British"
+      },
+      "grid": "1",
+      "laps": "1",
+      "status": "Spun off"
+    },
+    {
+      "number": "4",
+      "position": "23",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "salo",
+        "url": "http://en.wikipedia.org/wiki/Mika_Salo",
+        "givenName": "Mika",
+        "familyName": "Salo",
+        "dateOfBirth": "1966-11-30",
+        "nationality": "Finnish"
+      },
+      "Constructor": {
+        "constructorId": "tyrrell",
+        "url": "https://en.wikipedia.org/wiki/Tyrrell_Racing",
+        "name": "Tyrrell",
+        "nationality": "British"
+      },
+      "grid": "13",
+      "laps": "0",
+      "status": "Clutch"
+    },
+    {
+      "number": "9",
+      "position": "24",
+      "positionText": "R",
+      "points": "0",
+      "Driver": {
+        "driverId": "papis",
+        "url": "http://en.wikipedia.org/wiki/Massimiliano_Papis",
+        "givenName": "Massimiliano",
+        "familyName": "Papis",
+        "dateOfBirth": "1969-10-03",
+        "nationality": "Italian"
+      },
+      "Constructor": {
+        "constructorId": "footwork",
+        "url": "https://en.wikipedia.org/wiki/Footwork_Arrows",
+        "name": "Footwork",
+        "nationality": "British"
+      },
+      "grid": "15",
+      "laps": "0",
+      "status": "Gearbox"
+    }
+  ]
+}
